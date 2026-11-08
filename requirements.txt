@@ -1,0 +1,3 @@
+# No third-party Python packages are required for the deterministic pipeline.
+# Python 3.10+ standard library is sufficient.
+# Optional semantic review: install and run Ollama separately with llama3.1:8b.
