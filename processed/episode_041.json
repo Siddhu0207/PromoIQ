@@ -1,0 +1,499 @@
+{
+  "episode_number": "Episode 41",
+  "logline": "At the height of Catherine and Rupert's lavish wedding, Juliana is paraded before high society in chains to be publicly disgraced—until a deafening explosion shatters the cathedral entrance, heralding Alexander's vengeful assault.",
+  "continuity_notes": "Follows Episode 40 where Rupert and Catherine met at the altar; Catherine halts the vows to stage a public humiliation of Juliana, unaware that Alexander's forces are already detonating the cathedral gates.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": "00:00.00",
+      "end": "01:36.09",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:01.80",
+          "start_seconds": 0.0,
+          "end_seconds": 1.8,
+          "content": "Wide symmetrical shot looking down the candlelit, flower-strewn aisle toward the altar where Rupert, Catherine, and the Priest stand."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:01.80",
+          "end": "00:04.50",
+          "start_seconds": 1.8,
+          "end_seconds": 4.5,
+          "content": "Catherine abruptly pulls away from Rupert and raises her white-gloved hand high, commanding silence from the congregation."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Imperious, Commanding)",
+          "start": "00:01.80",
+          "end": "00:02.80",
+          "start_seconds": 1.8,
+          "end_seconds": 2.8,
+          "content": "\"Wait.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.50",
+          "end": "00:08.50",
+          "start_seconds": 4.5,
+          "end_seconds": 8.5,
+          "content": "Medium shot tracking Catherine as she pivots toward the seated aristocracy, her veil floating gracefully behind her."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Haughty, Loud)",
+          "start": "00:04.90",
+          "end": "00:08.20",
+          "start_seconds": 4.9,
+          "end_seconds": 8.2,
+          "content": "\"Before I become Duchess of Ashburgh...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.50",
+          "end": "00:13.00",
+          "start_seconds": 8.5,
+          "end_seconds": 13.0,
+          "content": "Close-up of Catherine's face, her lips curling into a sadistic, triumphant sneer."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cruel, Resonant)",
+          "start": "00:08.50",
+          "end": "00:12.70",
+          "start_seconds": 8.5,
+          "end_seconds": 12.7,
+          "content": "\"...I want everyone to see what happens to a woman who dares defy this family.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.00",
+          "end": "00:15.50",
+          "start_seconds": 13.0,
+          "end_seconds": 15.5,
+          "content": "Two-shot profile of Rupert and Catherine. Rupert turns to her with mild caution."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Subdued, Inquiring)",
+          "start": "00:13.20",
+          "end": "00:14.00",
+          "start_seconds": 13.2,
+          "end_seconds": 14.0,
+          "content": "\"Catherine...\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Callous, Projecting)",
+          "start": "00:14.00",
+          "end": "00:15.30",
+          "start_seconds": 14.0,
+          "end_seconds": 15.3,
+          "content": "\"Bring her in.\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:15.50",
+          "end": "00:17.50",
+          "start_seconds": 15.5,
+          "end_seconds": 17.5,
+          "content": "Heavy wooden creak of the cathedral double doors swinging open."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.50",
+          "end": "00:20.00",
+          "start_seconds": 15.5,
+          "end_seconds": 20.0,
+          "content": "Wide shot from behind the altar down the aisle as the great church doors slowly open, revealing the silhouette of three figures against the daylight."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:17.50",
+          "end": "00:20.00",
+          "start_seconds": 17.5,
+          "end_seconds": 20.0,
+          "content": "Juliana, dressed in a coarse drab prison dress with a numbered identification badge, is marched forward by two armed constables holding her by the arms."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.00",
+          "end": "00:22.80",
+          "start_seconds": 20.0,
+          "end_seconds": 22.8,
+          "content": "Extreme close-up of Juliana's scarred, dirtied wrists bound tight in heavy iron shackles."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.80",
+          "end": "00:26.00",
+          "start_seconds": 22.8,
+          "end_seconds": 26.0,
+          "content": "Intense close-up of Juliana's bruised, dirt-streaked face. Her piercing blue eyes burn with fierce dignity despite her captive state."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.00",
+          "end": "00:28.80",
+          "start_seconds": 26.0,
+          "end_seconds": 28.8,
+          "content": "Medium shot of Catherine standing beside the altar, watching Juliana's entrance with gloating satisfaction."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Smug, Taunting)",
+          "start": "00:26.80",
+          "end": "00:28.40",
+          "start_seconds": 26.8,
+          "end_seconds": 28.4,
+          "content": "\"There she is.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.80",
+          "end": "00:30.00",
+          "start_seconds": 28.8,
+          "end_seconds": 30.0,
+          "content": "Medium tracking shot of Juliana marching between the stern constables down the central aisle toward the altar."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.00",
+          "end": "00:34.00",
+          "start_seconds": 30.0,
+          "end_seconds": 34.0,
+          "content": "Medium shot of a seated aristocratic couple in the pews, whispering and sneering behind an ivory lace fan."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEWOMAN (Gleeful, Whispering)",
+          "start": "00:30.50",
+          "end": "00:31.60",
+          "start_seconds": 30.5,
+          "end_seconds": 31.6,
+          "content": "\"Look at her.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Mocking, Chuckling)",
+          "start": "00:31.70",
+          "end": "00:33.80",
+          "start_seconds": 31.7,
+          "end_seconds": 33.8,
+          "content": "\"She actually came back to the chapel.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.00",
+          "end": "00:36.80",
+          "start_seconds": 34.0,
+          "end_seconds": 36.8,
+          "content": "Close-up of the noblewoman giggling with hand over mouth, glancing spitefully at the disgraced bride."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEWOMAN (Scornful, Smug)",
+          "start": "00:34.80",
+          "end": "00:36.80",
+          "start_seconds": 34.8,
+          "end_seconds": 36.8,
+          "content": "\"Not as a bride this time.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.80",
+          "end": "00:39.80",
+          "start_seconds": 36.8,
+          "end_seconds": 39.8,
+          "content": "Medium shot of two senior aristocrats in the carved choir stalls, resting on their canes and nodding in smug agreement."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.80",
+          "end": "00:43.80",
+          "start_seconds": 39.8,
+          "end_seconds": 43.8,
+          "content": "Close profile of Juliana as she halts in the center aisle, lifting her chin proudly to face the sneering onlookers."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (O.S.) (Derisive, Projecting)",
+          "start": "00:41.00",
+          "end": "00:44.20",
+          "start_seconds": 41.0,
+          "end_seconds": 44.2,
+          "content": "\"Lady Juliana Ashcroft. Look around.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.80",
+          "end": "00:48.50",
+          "start_seconds": 43.8,
+          "end_seconds": 48.5,
+          "content": "High-angle wide shot showing Juliana flanked by guards in the center of the lavishly decorated nave, dwarfed by the grand cathedral."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (V.O.) (Mocking, Resonant)",
+          "start": "00:45.00",
+          "end": "00:48.00",
+          "start_seconds": 45.0,
+          "end_seconds": 48.0,
+          "content": "\"This is the world you thought you belonged to.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.50",
+          "end": "00:52.80",
+          "start_seconds": 48.5,
+          "end_seconds": 52.8,
+          "content": "Low-angle medium shot of Catherine gesturing broadly from the altar steps, looking down upon Juliana like an empress."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Spiteful, Boastful)",
+          "start": "00:48.60",
+          "end": "00:52.40",
+          "start_seconds": 48.6,
+          "end_seconds": 52.4,
+          "content": "\"And now they can all see what you truly are.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.80",
+          "end": "00:57.80",
+          "start_seconds": 52.8,
+          "end_seconds": 57.8,
+          "content": "Medium shot of Juliana standing firmly between the guards, calmly meeting Catherine's venomous gaze."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:54.80",
+          "end": "00:57.50",
+          "start_seconds": 54.8,
+          "end_seconds": 57.5,
+          "content": "Juliana looks around the cathedral at the sea of pompous faces, then raises her eyes straight back to Catherine with utter disdain."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:57.80",
+          "end": "01:00.80",
+          "start_seconds": 57.8,
+          "end_seconds": 60.8,
+          "content": "Tight close-up on Juliana's bruised, unshaken face."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Unbowed)",
+          "start": "00:58.00",
+          "end": "01:00.50",
+          "start_seconds": 58.0,
+          "end_seconds": 60.5,
+          "content": "\"You needed an entire chapel to feel powerful over one chained woman?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.80",
+          "end": "01:04.00",
+          "start_seconds": 60.8,
+          "end_seconds": 64.0,
+          "content": "Dramatic low-angle full shot looking up at Juliana, her posture straight, imposing, and regal despite the heavy chains."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (O.S.) (Murmured, Cold)",
+          "start": "01:01.00",
+          "end": "01:03.50",
+          "start_seconds": 61.0,
+          "end_seconds": 63.5,
+          "content": "\"Still arrogant. Still standing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.00",
+          "end": "01:08.50",
+          "start_seconds": 64.0,
+          "end_seconds": 68.5,
+          "content": "Full shot of Catherine turning back to Rupert at the altar, dismissing Juliana's defiance as beneath her."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Dismissive)",
+          "start": "01:04.50",
+          "end": "01:05.40",
+          "start_seconds": 64.5,
+          "end_seconds": 65.4,
+          "content": "\"Come.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.50",
+          "end": "01:10.50",
+          "start_seconds": 68.5,
+          "end_seconds": 70.5,
+          "content": "Close-up of Catherine's and Rupert's gloved hands clasping together over the velvet altar cushion."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:15.00",
+          "start_seconds": 70.5,
+          "end_seconds": 75.0,
+          "content": "Medium two-shot of Catherine gazing up adoringly into Rupert's eyes, her tone intoxicatingly intimate."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Intimate, Ambitious)",
+          "start": "01:10.50",
+          "end": "01:14.80",
+          "start_seconds": 70.5,
+          "end_seconds": 74.8,
+          "content": "\"Soon, there will be nothing left between us and the Ashburgh title.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.00",
+          "end": "01:17.50",
+          "start_seconds": 75.0,
+          "end_seconds": 77.5,
+          "content": "Close-up of Rupert's face breaking into a calculating, ambitious grin."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Quietly Triumphant)",
+          "start": "01:15.80",
+          "end": "01:17.00",
+          "start_seconds": 75.8,
+          "end_seconds": 77.0,
+          "content": "\"Nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.50",
+          "end": "01:20.50",
+          "start_seconds": 77.5,
+          "end_seconds": 80.5,
+          "content": "Medium shot of the elderly Priest opening the leather-bound liturgical book between Rupert and Catherine."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRIEST (Solemn, Polite)",
+          "start": "01:18.00",
+          "end": "01:19.30",
+          "start_seconds": 78.0,
+          "end_seconds": 79.3,
+          "content": "\"Shall we?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:20.50",
+          "end": "01:21.80",
+          "start_seconds": 80.5,
+          "end_seconds": 81.8,
+          "content": "Wide shot centered down the aisle toward the massive closed entrance doors."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:21.00",
+          "end": "01:25.50",
+          "start_seconds": 81.0,
+          "end_seconds": 85.5,
+          "content": "Ear-splitting detonation, shattering stone, wood splintering violently into kindling, followed by terrified screams of the congregation."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:21.80",
+          "end": "01:24.00",
+          "start_seconds": 81.8,
+          "end_seconds": 84.0,
+          "content": "A violent fireball bursts inward as the entire cathedral entrance explodes, blasting the massive double doors and masonry into flying shrapnel and billowing smoke."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.80",
+          "end": "01:24.50",
+          "start_seconds": 81.8,
+          "end_seconds": 84.5,
+          "content": "Rapid series of panic shots: aristocratic guests ducking behind pews, covering their heads in terror, women shrieking as plaster rains down."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.50",
+          "end": "01:28.50",
+          "start_seconds": 84.5,
+          "end_seconds": 88.5,
+          "content": "Medium shot of Catherine and Rupert at the altar. Catherine gasps in horror, clutching her veil as debris rains over her bridal gown while Rupert spins around in shock."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.50",
+          "end": "01:32.00",
+          "start_seconds": 88.5,
+          "end_seconds": 92.0,
+          "content": "Medium wide shot of Juliana standing motionless in the middle of the aisle while thick smoke and dust billow from the demolished archway behind her."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:29.00",
+          "end": "01:33.50",
+          "start_seconds": 89.0,
+          "end_seconds": 93.5,
+          "content": "Silhouetted armed figures emerge through the smoke and rubble of the breached doorway. Juliana slowly turns her head, glancing back toward the light."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:32.00",
+          "end": "01:36.09",
+          "start_seconds": 92.0,
+          "end_seconds": 96.09,
+          "content": "Extreme close-up pushing in on Juliana's bruised face. Her expression shifts from grim resolve into awe, breathless realization, and blooming hope as the orchestral score swells into an abrupt cliffhanger."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-041-Episode 1686801.txt",
+  "source_sha256": "80e99739af6910a1947da7e3b729f9a79f1acc371d8d09c2f8028786b1c3a6ef",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

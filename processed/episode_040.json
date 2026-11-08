@@ -1,0 +1,505 @@
+{
+  "episode_number": "Episode 40",
+  "logline": "High society gathers at the grand cathedral for Rupert and Catherine's lavish wedding, while the conspirators ensure every exit is sealed to seal Juliana's execution—unaware that Alexander's retribution is already at their gates.",
+  "continuity_notes": "Picks up right after Alexander commands his men to secure the chapel and vows to reclaim his house and rescue Juliana; inside the cathedral, the wedding guests arrive and the conspirators finalize their sinister plot.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. CATHEDRAL STEPS – DAY",
+      "start": "00:00.00",
+      "end": "00:34.20",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.80",
+          "start_seconds": 0.0,
+          "end_seconds": 4.8,
+          "content": "Wide establishing shot looking up at the imposing stone Gothic cathedral as noble guests in formal Regency attire ascend the grand steps."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:00.00",
+          "end": "00:04.80",
+          "start_seconds": 0.0,
+          "end_seconds": 4.8,
+          "content": "Somber cathedral bells tolling and the distant murmur of arriving carriages."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.80",
+          "end": "00:08.50",
+          "start_seconds": 4.8,
+          "end_seconds": 8.5,
+          "content": "Medium wide shot of an ornate black and gold royal carriage pulling up to the cobblestone courtyard. A footman in white gloves steps forward and opens the carriage door."
+        },
+        {
+          "type": "dialogue",
+          "label": "FOOTMAN (Formal, Resonant)",
+          "start": "00:05.50",
+          "end": "00:07.40",
+          "start_seconds": 5.5,
+          "end_seconds": 7.4,
+          "content": "\"The Harrington family.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.50",
+          "end": "00:12.20",
+          "start_seconds": 8.5,
+          "end_seconds": 12.2,
+          "content": "Medium shot as Lord Harrington in a tailored black tailcoat and white waistcoat steps down from the carriage, turning to extend his gloved hand to Lady Harrington, who gracefully descends."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:10.00",
+          "end": "00:12.40",
+          "start_seconds": 10.0,
+          "end_seconds": 12.4,
+          "content": "Lady Harrington takes his hand and steps onto the pavement, clutching a velvet reticule."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Smug, Impressed)",
+          "start": "00:12.40",
+          "end": "00:17.30",
+          "start_seconds": 12.4,
+          "end_seconds": 17.3,
+          "content": "\"Look at them. Every noble family in the county is here today.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.40",
+          "end": "00:19.00",
+          "start_seconds": 12.4,
+          "end_seconds": 19.0,
+          "content": "Medium two-shot tracking slightly as Lord and Lady Harrington pause arm-in-arm, taking in the gathering crowd of high society."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.00",
+          "end": "00:23.00",
+          "start_seconds": 19.0,
+          "end_seconds": 23.0,
+          "content": "Low-angle shot from behind as they ascend the stone steps toward the arched cathedral entrance."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD HARRINGTON (Ambitious, Proud)",
+          "start": "00:19.20",
+          "end": "00:23.00",
+          "start_seconds": 19.2,
+          "end_seconds": 23.0,
+          "content": "\"And soon, we'll be connected to the Duchess of Ashburgh.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.00",
+          "end": "00:26.20",
+          "start_seconds": 23.0,
+          "end_seconds": 26.2,
+          "content": "Tight close-up profile of Lady Harrington, her eyes glistening with cruel satisfaction in the soft sunlight."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Malicious, Taunting)",
+          "start": "00:23.20",
+          "end": "00:26.00",
+          "start_seconds": 23.2,
+          "end_seconds": 26.0,
+          "content": "\"Imagine Juliana seeing this.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.20",
+          "end": "00:30.00",
+          "start_seconds": 26.2,
+          "end_seconds": 30.0,
+          "content": "Tight close-up of Lord Harrington looking down at her, his expression cold and ruthless."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD HARRINGTON (Sinister, Dismissive)",
+          "start": "00:26.20",
+          "end": "00:28.90",
+          "start_seconds": 26.2,
+          "end_seconds": 28.9,
+          "content": "\"She won't be seeing anything for long.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Pleased, Cold)",
+          "start": "00:29.00",
+          "end": "00:29.90",
+          "start_seconds": 29.0,
+          "end_seconds": 29.9,
+          "content": "\"Good.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD HARRINGTON (Chuckling, Scornful)",
+          "start": "00:30.10",
+          "end": "00:33.20",
+          "start_seconds": 30.1,
+          "end_seconds": 33.2,
+          "content": "\"This place has always been unlucky for Juliana.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:32.80",
+          "end": "00:34.20",
+          "start_seconds": 32.8,
+          "end_seconds": 34.2,
+          "content": "Lady Harrington lets out a soft, amused laugh as they reach the heavy wooden cathedral doors."
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": "00:34.20",
+      "end": "00:49.80",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.20",
+          "end": "00:40.50",
+          "start_seconds": 34.2,
+          "end_seconds": 40.5,
+          "content": "Dramatic tracking shot following Lord and Lady Harrington from behind as they stride down the candlelit aisle of the cathedral toward their reserved pew."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Vindictive, Pious)",
+          "start": "00:34.40",
+          "end": "00:39.00",
+          "start_seconds": 34.4,
+          "end_seconds": 39.0,
+          "content": "\"She stands beneath God's watch and still gets exactly what she deserves.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:40.50",
+          "end": "00:42.20",
+          "start_seconds": 40.5,
+          "end_seconds": 42.2,
+          "content": "Lord and Lady Harrington slide gracefully into the polished wooden pew, smoothing their garments."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.50",
+          "end": "00:45.20",
+          "start_seconds": 40.5,
+          "end_seconds": 45.2,
+          "content": "Medium profile shot of the couple seated in the pew, looking toward the grand altar."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Anticipatory, Eager)",
+          "start": "00:42.00",
+          "end": "00:44.00",
+          "start_seconds": 42.0,
+          "end_seconds": 44.0,
+          "content": "\"We have an excellent view.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD HARRINGTON (Inquiring, Subdued)",
+          "start": "00:44.10",
+          "end": "00:45.20",
+          "start_seconds": 44.1,
+          "end_seconds": 45.2,
+          "content": "\"Of the wedding?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:45.20",
+          "end": "00:49.80",
+          "start_seconds": 45.2,
+          "end_seconds": 49.8,
+          "content": "Close-up two-shot as Lady Harrington turns her head toward Lord Harrington with a dark, knowing smirk."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Chilling, Sarcastic)",
+          "start": "00:45.30",
+          "end": "00:48.30",
+          "start_seconds": 45.3,
+          "end_seconds": 48.3,
+          "content": "\"And everything that comes after it.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. CATHEDRAL – ALTAR & BALCONY – CONTINUOUS",
+      "start": "00:49.80",
+      "end": "01:18.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.80",
+          "end": "00:55.80",
+          "start_seconds": 49.8,
+          "end_seconds": 55.8,
+          "content": "Medium shot of Rupert, the Blond Nobleman, standing before the altar draped in floral garlands. He wears an ornate silver-embroidered black formal coat and nervously adjusts his pristine white gloves."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Nervous, Determined)",
+          "start": "00:50.80",
+          "end": "00:53.20",
+          "start_seconds": 50.8,
+          "end_seconds": 53.2,
+          "content": "\"Everything must go perfectly.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:53.20",
+          "end": "00:55.80",
+          "start_seconds": 53.2,
+          "end_seconds": 55.8,
+          "content": "Rupert smooths the lapels of his coat, checking his posture as he waits for the bride."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.80",
+          "end": "00:58.20",
+          "start_seconds": 55.8,
+          "end_seconds": 58.2,
+          "content": "Medium shot up on the stone balcony overlooking the nave, where an elder conspirator nobleman in black gloves stands gripping a cane."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.20",
+          "end": "01:03.80",
+          "start_seconds": 58.2,
+          "end_seconds": 63.8,
+          "content": "High-angle wide shot looking down from the balcony across the entire cathedral filled with guests, candles lining the central aisle, and royal guards standing at attention."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.80",
+          "end": "01:09.50",
+          "start_seconds": 63.8,
+          "end_seconds": 69.5,
+          "content": "Medium shot on the balcony as a Royal Guard in red uniform and tall bearskin hat steps up and bows respectfully to the elder nobleman."
+        },
+        {
+          "type": "dialogue",
+          "label": "ELDER NOBLEMAN (Stern, Scheming)",
+          "start": "01:05.00",
+          "end": "01:06.80",
+          "start_seconds": 65.0,
+          "end_seconds": 66.8,
+          "content": "\"All entrances are covered?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ROYAL GUARD (Obedient, Firm)",
+          "start": "01:06.90",
+          "end": "01:08.20",
+          "start_seconds": 66.9,
+          "end_seconds": 68.2,
+          "content": "\"Every one, my Lord.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ELDER NOBLEMAN (Calculating)",
+          "start": "01:08.30",
+          "end": "01:09.30",
+          "start_seconds": 68.3,
+          "end_seconds": 69.3,
+          "content": "\"Good.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.50",
+          "end": "01:14.50",
+          "start_seconds": 69.5,
+          "end_seconds": 74.5,
+          "content": "Over-the-shoulder shot from behind the elder nobleman, his gloved hand resting on the stone balustrade, looking down upon the altar and seated aristocrats."
+        },
+        {
+          "type": "dialogue",
+          "label": "ELDER NOBLEMAN (Ruthless, Victorious)",
+          "start": "01:09.80",
+          "end": "01:14.20",
+          "start_seconds": 69.8,
+          "end_seconds": 74.2,
+          "content": "\"By sunset, Ashburgh will have its new Duke and Duchess.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.50",
+          "end": "01:18.50",
+          "start_seconds": 74.5,
+          "end_seconds": 78.5,
+          "content": "Tight, menacing close-up on the elder nobleman's face as a cold, sinister smile spreads across his lips."
+        },
+        {
+          "type": "dialogue",
+          "label": "ELDER NOBLEMAN (Deadly, Uncompromising)",
+          "start": "01:14.80",
+          "end": "01:17.40",
+          "start_seconds": 74.8,
+          "end_seconds": 77.4,
+          "content": "\"And its witch will be dead.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": "01:18.50",
+      "end": "01:50.08",
+      "events": [
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:18.50",
+          "end": "01:21.00",
+          "start_seconds": 78.5,
+          "end_seconds": 81.0,
+          "content": "The heavy creak of massive wooden cathedral doors swinging open, accompanied by swelling bridal organ music."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.50",
+          "end": "01:21.00",
+          "start_seconds": 78.5,
+          "end_seconds": 81.0,
+          "content": "Wide symmetrical shot down the candlelit aisle as the double doors part, flooding the cathedral with brilliant golden daylight."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:22.50",
+          "start_seconds": 81.0,
+          "end_seconds": 82.5,
+          "content": "Close-up of Rupert turning his head sharply, his eyes widening in awe."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:22.50",
+          "end": "01:25.80",
+          "start_seconds": 82.5,
+          "end_seconds": 85.8,
+          "content": "Framed wide shot of Catherine silhouetted in the bright doorway, wearing a breathtaking cream and gold imperial bridal gown with puffed sleeves and an exquisite sheer veil."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.80",
+          "end": "01:30.80",
+          "start_seconds": 85.8,
+          "end_seconds": 90.8,
+          "content": "Majestic high-angle wide tracking shot following Catherine from behind as her magnificent cathedral-length veil trails down the aisle between seated guests."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:30.80",
+          "end": "01:34.50",
+          "start_seconds": 90.8,
+          "end_seconds": 94.5,
+          "content": "Medium close-up of Lady Harrington leaning forward from her pew, utterly captivated."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY HARRINGTON (Awestruck, Whispering)",
+          "start": "01:32.00",
+          "end": "01:34.20",
+          "start_seconds": 92.0,
+          "end_seconds": 94.2,
+          "content": "\"She looks like a queen.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:34.50",
+          "end": "01:37.50",
+          "start_seconds": 94.5,
+          "end_seconds": 97.5,
+          "content": "Medium shot of Rupert at the altar, a proud, possessive smile breaking across his handsome face."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:37.50",
+          "end": "01:42.80",
+          "start_seconds": 97.5,
+          "end_seconds": 102.8,
+          "content": "Full shot as Catherine reaches the top of the altar steps. Rupert steps forward and takes her gloved hands into his."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Enamored, Flattering)",
+          "start": "01:40.00",
+          "end": "01:42.80",
+          "start_seconds": 100.0,
+          "end_seconds": 102.8,
+          "content": "\"You look more queen than bride.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:42.80",
+          "end": "01:50.08",
+          "start_seconds": 102.8,
+          "end_seconds": 110.08,
+          "content": "Tight two-shot profile of Catherine and Rupert clasping hands intimately, gazing into each other's eyes with shared aristocratic vanity."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Smug, Coquettish)",
+          "start": "01:45.00",
+          "end": "01:49.00",
+          "start_seconds": 105.0,
+          "end_seconds": 109.0,
+          "content": "\"And you look better in silk than you ever did as an ignored cousin.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:49.00",
+          "end": "01:50.08",
+          "start_seconds": 109.0,
+          "end_seconds": 110.08,
+          "content": "Rupert and Catherine exchange conspiratorial, triumphant smiles at the altar as the solemn organ chord holds and the scene cuts to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-040-Episode 1686800.txt",
+  "source_sha256": "9b116fc10ed5209d6d3a109f10f574cd6f4a1b680f5e1cf66a99e6f02b7b51e0",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

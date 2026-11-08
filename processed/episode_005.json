@@ -1,0 +1,580 @@
+{
+  "episode_number": "Episode 5",
+  "logline": "Formally disowned and stripped of her inheritance, Juliana is publicly humiliated when her stepmother throws her late mother's treasured ledger into the mud, but her rugged new husband defends her dignity and guides her away from her callous family.",
+  "continuity_notes": "Follows directly from Episode 4's ending where Juliana and the Mysterious Bearded Man walked out of the chapel doors into the daylight after completing their wedding vows.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. CATHEDRAL STEPS – DAY",
+      "start": "00:00.00",
+      "end": "01:50.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.50",
+          "start_seconds": 0.0,
+          "end_seconds": 2.5,
+          "content": "Close-up on Lady Juliana's hands clutching an ancient, brass-bound leather ledger against the skirt of her white wedding gown as she walks."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:02.50",
+          "start_seconds": 0.0,
+          "end_seconds": 2.5,
+          "content": "Juliana grips the heirloom ledger tightly against her waist, her posture resolute despite the tension."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.50",
+          "end": "00:06.00",
+          "start_seconds": 2.5,
+          "end_seconds": 6.0,
+          "content": "Wide shot tracking Juliana and the Mysterious Bearded Man descending the grand stone steps of the cathedral courtyard. Behind them, Lord Ashcroft emerges from the vaulted doorway leaning on his cane."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (Stern, Commanding)",
+          "start": "00:04.20",
+          "end": "00:05.80",
+          "start_seconds": 4.2,
+          "end_seconds": 5.8,
+          "content": "\"Miss Ashcroft.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:05.50",
+          "end": "00:06.60",
+          "start_seconds": 5.5,
+          "end_seconds": 6.6,
+          "content": "Juliana and the Mysterious Bearded Man pause on the stone steps, turning slightly back toward Lord Ashcroft."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:06.60",
+          "end": "00:10.50",
+          "start_seconds": 6.6,
+          "end_seconds": 10.5,
+          "content": "Close-up of Lord Ashcroft, his weathered face rigid with aristocratic pride and disgust."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (Cold, Condemnatory)",
+          "start": "00:06.80",
+          "end": "00:10.40",
+          "start_seconds": 6.8,
+          "end_seconds": 10.4,
+          "content": "\"You will not leave this church carrying the Ashcroft name.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:10.50",
+          "end": "00:15.80",
+          "start_seconds": 10.5,
+          "end_seconds": 15.8,
+          "content": "Medium close-up of Juliana looking up at her father. Her hand rises to touch the amethyst heirloom pendant resting at her throat."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Steadfast)",
+          "start": "00:11.70",
+          "end": "00:15.50",
+          "start_seconds": 11.7,
+          "end_seconds": 15.5,
+          "content": "\"The vows are spoken, Father. I am his wife now.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.80",
+          "end": "00:20.80",
+          "start_seconds": 15.8,
+          "end_seconds": 20.8,
+          "content": "Medium shot of Lord Ashcroft standing rigid outside the chapel archway, unforgiving and unyielding."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (Harsh, Final)",
+          "start": "00:16.00",
+          "end": "00:18.00",
+          "start_seconds": 16.0,
+          "end_seconds": 18.0,
+          "content": "\"Then leave as his wife.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (Harsh, Final)",
+          "start": "00:18.50",
+          "end": "00:20.80",
+          "start_seconds": 18.5,
+          "end_seconds": 20.8,
+          "content": "\"You leave as no daughter of mine.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.80",
+          "end": "00:25.00",
+          "start_seconds": 20.8,
+          "end_seconds": 25.0,
+          "content": "Low-angle shot tracking Lord Ashcroft's polished black boots as he slowly descends the stone steps toward them."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (O.S. / Continues)",
+          "start": "00:21.00",
+          "end": "00:23.00",
+          "start_seconds": 21.0,
+          "end_seconds": 23.0,
+          "content": "\"Your dowry is revoked.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (O.S. / Continues)",
+          "start": "00:23.10",
+          "end": "00:25.10",
+          "start_seconds": 23.1,
+          "end_seconds": 25.1,
+          "content": "\"Your inheritance is revoked.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:25.00",
+          "end": "00:29.00",
+          "start_seconds": 25.0,
+          "end_seconds": 29.0,
+          "content": "Close-up of Juliana, her eyes wide with shock and heartbreak as she holds the ledger close against her chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (O.S. / Continues)",
+          "start": "00:25.40",
+          "end": "00:28.90",
+          "start_seconds": 25.4,
+          "end_seconds": 28.9,
+          "content": "\"From this moment, you are dead to the Ashcroft family.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Shaking, Tearful)",
+          "start": "00:29.50",
+          "end": "00:33.40",
+          "start_seconds": 29.5,
+          "end_seconds": 33.4,
+          "content": "\"You truly mean it? You are my father!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.50",
+          "end": "00:36.50",
+          "start_seconds": 33.5,
+          "end_seconds": 36.5,
+          "content": "Close-up of the Mysterious Bearded Man, observing Lord Ashcroft with an unblinking, quietly threatening stare."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD ASHCROFT (O.S.)",
+          "start": "00:33.80",
+          "end": "00:36.80",
+          "start_seconds": 33.8,
+          "end_seconds": 36.8,
+          "content": "\"And you have chosen to become a stranger.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:41.50",
+          "start_seconds": 36.5,
+          "end_seconds": 41.5,
+          "content": "Profile medium two-shot of Juliana and Lord Ashcroft standing face-to-face against the backdrop of the towering gothic facade."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Quietly Resolute)",
+          "start": "00:37.60",
+          "end": "00:41.50",
+          "start_seconds": 37.6,
+          "end_seconds": 41.5,
+          "content": "\"No, Father. You chose that long before today.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.50",
+          "end": "00:46.00",
+          "start_seconds": 41.5,
+          "end_seconds": 46.0,
+          "content": "Medium close-up of Lady Ashcroft, resplendent in navy velvet and jewels, stepping forward with a smirk of malicious authority."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY ASHCROFT (Sharply Dismissive)",
+          "start": "00:42.50",
+          "end": "00:44.20",
+          "start_seconds": 42.5,
+          "end_seconds": 44.2,
+          "content": "\"Enough sentiment.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY ASHCROFT (Cold, Demanding)",
+          "start": "00:44.30",
+          "end": "00:45.80",
+          "start_seconds": 44.3,
+          "end_seconds": 45.8,
+          "content": "\"And the ledger...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.00",
+          "end": "00:48.80",
+          "start_seconds": 46.0,
+          "end_seconds": 48.8,
+          "content": "Medium shot as Lady Ashcroft approaches Juliana menacingly."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY ASHCROFT (Venomous)",
+          "start": "00:46.80",
+          "end": "00:48.80",
+          "start_seconds": 46.8,
+          "end_seconds": 48.8,
+          "content": "\"...that belongs to this family.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Alarmed, Protective)",
+          "start": "00:49.00",
+          "end": "00:51.80",
+          "start_seconds": 49.0,
+          "end_seconds": 51.8,
+          "content": "\"It belonged to my mother! It is all I have left of her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.80",
+          "end": "00:54.00",
+          "start_seconds": 51.8,
+          "end_seconds": 54.0,
+          "content": "Close-up of Lady Ashcroft laying a jeweled hand firmly on the bound book."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY ASHCROFT (Cruel)",
+          "start": "00:52.00",
+          "end": "00:54.00",
+          "start_seconds": 52.0,
+          "end_seconds": 54.0,
+          "content": "\"Then you should have guarded it better.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.00",
+          "end": "00:57.80",
+          "start_seconds": 54.0,
+          "end_seconds": 57.8,
+          "content": "Close-up on the ledger as Lady Ashcroft violently wrenches it out of Juliana's grip."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:54.50",
+          "end": "00:57.50",
+          "start_seconds": 54.5,
+          "end_seconds": 57.5,
+          "content": "Lady Ashcroft snatches the heavy book away and flings it disdainfully into the rain-soaked courtyard."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Screaming, Desperate)",
+          "start": "00:55.50",
+          "end": "00:56.80",
+          "start_seconds": 55.5,
+          "end_seconds": 56.8,
+          "content": "\"Barbara, don't!\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:57.00",
+          "end": "00:58.20",
+          "start_seconds": 57.0,
+          "end_seconds": 58.2,
+          "content": "A heavy wet slap as the leather-bound book crashes into the puddle-slicked stone pavement."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:57.80",
+          "end": "01:03.00",
+          "start_seconds": 57.8,
+          "end_seconds": 63.0,
+          "content": "Medium shot of Clarissa and Gerald standing together on the cathedral steps. Clarissa clasps a gloved hand to her mouth in mock shock before bursting into gleeful laughter."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Gleeful, Mocking)",
+          "start": "00:59.00",
+          "end": "01:02.50",
+          "start_seconds": 59.0,
+          "end_seconds": 62.5,
+          "content": "\"Even your mother's precious legacy has been cast into the dirt!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Smug, Cruel)",
+          "start": "01:02.40",
+          "end": "01:04.60",
+          "start_seconds": 62.4,
+          "end_seconds": 64.6,
+          "content": "\"Perhaps that is where it belongs.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.00",
+          "end": "01:06.50",
+          "start_seconds": 63.0,
+          "end_seconds": 66.5,
+          "content": "Close-up of Juliana looking down at the ground, tears streaming down her pale cheeks."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:05.50",
+          "end": "01:08.50",
+          "start_seconds": 65.5,
+          "end_seconds": 68.5,
+          "content": "Juliana drops to her knees onto the wet courtyard pavement, oblivious to the dirt soaking through her white bridal gown."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.50",
+          "end": "01:09.00",
+          "start_seconds": 66.5,
+          "end_seconds": 69.0,
+          "content": "Low-angle close-up of Juliana's trembling hand reaching toward the leather ledger resting in the puddle."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.00",
+          "end": "01:12.50",
+          "start_seconds": 69.0,
+          "end_seconds": 72.5,
+          "content": "Wide shot of Juliana kneeling on the damp ground as the tall Mysterious Bearded Man strides purposefully into frame toward her."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:10.50",
+          "end": "01:14.50",
+          "start_seconds": 70.5,
+          "end_seconds": 74.5,
+          "content": "The Mysterious Bearded Man bends his knees and kneels down beside Juliana, extending his scarred hand to retrieve the fallen ledger."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.50",
+          "end": "01:16.00",
+          "start_seconds": 74.5,
+          "end_seconds": 76.0,
+          "content": "Close-up of his large, weathered hands gently lifting the wet, embossed leather book from the ground."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.00",
+          "end": "01:20.00",
+          "start_seconds": 76.0,
+          "end_seconds": 80.0,
+          "content": "Medium two-shot as he holds out the retrieved ledger and places it into Juliana's trembling hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Low, Gentle)",
+          "start": "01:17.80",
+          "end": "01:19.00",
+          "start_seconds": 77.8,
+          "end_seconds": 79.0,
+          "content": "\"Here you go.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:20.00",
+          "end": "01:25.50",
+          "start_seconds": 80.0,
+          "end_seconds": 85.5,
+          "content": "Close-up of the Mysterious Bearded Man looking warmly down at Juliana, his rugged face full of quiet sincerity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Choked, Weeping)",
+          "start": "01:20.50",
+          "end": "01:22.00",
+          "start_seconds": 80.5,
+          "end_seconds": 82.0,
+          "content": "\"They destroyed it.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Calm, Grounded)",
+          "start": "01:22.50",
+          "end": "01:25.40",
+          "start_seconds": 82.5,
+          "end_seconds": 85.4,
+          "content": "\"They dirtied it. That is not the same thing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.50",
+          "end": "01:31.00",
+          "start_seconds": 85.5,
+          "end_seconds": 91.0,
+          "content": "Medium two-shot of Juliana pressing the soiled book tightly against her chest, weeping softly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Broken)",
+          "start": "01:26.50",
+          "end": "01:27.80",
+          "start_seconds": 86.5,
+          "end_seconds": 87.8,
+          "content": "\"It was my mother's.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Gentle, Protective)",
+          "start": "01:27.90",
+          "end": "01:29.00",
+          "start_seconds": 87.9,
+          "end_seconds": 89.0,
+          "content": "\"Then keep it.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:28.50",
+          "end": "01:31.00",
+          "start_seconds": 88.5,
+          "end_seconds": 91.0,
+          "content": "The Mysterious Bearded Man reaches out with both hands, clasping his strong hands tenderly over hers and the book."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Firm, Comforting)",
+          "start": "01:29.40",
+          "end": "01:31.00",
+          "start_seconds": 89.4,
+          "end_seconds": 91.0,
+          "content": "\"Let them keep everything else.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:31.00",
+          "end": "01:36.50",
+          "start_seconds": 91.0,
+          "end_seconds": 96.5,
+          "content": "Low-angle shot of Gerald standing high on the stone steps, grinning arrogantly as he points an accusatory finger down at them."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Mocking, Arrogant)",
+          "start": "01:31.50",
+          "end": "01:32.80",
+          "start_seconds": 91.5,
+          "end_seconds": 92.8,
+          "content": "\"Look at you.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Scornful, Spiteful)",
+          "start": "01:33.00",
+          "end": "01:36.50",
+          "start_seconds": 93.0,
+          "end_seconds": 96.5,
+          "content": "\"A noblewoman reduced to a beggar's wife!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.50",
+          "end": "01:41.50",
+          "start_seconds": 96.5,
+          "end_seconds": 101.5,
+          "content": "Over-the-shoulder shot behind the Mysterious Bearded Man looking up toward Gerald on the stairs. Gerald's arrogant grin slowly wavers."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Low, Lethally Cold)",
+          "start": "01:38.00",
+          "end": "01:40.80",
+          "start_seconds": 98.0,
+          "end_seconds": 100.8,
+          "content": "\"Choose your next words carefully.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:41.50",
+          "end": "01:45.50",
+          "start_seconds": 101.5,
+          "end_seconds": 105.5,
+          "content": "Extreme close-up of the Mysterious Bearded Man's scarred hand completely covering and protecting Juliana's hands where they clasp the book."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Soft, Reassuring)",
+          "start": "01:44.20",
+          "end": "01:45.20",
+          "start_seconds": 104.2,
+          "end_seconds": 105.2,
+          "content": "\"Come.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:45.50",
+          "end": "01:50.50",
+          "start_seconds": 105.5,
+          "end_seconds": 110.5,
+          "content": "High wide shot from above the courtyard archway. Juliana, holding her mother's book, and the Mysterious Bearded Man, holding her hand firmly, walk together down the wet cobblestone path and through the towering iron gates into the misty rain, leaving her former family behind as the screen fades out."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:46.00",
+          "end": "01:50.50",
+          "start_seconds": 106.0,
+          "end_seconds": 110.5,
+          "content": "Rain gently pattering on cobblestones beneath a sweeping, melancholic orchestral swell that slowly fades to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-005-Episode 1671707.txt",
+  "source_sha256": "0dc648aeee02b1eebdd200144e70386f1dd101e820f96e3a5da65b527a43c9db",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

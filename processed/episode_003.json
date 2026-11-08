@@ -1,0 +1,1245 @@
+{
+  "episode_number": "Episode 3",
+  "logline": "Banished from her mother's chapel and seized by guards at her family's command, Juliana is rescued by an imposing, scarred stranger who intervenes with lethal grace—and drops to one knee with a proposal that shocks high society.",
+  "continuity_notes": "Follows directly from Episode 2's confrontation at the altar, where Juliana publicly exposed Gerald's dishonor before the entire aristocratic congregation.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. CATHEDRAL NAVE – DAY",
+      "start": "00:00.00",
+      "end": "00:22.80",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.50",
+          "start_seconds": 0.0,
+          "end_seconds": 3.5,
+          "content": "Medium shot on Lady Juliana standing abandoned near the altar in her white gown, clutching her mother's medallion to her chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Mocking, Spiteful)",
+          "start": "00:02.10",
+          "end": "00:04.20",
+          "start_seconds": 2.1,
+          "end_seconds": 4.2,
+          "content": "\"Look at you...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.50",
+          "end": "00:06.10",
+          "start_seconds": 3.5,
+          "end_seconds": 6.1,
+          "content": "Medium shot on the Lady in Gold Gown, smiling smugly in her gold gown beside Gerald."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Gloating, Scornful)",
+          "start": "00:03.60",
+          "end": "00:08.20",
+          "start_seconds": 3.6,
+          "end_seconds": 8.2,
+          "content": "\"...still clinging to that little locket as if it can make you worthy of a place here.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:06.10",
+          "end": "00:08.50",
+          "start_seconds": 6.1,
+          "end_seconds": 8.5,
+          "content": "Close-up profile of Juliana's hand tightly clutching the jeweled silver locket against her breast, tears welling in her eyes."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.50",
+          "end": "00:11.10",
+          "start_seconds": 8.5,
+          "end_seconds": 11.1,
+          "content": "Medium close-up on Juliana looking across at her sister with wounded pride."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Hurt, Bitter)",
+          "start": "00:08.80",
+          "end": "00:10.80",
+          "start_seconds": 8.8,
+          "end_seconds": 10.8,
+          "content": "\"You stole my wedding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.10",
+          "end": "00:13.60",
+          "start_seconds": 11.1,
+          "end_seconds": 13.6,
+          "content": "Medium two-shot of Gerald and the Lady in Gold Gown standing together at the front of the nave."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Defiant)",
+          "start": "00:11.20",
+          "end": "00:13.40",
+          "start_seconds": 11.2,
+          "end_seconds": 13.4,
+          "content": "\"Don't pretend you've earned anything.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.60",
+          "end": "00:16.40",
+          "start_seconds": 13.6,
+          "end_seconds": 16.4,
+          "content": "Close-up of the Lady in Gold Gown smirking derisively."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Smug, Malicious)",
+          "start": "00:13.80",
+          "end": "00:16.30",
+          "start_seconds": 13.8,
+          "end_seconds": 16.3,
+          "content": "\"I didn't steal what was never truly yours.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.40",
+          "end": "00:18.60",
+          "start_seconds": 16.4,
+          "end_seconds": 18.6,
+          "content": "Close-up on Juliana's trembling lips, refusing to break down."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Trembling, Resolute)",
+          "start": "00:16.60",
+          "end": "00:18.40",
+          "start_seconds": 16.6,
+          "end_seconds": 18.4,
+          "content": "\"This was my wedding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.60",
+          "end": "00:20.50",
+          "start_seconds": 18.6,
+          "end_seconds": 20.5,
+          "content": "Side medium shot of Gerald looking away impassively as the Lady in Gold Gown leans back against him."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Taunting, Cruel)",
+          "start": "00:18.70",
+          "end": "00:20.40",
+          "start_seconds": 18.7,
+          "end_seconds": 20.4,
+          "content": "\"It was supposed to be.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.50",
+          "end": "00:22.80",
+          "start_seconds": 20.5,
+          "end_seconds": 22.8,
+          "content": "Close-up of the Lady in Gold Gown beaming triumphantly."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Vindictive)",
+          "start": "00:20.60",
+          "end": "00:22.50",
+          "start_seconds": 20.6,
+          "end_seconds": 22.5,
+          "content": "\"Now it is mine.\""
+        }
+      ],
+      "analysis": {
+        "scene_summary": "Juliana is mocked and belittled by her sister, Lady in Gold Gown, after being banished from her mother's chapel and having her wedding stolen.",
+        "emotional_intensity": "high",
+        "emotional_tone": [
+          "anger",
+          "sadness"
+        ],
+        "conflict": {
+          "exists": true,
+          "description": "Juliana's conflict with her sister and the societal expectations that led to her banishment and the theft of her wedding."
+        },
+        "suspense": {
+          "level": "high",
+          "description": "The scene creates uncertainty and anticipation for Juliana's future and her relationships with her family and society."
+        },
+        "revelation": {
+          "exists": false,
+          "description": "No new and important information is revealed in this scene."
+        },
+        "betrayal": {
+          "exists": true,
+          "description": "Juliana's sister betrays her trust and loyalty by stealing her wedding and mocking her."
+        },
+        "characters": [
+          "LADY IN GOLD GOWN",
+          "LADY JULIANA"
+        ],
+        "relationships": [
+          {
+            "character_1": "LADY JULIANA",
+            "character_2": "LADY IN GOLD GOWN",
+            "description": "Sisterly relationship, with Lady in Gold Gown being the antagonist and Lady Juliana being the protagonist."
+          }
+        ],
+        "narrative_importance": "high",
+        "standalone_context": "partial",
+        "promotional_potential": 80,
+        "hook": "The dramatic confrontation between Juliana and her sister, and the emotional intensity of the scene, could make viewers interested in watching this scene.",
+        "evidence": [
+          "LADY IN GOLD GOWN (Mocking, Spiteful): 'Look at you...'",
+          "LADY JULIANA (Hurt, Bitter): 'You stole my wedding.'"
+        ],
+        "confidence": 0.85,
+        "uncertainties": []
+      }
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": "00:22.80",
+      "end": "01:04.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.80",
+          "end": "00:25.80",
+          "start_seconds": 22.8,
+          "end_seconds": 25.8,
+          "content": "Low-angle wide shot of an imperious Noble Matriarch in a lavish black velvet gown and jeweled tiara stepping forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Harsh, Authoritative)",
+          "start": "00:23.10",
+          "end": "00:25.50",
+          "start_seconds": 23.1,
+          "end_seconds": 25.5,
+          "content": "\"Enough, Juliana.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:25.80",
+          "end": "00:28.00",
+          "start_seconds": 25.8,
+          "end_seconds": 28.0,
+          "content": "Medium close-up of the Noble Matriarch glaring down with icy contempt."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Cold, Disgusted)",
+          "start": "00:25.90",
+          "end": "00:28.00",
+          "start_seconds": 25.9,
+          "end_seconds": 28.0,
+          "content": "\"You have humiliated this family enough for one day.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.00",
+          "end": "00:30.30",
+          "start_seconds": 28.0,
+          "end_seconds": 30.3,
+          "content": "Close-up on Juliana, tears shimmering in her eyes as betrayal strikes deep."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.30",
+          "end": "00:35.50",
+          "start_seconds": 30.3,
+          "end_seconds": 35.5,
+          "content": "Medium shot on Juliana as she speaks out against her family's injustice."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Pained, Betrayed)",
+          "start": "00:30.40",
+          "end": "00:33.20",
+          "start_seconds": 30.4,
+          "end_seconds": 33.2,
+          "content": "\"I was humiliated by your family.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Accusing)",
+          "start": "00:33.30",
+          "end": "00:35.60",
+          "start_seconds": 33.3,
+          "end_seconds": 35.6,
+          "content": "\"And my father said nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.50",
+          "end": "00:38.20",
+          "start_seconds": 35.5,
+          "end_seconds": 38.2,
+          "content": "Medium close-up on the Noble Matriarch, completely unsympathetic."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Brutal, Dismissive)",
+          "start": "00:36.50",
+          "end": "00:38.40",
+          "start_seconds": 36.5,
+          "end_seconds": 38.4,
+          "content": "\"Your father has made his choice.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.20",
+          "end": "00:40.40",
+          "start_seconds": 38.2,
+          "end_seconds": 40.4,
+          "content": "Close-up on Juliana's stricken, vulnerable face."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Choked, Vulnerable)",
+          "start": "00:38.50",
+          "end": "00:40.40",
+          "start_seconds": 38.5,
+          "end_seconds": 40.4,
+          "content": "\"And what happens to me?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.40",
+          "end": "00:42.00",
+          "start_seconds": 40.4,
+          "end_seconds": 42.0,
+          "content": "Close-up of the Noble Matriarch delivering her verdict."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Cold, Heartless)",
+          "start": "00:40.50",
+          "end": "00:41.90",
+          "start_seconds": 40.5,
+          "end_seconds": 41.9,
+          "content": "\"You leave.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.00",
+          "end": "00:43.30",
+          "start_seconds": 42.0,
+          "end_seconds": 43.3,
+          "content": "Close-up on Juliana blinking in disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Disbelieving)",
+          "start": "00:42.10",
+          "end": "00:43.30",
+          "start_seconds": 42.1,
+          "end_seconds": 43.3,
+          "content": "\"Leave where?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.30",
+          "end": "00:45.90",
+          "start_seconds": 43.3,
+          "end_seconds": 45.9,
+          "content": "Medium shot of the Noble Matriarch looking down her nose in disdain."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Cruel, Scornful)",
+          "start": "00:43.40",
+          "end": "00:46.00",
+          "start_seconds": 43.4,
+          "end_seconds": 46.0,
+          "content": "\"Wherever a discarded daughter belongs.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:45.90",
+          "end": "00:48.80",
+          "start_seconds": 45.9,
+          "end_seconds": 48.8,
+          "content": "Low-angle close-up focusing on Juliana's neck as her fingers desperately clutch the oval locket."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Fierce, Choked)",
+          "start": "00:46.40",
+          "end": "00:48.60",
+          "start_seconds": 46.4,
+          "end_seconds": 48.6,
+          "content": "\"This is my mother's church.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.80",
+          "end": "00:51.20",
+          "start_seconds": 48.8,
+          "end_seconds": 51.2,
+          "content": "Close-up on Juliana's face, teeth clenched in desperate defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Defiant, Firm)",
+          "start": "00:48.90",
+          "end": "00:51.10",
+          "start_seconds": 48.9,
+          "end_seconds": 51.1,
+          "content": "\"I have every right to stand here.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.20",
+          "end": "00:53.00",
+          "start_seconds": 51.2,
+          "end_seconds": 53.0,
+          "content": "Tight close-up of the Noble Matriarch leaning in with vicious delight."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Venomous)",
+          "start": "00:51.30",
+          "end": "00:53.00",
+          "start_seconds": 51.3,
+          "end_seconds": 53.0,
+          "content": "\"Not anymore.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.00",
+          "end": "00:56.20",
+          "start_seconds": 53.0,
+          "end_seconds": 56.2,
+          "content": "Medium shot on the Noble Matriarch gesturing expansively to the filled cathedral nave behind her."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Stern, Final)",
+          "start": "00:53.30",
+          "end": "00:56.20",
+          "start_seconds": 53.3,
+          "end_seconds": 56.2,
+          "content": "\"Your father has chosen his family...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.20",
+          "end": "00:58.20",
+          "start_seconds": 56.2,
+          "end_seconds": 58.2,
+          "content": "Close-up profile of the Noble Matriarch's piercing eyes glaring directly at Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Coldly Severing)",
+          "start": "00:56.30",
+          "end": "00:58.20",
+          "start_seconds": 56.3,
+          "end_seconds": 58.2,
+          "content": "\"...and it isn't you.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:58.20",
+          "end": "00:59.80",
+          "start_seconds": 58.2,
+          "end_seconds": 59.8,
+          "content": "The Noble Matriarch turns sharply toward the back of the chapel and barks an order."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Shouting, Imperious)",
+          "start": "00:58.30",
+          "end": "01:00.00",
+          "start_seconds": 58.3,
+          "end_seconds": 60.0,
+          "content": "\"Guards! Remove her!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.00",
+          "end": "01:02.00",
+          "start_seconds": 60.0,
+          "end_seconds": 62.0,
+          "content": "Medium shot as two royal guards in red uniforms and bearskin caps step in behind Juliana and seize her arms."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:00.50",
+          "end": "01:02.50",
+          "start_seconds": 60.5,
+          "end_seconds": 62.5,
+          "content": "The guards forcefully grab Juliana by both shoulders and drag her backwards."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Screaming, Resisting)",
+          "start": "01:00.60",
+          "end": "01:02.30",
+          "start_seconds": 60.6,
+          "end_seconds": 62.3,
+          "content": "\"Let me go!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.00",
+          "end": "01:03.20",
+          "start_seconds": 62.0,
+          "end_seconds": 63.2,
+          "content": "Close-up of Juliana's hand frantically grabbing the wooden rim of a pew, knuckles white with strain."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Desperate, Begging)",
+          "start": "01:02.40",
+          "end": "01:03.50",
+          "start_seconds": 62.4,
+          "end_seconds": 63.5,
+          "content": "\"Please! Someone!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:03.00",
+          "end": "01:04.50",
+          "start_seconds": 63.0,
+          "end_seconds": 64.5,
+          "content": "The guards tear her grip away from the pew."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:03.00",
+          "end": "01:04.50",
+          "start_seconds": 63.0,
+          "end_seconds": 64.5,
+          "content": "Muffled scuffle, rustle of heavy silk and frantic gasps echoing off cathedral stone."
+        }
+      ],
+      "analysis": {
+        "scene_summary": "Juliana is banished from her mother's chapel by the Noble Matriarch, who orders her guards to remove her.",
+        "emotional_intensity": "high",
+        "emotional_tone": [
+          "anger",
+          "sadness"
+        ],
+        "conflict": {
+          "exists": true,
+          "description": "The conflict between Juliana and her family, particularly the Noble Matriarch, comes to a head as she is banished from the chapel."
+        },
+        "suspense": {
+          "level": "high",
+          "description": "The scene creates uncertainty and anticipation as Juliana is dragged away by the guards, leaving the viewer wondering what will happen to her next."
+        },
+        "revelation": {
+          "exists": false,
+          "description": "No new and important information is revealed in this scene."
+        },
+        "betrayal": {
+          "exists": true,
+          "description": "The Noble Matriarch betrays Juliana's trust by banishing her from the chapel and ordering her guards to remove her."
+        },
+        "characters": [
+          "LADY JULIANA",
+          "NOBLE MATRIARCH"
+        ],
+        "relationships": [
+          {
+            "character_1": "LADY JULIANA",
+            "character_2": "NOBLE MATRIARCH",
+            "description": "Mother-daughter relationship, with the Noble Matriarch showing disdain and cruelty towards Juliana."
+          }
+        ],
+        "narrative_importance": "high",
+        "standalone_context": "partial",
+        "promotional_potential": 80,
+        "hook": "The dramatic confrontation between Juliana and her family, and the shocking banishment of the protagonist from her mother's chapel.",
+        "evidence": [
+          "The Noble Matriarch's harsh and authoritative dialogue ('Enough, Juliana.'), and Juliana's desperate and defiant responses ('This is my mother's church.')."
+        ],
+        "confidence": 0.85,
+        "uncertainties": []
+      }
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. CATHEDRAL AISLE – CONTINUOUS",
+      "start": "01:04.50",
+      "end": "02:25.75",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.50",
+          "end": "01:06.00",
+          "start_seconds": 64.5,
+          "end_seconds": 66.0,
+          "content": "High wide shot down the vaulted cathedral aisle showing the entire congregation watching in stunned silence as the guards drag Juliana."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.00",
+          "end": "01:08.10",
+          "start_seconds": 66.0,
+          "end_seconds": 68.1,
+          "content": "Wide eye-level shot looking down the petal-strewn marble aisle. A tall, rugged man in a worn dark trench coat—The Bearded Stranger—emerges into the center of the nave."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:06.00",
+          "end": "01:08.10",
+          "start_seconds": 66.0,
+          "end_seconds": 68.1,
+          "content": "The Bearded Stranger steps deliberately into the aisle, his heavy boots echoing."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.10",
+          "end": "01:10.50",
+          "start_seconds": 68.1,
+          "end_seconds": 70.5,
+          "content": "Close-up on the Noble Matriarch freezing in utter shock and outrage."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Low, Thunderous, Imposing)",
+          "start": "01:09.90",
+          "end": "01:12.10",
+          "start_seconds": 69.9,
+          "end_seconds": 72.1,
+          "content": "\"Take your hands off her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:12.80",
+          "start_seconds": 70.5,
+          "end_seconds": 72.8,
+          "content": "Medium tracking shot front-on as The Bearded Stranger marches down the flower-strewn aisle with resolute purpose."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.80",
+          "end": "01:15.10",
+          "start_seconds": 72.8,
+          "end_seconds": 75.1,
+          "content": "Medium shot on the Noble Matriarch stepping forward on the altar steps, furiously pointing a finger at him."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Indignant, Screeching)",
+          "start": "01:13.00",
+          "end": "01:16.80",
+          "start_seconds": 73.0,
+          "end_seconds": 76.8,
+          "content": "\"And who are you to give orders in my family's chapel?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.10",
+          "end": "01:17.00",
+          "start_seconds": 75.1,
+          "end_seconds": 77.0,
+          "content": "High wide shot of the magnificent vaulted hall as The Bearded Stranger walks steadily forward, dwarfing the aisle."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.00",
+          "end": "01:19.00",
+          "start_seconds": 77.0,
+          "end_seconds": 79.0,
+          "content": "Medium shot on the lead royal guard squaring his shoulders, barring the stranger's advance while Juliana stands behind him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ROYAL GUARD (Aggressive, Threatening)",
+          "start": "01:17.20",
+          "end": "01:18.90",
+          "start_seconds": 77.2,
+          "end_seconds": 78.9,
+          "content": "\"Stand aside, stranger!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:19.00",
+          "end": "01:21.00",
+          "start_seconds": 79.0,
+          "end_seconds": 81.0,
+          "content": "Medium close-up profile on The Bearded Stranger, eyes burning with quiet, lethal resolve."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Quiet, Deadly)",
+          "start": "01:19.30",
+          "end": "01:20.90",
+          "start_seconds": 79.3,
+          "end_seconds": 80.9,
+          "content": "\"I said...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:24.00",
+          "start_seconds": 81.0,
+          "end_seconds": 84.0,
+          "content": "Close-up on The Bearded Stranger's intense, scarred face."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Dangerous, Uncompromising)",
+          "start": "01:21.80",
+          "end": "01:23.90",
+          "start_seconds": 81.8,
+          "end_seconds": 83.9,
+          "content": "\"...let her go.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.00",
+          "end": "01:25.50",
+          "start_seconds": 84.0,
+          "end_seconds": 85.5,
+          "content": "Medium action shot as the guard charges toward The Bearded Stranger."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:24.00",
+          "end": "01:25.50",
+          "start_seconds": 84.0,
+          "end_seconds": 85.5,
+          "content": "The Bearded Stranger effortlessly blocks the guard's strike and drives a devastating strike into him, dropping the armed guard instantly to the floor."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:24.50",
+          "end": "01:25.40",
+          "start_seconds": 84.5,
+          "end_seconds": 85.4,
+          "content": "A heavy, bone-rattling punch followed by the clatter and thud of the guard collapsing onto the stone floor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.50",
+          "end": "01:28.10",
+          "start_seconds": 85.5,
+          "end_seconds": 88.1,
+          "content": "Medium close-up of Gerald turning frantically to the remaining guards and congregation, panicking."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE FORMER GROOM (Frantic, Shouting)",
+          "start": "01:25.60",
+          "end": "01:28.00",
+          "start_seconds": 85.6,
+          "end_seconds": 88.0,
+          "content": "\"What are you waiting for?! He's only one man!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.10",
+          "end": "01:29.30",
+          "start_seconds": 88.1,
+          "end_seconds": 89.3,
+          "content": "Medium shot on The Bearded Stranger standing unmoved over the fallen guard, turning his gaze toward Juliana."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.30",
+          "end": "01:31.70",
+          "start_seconds": 89.3,
+          "end_seconds": 91.7,
+          "content": "Two-shot profile of The Bearded Stranger stepping up to Lady Juliana, who gazes up at him in stunned breathlessness."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Gentle, Protective)",
+          "start": "01:30.40",
+          "end": "01:31.60",
+          "start_seconds": 90.4,
+          "end_seconds": 91.6,
+          "content": "\"Are you hurt?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:31.70",
+          "end": "01:34.00",
+          "start_seconds": 91.7,
+          "end_seconds": 94.0,
+          "content": "Close-up on Juliana's tear-streaked face as she shakes her head gently, overwhelmed with wonder."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:31.80",
+          "end": "01:33.60",
+          "start_seconds": 91.8,
+          "end_seconds": 93.6,
+          "content": "Juliana softly shakes her head 'no', her wide blue eyes locked onto him."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:34.00",
+          "end": "01:36.50",
+          "start_seconds": 94.0,
+          "end_seconds": 96.5,
+          "content": "Close-up profile of The Bearded Stranger casting a sharp, menacing glance toward the other guard."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Firm, Menacing)",
+          "start": "01:34.10",
+          "end": "01:36.30",
+          "start_seconds": 94.1,
+          "end_seconds": 96.3,
+          "content": "\"Good. Then don't touch her again.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.50",
+          "end": "01:38.40",
+          "start_seconds": 96.5,
+          "end_seconds": 98.4,
+          "content": "Medium close-up on the Noble Matriarch shrieking in exasperation from the altar steps."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLE MATRIARCH (Furious, Hysterical)",
+          "start": "01:36.50",
+          "end": "01:38.50",
+          "start_seconds": 96.5,
+          "end_seconds": 98.5,
+          "content": "\"You cannot interfere in a family matter!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.40",
+          "end": "01:40.80",
+          "start_seconds": 98.4,
+          "end_seconds": 100.8,
+          "content": "Close-up of Juliana's elderly father looking down, gripping his hands nervously with profound guilt."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (O.S.) (Deep, Resonant)",
+          "start": "01:38.80",
+          "end": "01:40.80",
+          "start_seconds": 98.8,
+          "end_seconds": 100.8,
+          "content": "\"I can...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:40.80",
+          "end": "01:43.00",
+          "start_seconds": 100.8,
+          "end_seconds": 103.0,
+          "content": "Medium shot of guests in the pews whispering and reacting in hushed shock."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (O.S.) (Stern, Accusing)",
+          "start": "01:40.80",
+          "end": "01:43.80",
+          "start_seconds": 100.8,
+          "end_seconds": 103.8,
+          "content": "\"...when your family is dragging a defenseless woman from a church.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.00",
+          "end": "01:45.90",
+          "start_seconds": 103.0,
+          "end_seconds": 105.9,
+          "content": "Two-shot profile of The Bearded Stranger and Lady Juliana framed against the illuminated stained-glass rose window."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Solemn, Gentle)",
+          "start": "01:44.20",
+          "end": "01:47.40",
+          "start_seconds": 104.2,
+          "end_seconds": 107.4,
+          "content": "\"You shouldn't have to beg anybody...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:45.90",
+          "end": "01:48.80",
+          "start_seconds": 105.9,
+          "end_seconds": 108.8,
+          "content": "Close-up on Juliana looking up into his eyes, moved to the core."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (O.S.) (Affirming, Sincere)",
+          "start": "01:47.40",
+          "end": "01:49.00",
+          "start_seconds": 107.4,
+          "end_seconds": 109.0,
+          "content": "\"...to remember your worth.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:48.80",
+          "end": "01:50.80",
+          "start_seconds": 108.8,
+          "end_seconds": 110.8,
+          "content": "Close-up on The Bearded Stranger's rugged, bearded face looking down at her with tender reverence."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:50.80",
+          "end": "01:52.50",
+          "start_seconds": 110.8,
+          "end_seconds": 112.5,
+          "content": "Close-up on Juliana, her lips parting in quiet astonishment."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Whispering, Bewildered)",
+          "start": "01:50.90",
+          "end": "01:52.50",
+          "start_seconds": 110.9,
+          "end_seconds": 112.5,
+          "content": "\"Why are you doing this?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.50",
+          "end": "01:54.20",
+          "start_seconds": 112.5,
+          "end_seconds": 114.2,
+          "content": "Close-up on The Bearded Stranger, completely unfazed."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Simple, Certain)",
+          "start": "01:52.80",
+          "end": "01:54.10",
+          "start_seconds": 112.8,
+          "end_seconds": 114.1,
+          "content": "\"Because I want to.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:54.20",
+          "end": "01:56.00",
+          "start_seconds": 114.2,
+          "end_seconds": 116.0,
+          "content": "Close-up on Juliana's father wringing his gold ring, eyes heavy with regret."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:56.00",
+          "end": "01:57.90",
+          "start_seconds": 116.0,
+          "end_seconds": 117.9,
+          "content": "Medium shot on The Bearded Stranger slipping his hand into his coat pocket."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:57.90",
+          "end": "01:59.20",
+          "start_seconds": 117.9,
+          "end_seconds": 119.2,
+          "content": "Close-up of Juliana watching him with rapt, trembling anticipation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.20",
+          "end": "02:01.00",
+          "start_seconds": 119.2,
+          "end_seconds": 121.0,
+          "content": "Extreme close-up of The Bearded Stranger's rugged fingers holding up a simple, polished silver band."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (O.S.) (Honorable, Earnest)",
+          "start": "01:59.80",
+          "end": "02:02.10",
+          "start_seconds": 119.8,
+          "end_seconds": 122.1,
+          "content": "\"You came here to become a wife.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:01.00",
+          "end": "02:03.20",
+          "start_seconds": 121.0,
+          "end_seconds": 123.2,
+          "content": "Medium shot on The Bearded Stranger extending the ring toward Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Quiet, Resolute)",
+          "start": "02:02.50",
+          "end": "02:04.20",
+          "start_seconds": 122.5,
+          "end_seconds": 124.2,
+          "content": "\"They took that from you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:03.20",
+          "end": "02:05.10",
+          "start_seconds": 123.2,
+          "end_seconds": 125.1,
+          "content": "Over-the-shoulder medium shot past The Bearded Stranger onto Gerald standing petrified and humiliated in the aisle."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:05.10",
+          "end": "02:07.40",
+          "start_seconds": 125.1,
+          "end_seconds": 127.4,
+          "content": "Medium close-up on The Bearded Stranger presenting the ring directly to Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Earnest, Sincere)",
+          "start": "02:05.30",
+          "end": "02:07.30",
+          "start_seconds": 125.3,
+          "end_seconds": 127.3,
+          "content": "\"I am offering it back.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:07.40",
+          "end": "02:10.20",
+          "start_seconds": 127.4,
+          "end_seconds": 130.2,
+          "content": "Close-up on Juliana glancing down at the ring, breathless and overwhelmed."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Soft, Hesitant)",
+          "start": "02:07.70",
+          "end": "02:09.90",
+          "start_seconds": 127.7,
+          "end_seconds": 129.9,
+          "content": "\"You don't even know me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:10.20",
+          "end": "02:12.70",
+          "start_seconds": 130.2,
+          "end_seconds": 132.7,
+          "content": "Close-up on The Bearded Stranger's warm, piercing gaze."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Quiet, Steady)",
+          "start": "02:10.40",
+          "end": "02:12.00",
+          "start_seconds": 130.4,
+          "end_seconds": 132.0,
+          "content": "\"I know enough.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:12.70",
+          "end": "02:15.50",
+          "start_seconds": 132.7,
+          "end_seconds": 135.5,
+          "content": "Full wide profile shot as The Bearded Stranger slowly and respectfully drops onto one knee before Lady Juliana."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:13.20",
+          "end": "02:15.50",
+          "start_seconds": 133.2,
+          "end_seconds": 135.5,
+          "content": "The Bearded Stranger sinks to one knee on the cathedral aisle, offering the silver ring up to Juliana."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:14.80",
+          "end": "02:16.20",
+          "start_seconds": 134.8,
+          "end_seconds": 136.2,
+          "content": "A collective, stunned gasp rippling across the entire congregation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:15.50",
+          "end": "02:17.30",
+          "start_seconds": 135.5,
+          "end_seconds": 137.3,
+          "content": "Medium shot of the Noble Matriarch, Gerald, and the Lady in Gold Gown frozen in sheer, jaw-dropped bewilderment."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:17.30",
+          "end": "02:20.50",
+          "start_seconds": 137.3,
+          "end_seconds": 140.5,
+          "content": "Low-angle medium close-up of The Bearded Stranger on his knee, holding the silver ring high with steady dignity."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE BEARDED STRANGER (Solemn, Devoted)",
+          "start": "02:17.50",
+          "end": "02:20.30",
+          "start_seconds": 137.5,
+          "end_seconds": 140.3,
+          "content": "\"Lady Juliana... accept my hand.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:20.50",
+          "end": "02:25.75",
+          "start_seconds": 140.5,
+          "end_seconds": 145.75,
+          "content": "Close-up on Juliana looking down at him, fresh tears trailing down her flushed cheeks as a soft, trembling smile of hope touches her lips into a slow fade."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:20.50",
+          "end": "02:25.75",
+          "start_seconds": 140.5,
+          "end_seconds": 145.75,
+          "content": "Juliana gazes down at her rugged savior, overcome with emotion as the swelling score holds on the cliffhanger."
+        }
+      ],
+      "analysis": {
+        "scene_summary": "The Bearded Stranger rescues Juliana from the guards and proposes to her in the cathedral, shocking the congregation.",
+        "emotional_intensity": "high",
+        "emotional_tone": [
+          "anger",
+          "sadness",
+          "happiness",
+          "love"
+        ],
+        "conflict": {
+          "exists": true,
+          "description": "The Bearded Stranger confronts the guards and the Noble Matriarch, leading to a dramatic proposal."
+        },
+        "suspense": {
+          "level": "high",
+          "description": "The scene creates uncertainty and anticipation as the Bearded Stranger's intentions are unclear, and the congregation is shocked by the proposal."
+        },
+        "revelation": {
+          "exists": true,
+          "description": "The Bearded Stranger's true intentions are revealed as he proposes to Juliana, and his past is hinted at through his scars and demeanor."
+        },
+        "betrayal": {
+          "exists": false,
+          "description": "There is no betrayal in this scene."
+        },
+        "characters": [
+          "LADY JULIANA",
+          "NOBLE MATRIARCH",
+          "ROYAL GUARD",
+          "THE BEARDED STRANGER",
+          "THE FORMER GROOM"
+        ],
+        "relationships": [
+          {
+            "character_1": "LADY JULIANA",
+            "character_2": "THE BEARDED STRANGER",
+            "description": "The Bearded Stranger and Juliana form a romantic connection, with the Bearded Stranger proposing to her."
+          }
+        ],
+        "narrative_importance": "high",
+        "standalone_context": "partial",
+        "promotional_potential": 80,
+        "hook": "The shocking proposal and the Bearded Stranger's mysterious past make this scene a compelling watch.",
+        "evidence": [
+          "THE BEARDED STRANGER (Low, Thunderous, Imposing): 'Take your hands off her.'",
+          "THE BEARDED STRANGER (Quiet, Deadly): '...let her go.'",
+          "THE BEARDED STRANGER (Simple, Certain): 'Because I want to.'",
+          "THE BEARDED STRANGER (O.S.) (Honorable, Earnest): 'You came here to become a wife. They took that from you. I am offering it back.'"
+        ],
+        "confidence": 0.85,
+        "uncertainties": []
+      }
+    }
+  ],
+  "source_file": "episode-003-Episode 1671705.txt",
+  "source_sha256": "2a1df4c96f178a4784aef81dd6fe82e3a9d226d2443fe98629cfbc0c95dc14df",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "provider": "ollama",
+    "model": "llama3.1:8b",
+    "total_scenes": 3,
+    "successful_scenes": 3,
+    "provenance": "previous Episode 003 analysis, event/timecode matched to source",
+    "editorial_accuracy_reviewed": false
+  }
+}

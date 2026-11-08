@@ -1,0 +1,589 @@
+{
+  "episode_number": "Episode 49",
+  "logline": "Meeting Father Thomas in an abandoned wing of the manor before dawn, Catherine orchestrates a calculated conspiracy to stall the council hearing and extract inside intelligence, sealing their treasonous alliance with intimate assurance.",
+  "continuity_notes": "Directly follows Catherine sending Agnes to fetch Father Thomas under cover of darkness; now in Episode 49, Father Thomas slips into the secluded wing for their covert rendezvous.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. FORGOTTEN MANOR WING - NIGHT",
+      "start": "00:00.00",
+      "end": "02:24.75",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:05.20",
+          "start_seconds": 0.0,
+          "end_seconds": 5.2,
+          "content": "Wide tracking shot down a dark, derelict hallway lined with dust-sheet draped furniture and peeling wallpaper. At the far end, a door creaks open, revealing a cloaked figure stepping in."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:01.00",
+          "end": "00:04.50",
+          "start_seconds": 1.0,
+          "end_seconds": 4.5,
+          "content": "Hinges creaking softly followed by the muffled thud of a heavy wooden door clicking shut."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:01.80",
+          "end": "00:05.20",
+          "start_seconds": 1.8,
+          "end_seconds": 5.2,
+          "content": "Father Thomas, clad in a hooded dark mantle over priestly black robes, secures the door behind him and steps into the shadows of the abandoned corridor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.20",
+          "end": "00:07.00",
+          "start_seconds": 5.2,
+          "end_seconds": 7.0,
+          "content": "Medium shot on Catherine, draped in a dark hooded cloak over a lavish crimson bodice, holding a brass candlestick aloft."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Quietly Chiding)",
+          "start": "00:05.40",
+          "end": "00:06.80",
+          "start_seconds": 5.4,
+          "end_seconds": 6.8,
+          "content": "\"You took your time.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.00",
+          "end": "00:08.80",
+          "start_seconds": 7.0,
+          "end_seconds": 8.8,
+          "content": "Over-the-shoulder shot past Father Thomas's cloaked back looking toward Catherine illuminated in warm candlelight."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.80",
+          "end": "00:15.50",
+          "start_seconds": 8.8,
+          "end_seconds": 15.5,
+          "content": "Medium close-up of Father Thomas under his black hood, his stern face framed by the clerical collar and silver crucifix resting on his chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Low, Measured)",
+          "start": "00:09.00",
+          "end": "00:15.20",
+          "start_seconds": 9.0,
+          "end_seconds": 15.2,
+          "content": "\"Agnes is thorough. She made me wait for a groom to finish his rounds before she'd let me past the stables.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.50",
+          "end": "00:19.80",
+          "start_seconds": 15.5,
+          "end_seconds": 19.8,
+          "content": "Close-up profile of Catherine, turning with a slight, knowing smirk."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Pleased, Cold)",
+          "start": "00:15.80",
+          "end": "00:18.80",
+          "start_seconds": 15.8,
+          "end_seconds": 18.8,
+          "content": "\"Good. That's what I pay her for.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.80",
+          "end": "00:22.00",
+          "start_seconds": 19.8,
+          "end_seconds": 22.0,
+          "content": "Medium two-shot as Catherine steps forward and sets the heavy candleholder onto a small round table draped in grey cloth between them."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:20.00",
+          "end": "00:22.00",
+          "start_seconds": 20.0,
+          "end_seconds": 22.0,
+          "content": "Catherine sets down the brass candleholder, the flame flickering across their faces."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.00",
+          "end": "00:27.50",
+          "start_seconds": 22.0,
+          "end_seconds": 27.5,
+          "content": "Tight close-up on Father Thomas's face, the candlelight dancing in his calculating eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Grave)",
+          "start": "00:22.20",
+          "end": "00:27.20",
+          "start_seconds": 22.2,
+          "end_seconds": 27.2,
+          "content": "\"No shadows tonight, Catherine. Just us and an empty wing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.50",
+          "end": "00:33.20",
+          "start_seconds": 27.5,
+          "end_seconds": 33.2,
+          "content": "Close-up on Catherine, her blonde ringlets peeking from beneath her velvet hood as she smiles faintly."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Unfazed)",
+          "start": "00:27.80",
+          "end": "00:33.00",
+          "start_seconds": 27.8,
+          "end_seconds": 33.0,
+          "content": "\"You didn't need them the first time, either. I just prefer my secrets thorough.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.20",
+          "end": "00:41.80",
+          "start_seconds": 33.2,
+          "end_seconds": 41.8,
+          "content": "Medium close-up of Father Thomas, glancing down momentarily before fixing his piercing gaze back on her."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Dry, Cynical)",
+          "start": "00:33.50",
+          "end": "00:41.50",
+          "start_seconds": 33.5,
+          "end_seconds": 41.5,
+          "content": "\"A priest and a disgraced bride meeting before dawn in her bedchamber. I'd say thoroughness served us both rather well.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.80",
+          "end": "00:46.80",
+          "start_seconds": 41.8,
+          "end_seconds": 46.8,
+          "content": "Close-up of Catherine's face hardening into a stern, focused expression."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Assertive, Warning)",
+          "start": "00:42.00",
+          "end": "00:46.50",
+          "start_seconds": 42.0,
+          "end_seconds": 46.5,
+          "content": "\"It will keep serving us as long as neither of us gets careless. No one in this house so much as suspects your face belongs to that morning. Let's keep it that way.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.80",
+          "end": "00:48.50",
+          "start_seconds": 46.8,
+          "end_seconds": 48.5,
+          "content": "Close-up on Father Thomas listening impassively."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.50",
+          "end": "00:53.00",
+          "start_seconds": 48.5,
+          "end_seconds": 53.0,
+          "content": "Medium wide two-shot across the candlelit table, Catherine leaning slightly forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Scheming)",
+          "start": "00:48.80",
+          "end": "00:52.80",
+          "start_seconds": 48.8,
+          "end_seconds": 52.8,
+          "content": "\"Today went better than either of us planned for. The whole court watched you humiliate her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.00",
+          "end": "00:59.80",
+          "start_seconds": 53.0,
+          "end_seconds": 59.8,
+          "content": "Medium close-up on Father Thomas as he turns his head slightly, scanning the dusty shadowed recesses of the abandoned room."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Reflective, Brooding)",
+          "start": "00:53.20",
+          "end": "00:59.50",
+          "start_seconds": 53.2,
+          "end_seconds": 59.5,
+          "content": "\"Fitting choice, this room. A place the family forgot for a conversation they mustn't remember.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.80",
+          "end": "01:02.80",
+          "start_seconds": 59.8,
+          "end_seconds": 62.8,
+          "content": "Close-up on Catherine, her lips curling into an amused, knowing smile."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Amused)",
+          "start": "01:00.00",
+          "end": "01:02.50",
+          "start_seconds": 60.0,
+          "end_seconds": 62.5,
+          "content": "\"You always did have a taste for symbolism.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.80",
+          "end": "01:07.20",
+          "start_seconds": 62.8,
+          "end_seconds": 67.2,
+          "content": "Medium shot of Father Thomas, a subtle smirk breaking through his austere demeanor."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Intimate, Candid)",
+          "start": "01:03.00",
+          "end": "01:07.10",
+          "start_seconds": 63.0,
+          "end_seconds": 67.1,
+          "content": "\"And you always did have a taste for using me. It's why we suit each other.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.20",
+          "end": "01:12.40",
+          "start_seconds": 67.2,
+          "end_seconds": 72.4,
+          "content": "Close-up on Catherine, her expression turning razor-sharp and commanding."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Strict, Urgent)",
+          "start": "01:07.40",
+          "end": "01:12.20",
+          "start_seconds": 67.4,
+          "end_seconds": 72.2,
+          "content": "\"Then make certain the council remembers that for the full ten days, not just the first hour.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.40",
+          "end": "01:17.00",
+          "start_seconds": 72.4,
+          "end_seconds": 77.0,
+          "content": "Side profile close-up on Father Thomas, his brow furrowing with impatient resolve."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Direct)",
+          "start": "01:12.60",
+          "end": "01:16.80",
+          "start_seconds": 72.6,
+          "end_seconds": 76.8,
+          "content": "\"What is it you actually need from me, Catherine? Say it plainly, for once.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.00",
+          "end": "01:24.00",
+          "start_seconds": 77.0,
+          "end_seconds": 84.0,
+          "content": "Medium close-up of Catherine raising one hand slightly, emphasizing her terms."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Calculating, Determined)",
+          "start": "01:17.20",
+          "end": "01:23.80",
+          "start_seconds": 77.2,
+          "end_seconds": 83.8,
+          "content": "\"First, the hearing stays unresolved as long as possible. Every extension, every delay, every excuse to reconvene.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.00",
+          "end": "01:31.40",
+          "start_seconds": 84.0,
+          "end_seconds": 91.4,
+          "content": "Frontal close-up of Catherine raising two fingers in the candlelight, her eyes burning with ruthless intent."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Fierce, Uncompromising)",
+          "start": "01:24.20",
+          "end": "01:31.20",
+          "start_seconds": 84.2,
+          "end_seconds": 91.2,
+          "content": "\"Second, I want to know what the council knows before it decides anything. Every argument, every witness, every whisper against her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:31.40",
+          "end": "01:34.20",
+          "start_seconds": 91.4,
+          "end_seconds": 94.2,
+          "content": "Close-up on Father Thomas absorbing the audacity of her demand."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Skeptical)",
+          "start": "01:31.60",
+          "end": "01:34.00",
+          "start_seconds": 91.6,
+          "end_seconds": 94.0,
+          "content": "\"You want eyes inside the council chamber itself?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:34.20",
+          "end": "01:38.00",
+          "start_seconds": 94.2,
+          "end_seconds": 98.0,
+          "content": "Close-up low angle on Catherine, tilting her chin up in defiant pride."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Haughty, Imperious)",
+          "start": "01:34.40",
+          "end": "01:37.80",
+          "start_seconds": 94.4,
+          "end_seconds": 97.8,
+          "content": "\"I want eyes and ears everywhere that decides my future.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.00",
+          "end": "01:43.80",
+          "start_seconds": 98.0,
+          "end_seconds": 103.8,
+          "content": "Full two-shot of Catherine and Father Thomas facing off across the small table in the cavernous hallway."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:38.20",
+          "end": "01:42.50",
+          "start_seconds": 98.2,
+          "end_seconds": 102.5,
+          "content": "Father Thomas clasps his hands behind his back, turning slightly away to ponder the gravity of her words."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Bitterly Resolute)",
+          "start": "01:38.30",
+          "end": "01:43.20",
+          "start_seconds": 98.3,
+          "end_seconds": 103.2,
+          "content": "\"Is that so unreasonable coming from a woman the church itself just humiliated back into relevance?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.80",
+          "end": "01:53.00",
+          "start_seconds": 103.8,
+          "end_seconds": 113.0,
+          "content": "Medium shot on Father Thomas turning back around to face her, his countenance etched with genuine concern."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Wary, Grave)",
+          "start": "01:44.20",
+          "end": "01:52.80",
+          "start_seconds": 104.2,
+          "end_seconds": 112.8,
+          "content": "\"If I keep the hearing open, if I feed you every word spoken behind those doors, what happens to me when the Duke finds out a crowned priest conspired against him?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.00",
+          "end": "01:58.00",
+          "start_seconds": 113.0,
+          "end_seconds": 118.0,
+          "content": "Medium two-shot tracking closer as Catherine steps closer toward him."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Seductive, Reassuring)",
+          "start": "01:53.20",
+          "end": "01:57.80",
+          "start_seconds": 113.2,
+          "end_seconds": 117.8,
+          "content": "\"Then make certain he doesn't find out. You're careful. I've seen how careful.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:58.00",
+          "end": "02:04.80",
+          "start_seconds": 118.0,
+          "end_seconds": 124.8,
+          "content": "Tight close-up on Father Thomas's intense, brooding face."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Stern, Stark)",
+          "start": "01:58.20",
+          "end": "02:04.50",
+          "start_seconds": 118.2,
+          "end_seconds": 124.5,
+          "content": "\"Careful men still hang, my lady, when the crime is treason against a Duke the King himself just restored.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:04.80",
+          "end": "02:08.80",
+          "start_seconds": 124.8,
+          "end_seconds": 128.8,
+          "content": "Close-up on Catherine, her lips parting into an alluring, promising smile."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Tempting)",
+          "start": "02:05.00",
+          "end": "02:08.50",
+          "start_seconds": 125.0,
+          "end_seconds": 128.5,
+          "content": "\"Careful men who help me also get remembered.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:08.80",
+          "end": "02:14.50",
+          "start_seconds": 128.8,
+          "end_seconds": 134.5,
+          "content": "Split focus close-up between Father Thomas's intense gaze and Catherine leaning in close, whispering with lethal conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Whispering, Promising)",
+          "start": "02:09.20",
+          "end": "02:14.20",
+          "start_seconds": 129.2,
+          "end_seconds": 134.2,
+          "content": "\"A grateful Duchess collects debts differently than a desperate one.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:14.50",
+          "end": "02:19.80",
+          "start_seconds": 134.5,
+          "end_seconds": 139.8,
+          "content": "Medium two-shot as Father Thomas extends his open right hand between them."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:15.00",
+          "end": "02:19.50",
+          "start_seconds": 135.0,
+          "end_seconds": 139.5,
+          "content": "Father Thomas slowly raises his right hand, palm turned upward in invitation and pact."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Low, Resigned)",
+          "start": "02:15.20",
+          "end": "02:19.50",
+          "start_seconds": 135.2,
+          "end_seconds": 139.5,
+          "content": "\"The rest depends on how well you keep your part of this quiet.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:19.80",
+          "end": "02:22.80",
+          "start_seconds": 139.8,
+          "end_seconds": 142.8,
+          "content": "Close-up on Father Thomas looking down into her eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "FATHER THOMAS (Softly)",
+          "start": "02:20.00",
+          "end": "02:22.50",
+          "start_seconds": 140.0,
+          "end_seconds": 142.5,
+          "content": "\"Then we understand each other.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:20.50",
+          "end": "02:22.80",
+          "start_seconds": 140.5,
+          "end_seconds": 142.8,
+          "content": "Catherine reaches out and places her slender hand firmly into Father Thomas's open palm."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:22.80",
+          "end": "02:24.00",
+          "start_seconds": 142.8,
+          "end_seconds": 144.0,
+          "content": "Close-up of Catherine gazing up at him, her eyes glistening in the candlelight."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Intimate)",
+          "start": "02:23.00",
+          "end": "02:24.00",
+          "start_seconds": 143.0,
+          "end_seconds": 144.0,
+          "content": "\"We always have.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:24.00",
+          "end": "02:24.75",
+          "start_seconds": 144.0,
+          "end_seconds": 144.75,
+          "content": "Extreme close-up as Father Thomas gently raises his other hand and cups Catherine's cheek tenderly, her hand resting against his chest as she leans into his touch before cutting to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-049-Episode 1688398.txt",
+  "source_sha256": "7b96649d2e272da28d82c5cf18c7915d4f09117e5d7632a04625a333d554016e",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

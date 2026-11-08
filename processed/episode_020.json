@@ -1,0 +1,658 @@
+{
+  "episode_number": "Episode 20",
+  "logline": "Inside the opulent Ashbury estate, the treacherous Rupert and Catherine plot to seize the ducal title as the Dowager Duchess slowly withers, while in an icy barn, Juliana defiantly prepares remedies to save the fever-stricken villagers.",
+  "continuity_notes": "Follows Episode 19's night in the barn; as Alexander begins his clandestine fight to reclaim his birthright, Juliana tends to the suffering village while Rupert and Catherine celebrate their anticipated ascension to the ducal throne.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. ASHBURY MANOR – DAY",
+      "start": "00:00.00",
+      "end": "00:02.80",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.80",
+          "start_seconds": 0.0,
+          "end_seconds": 2.8,
+          "content": "Low-angle establishing shot tilting up toward the imposing, grand stone facade of Ashbury Manor against a cold, overcast morning sky, frost dusting the pristine lawn."
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS",
+      "start": "00:02.80",
+      "end": "00:56.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.80",
+          "end": "00:06.80",
+          "start_seconds": 2.8,
+          "end_seconds": 6.8,
+          "content": "Medium wide shot of the lavish drawing room. CATHERINE, dressed in an ornate lilac regency gown and white satin gloves, gracefully pours hot tea from an ornate silver teapot, while RUPERT stands elegantly by the tall window."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Smug, Prim)",
+          "start": "00:02.90",
+          "end": "00:04.40",
+          "start_seconds": 2.9,
+          "end_seconds": 4.4,
+          "content": "\"Two lumps of sugar, Rupert?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Taunting, Silkily)",
+          "start": "00:04.60",
+          "end": "00:07.80",
+          "start_seconds": 4.6,
+          "end_seconds": 7.8,
+          "content": "\"Or has your sudden climb to power sweetened your taste already?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:06.90",
+          "end": "00:09.50",
+          "start_seconds": 6.9,
+          "end_seconds": 9.5,
+          "content": "Close-up of Catherine stirring her tea with a silver spoon, lifting her gaze with a haughty smirk."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Flirtatious, Sly)",
+          "start": "00:08.20",
+          "end": "00:10.80",
+          "start_seconds": 8.2,
+          "end_seconds": 10.8,
+          "content": "\"Only if it sweetens your disposition, Catherine.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.60",
+          "end": "00:15.20",
+          "start_seconds": 9.6,
+          "end_seconds": 15.2,
+          "content": "Medium shot tracking Rupert as he steps forward from the hearth, adjusting his dark leather gloves with an air of absolute triumph."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Boastful, Confident)",
+          "start": "00:10.90",
+          "end": "00:12.70",
+          "start_seconds": 10.9,
+          "end_seconds": 12.7,
+          "content": "\"The estate is practically ours.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Smug)",
+          "start": "00:12.80",
+          "end": "00:15.10",
+          "start_seconds": 12.8,
+          "end_seconds": 15.1,
+          "content": "\"The succession papers are being finalized as we speak.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.20",
+          "end": "00:20.00",
+          "start_seconds": 15.2,
+          "end_seconds": 20.0,
+          "content": "Medium close-up of Catherine raising the porcelain teacup to her lips, her expression turning sharp and dismissive."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cold, Haughty)",
+          "start": "00:15.40",
+          "end": "00:18.70",
+          "start_seconds": 15.4,
+          "end_seconds": 18.7,
+          "content": "\"'Practically' is a word for beggars. I do not marry a practical Duke.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Stern, Ambitious)",
+          "start": "00:18.80",
+          "end": "00:20.10",
+          "start_seconds": 18.8,
+          "end_seconds": 20.1,
+          "content": "\"I marry the Lord of Ashbury.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.00",
+          "end": "00:25.50",
+          "start_seconds": 20.0,
+          "end_seconds": 25.5,
+          "content": "Medium shot of Rupert striding toward the tea table, leaning forward with predatory conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Reassuring, Firm)",
+          "start": "00:20.10",
+          "end": "00:21.20",
+          "start_seconds": 20.1,
+          "end_seconds": 21.2,
+          "content": "\"And so you shall.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Dark, Conspiratorial)",
+          "start": "00:21.30",
+          "end": "00:24.20",
+          "start_seconds": 21.3,
+          "end_seconds": 24.2,
+          "content": "\"Once my cousin Alexander's death is formally sealed by the Crown...\""
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Decisive)",
+          "start": "00:24.30",
+          "end": "00:25.40",
+          "start_seconds": 24.3,
+          "end_seconds": 25.4,
+          "content": "\"...the title is mine.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:25.50",
+          "end": "00:30.20",
+          "start_seconds": 25.5,
+          "end_seconds": 30.2,
+          "content": "Close-up of Catherine lowering her teacup, her icy blue eyes narrowing in calculated concern."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Wary, Inquiring)",
+          "start": "00:25.50",
+          "end": "00:28.20",
+          "start_seconds": 25.5,
+          "end_seconds": 28.2,
+          "content": "\"And what of the Dowager? The old woman still breathes.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Disdainful)",
+          "start": "00:28.30",
+          "end": "00:30.20",
+          "start_seconds": 28.3,
+          "end_seconds": 30.2,
+          "content": "\"Her shadow still hangs over this house.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.20",
+          "end": "00:34.00",
+          "start_seconds": 30.2,
+          "end_seconds": 34.0,
+          "content": "Tight close-up of Rupert's face as a sinister grin spreads across his features."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Quiet, Sinister)",
+          "start": "00:30.20",
+          "end": "00:32.80",
+          "start_seconds": 30.2,
+          "end_seconds": 32.8,
+          "content": "\"Her health fails more each day. The physicians are baffled.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Gloating)",
+          "start": "00:32.90",
+          "end": "00:34.40",
+          "start_seconds": 32.9,
+          "end_seconds": 34.4,
+          "content": "\"They call it a wasting of the lungs.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.10",
+          "end": "00:39.20",
+          "start_seconds": 34.1,
+          "end_seconds": 39.2,
+          "content": "Close-up side profile of Catherine bringing the teacup to her lips, savoring his words with chilling detachment."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Mock-Sympathetic, Cruel)",
+          "start": "00:34.20",
+          "end": "00:36.80",
+          "start_seconds": 34.2,
+          "end_seconds": 36.8,
+          "content": "\"How tragic. The slow, quiet decline.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Scheming)",
+          "start": "00:36.90",
+          "end": "00:39.10",
+          "start_seconds": 36.9,
+          "end_seconds": 39.1,
+          "content": "\"How much longer can the frail thing survive?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.30",
+          "end": "00:42.50",
+          "start_seconds": 39.3,
+          "end_seconds": 42.5,
+          "content": "Medium profile of Rupert looking out the window, hands clasped behind him."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Cold, Callous)",
+          "start": "00:39.40",
+          "end": "00:42.40",
+          "start_seconds": 39.4,
+          "end_seconds": 42.4,
+          "content": "\"Not through the winter. I've ensured her quiet comfort.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.50",
+          "end": "00:50.00",
+          "start_seconds": 42.5,
+          "end_seconds": 50.0,
+          "content": "Close-up of Catherine turning her head toward the window, her lips curled in venomous disgust."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Vindictive)",
+          "start": "00:42.60",
+          "end": "00:44.90",
+          "start_seconds": 42.6,
+          "end_seconds": 44.9,
+          "content": "\"Good. The village is already whispering about her.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Contemptuous)",
+          "start": "00:45.00",
+          "end": "00:48.40",
+          "start_seconds": 45.0,
+          "end_seconds": 48.4,
+          "content": "\"The local peasants are like dogs, barking at every carriage that passes.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Disgusted)",
+          "start": "00:48.50",
+          "end": "00:49.80",
+          "start_seconds": 48.5,
+          "end_seconds": 49.8,
+          "content": "\"They disgust me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.00",
+          "end": "00:56.50",
+          "start_seconds": 50.0,
+          "end_seconds": 56.5,
+          "content": "Medium two-shot. Rupert stands over Catherine seated at the polished table, placing a gloved hand possessively near her shoulder."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Dismissive, Arrogant)",
+          "start": "00:50.20",
+          "end": "00:52.50",
+          "start_seconds": 50.2,
+          "end_seconds": 52.5,
+          "content": "\"They are nothing. Dirt beneath our boots.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Authoritative, Promising)",
+          "start": "00:52.80",
+          "end": "00:56.00",
+          "start_seconds": 52.8,
+          "end_seconds": 56.0,
+          "content": "\"They will learn their place when you wear the ducal crown.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. ABANDONED BARN – DAY",
+      "start": "00:56.50",
+      "end": "01:28.20",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.50",
+          "end": "01:00.30",
+          "start_seconds": 56.5,
+          "end_seconds": 60.3,
+          "content": "Medium close-up tilting down on JULIANA kneeling in the straw beside a rustic wooden crate, sorting sprigs of dried lavender and sage into a woven basket. Her hands are bound in linen bandages from the recent fire."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:00.00",
+          "end": "01:04.50",
+          "start_seconds": 60.0,
+          "end_seconds": 64.5,
+          "content": "The barn door opens, revealing daylight outside. SEAMUS, an older weathered villager in a waistcoat, carries a wooden bucket inside, his expression etched with deep sorrow and concern."
+        },
+        {
+          "type": "dialogue",
+          "label": "SEAMUS (Gentle, Concerned)",
+          "start": "01:00.50",
+          "end": "01:02.50",
+          "start_seconds": 60.5,
+          "end_seconds": 62.5,
+          "content": "\"Let me take that basket, Lady Juliana.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "SEAMUS (Empathetic)",
+          "start": "01:02.60",
+          "end": "01:06.60",
+          "start_seconds": 62.6,
+          "end_seconds": 66.6,
+          "content": "\"Your palms are still raw from the fire. You shouldn't be working in this freezing draft.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:04.80",
+          "end": "01:06.80",
+          "start_seconds": 64.8,
+          "end_seconds": 66.8,
+          "content": "Seamus reaches down to take the handle of the basket from her."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.80",
+          "end": "01:10.50",
+          "start_seconds": 66.8,
+          "end_seconds": 70.5,
+          "content": "Close-up of Juliana looking up at Seamus, her smudged face fierce with unyielding determination as she holds firmly onto the basket."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fierce, Resolute)",
+          "start": "01:06.70",
+          "end": "01:09.10",
+          "start_seconds": 66.7,
+          "end_seconds": 69.1,
+          "content": "\"If I stop, Seamus, the lung fever in the valley wins.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant)",
+          "start": "01:09.20",
+          "end": "01:10.50",
+          "start_seconds": 69.2,
+          "end_seconds": 70.5,
+          "content": "\"I do not yield to a cold draft.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:16.20",
+          "start_seconds": 70.5,
+          "end_seconds": 76.2,
+          "content": "Close-up of Seamus, his face agonizingly strained with grief for her lost status."
+        },
+        {
+          "type": "dialogue",
+          "label": "SEAMUS (Desperate, Grieving)",
+          "start": "01:10.60",
+          "end": "01:12.30",
+          "start_seconds": 70.6,
+          "end_seconds": 72.3,
+          "content": "\"You are a viscount's daughter!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "SEAMUS (Pleading)",
+          "start": "01:12.40",
+          "end": "01:14.20",
+          "start_seconds": 72.4,
+          "end_seconds": 74.2,
+          "content": "\"Sleeping on straw, sorting weeds!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "SEAMUS (Frustrated)",
+          "start": "01:14.30",
+          "end": "01:16.20",
+          "start_seconds": 74.3,
+          "end_seconds": 76.2,
+          "content": "\"Let the village tend to itself for once!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.20",
+          "end": "01:21.00",
+          "start_seconds": 76.2,
+          "end_seconds": 81.0,
+          "content": "Medium close-up of Juliana, her jaw set with unwavering moral strength."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Passionate, Unflinching)",
+          "start": "01:16.30",
+          "end": "01:19.80",
+          "start_seconds": 76.3,
+          "end_seconds": 79.8,
+          "content": "\"The chapel is gone, Seamus. I am the only healer these people have left.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unyielding)",
+          "start": "01:19.90",
+          "end": "01:21.00",
+          "start_seconds": 79.9,
+          "end_seconds": 81.0,
+          "content": "\"I keep the basket.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:28.20",
+          "start_seconds": 81.0,
+          "end_seconds": 88.2,
+          "content": "Medium two-shot of Juliana and Seamus standing facing each other in the barn, the lantern casting a warm amber glow between them."
+        },
+        {
+          "type": "dialogue",
+          "label": "SEAMUS (Saddened, Heartbroken)",
+          "start": "01:22.00",
+          "end": "01:24.40",
+          "start_seconds": 82.0,
+          "end_seconds": 84.4,
+          "content": "\"They have reduced you to a peasant.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Proud, Indomitable)",
+          "start": "01:24.80",
+          "end": "01:26.50",
+          "start_seconds": 84.8,
+          "end_seconds": 86.5,
+          "content": "\"They have reduced me to myself.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely)",
+          "start": "01:26.60",
+          "end": "01:28.00",
+          "start_seconds": 86.6,
+          "end_seconds": 88.0,
+          "content": "\"And I am not finished.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "INT. ASHBURY MANOR - DRAWING ROOM – CONTINUOUS",
+      "start": "01:28.20",
+      "end": "01:54.75",
+      "events": [
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:28.20",
+          "end": "01:30.00",
+          "start_seconds": 88.2,
+          "end_seconds": 90.0,
+          "content": "Catherine's gloved hand sets her fine porcelain teacup down onto the silver tray with a delicate clatter."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:28.40",
+          "end": "01:29.40",
+          "start_seconds": 88.4,
+          "end_seconds": 89.4,
+          "content": "Sharp porcelain chime of teacup meeting saucer."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.80",
+          "end": "01:34.80",
+          "start_seconds": 89.8,
+          "end_seconds": 94.8,
+          "content": "Close-up of Catherine looking up, her face twisting into venomous arrogance."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cruel, Callous)",
+          "start": "01:29.90",
+          "end": "01:32.40",
+          "start_seconds": 89.9,
+          "end_seconds": 92.4,
+          "content": "\"Let the peasants rot in their barns.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Mocking, Spiteful)",
+          "start": "01:32.60",
+          "end": "01:34.50",
+          "start_seconds": 92.6,
+          "end_seconds": 94.5,
+          "content": "\"Let them pray to their weeds.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:34.80",
+          "end": "01:39.20",
+          "start_seconds": 94.8,
+          "end_seconds": 99.2,
+          "content": "Medium shot as Rupert steps around the mahogany table and leans close into Catherine's ear, smiling seductively."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Intimate, Reassuring)",
+          "start": "01:34.90",
+          "end": "01:37.30",
+          "start_seconds": 94.9,
+          "end_seconds": 97.3,
+          "content": "\"You have no rival here, Catherine.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Fawning)",
+          "start": "01:37.40",
+          "end": "01:39.10",
+          "start_seconds": 97.4,
+          "end_seconds": 99.1,
+          "content": "\"No one to stand in your way.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.20",
+          "end": "01:43.80",
+          "start_seconds": 99.2,
+          "end_seconds": 103.8,
+          "content": "Close-up of Catherine looking into Rupert's eyes, her smile turning predatory and cold."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Triumphant, Greedy)",
+          "start": "01:39.30",
+          "end": "01:41.40",
+          "start_seconds": 99.3,
+          "end_seconds": 101.4,
+          "content": "\"Once the old Duchess is gone...\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Possessive)",
+          "start": "01:41.50",
+          "end": "01:43.70",
+          "start_seconds": 101.5,
+          "end_seconds": 103.7,
+          "content": "\"...Ashbury will finally belong to us.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:43.80",
+          "end": "01:49.00",
+          "start_seconds": 103.8,
+          "end_seconds": 109.0,
+          "content": "Catherine rises from her chair in one regal motion and glides toward the towering window overlooking the vast estate grounds."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.00",
+          "end": "01:49.50",
+          "start_seconds": 104.0,
+          "end_seconds": 109.5,
+          "content": "Tracking medium shot following Catherine from behind as she walks gracefully to the window frame, the grey morning light outlining her aristocratic silhouette."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cold, Ruthless)",
+          "start": "01:46.80",
+          "end": "01:49.20",
+          "start_seconds": 106.8,
+          "end_seconds": 109.2,
+          "content": "\"This house will only bow to me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:49.50",
+          "end": "01:54.75",
+          "start_seconds": 109.5,
+          "end_seconds": 114.75,
+          "content": "Tight close-up profile of Catherine gazing out the windowpane, her icy eyes burning with insatiable ambition as dramatic strings swell to a menacing cliffhanger hold."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-020-Episode 1671722.txt",
+  "source_sha256": "e6389a016e5aa432efca70d3bb2d64ec859200ad0e6aad207fa63a616ce12fa8",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

@@ -1,0 +1,903 @@
+{
+  "episode_number": "Episode 6",
+  "logline": "Seeking shelter from the cold rain, Juliana arrives at her new husband's modest woodland cottage and discovers an unexpected sense of peace beside the hearth.",
+  "continuity_notes": "Picks up immediately from Episode 5, as Juliana and her mysterious new husband leave the Ashcroft estate behind and venture out into the rainy countryside.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. WOODLAND PATH – NIGHT",
+      "start": "00:00.00",
+      "end": "00:33.70",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.30",
+          "start_seconds": 0.0,
+          "end_seconds": 2.3,
+          "content": "Medium full tracking shot of Juliana and the Mysterious Bearded Man trudging along a muddy, rain-soaked path in the dark woods."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.40",
+          "start_seconds": 0.0,
+          "end_seconds": 3.4,
+          "content": "Juliana lifts the hem of her white satin wedding gown to keep it out of the pooling mud, shivering under her dark hooded cloak."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.30",
+          "end": "00:03.50",
+          "start_seconds": 2.3,
+          "end_seconds": 3.5,
+          "content": "Close-up on Juliana's wet hand clutching her muddy dress."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:02.30",
+          "end": "00:06.50",
+          "start_seconds": 2.3,
+          "end_seconds": 6.5,
+          "content": "Heavy rain pouring through dense tree canopies with steady footfalls on wet earth."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.50",
+          "end": "00:04.20",
+          "start_seconds": 3.5,
+          "end_seconds": 4.2,
+          "content": "Upward shot through the dripping, silhouetted branches into the stormy night sky."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.20",
+          "end": "00:07.10",
+          "start_seconds": 4.2,
+          "end_seconds": 7.1,
+          "content": "Medium two-shot framing Juliana and the Mysterious Bearded Man as they pause in the misty woods."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:04.50",
+          "end": "00:07.10",
+          "start_seconds": 4.5,
+          "end_seconds": 7.1,
+          "content": "Juliana turns back toward him, water glistening on her face and hair."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.10",
+          "end": "00:09.90",
+          "start_seconds": 7.1,
+          "end_seconds": 9.9,
+          "content": "Close-up on the Mysterious Bearded Man, his dark hair soaked and rain running down the scars on his cheek."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Solemn, Gentle)",
+          "start": "00:07.20",
+          "end": "00:09.85",
+          "start_seconds": 7.2,
+          "end_seconds": 9.85,
+          "content": "\"I know this is not the life you came from.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.90",
+          "end": "00:14.90",
+          "start_seconds": 9.9,
+          "end_seconds": 14.9,
+          "content": "Close-up on Juliana looking up into the rain, exhaling a soft breath of resignation."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Quiet, Melancholic)",
+          "start": "00:10.10",
+          "end": "00:11.20",
+          "start_seconds": 10.1,
+          "end_seconds": 11.2,
+          "content": "\"No.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:11.30",
+          "end": "00:13.00",
+          "start_seconds": 11.3,
+          "end_seconds": 13.0,
+          "content": "Juliana looks upward into the canopy, gathering herself with a faint nod."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Resigned, Soft)",
+          "start": "00:13.40",
+          "end": "00:14.60",
+          "start_seconds": 13.4,
+          "end_seconds": 14.6,
+          "content": "\"It isn't.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:14.90",
+          "end": "00:17.20",
+          "start_seconds": 14.9,
+          "end_seconds": 17.2,
+          "content": "Medium close-up of the Mysterious Bearded Man, gazing down at her with quiet remorse."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Guilt-ridden)",
+          "start": "00:15.20",
+          "end": "00:18.20",
+          "start_seconds": 15.2,
+          "end_seconds": 18.2,
+          "content": "\"You should not have had to walk through this rain tonight.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.20",
+          "end": "00:18.30",
+          "start_seconds": 17.2,
+          "end_seconds": 18.3,
+          "content": "Close-up on Juliana's bodice and mother's pendant as she gathers her cloak closer."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.30",
+          "end": "00:21.00",
+          "start_seconds": 18.3,
+          "end_seconds": 21.0,
+          "content": "Close-up of Juliana's face, offering a wistful, comforting smile."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Faintly Ironic, Resilient)",
+          "start": "00:18.50",
+          "end": "00:20.90",
+          "start_seconds": 18.5,
+          "end_seconds": 20.9,
+          "content": "\"I suppose the day was already ruined.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.00",
+          "end": "00:24.00",
+          "start_seconds": 21.0,
+          "end_seconds": 24.0,
+          "content": "Extreme close-up on the Mysterious Bearded Man's piercing eyes, touched by her lack of bitterness."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.00",
+          "end": "00:26.10",
+          "start_seconds": 24.0,
+          "end_seconds": 26.1,
+          "content": "Wide establishing shot through tree branches showing a secluded, rustic stone cottage nestled among the misty trees."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:24.50",
+          "end": "00:26.10",
+          "start_seconds": 24.5,
+          "end_seconds": 26.1,
+          "content": "They walk forward toward the cottage emerging from the dark woods."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.10",
+          "end": "00:27.90",
+          "start_seconds": 26.1,
+          "end_seconds": 27.9,
+          "content": "Medium close-up on Juliana's face, wide-eyed with realization."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Surprised, Hesitant)",
+          "start": "00:26.50",
+          "end": "00:27.70",
+          "start_seconds": 26.5,
+          "end_seconds": 27.7,
+          "content": "\"That is it?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.90",
+          "end": "00:29.20",
+          "start_seconds": 27.9,
+          "end_seconds": 29.2,
+          "content": "Medium close-up on the Mysterious Bearded Man."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Low)",
+          "start": "00:28.10",
+          "end": "00:29.00",
+          "start_seconds": 28.1,
+          "end_seconds": 29.0,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.20",
+          "end": "00:30.10",
+          "start_seconds": 29.2,
+          "end_seconds": 30.1,
+          "content": "Upward shot of rain pelting through the thick treetops."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:29.20",
+          "end": "00:30.50",
+          "start_seconds": 29.2,
+          "end_seconds": 30.5,
+          "content": "Sudden distant rumble of thunder echoing across the forest."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.10",
+          "end": "00:33.00",
+          "start_seconds": 30.1,
+          "end_seconds": 33.0,
+          "content": "Medium shot as Juliana hikes her skirt and begins walking briskly toward the cottage door."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Determined, Defiant)",
+          "start": "00:30.15",
+          "end": "00:33.15",
+          "start_seconds": 30.15,
+          "end_seconds": 33.15,
+          "content": "\"At least no one there will be waiting to humiliate me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.00",
+          "end": "00:33.70",
+          "start_seconds": 33.0,
+          "end_seconds": 33.7,
+          "content": "Close-up of the Mysterious Bearded Man watching her march ahead, his expression solemn and deeply reflective."
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. WOODEN CABIN – CONTINUOUS",
+      "start": "00:33.70",
+      "end": "01:55.00",
+      "events": [
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:33.70",
+          "end": "00:36.70",
+          "start_seconds": 33.7,
+          "end_seconds": 36.7,
+          "content": "The heavy wooden cottage door creaks open. Juliana steps across the threshold into the dark, barren room."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:33.80",
+          "end": "00:36.50",
+          "start_seconds": 33.8,
+          "end_seconds": 36.5,
+          "content": "Door hinges groaning open followed by the hollow thump of footsteps on wet wood floorboards."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.70",
+          "end": "00:37.70",
+          "start_seconds": 36.7,
+          "end_seconds": 37.7,
+          "content": "Close-up overhead shot of a wooden bucket catching raindrops dripping steadily from a leak in the ceiling."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:36.70",
+          "end": "00:40.00",
+          "start_seconds": 36.7,
+          "end_seconds": 40.0,
+          "content": "Rhythmic water drips plinking into the metal-rimmed wooden bucket."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.70",
+          "end": "00:40.00",
+          "start_seconds": 37.7,
+          "end_seconds": 40.0,
+          "content": "Medium wide shot past the drip bucket as the Mysterious Bearded Man closes the door behind them."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.00",
+          "end": "00:42.00",
+          "start_seconds": 40.0,
+          "end_seconds": 42.0,
+          "content": "Medium close-up of the Mysterious Bearded Man standing in the dim light by the door."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Humble, Apologetic)",
+          "start": "00:40.70",
+          "end": "00:41.90",
+          "start_seconds": 40.7,
+          "end_seconds": 41.9,
+          "content": "\"I am sorry.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.00",
+          "end": "00:43.30",
+          "start_seconds": 42.0,
+          "end_seconds": 43.3,
+          "content": "Medium shot of Juliana gazing around the rustic interior, taking in the sparse surroundings."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.30",
+          "end": "00:46.40",
+          "start_seconds": 43.3,
+          "end_seconds": 46.4,
+          "content": "Medium close-up of the Mysterious Bearded Man looking at her with somber honesty."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Grave, Sincere)",
+          "start": "00:43.60",
+          "end": "00:45.00",
+          "start_seconds": 43.6,
+          "end_seconds": 45.0,
+          "content": "\"You came from comfort.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Grave, Sincere)",
+          "start": "00:45.10",
+          "end": "00:47.30",
+          "start_seconds": 45.1,
+          "end_seconds": 47.3,
+          "content": "\"This is all I can give you now.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.40",
+          "end": "00:48.80",
+          "start_seconds": 46.4,
+          "end_seconds": 48.8,
+          "content": "Medium shot of Juliana undoing the ribbon tie of her black cloak and letting it slide off her shoulders."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:46.60",
+          "end": "00:49.00",
+          "start_seconds": 46.6,
+          "end_seconds": 49.0,
+          "content": "Juliana removes her dark cloak, revealing her damp white bridal dress underneath."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.80",
+          "end": "00:51.10",
+          "start_seconds": 48.8,
+          "end_seconds": 51.1,
+          "content": "Close-up of Juliana's hand pressing against the cold, condensation-fogged windowpane."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.10",
+          "end": "00:54.80",
+          "start_seconds": 51.1,
+          "end_seconds": 54.8,
+          "content": "Side profile shot of Juliana looking out the rain-streaked window into the quiet forest."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle, Peaceful)",
+          "start": "00:51.30",
+          "end": "00:52.70",
+          "start_seconds": 51.3,
+          "end_seconds": 52.7,
+          "content": "\"It is quiet.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle, Peaceful)",
+          "start": "00:53.30",
+          "end": "00:54.60",
+          "start_seconds": 53.3,
+          "end_seconds": 54.6,
+          "content": "\"Very quiet.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.80",
+          "end": "00:56.20",
+          "start_seconds": 54.8,
+          "end_seconds": 56.2,
+          "content": "Over-the-shoulder shot from behind Juliana looking at the Mysterious Bearded Man watching her attentively."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.20",
+          "end": "00:58.20",
+          "start_seconds": 56.2,
+          "end_seconds": 58.2,
+          "content": "Medium close-up of Juliana turning back toward him, a soft, genuine smile illuminating her face."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Earnest, Content)",
+          "start": "00:56.40",
+          "end": "00:58.00",
+          "start_seconds": 56.4,
+          "end_seconds": 58.0,
+          "content": "\"I think I like that.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.20",
+          "end": "00:59.80",
+          "start_seconds": 58.2,
+          "end_seconds": 59.8,
+          "content": "Close-up of the Mysterious Bearded Man, slightly surprised by her reaction."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Incredulous)",
+          "start": "00:58.40",
+          "end": "01:00.00",
+          "start_seconds": 58.4,
+          "end_seconds": 60.0,
+          "content": "\"You are not disappointed?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.80",
+          "end": "01:01.30",
+          "start_seconds": 59.8,
+          "end_seconds": 61.3,
+          "content": "Medium close-up of Juliana meeting his gaze honestly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Direct, Soft)",
+          "start": "01:00.30",
+          "end": "01:01.30",
+          "start_seconds": 60.3,
+          "end_seconds": 61.3,
+          "content": "\"I am.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:01.30",
+          "end": "01:04.10",
+          "start_seconds": 61.3,
+          "end_seconds": 64.1,
+          "content": "Over-the-shoulder shot behind Juliana as the Mysterious Bearded Man listens intently."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Warm, Reassuring)",
+          "start": "01:01.90",
+          "end": "01:04.10",
+          "start_seconds": 61.9,
+          "end_seconds": 64.1,
+          "content": "\"But not because of you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.10",
+          "end": "01:06.60",
+          "start_seconds": 64.1,
+          "end_seconds": 66.6,
+          "content": "Medium shot as Juliana grabs a rag from the rustic wooden table and begins briskly scrubbing the damp surface."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Determined, Practical)",
+          "start": "01:04.30",
+          "end": "01:06.80",
+          "start_seconds": 64.3,
+          "end_seconds": 66.8,
+          "content": "\"If this is our home, I want it clean.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.60",
+          "end": "01:07.80",
+          "start_seconds": 66.6,
+          "end_seconds": 67.8,
+          "content": "Medium shot of the Mysterious Bearded Man stepping forward to intervene gently."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Caring, Tender)",
+          "start": "01:06.70",
+          "end": "01:08.70",
+          "start_seconds": 66.7,
+          "end_seconds": 68.7,
+          "content": "\"You don't have to do that tonight.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.80",
+          "end": "01:09.50",
+          "start_seconds": 67.8,
+          "end_seconds": 69.5,
+          "content": "Close-up on Juliana's hands vigorously scrubbing grime from the wooden tabletop."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.50",
+          "end": "01:12.10",
+          "start_seconds": 69.5,
+          "end_seconds": 72.1,
+          "content": "Close-up of Juliana's face, her voice catching with raw, suppressed emotion as she scrubs."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Vulnerable, Trembling)",
+          "start": "01:10.10",
+          "end": "01:13.20",
+          "start_seconds": 70.1,
+          "end_seconds": 73.2,
+          "content": "\"If I stop now, I will think about everything I lost.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.10",
+          "end": "01:14.30",
+          "start_seconds": 72.1,
+          "end_seconds": 74.3,
+          "content": "Full shot of the Mysterious Bearded Man standing motionless, his gaze filled with empathy and understanding."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:14.30",
+          "end": "01:16.80",
+          "start_seconds": 74.3,
+          "end_seconds": 76.8,
+          "content": "Instead of stopping her, the Mysterious Bearded Man kneels beside the table and begins inspecting and adjusting the wobbly table leg to help."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.30",
+          "end": "01:16.80",
+          "start_seconds": 74.3,
+          "end_seconds": 76.8,
+          "content": "Medium low shot of the Mysterious Bearded Man kneeling beside Juliana as she wipes the table."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:16.80",
+          "end": "01:17.80",
+          "start_seconds": 76.8,
+          "end_seconds": 77.8,
+          "content": "Juliana picks up a straw broom and sweeps the stone floor in front of the stone hearth."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.80",
+          "end": "01:17.80",
+          "start_seconds": 76.8,
+          "end_seconds": 77.8,
+          "content": "Wide shot of Juliana sweeping dust toward the large stone fireplace."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:17.80",
+          "end": "01:21.00",
+          "start_seconds": 77.8,
+          "end_seconds": 81.0,
+          "content": "The Mysterious Bearded Man carries a heavy wooden log across the room and places it onto the iron grate in the hearth."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.80",
+          "end": "01:21.00",
+          "start_seconds": 77.8,
+          "end_seconds": 81.0,
+          "content": "Tracking shot following the Mysterious Bearded Man as he sets the firewood into the stone fireplace."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:21.00",
+          "end": "01:23.80",
+          "start_seconds": 81.0,
+          "end_seconds": 83.8,
+          "content": "He strikes flint and steel together over dry kindling, igniting bright sparks that catch into a flickering flame."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:23.80",
+          "start_seconds": 81.0,
+          "end_seconds": 83.8,
+          "content": "Extreme close-up on hands striking flint, sparks showering onto the twigs and catching fire."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.80",
+          "end": "01:25.00",
+          "start_seconds": 83.8,
+          "end_seconds": 85.0,
+          "content": "Medium close-up of vibrant orange flames rapidly spreading across the dry logs, crackling warmly."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:23.80",
+          "end": "01:30.00",
+          "start_seconds": 83.8,
+          "end_seconds": 90.0,
+          "content": "Crisp crackling and snapping of dry wood catching fire in the hearth."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.00",
+          "end": "01:27.50",
+          "start_seconds": 85.0,
+          "end_seconds": 87.5,
+          "content": "Medium shot of Juliana standing by the table, broom resting against her hip, bathed in the amber firelight."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:27.50",
+          "end": "01:29.80",
+          "start_seconds": 87.5,
+          "end_seconds": 89.8,
+          "content": "The Mysterious Bearded Man stands up from the hearth, dusting his hands on his coat."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:27.50",
+          "end": "01:29.80",
+          "start_seconds": 87.5,
+          "end_seconds": 89.8,
+          "content": "Medium shot of the Mysterious Bearded Man rising before the blazing fireplace."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Relieved)",
+          "start": "01:29.00",
+          "end": "01:29.80",
+          "start_seconds": 89.0,
+          "end_seconds": 89.8,
+          "content": "\"There.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.80",
+          "end": "01:31.70",
+          "start_seconds": 89.8,
+          "end_seconds": 91.7,
+          "content": "Close-up of Juliana looking at him with radiant gratitude and a gentle smile."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:31.70",
+          "end": "01:33.80",
+          "start_seconds": 91.7,
+          "end_seconds": 93.8,
+          "content": "Medium close-up of the Mysterious Bearded Man gesturing faintly to the modest room."
+        },
+        {
+          "type": "dialogue",
+          "label": "MYSTERIOUS BEARDED MAN (Quiet, Modest)",
+          "start": "01:32.10",
+          "end": "01:33.60",
+          "start_seconds": 92.1,
+          "end_seconds": 93.6,
+          "content": "\"It is not much.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.80",
+          "end": "01:35.80",
+          "start_seconds": 93.8,
+          "end_seconds": 95.8,
+          "content": "Medium shot of Juliana kneeling on the stone floor before the blazing hearth, wrapping her dark cloak around her shoulders."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Soft, Comforted)",
+          "start": "01:34.20",
+          "end": "01:36.20",
+          "start_seconds": 94.2,
+          "end_seconds": 96.2,
+          "content": "\"It is enough for tonight.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:35.80",
+          "end": "01:38.20",
+          "start_seconds": 95.8,
+          "end_seconds": 98.2,
+          "content": "Wide shot framing the roaring hearth fire between them as the Mysterious Bearded Man crouches down beside her on the stone floor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.20",
+          "end": "01:41.00",
+          "start_seconds": 98.2,
+          "end_seconds": 101.0,
+          "content": "Close-up of Juliana pulling her cloak tighter, her face glowing warmly in the firelight."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Reflective, Vulnerable)",
+          "start": "01:38.40",
+          "end": "01:40.40",
+          "start_seconds": 98.4,
+          "end_seconds": 100.4,
+          "content": "\"I lost my home today.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Reflective, Vulnerable)",
+          "start": "01:40.60",
+          "end": "01:41.80",
+          "start_seconds": 100.6,
+          "end_seconds": 101.8,
+          "content": "\"My family.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:41.00",
+          "end": "01:43.00",
+          "start_seconds": 101.0,
+          "end_seconds": 103.0,
+          "content": "Close-up of the glowing embers and dancing flames inside the fireplace."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Reflective, Vulnerable)",
+          "start": "01:42.00",
+          "end": "01:44.80",
+          "start_seconds": 102.0,
+          "end_seconds": 104.8,
+          "content": "\"Everything I thought my life would be.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.00",
+          "end": "01:44.30",
+          "start_seconds": 103.0,
+          "end_seconds": 104.3,
+          "content": "Close-up on the Mysterious Bearded Man's scarred, work-worn hands resting quietly on his knees."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.30",
+          "end": "01:46.00",
+          "start_seconds": 104.3,
+          "end_seconds": 106.0,
+          "content": "Medium close-up of Juliana looking down into the flames, a peaceful serenity washing over her features."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Gentle, Surprised)",
+          "start": "01:45.00",
+          "end": "01:46.00",
+          "start_seconds": 105.0,
+          "end_seconds": 106.0,
+          "content": "\"And yet...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:46.00",
+          "end": "01:49.00",
+          "start_seconds": 106.0,
+          "end_seconds": 109.0,
+          "content": "Extreme close-up on the Mysterious Bearded Man's profile, his scarred cheek illuminated by the amber glow as he watches over her protectively."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Tender, Safe)",
+          "start": "01:46.20",
+          "end": "01:49.00",
+          "start_seconds": 106.2,
+          "end_seconds": 109.0,
+          "content": "\"Sitting here with him, I don't feel afraid.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:49.00",
+          "end": "01:51.50",
+          "start_seconds": 109.0,
+          "end_seconds": 111.5,
+          "content": "Close-up on Juliana looking up into the room with quiet hope in her blue eyes."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:51.50",
+          "end": "01:55.00",
+          "start_seconds": 111.5,
+          "end_seconds": 115.0,
+          "content": "Close-up on the crackling flames and glowing embers of the fireplace, slowly fading to black as the music swells warmly."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:51.50",
+          "end": "01:55.00",
+          "start_seconds": 111.5,
+          "end_seconds": 115.0,
+          "content": "Warm hearth crackles blending with gentle string music fading out."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-006-Episode 1671708.txt",
+  "source_sha256": "11131c5019b2c7021f376b17cfd99d6c876b8594da0ea4fe5abffda6f4db19de",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

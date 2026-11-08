@@ -1,0 +1,517 @@
+{
+  "episode_number": "Episode 15",
+  "logline": "When ruthless thugs desecrate Juliana's medicinal garden and trample her late mother's herbs, a protective Alexander charges into the night to defend her.",
+  "continuity_notes": "Follows Episode 14 where Alexander solemnly vowed Juliana would never be hurt again; Juliana's hands remain heavily bandaged from retrieving the emerald ring.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. HERBAL GARDEN - NIGHT",
+      "start": "00:00.00",
+      "end": "01:26.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.50",
+          "start_seconds": 0.0,
+          "end_seconds": 3.5,
+          "content": "High-angle wide shot of the raised planter beds illuminated by the pale moonlight as three shadowy figures march purposefully down the central stone path."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.50",
+          "start_seconds": 0.0,
+          "end_seconds": 3.5,
+          "content": "Three menacing thugs, armed with clubs and tools, stalk through the quiet herbal garden surrounded by stone walls."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.50",
+          "end": "00:05.00",
+          "start_seconds": 3.5,
+          "end_seconds": 5.0,
+          "content": "Low-angle medium shot focusing on one thug raising a heavy wooden club overhead."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:03.60",
+          "end": "00:04.90",
+          "start_seconds": 3.6,
+          "end_seconds": 4.9,
+          "content": "The thug brutally smashes his club down into a wooden planter box, shattering the frame."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:03.80",
+          "end": "00:04.90",
+          "start_seconds": 3.8,
+          "end_seconds": 4.9,
+          "content": "A splintering wooden crash echoing through the night air."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.00",
+          "end": "00:07.50",
+          "start_seconds": 5.0,
+          "end_seconds": 7.5,
+          "content": "Medium close-up of a bald thug leaning over a lush bed of white medicinal chamomile herbs."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:05.10",
+          "end": "00:07.40",
+          "start_seconds": 5.1,
+          "end_seconds": 7.4,
+          "content": "The bald thug roughly rips a massive handful of flowering herbs up by their roots, scattering soil across the path."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.50",
+          "end": "00:11.80",
+          "start_seconds": 7.5,
+          "end_seconds": 11.8,
+          "content": "Medium shot framing the open doorway of the stone cottage, bathed in warm interior light against the dark night."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:07.60",
+          "end": "00:11.80",
+          "start_seconds": 7.6,
+          "end_seconds": 11.8,
+          "content": "Juliana bursts through the cottage doorway, her hands wrapped in clean white bandages, freezing in horror at the destruction."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Alarmed)",
+          "start": "00:08.50",
+          "end": "00:11.70",
+          "start_seconds": 8.5,
+          "end_seconds": 11.7,
+          "content": "\"Stop! What are you doing?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.80",
+          "end": "00:15.80",
+          "start_seconds": 11.8,
+          "end_seconds": 15.8,
+          "content": "Medium close-up of the Thug with Cap holding the uprooted chamomile bouquet, sneering with cruel amusement."
+        },
+        {
+          "type": "dialogue",
+          "label": "THUG WITH CAP (Mocking, Smug)",
+          "start": "00:13.00",
+          "end": "00:15.70",
+          "start_seconds": 13.0,
+          "end_seconds": 15.7,
+          "content": "\"We're clearing this rubbish.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.80",
+          "end": "00:18.80",
+          "start_seconds": 15.8,
+          "end_seconds": 18.8,
+          "content": "Close-up on Juliana, her face tight with anguish and fury as she clutches her bandaged hands against her chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Furious, Pleading)",
+          "start": "00:16.40",
+          "end": "00:18.70",
+          "start_seconds": 16.4,
+          "end_seconds": 18.7,
+          "content": "\"Those are medicinal plants!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.80",
+          "end": "00:22.50",
+          "start_seconds": 18.8,
+          "end_seconds": 22.5,
+          "content": "Low-angle shot tracking down from the bald thug's grinning face to his worn leather boots on the muddy flagstones."
+        },
+        {
+          "type": "dialogue",
+          "label": "BALD THUG (Callous)",
+          "start": "00:20.00",
+          "end": "00:22.30",
+          "start_seconds": 20.0,
+          "end_seconds": 22.3,
+          "content": "\"They look like weeds to me.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:20.50",
+          "end": "00:22.50",
+          "start_seconds": 20.5,
+          "end_seconds": 22.5,
+          "content": "The bald thug flings the bouquet into the mud and grinds his heavy boot directly onto the delicate flowers."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.50",
+          "end": "00:26.80",
+          "start_seconds": 22.5,
+          "end_seconds": 26.8,
+          "content": "High-angle two-shot as Juliana rushes forward and drops directly onto her knees in the cold mud before the thug."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:22.80",
+          "end": "00:26.50",
+          "start_seconds": 22.8,
+          "end_seconds": 26.5,
+          "content": "Juliana frantically tries to scoop the crushed soil and torn stems back into the bed with her bandaged hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Choked with Tears, Desperate)",
+          "start": "00:23.20",
+          "end": "00:26.30",
+          "start_seconds": 23.2,
+          "end_seconds": 26.3,
+          "content": "\"Please! Those plants took months to grow!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.80",
+          "end": "00:31.50",
+          "start_seconds": 26.8,
+          "end_seconds": 31.5,
+          "content": "Medium two-shot of the Tall Thug with the club and the Thug with Cap bursting into raucous laughter under the full moon."
+        },
+        {
+          "type": "dialogue",
+          "label": "TALL THUG (Contemptuous, Derisive)",
+          "start": "00:27.50",
+          "end": "00:31.20",
+          "start_seconds": 27.5,
+          "end_seconds": 31.2,
+          "content": "\"Months? You actually spend your days growing this filth?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.50",
+          "end": "00:34.00",
+          "start_seconds": 31.5,
+          "end_seconds": 34.0,
+          "content": "Tight close-up of Juliana's bandaged hands trembling as she tenderly gathers the soiled white flowers from the puddles."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.00",
+          "end": "00:37.00",
+          "start_seconds": 34.0,
+          "end_seconds": 37.0,
+          "content": "Low-angle medium shot tilting up as Juliana rises from the ground, standing tall despite her trembling frame."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Firm)",
+          "start": "00:34.80",
+          "end": "00:36.80",
+          "start_seconds": 34.8,
+          "end_seconds": 36.8,
+          "content": "\"Leave my garden alone.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.00",
+          "end": "00:40.50",
+          "start_seconds": 37.0,
+          "end_seconds": 40.5,
+          "content": "Medium close-up of the Thug with Cap scoffing derisively."
+        },
+        {
+          "type": "dialogue",
+          "label": "THUG WITH CAP (Sneering, Disdainful)",
+          "start": "00:37.20",
+          "end": "00:40.40",
+          "start_seconds": 37.2,
+          "end_seconds": 40.4,
+          "content": "\"A noble lady playing in the dirt. What a joke.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.50",
+          "end": "00:44.20",
+          "start_seconds": 40.5,
+          "end_seconds": 44.2,
+          "content": "Medium close-up of Juliana, her eyes blazing with indignation and wounded pride."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Resolute, Dignified)",
+          "start": "00:41.00",
+          "end": "00:44.00",
+          "start_seconds": 41.0,
+          "end_seconds": 44.0,
+          "content": "\"It is my home. You have no right to destroy anything here.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.20",
+          "end": "00:46.50",
+          "start_seconds": 44.2,
+          "end_seconds": 46.5,
+          "content": "Tight close-up of the Thug with Cap stepping aggressively into Juliana's personal space, snarling with venom."
+        },
+        {
+          "type": "dialogue",
+          "label": "THUG WITH CAP (Menacing Snarl)",
+          "start": "00:44.80",
+          "end": "00:46.40",
+          "start_seconds": 44.8,
+          "end_seconds": 46.4,
+          "content": "\"Get out of the way!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.50",
+          "end": "00:48.00",
+          "start_seconds": 46.5,
+          "end_seconds": 48.0,
+          "content": "Extreme close-up on Juliana's piercing blue eyes and set jaw, unflinching."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Fearless)",
+          "start": "00:46.50",
+          "end": "00:47.30",
+          "start_seconds": 46.5,
+          "end_seconds": 47.3,
+          "content": "\"No.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:47.40",
+          "end": "00:49.50",
+          "start_seconds": 47.4,
+          "end_seconds": 49.5,
+          "content": "The Thug with Cap violently shoves Juliana back with both hands; she cries out as she loses her balance and crashes hard onto the wet stone path."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gasping Cry)",
+          "start": "00:47.80",
+          "end": "00:49.00",
+          "start_seconds": 47.8,
+          "end_seconds": 49.0,
+          "content": "\"Ah!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.50",
+          "end": "00:53.50",
+          "start_seconds": 49.5,
+          "end_seconds": 53.5,
+          "content": "Close-up tracking down to Juliana's hand hitting the mud next to the crushed chamomile flowers."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:50.00",
+          "end": "00:53.50",
+          "start_seconds": 50.0,
+          "end_seconds": 53.5,
+          "content": "Juliana crawls forward on her elbows; fresh crimson blood seeps profusely through her white gauze bandages as she reaches for the ruined blossoms."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.50",
+          "end": "00:56.50",
+          "start_seconds": 53.5,
+          "end_seconds": 56.5,
+          "content": "Tight close-up on Juliana's mud-streaked, tear-stained face trembling in heartbreaking agony."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Broken, Sobbing)",
+          "start": "00:53.50",
+          "end": "00:55.70",
+          "start_seconds": 53.5,
+          "end_seconds": 55.7,
+          "content": "\"My mother's plants...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.50",
+          "end": "01:00.00",
+          "start_seconds": 56.5,
+          "end_seconds": 60.0,
+          "content": "Low-angle wide shot of the three thugs pointing and laughing hysterically at her kneeling form."
+        },
+        {
+          "type": "dialogue",
+          "label": "BALD THUG (Cruel, Laughing)",
+          "start": "00:57.30",
+          "end": "00:59.80",
+          "start_seconds": 57.3,
+          "end_seconds": 59.8,
+          "content": "\"Look at her! Crying over weeds!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:00.00",
+          "end": "01:02.00",
+          "start_seconds": 60.0,
+          "end_seconds": 62.0,
+          "content": "The Tall Thug hoists his heavy wooden club above his head to crush the remaining herbs right before Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Screaming)",
+          "start": "01:00.00",
+          "end": "01:01.00",
+          "start_seconds": 60.0,
+          "end_seconds": 61.0,
+          "content": "\"Stop!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.00",
+          "end": "01:03.20",
+          "start_seconds": 62.0,
+          "end_seconds": 63.2,
+          "content": "Medium close-up of the Thug with Cap suddenly stiffening, his smug smile dropping as footsteps pound in the darkness."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.20",
+          "end": "01:07.50",
+          "start_seconds": 63.2,
+          "end_seconds": 67.5,
+          "content": "Medium tracking shot as Alexander charges past the corner of the cottage into the misty moonlight, his dark coat billowing behind him."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:03.50",
+          "end": "01:07.50",
+          "start_seconds": 63.5,
+          "end_seconds": 67.5,
+          "content": "Alexander storms forward with lethal intensity, dark hair flying, breath misting in the cold, radiating untamed rage."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.50",
+          "end": "01:13.50",
+          "start_seconds": 67.5,
+          "end_seconds": 73.5,
+          "content": "Close-up of Juliana looking up through wet lashes, trembling as shock transforms into overwhelming relief."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Whispered Breath, Stunned)",
+          "start": "01:10.50",
+          "end": "01:12.60",
+          "start_seconds": 70.5,
+          "end_seconds": 72.6,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:13.50",
+          "end": "01:15.50",
+          "start_seconds": 73.5,
+          "end_seconds": 75.5,
+          "content": "Wide shot of the three thugs wheeling around to face the dark figure approaching from the mist."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.50",
+          "end": "01:18.50",
+          "start_seconds": 75.5,
+          "end_seconds": 78.5,
+          "content": "Low-angle tracking shot from behind Alexander's broad shoulders as he steadily steps past the fallen Juliana, towering over the intruders."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:16.00",
+          "end": "01:18.50",
+          "start_seconds": 76.0,
+          "end_seconds": 78.5,
+          "content": "Alexander places himself directly between Juliana and the three thugs, staring them down with cold, deadly intent."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.50",
+          "end": "01:22.80",
+          "start_seconds": 78.5,
+          "end_seconds": 82.8,
+          "content": "Medium shot of the three thugs regrouping, the Thug with Cap feigning swagger as he grips his club."
+        },
+        {
+          "type": "dialogue",
+          "label": "THUG WITH CAP (Challenging, Arrogant)",
+          "start": "01:19.00",
+          "end": "01:22.40",
+          "start_seconds": 79.0,
+          "end_seconds": 82.4,
+          "content": "\"What? You want to fight us, veteran?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:22.80",
+          "end": "01:26.00",
+          "start_seconds": 82.8,
+          "end_seconds": 86.0,
+          "content": "Close-up of Juliana looking up with wide, anxious eyes, breath hitching in suspense as violence hangs on a knife's edge."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:24.00",
+          "end": "01:26.00",
+          "start_seconds": 84.0,
+          "end_seconds": 86.0,
+          "content": "Tense, low dramatic cello swell holding into an abrupt cliffhanger cut."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-015-Episode 1671717.txt",
+  "source_sha256": "4820cb5f1dca8b09eb9b111eb828151ea39cb8d15da729b75acb08551f573b27",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

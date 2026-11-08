@@ -1,0 +1,517 @@
+{
+  "episode_number": "Episode 12",
+  "logline": "When the Constable attempts to arrest Alexander for grand theft, Clarissa offers Juliana a sadistic ultimatum: retrieve a signet ring from frozen, razor-sharp blackthorn briars with her bare hands, or watch her husband hang.",
+  "continuity_notes": "Picks up directly from Episode 11's cliffhanger where the Constable pulls Gerald's planted gold pocket watch from Alexander's trench coat.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. COTTAGE – CONTINUOUS",
+      "start": "00:00.00",
+      "end": "01:27.21",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.60",
+          "start_seconds": 0.0,
+          "end_seconds": 4.6,
+          "content": "Medium shot of the Constable raising a set of heavy iron handcuffs, addressing Alexander sternly in front of the stone hearth."
+        },
+        {
+          "type": "dialogue",
+          "label": "CONSTABLE (Authoritative, Stern)",
+          "start": "00:00.50",
+          "end": "00:04.50",
+          "start_seconds": 0.5,
+          "end_seconds": 4.5,
+          "content": "\"Put out your hands, veteran. You are under arrest for theft.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.60",
+          "end": "00:09.10",
+          "start_seconds": 4.6,
+          "end_seconds": 9.1,
+          "content": "Medium shot of Juliana swiftly moving in front of Alexander, placing herself defiantly between him and the Constable's outstretched handcuffs."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:04.80",
+          "end": "00:06.00",
+          "start_seconds": 4.8,
+          "end_seconds": 6.0,
+          "content": "Juliana steps firmly forward, shielding Alexander with her body."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Furious, Defiant)",
+          "start": "00:05.70",
+          "end": "00:08.80",
+          "start_seconds": 5.7,
+          "end_seconds": 8.8,
+          "content": "\"No! That watch was not in his coat!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.10",
+          "end": "00:11.80",
+          "start_seconds": 9.1,
+          "end_seconds": 11.8,
+          "content": "Close-up of the Constable narrowing his eyes coldly at Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "CONSTABLE (Blunt, Unyielding)",
+          "start": "00:10.00",
+          "end": "00:11.70",
+          "start_seconds": 10.0,
+          "end_seconds": 11.7,
+          "content": "\"I found it there myself.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.80",
+          "end": "00:13.90",
+          "start_seconds": 11.8,
+          "end_seconds": 13.9,
+          "content": "Close-up of Juliana glaring back with unwavering conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Passionate, Accusatory)",
+          "start": "00:12.30",
+          "end": "00:13.90",
+          "start_seconds": 12.3,
+          "end_seconds": 13.9,
+          "content": "\"Then someone put it there!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.90",
+          "end": "00:20.80",
+          "start_seconds": 13.9,
+          "end_seconds": 20.8,
+          "content": "Medium full shot of Gerald framed in the open cottage doorway holding his riding crop, stepping inside with a patronizing, gloating grin."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Smug, Condescending)",
+          "start": "00:14.30",
+          "end": "00:20.60",
+          "start_seconds": 14.3,
+          "end_seconds": 20.6,
+          "content": "\"The proof is in his coat, Juliana. A valuable pocket watch doesn't just walk into a beggar's pocket.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.80",
+          "end": "00:23.70",
+          "start_seconds": 20.8,
+          "end_seconds": 23.7,
+          "content": "Close-up of Alexander, his scarred brow furrowed in dark, quiet defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Steady, Dangerous)",
+          "start": "00:21.60",
+          "end": "00:23.60",
+          "start_seconds": 21.6,
+          "end_seconds": 23.6,
+          "content": "\"I have never touched your property.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.70",
+          "end": "00:26.90",
+          "start_seconds": 23.7,
+          "end_seconds": 26.9,
+          "content": "Medium shot of Gerald pointing his riding crop toward them, with Clarissa hovering behind him in her violet silk gown."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Mocking, Malicious)",
+          "start": "00:23.70",
+          "end": "00:26.80",
+          "start_seconds": 23.7,
+          "end_seconds": 26.8,
+          "content": "\"Then perhaps your wife should explain why it was found in your coat.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:26.80",
+          "end": "00:28.00",
+          "start_seconds": 26.8,
+          "end_seconds": 28.0,
+          "content": "Juliana lunges a step forward, jabbing an accusing finger toward Gerald."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Enraged, Shouting)",
+          "start": "00:26.80",
+          "end": "00:27.90",
+          "start_seconds": 26.8,
+          "end_seconds": 27.9,
+          "content": "\"You planted it!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.00",
+          "end": "00:29.80",
+          "start_seconds": 28.0,
+          "end_seconds": 29.8,
+          "content": "Medium shot of Clarissa gliding past Gerald, a venomous, amused smile playing upon her lips."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Purring, Taunting)",
+          "start": "00:28.10",
+          "end": "00:30.00",
+          "start_seconds": 28.1,
+          "end_seconds": 30.0,
+          "content": "\"Oh, dear sister...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.80",
+          "end": "00:31.00",
+          "start_seconds": 29.8,
+          "end_seconds": 31.0,
+          "content": "Tight shot of Alexander's hand clenching into a tight, trembling fist against the glow of the roaring fireplace."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.00",
+          "end": "00:32.40",
+          "start_seconds": 31.0,
+          "end_seconds": 32.4,
+          "content": "Close-up of Alexander glaring daggers at Clarissa."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (O.S.) (Continuing taunt)",
+          "start": "00:30.00",
+          "end": "00:32.40",
+          "start_seconds": 30.0,
+          "end_seconds": 32.4,
+          "content": "\"...still defending your broken scrap of a man?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.40",
+          "end": "00:35.30",
+          "start_seconds": 32.4,
+          "end_seconds": 35.3,
+          "content": "Medium close-up of Juliana, her eyes narrowing with sharp perception."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Resolute)",
+          "start": "00:32.40",
+          "end": "00:35.20",
+          "start_seconds": 32.4,
+          "end_seconds": 35.2,
+          "content": "\"Name your price, Clarissa. I know you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.30",
+          "end": "00:40.00",
+          "start_seconds": 35.3,
+          "end_seconds": 40.0,
+          "content": "Medium close-up of Clarissa smiling with vicious delight."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Smooth, Derisive)",
+          "start": "00:35.40",
+          "end": "00:40.00",
+          "start_seconds": 35.4,
+          "end_seconds": 40.0,
+          "content": "\"You always were clever, Juliana. Always searching for some way to escape.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.00",
+          "end": "00:41.80",
+          "start_seconds": 40.0,
+          "end_seconds": 41.8,
+          "content": "Tight shot of Clarissa smoothing her long purple evening glove along her wrist."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Scheming)",
+          "start": "00:40.10",
+          "end": "00:41.50",
+          "start_seconds": 40.1,
+          "end_seconds": 41.5,
+          "content": "\"Perhaps I can give you one.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.80",
+          "end": "00:43.70",
+          "start_seconds": 41.8,
+          "end_seconds": 43.7,
+          "content": "Close-up of Juliana watching her with cautious skepticism."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Guarded, Cold)",
+          "start": "00:42.20",
+          "end": "00:43.50",
+          "start_seconds": 42.2,
+          "end_seconds": 43.5,
+          "content": "\"What do you want?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.70",
+          "end": "00:46.60",
+          "start_seconds": 43.7,
+          "end_seconds": 46.6,
+          "content": "Medium two-shot of Clarissa in the foreground, turning slowly to face Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Cruel, Savoring)",
+          "start": "00:44.00",
+          "end": "00:46.40",
+          "start_seconds": 44.0,
+          "end_seconds": 46.4,
+          "content": "\"I want to see you crawl, sister.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.60",
+          "end": "00:52.40",
+          "start_seconds": 46.6,
+          "end_seconds": 52.4,
+          "content": "Medium close-up profile tracking shot of Clarissa pacing slowly as she spins her sadistic tale."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Theatrical, Vindictive)",
+          "start": "00:46.70",
+          "end": "00:52.30",
+          "start_seconds": 46.7,
+          "end_seconds": 52.3,
+          "content": "\"My emerald signet ring fell deep into the frozen blackthorn briars at Ashworth Manor. The thorns have grown over it...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.40",
+          "end": "00:56.80",
+          "start_seconds": 52.4,
+          "end_seconds": 56.8,
+          "content": "Close-up of Clarissa flexing her gloved fingers theatrically in front of her face."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Chilling, Sarcastic)",
+          "start": "00:52.40",
+          "end": "00:56.70",
+          "start_seconds": 52.4,
+          "end_seconds": 56.7,
+          "content": "\"...sharp as steel. The ground is frozen, like pure ice.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:56.80",
+          "end": "00:58.00",
+          "start_seconds": 56.8,
+          "end_seconds": 58.0,
+          "content": "Gerald bursts into a loud, mocking laugh beside the stony Constable."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.80",
+          "end": "01:00.80",
+          "start_seconds": 56.8,
+          "end_seconds": 60.8,
+          "content": "Medium two-shot of Clarissa stepping closer to Juliana, peering down into her eyes with a predatory smile."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Demanding, Brutal)",
+          "start": "00:57.30",
+          "end": "01:00.60",
+          "start_seconds": 57.3,
+          "end_seconds": 60.6,
+          "content": "\"You will retrieve it with your bare hands before the magistrate arrives.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.80",
+          "end": "01:03.20",
+          "start_seconds": 60.8,
+          "end_seconds": 63.2,
+          "content": "Medium shot of Gerald tapping his whip against his palm and laughing heartily beside the Constable."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Gleeful, Derisive)",
+          "start": "01:00.80",
+          "end": "01:03.10",
+          "start_seconds": 60.8,
+          "end_seconds": 63.1,
+          "content": "\"A lady's hands will be shredded to ribbons!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.20",
+          "end": "01:05.20",
+          "start_seconds": 63.2,
+          "end_seconds": 65.2,
+          "content": "Medium three-shot of Clarissa stepping behind Juliana, as Alexander watches helplessly with dark fury."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Cold, Transactional)",
+          "start": "01:03.30",
+          "end": "01:05.10",
+          "start_seconds": 63.3,
+          "end_seconds": 65.1,
+          "content": "\"Do it, and we withdraw the charges.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:05.20",
+          "end": "01:09.50",
+          "start_seconds": 65.2,
+          "end_seconds": 69.5,
+          "content": "Extreme close-up of Clarissa's mouth leaning directly into Juliana's ear, whispering venomously."
+        },
+        {
+          "type": "dialogue",
+          "label": "CLARISSA (Whispering, Menacing)",
+          "start": "01:05.40",
+          "end": "01:09.20",
+          "start_seconds": 65.4,
+          "end_seconds": 69.2,
+          "content": "\"Fail, or refuse, and your husband hangs from the gallows.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.50",
+          "end": "01:14.00",
+          "start_seconds": 69.5,
+          "end_seconds": 74.0,
+          "content": "Medium close-up of Alexander stepping up beside Juliana, tenderly placing his large hand on her shoulder."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:09.60",
+          "end": "01:11.20",
+          "start_seconds": 69.6,
+          "end_seconds": 71.2,
+          "content": "Alexander rests his scarred hand reassuringly on Juliana's shoulder, leaning in toward her."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Desperate, Protective, Urgent)",
+          "start": "01:09.80",
+          "end": "01:13.80",
+          "start_seconds": 69.8,
+          "end_seconds": 73.8,
+          "content": "\"Juliana, no. Do not let them hurt you. I can handle the law.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.00",
+          "end": "01:21.80",
+          "start_seconds": 74.0,
+          "end_seconds": 81.8,
+          "content": "Close-up of Juliana, her eyes glistening with unshed tears, her hand gripping the fabric over her heart in agony and resolve."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:14.20",
+          "end": "01:16.00",
+          "start_seconds": 74.2,
+          "end_seconds": 76.0,
+          "content": "Juliana clutches the front of her rustic grey dress, her breathing trembling."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fierce, Emotional, Sacrificial)",
+          "start": "01:15.30",
+          "end": "01:18.20",
+          "start_seconds": 75.3,
+          "end_seconds": 78.2,
+          "content": "\"I am not letting them take you.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:21.50",
+          "end": "01:23.00",
+          "start_seconds": 81.5,
+          "end_seconds": 83.0,
+          "content": "Juliana turns her head sharply back toward Clarissa, her expression hardening with fierce resolution."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.80",
+          "end": "01:27.21",
+          "start_seconds": 81.8,
+          "end_seconds": 87.21,
+          "content": "Over-the-shoulder shot past Clarissa onto Juliana's determined face, holding on her fierce, defiant stare as the tension peaks."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Resolute)",
+          "start": "01:22.80",
+          "end": "01:24.70",
+          "start_seconds": 82.8,
+          "end_seconds": 84.7,
+          "content": "\"Tell me where the garden is.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:24.70",
+          "end": "01:27.21",
+          "start_seconds": 84.7,
+          "end_seconds": 87.21,
+          "content": "Juliana locks eyes with Clarissa without flinching as the scene freezes on her brave, sacrificial defiance."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-012-Episode 1671714.txt",
+  "source_sha256": "d3c65e83677b3d1014a1e95dead2ea621ff2a81bf565462084f3ac9f5c0c6305",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "episode_number": "Episode 1",
+  "logline": "Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.",
+  "continuity_notes": "First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. CATHEDRAL – DAY",
+      "start": "00:00.00",
+      "end": "02:18.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.80",
+          "start_seconds": 0.0,
+          "end_seconds": 4.8,
+          "content": "Symmetrical framing on the heavy church doors as they slowly part, pushing in slightly as Juliana stands framed in the light, dressed in an elegant white silk gown."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:01.00",
+          "end": "00:04.80",
+          "start_seconds": 1.0,
+          "end_seconds": 4.8,
+          "content": "Juliana pauses at the threshold, her expression bright with joyful anticipation, wearing her mother's vintage gown and an oval pendant necklace."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.80",
+          "end": "00:06.80",
+          "start_seconds": 4.8,
+          "end_seconds": 6.8,
+          "content": "High wide tracking shot following behind Juliana as she steps into the grand cathedral nave, facing the distant altar flanked by seated guests."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:06.80",
+          "end": "00:09.80",
+          "start_seconds": 6.8,
+          "end_seconds": 9.8,
+          "content": "Close-up on Juliana's face as her warm smile begins to falter into confusion."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:07.20",
+          "end": "00:09.80",
+          "start_seconds": 7.2,
+          "end_seconds": 9.8,
+          "content": "Juliana's eyes widen slightly in bewilderment as she notices something amiss at the altar."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.80",
+          "end": "00:11.00",
+          "start_seconds": 9.8,
+          "end_seconds": 11.0,
+          "content": "Medium profile shot at the altar showing Gerald in his dark tailcoat holding the gloved hand of the Lady in Gold Gown, with Juliana visible walking down the distant aisle."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.00",
+          "end": "00:13.20",
+          "start_seconds": 11.0,
+          "end_seconds": 13.2,
+          "content": "Medium shot as Juliana stops midway down the aisle, confronted by a haughty matriarch in black velvet stepping into the foreground."
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Cold, Commanding)",
+          "start": "00:11.30",
+          "end": "00:13.10",
+          "start_seconds": 11.3,
+          "end_seconds": 13.1,
+          "content": "\"You should turn around, Juliana.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Confused, Breathless)",
+          "start": "00:13.50",
+          "end": "00:14.30",
+          "start_seconds": 13.5,
+          "end_seconds": 14.3,
+          "content": "\"Why?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:14.30",
+          "end": "00:17.80",
+          "start_seconds": 14.3,
+          "end_seconds": 17.8,
+          "content": "Over-the-shoulder medium close-up past the Matriarch to Juliana, looking past her toward the altar."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Desperate, Unbelieving)",
+          "start": "00:15.50",
+          "end": "00:17.50",
+          "start_seconds": 15.5,
+          "end_seconds": 17.5,
+          "content": "\"Gerald is waiting for me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.80",
+          "end": "00:20.50",
+          "start_seconds": 17.8,
+          "end_seconds": 20.5,
+          "content": "Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless disdain."
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Blunt, Unforgiving)",
+          "start": "00:18.00",
+          "end": "00:19.40",
+          "start_seconds": 18.0,
+          "end_seconds": 19.4,
+          "content": "\"Not anymore.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.50",
+          "end": "00:23.60",
+          "start_seconds": 20.5,
+          "end_seconds": 23.6,
+          "content": "Close-up on Juliana's stricken face as the weight of the words sinks in."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Trembling, Pleading)",
+          "start": "00:21.80",
+          "end": "00:23.50",
+          "start_seconds": 21.8,
+          "end_seconds": 23.5,
+          "content": "\"What do you mean?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.60",
+          "end": "00:25.80",
+          "start_seconds": 23.6,
+          "end_seconds": 25.8,
+          "content": "Medium shot of the Matriarch gesturing dismissively toward the altar."
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Dismissive)",
+          "start": "00:23.80",
+          "end": "00:25.50",
+          "start_seconds": 23.8,
+          "end_seconds": 25.5,
+          "content": "\"Look for yourself.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:25.60",
+          "end": "00:29.80",
+          "start_seconds": 25.6,
+          "end_seconds": 29.8,
+          "content": "Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:25.80",
+          "end": "00:29.80",
+          "start_seconds": 25.8,
+          "end_seconds": 29.8,
+          "content": "Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.80",
+          "end": "00:32.80",
+          "start_seconds": 29.8,
+          "end_seconds": 32.8,
+          "content": "Panning shot across the seated wedding guests whispering and casting judging glances from the wooden pews."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.80",
+          "end": "00:33.70",
+          "start_seconds": 32.8,
+          "end_seconds": 33.7,
+          "content": "Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.70",
+          "end": "00:35.30",
+          "start_seconds": 33.7,
+          "end_seconds": 35.3,
+          "content": "Close-up on Juliana's trembling lips and shocked, tearful blue eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Shaken, Whispering)",
+          "start": "00:33.80",
+          "end": "00:35.00",
+          "start_seconds": 33.8,
+          "end_seconds": 35.0,
+          "content": "\"Gerald?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Heartbroken)",
+          "start": "00:35.40",
+          "end": "00:37.70",
+          "start_seconds": 35.4,
+          "end_seconds": 37.7,
+          "content": "\"Why are you holding her hand?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:39.00",
+          "start_seconds": 36.5,
+          "end_seconds": 39.0,
+          "content": "Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.00",
+          "end": "00:41.50",
+          "start_seconds": 39.0,
+          "end_seconds": 41.5,
+          "content": "Close-up on the Lady in Gold Gown beaming with cruel triumph."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Gloating, Smug)",
+          "start": "00:39.10",
+          "end": "00:41.20",
+          "start_seconds": 39.1,
+          "end_seconds": 41.2,
+          "content": "\"Because he is marrying me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.50",
+          "end": "00:43.90",
+          "start_seconds": 41.5,
+          "end_seconds": 43.9,
+          "content": "Close-up on Juliana as tears spill over her eyelashes."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Gasping, Devastated)",
+          "start": "00:41.70",
+          "end": "00:43.10",
+          "start_seconds": 41.7,
+          "end_seconds": 43.1,
+          "content": "\"No...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.90",
+          "end": "00:46.80",
+          "start_seconds": 43.9,
+          "end_seconds": 46.8,
+          "content": "Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.80",
+          "end": "00:50.40",
+          "start_seconds": 46.8,
+          "end_seconds": 50.4,
+          "content": "Close-up on Juliana clutching her chest, her sorrow turning into burning outrage."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Outraged, Accusing)",
+          "start": "00:46.80",
+          "end": "00:50.00",
+          "start_seconds": 46.8,
+          "end_seconds": 50.0,
+          "content": "\"You knew this before I walked through those doors!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.40",
+          "end": "00:52.00",
+          "start_seconds": 50.4,
+          "end_seconds": 52.0,
+          "content": "Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.00",
+          "end": "00:54.60",
+          "start_seconds": 52.0,
+          "end_seconds": 54.6,
+          "content": "Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Choking on Tears)",
+          "start": "00:52.80",
+          "end": "00:54.60",
+          "start_seconds": 52.8,
+          "end_seconds": 54.6,
+          "content": "\"You let me come here...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.60",
+          "end": "00:57.60",
+          "start_seconds": 54.6,
+          "end_seconds": 57.6,
+          "content": "Close-up on Juliana's tear-streaked face as she shakes with grief."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Crushed, Shaking)",
+          "start": "00:54.70",
+          "end": "00:56.90",
+          "start_seconds": 54.7,
+          "end_seconds": 56.9,
+          "content": "\"You let me dress in my mother's gown...\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Crying Out)",
+          "start": "00:57.00",
+          "end": "01:00.00",
+          "start_seconds": 57.0,
+          "end_seconds": 60.0,
+          "content": "\"You let me believe I was walking toward my husband!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:57.60",
+          "end": "01:00.10",
+          "start_seconds": 57.6,
+          "end_seconds": 60.1,
+          "content": "Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.10",
+          "end": "01:03.00",
+          "start_seconds": 60.1,
+          "end_seconds": 63.0,
+          "content": "Tight close-up on Gerald's hardened profile as he glances down."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE FORMER GROOM (Cold, Callous)",
+          "start": "01:00.10",
+          "end": "01:01.80",
+          "start_seconds": 60.1,
+          "end_seconds": 61.8,
+          "content": "\"I changed my mind.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.00",
+          "end": "01:06.00",
+          "start_seconds": 63.0,
+          "end_seconds": 66.0,
+          "content": "Extreme close-up on Juliana's furious, weeping face."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Betrayed, Piercing)",
+          "start": "01:03.40",
+          "end": "01:05.60",
+          "start_seconds": 63.4,
+          "end_seconds": 65.6,
+          "content": "\"You swore you loved me!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.00",
+          "end": "01:08.80",
+          "start_seconds": 66.0,
+          "end_seconds": 68.8,
+          "content": "Close-up on the Lady in Gold Gown smiling condescendingly."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Mocking)",
+          "start": "01:06.50",
+          "end": "01:08.80",
+          "start_seconds": 66.5,
+          "end_seconds": 68.8,
+          "content": "\"People change their minds, sister.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.80",
+          "end": "01:12.40",
+          "start_seconds": 68.8,
+          "end_seconds": 72.4,
+          "content": "Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Horrified)",
+          "start": "01:09.10",
+          "end": "01:10.40",
+          "start_seconds": 69.1,
+          "end_seconds": 70.4,
+          "content": "\"And you knew?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Unapologetic, Cheerful)",
+          "start": "01:10.60",
+          "end": "01:12.10",
+          "start_seconds": 70.6,
+          "end_seconds": 72.1,
+          "content": "\"Of course I knew.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.40",
+          "end": "01:14.60",
+          "start_seconds": 72.4,
+          "end_seconds": 74.6,
+          "content": "Close-up on Juliana, stunned by the callous depth of the conspiracy."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Trembling)",
+          "start": "01:13.10",
+          "end": "01:14.30",
+          "start_seconds": 73.1,
+          "end_seconds": 74.3,
+          "content": "\"How long?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.60",
+          "end": "01:19.00",
+          "start_seconds": 74.6,
+          "end_seconds": 79.0,
+          "content": "Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Cruel, Poised)",
+          "start": "01:15.00",
+          "end": "01:18.50",
+          "start_seconds": 75.0,
+          "end_seconds": 78.5,
+          "content": "\"Long enough to know he was never going to marry you.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:19.00",
+          "end": "01:21.00",
+          "start_seconds": 79.0,
+          "end_seconds": 81.0,
+          "content": "Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:19.00",
+          "end": "01:21.40",
+          "start_seconds": 79.0,
+          "end_seconds": 81.4,
+          "content": "Close-up on the father's hand tightly gripping the gold curved handle of his walking cane."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Desperate)",
+          "start": "01:20.10",
+          "end": "01:21.20",
+          "start_seconds": 80.1,
+          "end_seconds": 81.2,
+          "content": "\"Father...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.40",
+          "end": "01:23.70",
+          "start_seconds": 81.4,
+          "end_seconds": 83.7,
+          "content": "Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Begging)",
+          "start": "01:21.40",
+          "end": "01:23.60",
+          "start_seconds": 81.4,
+          "end_seconds": 83.6,
+          "content": "\"Tell them this is a mistake.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.70",
+          "end": "01:26.00",
+          "start_seconds": 83.7,
+          "end_seconds": 86.0,
+          "content": "Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.00",
+          "end": "01:29.50",
+          "start_seconds": 86.0,
+          "end_seconds": 89.5,
+          "content": "Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Choking, Broken)",
+          "start": "01:26.00",
+          "end": "01:28.90",
+          "start_seconds": 86.0,
+          "end_seconds": 88.9,
+          "content": "\"Father... please look at me.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:29.50",
+          "end": "01:30.80",
+          "start_seconds": 89.5,
+          "end_seconds": 90.8,
+          "content": "The father tightens his jaw and stony expression, refusing to offer a single word or look."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.50",
+          "end": "01:30.80",
+          "start_seconds": 89.5,
+          "end_seconds": 90.8,
+          "content": "Profile close-up of the father staring blankly forward."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:30.80",
+          "end": "01:35.80",
+          "start_seconds": 90.8,
+          "end_seconds": 95.8,
+          "content": "Low-angle shot looking up at the Matriarch commanding the space with regal severity."
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Stern, Resolute)",
+          "start": "01:30.90",
+          "end": "01:31.90",
+          "start_seconds": 90.9,
+          "end_seconds": 91.9,
+          "content": "\"Enough!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Disgusted)",
+          "start": "01:32.10",
+          "end": "01:35.50",
+          "start_seconds": 92.1,
+          "end_seconds": 95.5,
+          "content": "\"You have embarrassed this family long enough.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:35.80",
+          "end": "01:38.60",
+          "start_seconds": 95.8,
+          "end_seconds": 98.6,
+          "content": "Close-up on Juliana as she rises, stung by the utter betrayal."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Incredulous)",
+          "start": "01:36.20",
+          "end": "01:38.20",
+          "start_seconds": 96.2,
+          "end_seconds": 98.2,
+          "content": "\"Embarrassed you?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.60",
+          "end": "01:42.50",
+          "start_seconds": 98.6,
+          "end_seconds": 102.5,
+          "content": "Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold."
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Haughty)",
+          "start": "01:38.80",
+          "end": "01:41.50",
+          "start_seconds": 98.8,
+          "end_seconds": 101.5,
+          "content": "\"Clarissa knows how to carry herself.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (Proud)",
+          "start": "01:41.60",
+          "end": "01:45.00",
+          "start_seconds": 101.6,
+          "end_seconds": 105.0,
+          "content": "\"She has beauty, connections, and a future worth protecting.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:42.50",
+          "end": "01:45.30",
+          "start_seconds": 102.5,
+          "end_seconds": 105.3,
+          "content": "Medium profile two-shot of the Matriarch confronting Juliana face to face."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:45.30",
+          "end": "01:47.40",
+          "start_seconds": 105.3,
+          "end_seconds": 107.4,
+          "content": "Close-up on Juliana, demanding answers in spite of her humiliation."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Raw, Painful)",
+          "start": "01:45.40",
+          "end": "01:47.30",
+          "start_seconds": 105.4,
+          "end_seconds": 107.3,
+          "content": "\"And I am what?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.40",
+          "end": "01:50.00",
+          "start_seconds": 107.4,
+          "end_seconds": 110.0,
+          "content": "Medium tracking shot showing the Lady in Gold Gown stepping past Juliana toward the center."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Viciously Calm)",
+          "start": "01:47.50",
+          "end": "01:50.80",
+          "start_seconds": 107.5,
+          "end_seconds": 110.8,
+          "content": "\"You are the daughter people tolerate because they have to.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:50.00",
+          "end": "01:53.00",
+          "start_seconds": 110.0,
+          "end_seconds": 113.0,
+          "content": "Close-up on Juliana absorbing the venomous words, her breathing shallow."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY IN GOLD GOWN (Gloating)",
+          "start": "01:51.10",
+          "end": "01:53.00",
+          "start_seconds": 111.1,
+          "end_seconds": 113.0,
+          "content": "\"I am the daughter they choose.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.00",
+          "end": "01:55.20",
+          "start_seconds": 113.0,
+          "end_seconds": 115.2,
+          "content": "Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles."
+        },
+        {
+          "type": "dialogue",
+          "label": "MATRIARCH (O.S.) (Firm)",
+          "start": "01:53.30",
+          "end": "01:55.70",
+          "start_seconds": 113.3,
+          "end_seconds": 115.7,
+          "content": "\"Clarissa is the jewel of this family.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:55.20",
+          "end": "01:57.00",
+          "start_seconds": 115.2,
+          "end_seconds": 117.0,
+          "content": "Close two-shot of the Matriarch and Juliana standing side by side in profile."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:57.00",
+          "end": "01:59.50",
+          "start_seconds": 117.0,
+          "end_seconds": 119.5,
+          "content": "Medium shot framing Juliana looking directly at Gerald, who towers over her coldly."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Trembling, Dignified)",
+          "start": "01:57.00",
+          "end": "01:59.00",
+          "start_seconds": 117.0,
+          "end_seconds": 119.0,
+          "content": "\"So that is what I was worth to you?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.50",
+          "end": "02:02.50",
+          "start_seconds": 119.5,
+          "end_seconds": 122.5,
+          "content": "Close-up on Gerald's sharp jawline as he looks down at her without an ounce of remorse."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE FORMER GROOM (Scornful, Hard)",
+          "start": "01:59.80",
+          "end": "02:02.30",
+          "start_seconds": 119.8,
+          "end_seconds": 122.3,
+          "content": "\"You have nothing to offer me anymore.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:02.50",
+          "end": "02:04.20",
+          "start_seconds": 122.5,
+          "end_seconds": 124.2,
+          "content": "Extreme close-up on Juliana's eye as a single tear rolls down her cheek."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:04.20",
+          "end": "02:08.50",
+          "start_seconds": 124.2,
+          "end_seconds": 128.5,
+          "content": "Full shot tracking Gerald as he turns his back on Juliana and walks back toward Clarissa and the altar."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE FORMER GROOM (Arrogant, Dismissive)",
+          "start": "02:04.20",
+          "end": "02:07.50",
+          "start_seconds": 124.2,
+          "end_seconds": 127.5,
+          "content": "\"I cannot marry a woman of such plainness and low value...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:08.50",
+          "end": "02:11.30",
+          "start_seconds": 128.5,
+          "end_seconds": 131.3,
+          "content": "Close-up on Clarissa's radiant, conceited smile basking in Gerald's words."
+        },
+        {
+          "type": "dialogue",
+          "label": "THE FORMER GROOM (Reverent toward Clarissa)",
+          "start": "02:08.50",
+          "end": "02:11.20",
+          "start_seconds": 128.5,
+          "end_seconds": 131.2,
+          "content": "\"...when Clarissa is the true jewel of the county.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:11.30",
+          "end": "02:13.80",
+          "start_seconds": 131.3,
+          "end_seconds": 133.8,
+          "content": "Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:11.30",
+          "end": "02:13.80",
+          "start_seconds": 131.3,
+          "end_seconds": 133.8,
+          "content": "Tight insert on Juliana's white-knuckled hand clutching the gown fabric."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:13.80",
+          "end": "02:17.00",
+          "start_seconds": 133.8,
+          "end_seconds": 137.0,
+          "content": "Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:13.80",
+          "end": "02:17.00",
+          "start_seconds": 133.8,
+          "end_seconds": 137.0,
+          "content": "Juliana breathes through the agony, refusing to break down further in front of the congregation."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:15.00",
+          "end": "02:17.50",
+          "start_seconds": 135.0,
+          "end_seconds": 137.5,
+          "content": "Solemn low-pitched string drone swells to an ominous cliffhanger peak."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:17.00",
+          "end": "02:18.00",
+          "start_seconds": 137.0,
+          "end_seconds": 138.0,
+          "content": "Cut to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-001-Episode 1671703.txt",
+  "source_sha256": "9787df1d0983957589fc407cb0f2cdc0a89fcde7100c022a4741b8abfeedfa81",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

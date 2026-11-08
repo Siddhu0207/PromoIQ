@@ -1,0 +1,704 @@
+{
+  "episode_number": "Episode 45",
+  "logline": "Alexander frees Juliana from her chains and proclaims her the Duchess of Ashburton before the stunned congregation, only for an ecclesiastical authority to burst in and declare their marriage legally invalid.",
+  "continuity_notes": "Picks up directly from Episode 44's climax where Alexander walked away from Catherine towards Juliana standing in chains at the church doorway.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. CATHEDRAL NAVE – CONTINUOUS",
+      "start": "00:00.00",
+      "end": "00:48.90",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.00",
+          "start_seconds": 0.0,
+          "end_seconds": 3.0,
+          "content": "Full tracking shot following behind Alexander as he walks down the rubble-covered stone aisle toward Juliana."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:02.80",
+          "start_seconds": 0.0,
+          "end_seconds": 2.8,
+          "content": "Alexander strides purposefully down the cathedral aisle, ignoring the watching nobles as Juliana stands shackled in her rustic grey dress near the entrance."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.80",
+          "end": "00:05.00",
+          "start_seconds": 2.8,
+          "end_seconds": 5.0,
+          "content": "Medium close-up on Juliana looking down at her chained hands, tears welling in her eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Whispering, Tearful)",
+          "start": "00:03.20",
+          "end": "00:04.80",
+          "start_seconds": 3.2,
+          "end_seconds": 4.8,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.00",
+          "end": "00:08.50",
+          "start_seconds": 5.0,
+          "end_seconds": 8.5,
+          "content": "Medium shot as Alexander stops in front of Juliana and sinks onto one knee before her."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:05.20",
+          "end": "00:07.80",
+          "start_seconds": 5.2,
+          "end_seconds": 7.8,
+          "content": "Alexander drops to one knee before Juliana, looking up at her with profound devotion."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Gentle, Reassuring)",
+          "start": "00:07.40",
+          "end": "00:08.90",
+          "start_seconds": 7.4,
+          "end_seconds": 8.9,
+          "content": "\"Look at me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.80",
+          "end": "00:09.90",
+          "start_seconds": 8.8,
+          "end_seconds": 9.9,
+          "content": "Low angle close-up of Juliana looking down into Alexander's eyes with rising disbelief."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.90",
+          "end": "00:12.20",
+          "start_seconds": 9.9,
+          "end_seconds": 12.2,
+          "content": "Close-up on Alexander's hands as he unfastens the heavy iron lock and releases the chains from Juliana's bruised wrists."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:10.20",
+          "end": "00:11.80",
+          "start_seconds": 10.2,
+          "end_seconds": 11.8,
+          "content": "Heavy iron clanking as the shackles fall away."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.20",
+          "end": "00:15.00",
+          "start_seconds": 12.2,
+          "end_seconds": 15.0,
+          "content": "Close-up on Juliana's tear-streaked face as she stares intently into his eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Breathless, Overcome)",
+          "start": "00:12.50",
+          "end": "00:14.30",
+          "start_seconds": 12.5,
+          "end_seconds": 14.3,
+          "content": "\"Your eyes...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.00",
+          "end": "00:21.80",
+          "start_seconds": 15.0,
+          "end_seconds": 21.8,
+          "content": "Close-up profile of Alexander as Juliana reaches out her trembling hand to touch his bearded cheek and jawline."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:15.20",
+          "end": "00:18.50",
+          "start_seconds": 15.2,
+          "end_seconds": 18.5,
+          "content": "Juliana places her palm against Alexander's beard, feeling his scarred face as recognition dawns."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Emotional, Realizing)",
+          "start": "00:17.10",
+          "end": "00:18.70",
+          "start_seconds": 17.1,
+          "end_seconds": 18.7,
+          "content": "\"It's you.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Solemn, Loving)",
+          "start": "00:19.40",
+          "end": "00:21.50",
+          "start_seconds": 19.4,
+          "end_seconds": 21.5,
+          "content": "\"It was always me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.80",
+          "end": "00:24.50",
+          "start_seconds": 21.8,
+          "end_seconds": 24.5,
+          "content": "Medium shot as Alexander stands up and drapes a heavy crimson ducal mantle lined with ermine over Juliana's shoulders."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:21.90",
+          "end": "00:24.20",
+          "start_seconds": 21.9,
+          "end_seconds": 24.2,
+          "content": "Alexander places the ducal cloak over Juliana's rustic gown, adjusting it gently over her shoulders."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Shocked, Wondering)",
+          "start": "00:22.90",
+          "end": "00:24.40",
+          "start_seconds": 22.9,
+          "end_seconds": 24.4,
+          "content": "\"You're the Duke?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.50",
+          "end": "00:27.20",
+          "start_seconds": 24.5,
+          "end_seconds": 27.2,
+          "content": "Close-up on Alexander looking intensely into her eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Firm, Resonant)",
+          "start": "00:24.60",
+          "end": "00:27.40",
+          "start_seconds": 24.6,
+          "end_seconds": 27.4,
+          "content": "\"Alexander Ashburton. The rightful Duke of Ashburton.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.20",
+          "end": "00:29.80",
+          "start_seconds": 27.2,
+          "end_seconds": 29.8,
+          "content": "Close-up on Juliana, tears of awe spilling over her cheeks."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Incredulous, Moved)",
+          "start": "00:27.60",
+          "end": "00:29.60",
+          "start_seconds": 27.6,
+          "end_seconds": 29.6,
+          "content": "\"All this time?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.80",
+          "end": "00:35.80",
+          "start_seconds": 29.8,
+          "end_seconds": 35.8,
+          "content": "Close-up two-shot as Alexander tenderly cradles Juliana's cheek in his gloved hand."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Tender, Deep)",
+          "start": "00:30.20",
+          "end": "00:33.00",
+          "start_seconds": 30.2,
+          "end_seconds": 33.0,
+          "content": "\"You chose me when you believed I was nobody.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Sincere, Loving)",
+          "start": "00:33.20",
+          "end": "00:34.90",
+          "start_seconds": 33.2,
+          "end_seconds": 34.9,
+          "content": "\"I chose you because you were kind.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Passionate)",
+          "start": "00:35.10",
+          "end": "00:36.80",
+          "start_seconds": 35.1,
+          "end_seconds": 36.8,
+          "content": "\"You chose me when I had nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.80",
+          "end": "00:38.50",
+          "start_seconds": 35.8,
+          "end_seconds": 38.5,
+          "content": "Medium shot framed between them as Alexander holds her face with both hands, the crowd watching in stunned silence."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Resolute, Warm)",
+          "start": "00:37.00",
+          "end": "00:38.70",
+          "start_seconds": 37.0,
+          "end_seconds": 38.7,
+          "content": "\"I chose you because you had honor.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.50",
+          "end": "00:42.00",
+          "start_seconds": 38.5,
+          "end_seconds": 42.0,
+          "content": "Tight close-up on Alexander looking deep into Juliana's blue eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Earnest, Devoted)",
+          "start": "00:38.80",
+          "end": "00:41.80",
+          "start_seconds": 38.8,
+          "end_seconds": 41.8,
+          "content": "\"And I chose you because you saw the man before the title.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.00",
+          "end": "00:48.90",
+          "start_seconds": 42.0,
+          "end_seconds": 48.9,
+          "content": "Extreme close-up as Alexander and Juliana rest their foreheads and noses together in an intimate embrace."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:42.20",
+          "end": "00:48.50",
+          "start_seconds": 42.2,
+          "end_seconds": 48.5,
+          "content": "Alexander and Juliana close their eyes, breathing together with their foreheads pressed gently against one another."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Soft, Heartfelt)",
+          "start": "00:43.80",
+          "end": "00:46.00",
+          "start_seconds": 43.8,
+          "end_seconds": 46.0,
+          "content": "\"I loved you before I ever knew who you were.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Soft, Vowing)",
+          "start": "00:46.10",
+          "end": "00:48.80",
+          "start_seconds": 46.1,
+          "end_seconds": 48.8,
+          "content": "\"And I loved you before I ever dared to tell you.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. CATHEDRAL – CONTINUOUS",
+      "start": "00:48.90",
+      "end": "01:26.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.90",
+          "end": "00:51.80",
+          "start_seconds": 48.9,
+          "end_seconds": 51.8,
+          "content": "Medium shot as Alexander turns back toward the altar, where Catherine stands in her disheveled wedding gown."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:49.00",
+          "end": "00:51.50",
+          "start_seconds": 49.0,
+          "end_seconds": 51.5,
+          "content": "Catherine takes a desperate step forward, clutching her skirts and weeping."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Pleading, Desperate)",
+          "start": "00:49.80",
+          "end": "00:51.50",
+          "start_seconds": 49.8,
+          "end_seconds": 51.5,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.80",
+          "end": "00:58.20",
+          "start_seconds": 51.8,
+          "end_seconds": 58.2,
+          "content": "Medium shot as Alexander steps right up to Catherine, towering over her with righteous fury."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Furious, Cold)",
+          "start": "00:54.00",
+          "end": "00:58.00",
+          "start_seconds": 54.0,
+          "end_seconds": 58.0,
+          "content": "\"You poisoned my mother. You tortured my wife.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.20",
+          "end": "01:02.50",
+          "start_seconds": 58.2,
+          "end_seconds": 62.5,
+          "content": "Extreme close-up split profile between Alexander's angry face and Catherine's gasping, terrified expression."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Gasping, Lying)",
+          "start": "00:58.20",
+          "end": "00:59.80",
+          "start_seconds": 58.2,
+          "end_seconds": 59.8,
+          "content": "\"I didn't know!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Thunderous, Biting)",
+          "start": "01:00.00",
+          "end": "01:02.40",
+          "start_seconds": 60.0,
+          "end_seconds": 62.4,
+          "content": "\"You knew exactly what you were doing!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.50",
+          "end": "01:07.00",
+          "start_seconds": 62.5,
+          "end_seconds": 67.0,
+          "content": "Medium close-up of Alexander turning slightly toward the gathered congregation as his voice rings across the cathedral."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Booming, Condemning)",
+          "start": "01:02.60",
+          "end": "01:06.80",
+          "start_seconds": 62.6,
+          "end_seconds": 66.8,
+          "content": "\"You hurt the two women who mattered most to me: my mother, and my wife.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.00",
+          "end": "01:11.20",
+          "start_seconds": 67.0,
+          "end_seconds": 71.2,
+          "content": "Close-up on Catherine's devastated, terrified face as the word shatters her entire worldview."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Trembling, Stunned)",
+          "start": "01:08.80",
+          "end": "01:10.50",
+          "start_seconds": 68.8,
+          "end_seconds": 70.5,
+          "content": "\"Wife?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.20",
+          "end": "01:14.50",
+          "start_seconds": 71.2,
+          "end_seconds": 74.5,
+          "content": "Grand wide shot of the ruined cathedral nave as Alexander takes Juliana's hand and walks her proudly down the center aisle."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:11.20",
+          "end": "01:14.50",
+          "start_seconds": 71.2,
+          "end_seconds": 74.5,
+          "content": "Alexander and Juliana advance side-by-side between the rows of shocked aristocratic guests."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Authoritative, Resounding)",
+          "start": "01:11.50",
+          "end": "01:14.00",
+          "start_seconds": 71.5,
+          "end_seconds": 74.0,
+          "content": "\"Before the Crown and before God...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.50",
+          "end": "01:20.50",
+          "start_seconds": 74.5,
+          "end_seconds": 80.5,
+          "content": "Medium shot as Alexander stops in the center of the nave and raises Juliana's hand high above their heads."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:14.60",
+          "end": "01:20.00",
+          "start_seconds": 74.6,
+          "end_seconds": 80.0,
+          "content": "Alexander hoists Juliana's hand triumphantly into the air, presenting her to the nobility."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Proclaiming, Powerful)",
+          "start": "01:14.80",
+          "end": "01:20.40",
+          "start_seconds": 74.8,
+          "end_seconds": 80.4,
+          "content": "\"Lady Juliana Ashcroft is my lawful wife... and the Duchess of Ashburton!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:20.50",
+          "end": "01:23.50",
+          "start_seconds": 80.5,
+          "end_seconds": 83.5,
+          "content": "Close-up on Rupert and Mary standing in the pews, their eyes wide with horrified disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "RUPERT (Gasping, Shellshocked)",
+          "start": "01:21.50",
+          "end": "01:23.00",
+          "start_seconds": 81.5,
+          "end_seconds": 83.0,
+          "content": "\"Juliana?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.50",
+          "end": "01:26.50",
+          "start_seconds": 83.5,
+          "end_seconds": 86.5,
+          "content": "Wide shot of Alexander and Juliana standing proudly together, exchanging a loving gaze amid the awestruck crowd."
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. CATHEDRAL ENTRANCE – CONTINUOUS",
+      "start": "01:26.50",
+      "end": "02:01.75",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:30.50",
+          "start_seconds": 86.5,
+          "end_seconds": 90.5,
+          "content": "Wide tracking shot down the cathedral aisle as the massive wooden entrance doors slam open, framed by blinding daylight and mist."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:26.50",
+          "end": "01:28.20",
+          "start_seconds": 86.5,
+          "end_seconds": 88.2,
+          "content": "Loud, echoing thud of cathedral doors swinging open violently."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:27.50",
+          "end": "01:31.00",
+          "start_seconds": 87.5,
+          "end_seconds": 91.0,
+          "content": "A Catholic Bishop in dark vestments steps through the cathedral doors accompanied by an armed Crown officer."
+        },
+        {
+          "type": "dialogue",
+          "label": "HIGH PRIEST (Booming, Stern)",
+          "start": "01:28.40",
+          "end": "01:30.80",
+          "start_seconds": 88.4,
+          "end_seconds": 90.8,
+          "content": "\"No one will bow yet!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:30.80",
+          "end": "01:33.00",
+          "start_seconds": 90.8,
+          "end_seconds": 93.0,
+          "content": "Low-angle shot on Alexander and Juliana turning in alarm toward the rear of the cathedral."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.00",
+          "end": "01:41.20",
+          "start_seconds": 93.0,
+          "end_seconds": 101.2,
+          "content": "Medium shot of the High Priest striding down the aisle, holding up an official royal parchment bearing red wax seals."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:33.20",
+          "end": "01:41.00",
+          "start_seconds": 93.2,
+          "end_seconds": 101.0,
+          "content": "The Priest holds up the sealed royal proclamation, holding his rosary beads as he marches forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "HIGH PRIEST (Commanding, Severe)",
+          "start": "01:33.20",
+          "end": "01:41.10",
+          "start_seconds": 93.2,
+          "end_seconds": 101.1,
+          "content": "\"This ceremony was performed without a Crown marriage license, by a priest without authority to sanctify a ducal union.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:41.20",
+          "end": "01:45.80",
+          "start_seconds": 101.2,
+          "end_seconds": 105.8,
+          "content": "Close-up on the High Priest unfolding the document, reading aloud to the congregation."
+        },
+        {
+          "type": "dialogue",
+          "label": "HIGH PRIEST (Stern, Official)",
+          "start": "01:41.50",
+          "end": "01:45.50",
+          "start_seconds": 101.5,
+          "end_seconds": 105.5,
+          "content": "\"These vows were never entered into the Royal Matrimonial Register.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:45.80",
+          "end": "01:48.80",
+          "start_seconds": 105.8,
+          "end_seconds": 108.8,
+          "content": "Medium shot of Alexander shielding Juliana behind him as the Crown officer approaches with drawn sword."
+        },
+        {
+          "type": "dialogue",
+          "label": "HIGH PRIEST (O.S.) (Harsh, Resolute)",
+          "start": "01:46.20",
+          "end": "01:48.80",
+          "start_seconds": 106.2,
+          "end_seconds": 108.8,
+          "content": "\"Before the Crown, you are not Duchess of Ashburton.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:48.80",
+          "end": "01:53.20",
+          "start_seconds": 108.8,
+          "end_seconds": 113.2,
+          "content": "Close-up of the High Priest scowling directly at Juliana with unyielding authority."
+        },
+        {
+          "type": "dialogue",
+          "label": "HIGH PRIEST (Unyielding, Condemning)",
+          "start": "01:49.00",
+          "end": "01:53.00",
+          "start_seconds": 109.0,
+          "end_seconds": 113.0,
+          "content": "\"You are not Alexander Ashburton's lawful wife.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.20",
+          "end": "01:57.50",
+          "start_seconds": 113.2,
+          "end_seconds": 117.5,
+          "content": "Close-up two-shot of Juliana gasping in terror, clutching Alexander's hand tightly as Alexander glares at the Priest."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:53.50",
+          "end": "01:57.20",
+          "start_seconds": 113.5,
+          "end_seconds": 117.2,
+          "content": "Juliana looks up at Alexander in sudden panic, her fingers gripping his leather-gloved hand."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:57.50",
+          "end": "02:01.75",
+          "start_seconds": 117.5,
+          "end_seconds": 121.75,
+          "content": "Slow push-in close-up on Catherine beneath her veil, her initial despair morphing into a cold, venomous, triumphant smile as the episode cuts."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:58.00",
+          "end": "02:01.75",
+          "start_seconds": 118.0,
+          "end_seconds": 121.75,
+          "content": "Catherine raises her chin, a vindictive smirk spreading across her lips as she realizes her rival's claim has just been torn to pieces."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-045-Episode 1686805.txt",
+  "source_sha256": "3424e374024cd00f62363ff74cc760257a974bf2c966796922d6ee99beade3db",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

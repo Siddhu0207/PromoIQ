@@ -1,0 +1,686 @@
+{
+  "episode_number": "Episode 35",
+  "logline": "Fleeing her captivity through a secret passage, Alexander's elderly mother treks through a bitter blizzard to a secluded cabin, where she tearfully reunites with her presumed-dead son and learns the horrifying conspiracy behind his supposed demise.",
+  "continuity_notes": "While Juliana faces trial and sentencing in the courtroom, this episode reveals Alexander's mother escaping confinement and tracking down Alexander in his mountain hideout, uncovering the dark treason that orchestrates both their fates.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. STONE CORRIDOR - NIGHT",
+      "start": "00:00.00",
+      "end": "00:15.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:05.20",
+          "start_seconds": 0.0,
+          "end_seconds": 5.2,
+          "content": "Medium tracking shot following an elderly hooded woman clutching an iron lantern as she stumbles anxiously through a damp subterranean stone tunnel."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:05.20",
+          "start_seconds": 0.0,
+          "end_seconds": 5.2,
+          "content": "Alexander's mother, frail with silver hair under a dark hooded cloak, braces her hand against the rough stone wall, panting heavily in fear."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Determined, Breathless)",
+          "start": "00:05.50",
+          "end": "00:08.50",
+          "start_seconds": 5.5,
+          "end_seconds": 8.5,
+          "content": "\"I will not die in that house.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.00",
+          "end": "00:12.80",
+          "start_seconds": 9.0,
+          "end_seconds": 12.8,
+          "content": "Close-up on her trembling, weathered hands gripping a mossy stone bolt set into a heavy iron plate on the stone wall."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:09.50",
+          "end": "00:12.80",
+          "start_seconds": 9.5,
+          "end_seconds": 12.8,
+          "content": "She uses all her strength to shove the stone bolt upward, disengaging the hidden lock mechanism."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:11.20",
+          "end": "00:13.00",
+          "start_seconds": 11.2,
+          "end_seconds": 13.0,
+          "content": "Heavy stone grating and metallic latch clanging as the lock releases."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:13.00",
+          "end": "00:15.50",
+          "start_seconds": 13.0,
+          "end_seconds": 15.5,
+          "content": "The heavy stone doorway swings inward, and the elderly woman ducks low, crawling through the opening into the cold night outside."
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "EXT. SNOWY FOREST / CABIN - NIGHT",
+      "start": "00:15.50",
+      "end": "00:27.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.50",
+          "end": "00:19.50",
+          "start_seconds": 15.5,
+          "end_seconds": 19.5,
+          "content": "Wide atmospheric shot of a deep, snow-covered pine forest at night. In the distance stands a small secluded log cabin nestled under towering snowy trees."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:15.50",
+          "end": "00:19.50",
+          "start_seconds": 15.5,
+          "end_seconds": 19.5,
+          "content": "Alexander's mother plods through the thick snow, leaning heavily on a wooden walking stick, her dark cloak dusted with snow."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:16.00",
+          "end": "00:19.50",
+          "start_seconds": 16.0,
+          "end_seconds": 19.5,
+          "content": "Howling winter wind and crunching of footsteps in deep snow."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.50",
+          "end": "00:24.00",
+          "start_seconds": 19.5,
+          "end_seconds": 24.0,
+          "content": "Medium close-up of Alexander's mother arriving beside the frosted wooden door frame under sharp hanging icicles, shivering violently from the freezing cold."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Whispering, Weary)",
+          "start": "00:21.00",
+          "end": "00:23.00",
+          "start_seconds": 21.0,
+          "end_seconds": 23.0,
+          "content": "\"This must be the place.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.00",
+          "end": "00:27.50",
+          "start_seconds": 24.0,
+          "end_seconds": 27.5,
+          "content": "Close-up on her wool-gloved hand unlatching the icy wooden door handle and pushing it open."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:24.80",
+          "end": "00:27.00",
+          "start_seconds": 24.8,
+          "end_seconds": 27.0,
+          "content": "Creak of cold wooden hinges opening."
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. SECLUDED CABIN - CONTINUOUS",
+      "start": "00:27.50",
+      "end": "02:37.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.50",
+          "end": "00:30.80",
+          "start_seconds": 27.5,
+          "end_seconds": 30.8,
+          "content": "Panning shot from the open doorway revealing the warm, dimly lit cabin interior, settling on Alexander standing over a rustic wooden table by lantern light."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:28.50",
+          "end": "00:30.80",
+          "start_seconds": 28.5,
+          "end_seconds": 30.8,
+          "content": "Alexander, wearing a rugged trench coat, his scarred face framed by long dark hair, stands studying an unfolded tactical map before snapping his head up in alarm."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.80",
+          "end": "00:33.80",
+          "start_seconds": 30.8,
+          "end_seconds": 33.8,
+          "content": "Medium shot of Alexander's mother stepping across the threshold, holding up her burning lantern, her eyes wide with shock."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.80",
+          "end": "00:36.50",
+          "start_seconds": 33.8,
+          "end_seconds": 36.5,
+          "content": "Extreme close-up on Alexander's scarred left cheek and wide, disbelieving blue eyes."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:40.50",
+          "start_seconds": 36.5,
+          "end_seconds": 40.5,
+          "content": "Close-up on his mother's tear-streaked face as her chin trembles and tears spill down her cheeks."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Sobbing, Stunned)",
+          "start": "00:37.00",
+          "end": "00:40.00",
+          "start_seconds": 37.0,
+          "end_seconds": 40.0,
+          "content": "\"Alexander!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.50",
+          "end": "00:44.20",
+          "start_seconds": 40.5,
+          "end_seconds": 44.2,
+          "content": "Close-up on Alexander as his hard expression crumbles into utter astonishment."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Breathless, In Disbelief)",
+          "start": "00:42.50",
+          "end": "00:44.20",
+          "start_seconds": 42.5,
+          "end_seconds": 44.2,
+          "content": "\"Mother?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:44.20",
+          "end": "00:47.50",
+          "start_seconds": 44.2,
+          "end_seconds": 47.5,
+          "content": "She drops her walking staff and rushes forward, throwing her arms around Alexander's neck. He pulls her tightly into his chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Weeping, Overwhelmed)",
+          "start": "00:45.50",
+          "end": "00:48.00",
+          "start_seconds": 45.5,
+          "end_seconds": 48.0,
+          "content": "\"You're alive.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Gentle, Choked Up)",
+          "start": "00:48.00",
+          "end": "00:49.80",
+          "start_seconds": 48.0,
+          "end_seconds": 49.8,
+          "content": "\"Mother.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:50.00",
+          "end": "00:55.50",
+          "start_seconds": 50.0,
+          "end_seconds": 55.5,
+          "content": "She leans back slightly, her frail hand reaching up to gently cup his bearded, scarred cheek, staring into his eyes in disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Tearful, Heartbroken)",
+          "start": "00:52.50",
+          "end": "00:55.00",
+          "start_seconds": 52.5,
+          "end_seconds": 55.0,
+          "content": "\"I buried you.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Soft, Somber)",
+          "start": "00:56.50",
+          "end": "00:58.00",
+          "start_seconds": 56.5,
+          "end_seconds": 58.0,
+          "content": "\"I know.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Anguished, Accusing)",
+          "start": "00:59.50",
+          "end": "01:06.00",
+          "start_seconds": 59.5,
+          "end_seconds": 66.0,
+          "content": "\"They told me you died. They told me your entire regiment was destroyed.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.50",
+          "end": "01:11.00",
+          "start_seconds": 66.5,
+          "end_seconds": 71.0,
+          "content": "Close-up on Alexander's hardened, shadowed profile, his jaw tight with grim memories."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Dark, Resigned)",
+          "start": "01:08.50",
+          "end": "01:10.80",
+          "start_seconds": 68.5,
+          "end_seconds": 70.8,
+          "content": "\"Most of them were.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Searching, Desperate)",
+          "start": "01:11.50",
+          "end": "01:14.00",
+          "start_seconds": 71.5,
+          "end_seconds": 74.0,
+          "content": "\"Then how did you survive?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.20",
+          "end": "01:18.00",
+          "start_seconds": 74.2,
+          "end_seconds": 78.0,
+          "content": "Side profile of Alexander as his eyes look into the distance, haunted by the past."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grim, Quiet)",
+          "start": "01:15.00",
+          "end": "01:17.50",
+          "start_seconds": 75.0,
+          "end_seconds": 77.5,
+          "content": "\"I wasn't supposed to.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:18.00",
+          "end": "01:22.50",
+          "start_seconds": 78.0,
+          "end_seconds": 82.5,
+          "content": "Alexander steps over to the wooden table, looking down at the parchment map spread out under the lantern."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Solemn)",
+          "start": "01:19.00",
+          "end": "01:23.00",
+          "start_seconds": 79.0,
+          "end_seconds": 83.0,
+          "content": "\"Three years ago, I was sent to the Iberian front.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.00",
+          "end": "01:27.00",
+          "start_seconds": 83.0,
+          "end_seconds": 87.0,
+          "content": "Close-up of Alexander's weathered face looking down pensively as he recounts the mission."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Steady, Focused)",
+          "start": "01:23.00",
+          "end": "01:29.00",
+          "start_seconds": 83.0,
+          "end_seconds": 89.0,
+          "content": "\"It was a classified Crown mission. We were investigating a British officer selling military secrets to French spies.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:27.00",
+          "end": "01:29.80",
+          "start_seconds": 87.0,
+          "end_seconds": 89.8,
+          "content": "Alexander's scarred finger points to a red-circled location on the parchment map marked near Madrid."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.80",
+          "end": "01:32.00",
+          "start_seconds": 89.8,
+          "end_seconds": 92.0,
+          "content": "Close-up on his mother, gasping with wide, horrified eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Shocked)",
+          "start": "01:29.80",
+          "end": "01:31.50",
+          "start_seconds": 89.8,
+          "end_seconds": 91.5,
+          "content": "\"A traitor?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Firm)",
+          "start": "01:32.00",
+          "end": "01:33.20",
+          "start_seconds": 92.0,
+          "end_seconds": 93.2,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.50",
+          "end": "01:37.50",
+          "start_seconds": 93.5,
+          "end_seconds": 97.5,
+          "content": "Medium shot framing both of them across the wooden table bathed in amber lantern glow."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grave)",
+          "start": "01:34.50",
+          "end": "01:37.00",
+          "start_seconds": 94.5,
+          "end_seconds": 97.0,
+          "content": "\"We were close to finding him.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Hardened)",
+          "start": "01:38.50",
+          "end": "01:41.00",
+          "start_seconds": 98.5,
+          "end_seconds": 101.0,
+          "content": "\"Then came the ambush.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:41.20",
+          "end": "01:44.20",
+          "start_seconds": 101.2,
+          "end_seconds": 104.2,
+          "content": "Close-up on Alexander's scarred hand clenching into a fist, furiously crumbling the parchment map beneath his knuckles."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Bitter, Painful)",
+          "start": "01:41.50",
+          "end": "01:44.20",
+          "start_seconds": 101.5,
+          "end_seconds": 104.2,
+          "content": "\"My men were slaughtered.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.20",
+          "end": "01:46.50",
+          "start_seconds": 104.2,
+          "end_seconds": 106.5,
+          "content": "Close-up of his mother clutching at her throat, tears glistening in her eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Trembling, Anxious)",
+          "start": "01:44.50",
+          "end": "01:46.00",
+          "start_seconds": 104.5,
+          "end_seconds": 106.0,
+          "content": "\"And you?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Hollow)",
+          "start": "01:47.00",
+          "end": "01:50.00",
+          "start_seconds": 107.0,
+          "end_seconds": 110.0,
+          "content": "\"I was shot. Left for dead.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:50.00",
+          "end": "01:53.50",
+          "start_seconds": 110.0,
+          "end_seconds": 113.5,
+          "content": "Medium shot of his mother placing both hands on the table, leaning forward in disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Pleading, Astonished)",
+          "start": "01:51.00",
+          "end": "01:53.00",
+          "start_seconds": 111.0,
+          "end_seconds": 113.0,
+          "content": "\"How did you escape?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.50",
+          "end": "01:58.00",
+          "start_seconds": 113.5,
+          "end_seconds": 118.0,
+          "content": "Close-up on Alexander, his eyes dark with the harrowing memory."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Somber, Low)",
+          "start": "01:54.00",
+          "end": "01:58.00",
+          "start_seconds": 114.0,
+          "end_seconds": 118.0,
+          "content": "\"I crawled away from the battlefield, half dead, alone.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Continuing)",
+          "start": "01:58.20",
+          "end": "02:02.00",
+          "start_seconds": 118.2,
+          "end_seconds": 122.0,
+          "content": "\"I survived because the men who came looking for me believed I was already dead.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:02.00",
+          "end": "02:05.50",
+          "start_seconds": 122.0,
+          "end_seconds": 125.5,
+          "content": "Close-up on his mother as her expression shifts to profound bewilderment and outrage."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Aghast, Stunned)",
+          "start": "02:02.00",
+          "end": "02:05.50",
+          "start_seconds": 122.0,
+          "end_seconds": 125.5,
+          "content": "\"Then why did they never tell us?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:05.50",
+          "end": "02:09.50",
+          "start_seconds": 125.5,
+          "end_seconds": 129.5,
+          "content": "Close-up on Alexander's intense, piercing gaze."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Ominous, Deliberate)",
+          "start": "02:06.00",
+          "end": "02:09.50",
+          "start_seconds": 126.0,
+          "end_seconds": 129.5,
+          "content": "\"Because someone wanted you to believe I was dead.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Breathless)",
+          "start": "02:09.50",
+          "end": "02:10.50",
+          "start_seconds": 129.5,
+          "end_seconds": 130.5,
+          "content": "\"Who?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:10.50",
+          "end": "02:14.00",
+          "start_seconds": 130.5,
+          "end_seconds": 134.0,
+          "content": "Alexander turns away toward the frosted window, staring out into the dark raging blizzard outside."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Brooding)",
+          "start": "02:11.00",
+          "end": "02:14.00",
+          "start_seconds": 131.0,
+          "end_seconds": 134.0,
+          "content": "\"I spent three years trying to find out.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:14.00",
+          "end": "02:16.80",
+          "start_seconds": 134.0,
+          "end_seconds": 136.8,
+          "content": "Alexander abruptly pushes away from the window, storming back toward the table with burning rage."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Fierce, Resolute)",
+          "start": "02:14.00",
+          "end": "02:17.00",
+          "start_seconds": 134.0,
+          "end_seconds": 137.0,
+          "content": "\"The ambush was not an accident.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:17.00",
+          "end": "02:24.00",
+          "start_seconds": 137.0,
+          "end_seconds": 144.0,
+          "content": "He leans heavily over the wooden table, looming close as his fury boils over."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Vehement, Enraged)",
+          "start": "02:17.00",
+          "end": "02:20.50",
+          "start_seconds": 137.0,
+          "end_seconds": 140.5,
+          "content": "\"Someone ordered my men to die.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Darkly Intimating)",
+          "start": "02:21.00",
+          "end": "02:24.00",
+          "start_seconds": 141.0,
+          "end_seconds": 144.0,
+          "content": "\"Someone wanted me erased.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Gasping, Terrified)",
+          "start": "02:24.00",
+          "end": "02:25.00",
+          "start_seconds": 144.0,
+          "end_seconds": 145.0,
+          "content": "\"Who?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:25.00",
+          "end": "02:30.50",
+          "start_seconds": 145.0,
+          "end_seconds": 150.5,
+          "content": "Tight close-up on Alexander's scarred, grim visage, his voice dropping to a deadly chill."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Deadly, Chilling)",
+          "start": "02:25.50",
+          "end": "02:30.00",
+          "start_seconds": 145.5,
+          "end_seconds": 150.0,
+          "content": "\"The men behind it... are the same men ruling Ashwood now.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:30.50",
+          "end": "02:37.50",
+          "start_seconds": 150.5,
+          "end_seconds": 157.5,
+          "content": "Close-up on his mother's face as the horrifying realization hits her, her mouth open in a soundless gasp of sheer dread as the scene holds and slowly fades."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:30.80",
+          "end": "02:37.50",
+          "start_seconds": 150.8,
+          "end_seconds": 157.5,
+          "content": "A sudden, ominous orchestral crescendo swells dramatically into silence."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-035-Episode 1681368.txt",
+  "source_sha256": "07326970ef3d6f070ac1d6590c28721fda574046ea5e3885daec412a9f2d9ea6",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

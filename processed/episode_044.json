@@ -1,0 +1,516 @@
+{
+  "episode_number": "Episode 44",
+  "logline": "As Lord Sterling and Rupert are apprehended by the Crown, Catherine pleads with Alexander for their past love, only to be coldly rejected as he walks toward his chained bride, Juliana.",
+  "continuity_notes": "Picks up immediately from Episode 43's cliffhanger at the church side exit; Lord Sterling's escape is blocked by the Police Constable, leading into the downfall of the conspirators.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. RUINED CATHEDRAL - SIDE ENTRANCE – DAY",
+      "start": "00:00.00",
+      "end": "00:13.80",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.20",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2,
+          "content": "Low-angle shot framing the towering stone archway as a stern Police Constable steps through the heavy open doors, blocking Lord Sterling's path."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.20",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2,
+          "content": "The Police Constable strides firmly down the steps and halts right in front of Lord Sterling, holding his ground."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.20",
+          "end": "00:08.60",
+          "start_seconds": 3.2,
+          "end_seconds": 8.6,
+          "content": "Medium two-shot of the Police Constable towering over Lord Sterling."
+        },
+        {
+          "type": "dialogue",
+          "label": "POLICE CONSTABLE (Authoritative, Stern)",
+          "start": "00:03.30",
+          "end": "00:08.20",
+          "start_seconds": 3.3,
+          "end_seconds": 8.2,
+          "content": "\"Lord Henry Sterling, you are under arrest by order of the Crown.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.60",
+          "end": "00:11.40",
+          "start_seconds": 8.6,
+          "end_seconds": 11.4,
+          "content": "Close-up on Lord Sterling's trembling, indignant face."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD STERLING (Snarls, Outraged)",
+          "start": "00:09.10",
+          "end": "00:11.20",
+          "start_seconds": 9.1,
+          "end_seconds": 11.2,
+          "content": "\"You have no authority!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.40",
+          "end": "00:13.80",
+          "start_seconds": 11.4,
+          "end_seconds": 13.8,
+          "content": "Close-up on the Constable's black-gloved hands holding out a thick, red-ribboned dossier stamped with the Crown's royal wax seal."
+        },
+        {
+          "type": "dialogue",
+          "label": "POLICE CONSTABLE (Cold, Definite)",
+          "start": "00:11.40",
+          "end": "00:13.20",
+          "start_seconds": 11.4,
+          "end_seconds": 13.2,
+          "content": "\"I have more than enough.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. RUINED CATHEDRAL - ALTAR & NAVE – CONTINUOUS",
+      "start": "00:13.80",
+      "end": "01:10.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.80",
+          "end": "00:16.40",
+          "start_seconds": 13.8,
+          "end_seconds": 16.4,
+          "content": "Wide shot of the ruined nave littered with rubble as royal redcoat guards surround the aisle, forcing Rupert down onto his knees."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:14.00",
+          "end": "00:16.40",
+          "start_seconds": 14.0,
+          "end_seconds": 16.4,
+          "content": "A royal redcoat guard firmly forces Rupert down into the stone dust."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Frantic, Shouting)",
+          "start": "00:14.00",
+          "end": "00:16.80",
+          "start_seconds": 14.0,
+          "end_seconds": 16.8,
+          "content": "\"Get your hands off me! Catherine!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.40",
+          "end": "00:19.40",
+          "start_seconds": 16.4,
+          "end_seconds": 19.4,
+          "content": "Close-up on Rupert struggling fiercely against the white-gloved grip of the guard pinning his shoulder."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Desperate, Screaming)",
+          "start": "00:17.40",
+          "end": "00:19.30",
+          "start_seconds": 17.4,
+          "end_seconds": 19.3,
+          "content": "\"Do something!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.40",
+          "end": "00:22.00",
+          "start_seconds": 19.4,
+          "end_seconds": 22.0,
+          "content": "Medium close-up on Catherine beneath her bridal veil, looking downward in conflicted silence."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:21.80",
+          "end": "00:24.40",
+          "start_seconds": 21.8,
+          "end_seconds": 24.4,
+          "content": "Catherine's satin-gloved hand clenches tightly into a trembling fist against the folds of her ornate gown."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.00",
+          "end": "00:24.40",
+          "start_seconds": 22.0,
+          "end_seconds": 24.4,
+          "content": "Close-up on Catherine's gloved hand tightening into a fist."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.40",
+          "end": "00:27.80",
+          "start_seconds": 24.4,
+          "end_seconds": 27.8,
+          "content": "Wide shot as Catherine gathers her heavy train and steps away from Rupert, walking toward Alexander who stands watching her stoically."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Shaken, Tearful)",
+          "start": "00:25.20",
+          "end": "00:28.00",
+          "start_seconds": 25.2,
+          "end_seconds": 28.0,
+          "content": "\"Alexander... I thought you had died.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.80",
+          "end": "00:31.20",
+          "start_seconds": 27.8,
+          "end_seconds": 31.2,
+          "content": "Close-up on Catherine's face, tears glistening in her eyes as grief breaks through her composure."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Choked, Weeping)",
+          "start": "00:28.40",
+          "end": "00:31.00",
+          "start_seconds": 28.4,
+          "end_seconds": 31.0,
+          "content": "\"Do you know what this did to me?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.20",
+          "end": "00:32.40",
+          "start_seconds": 31.2,
+          "end_seconds": 32.4,
+          "content": "Medium shot on Alexander standing tall in his ducal coat, his gaze utterly detached."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (O.S.) (Pleading)",
+          "start": "00:31.20",
+          "end": "00:32.40",
+          "start_seconds": 31.2,
+          "end_seconds": 32.4,
+          "content": "\"I mourned you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.40",
+          "end": "00:34.00",
+          "start_seconds": 32.4,
+          "end_seconds": 34.0,
+          "content": "Profile close-up of Catherine as a tear slips down her cheek."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Vulnerable, Trembling)",
+          "start": "00:32.40",
+          "end": "00:34.00",
+          "start_seconds": 32.4,
+          "end_seconds": 34.0,
+          "content": "\"I waited for you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.00",
+          "end": "00:35.80",
+          "start_seconds": 34.0,
+          "end_seconds": 35.8,
+          "content": "Medium shot of Catherine standing in the center of the aisle before the seated congregation."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Heartbroken)",
+          "start": "00:34.20",
+          "end": "00:38.80",
+          "start_seconds": 34.2,
+          "end_seconds": 38.8,
+          "content": "\"For three years, I believed the man I loved was buried somewhere across the sea.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.80",
+          "end": "00:38.80",
+          "start_seconds": 35.8,
+          "end_seconds": 38.8,
+          "content": "Tracking two-shot over Alexander's shoulder as Catherine approaches him pleadingly."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.80",
+          "end": "00:41.20",
+          "start_seconds": 38.8,
+          "end_seconds": 41.2,
+          "content": "Close profile two-shot as Catherine gently reaches her gloved hand up to Alexander's bearded cheek."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Whispering, Longing)",
+          "start": "00:38.90",
+          "end": "00:41.20",
+          "start_seconds": 38.9,
+          "end_seconds": 41.2,
+          "content": "\"I never stopped loving you.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:41.20",
+          "end": "00:42.80",
+          "start_seconds": 41.2,
+          "end_seconds": 42.8,
+          "content": "Alexander abruptly pulls his face back, refusing her touch and leaving her hand suspended in mid-air."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.20",
+          "end": "00:42.80",
+          "start_seconds": 41.2,
+          "end_seconds": 42.8,
+          "content": "Close-up on Catherine's empty gloved hand trembling in the empty space between them."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.80",
+          "end": "00:46.40",
+          "start_seconds": 42.8,
+          "end_seconds": 46.4,
+          "content": "Close-up on Catherine lowering her hand, stunned and deeply hurt by his rejection."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Breathless, Hurt)",
+          "start": "00:44.20",
+          "end": "00:46.40",
+          "start_seconds": 44.2,
+          "end_seconds": 46.4,
+          "content": "\"You don't remember?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.40",
+          "end": "00:49.00",
+          "start_seconds": 46.4,
+          "end_seconds": 49.0,
+          "content": "High-angle shot looking down at Catherine in the foreground, with Rupert held under guard in the background."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Desperate, Demanding)",
+          "start": "00:46.60",
+          "end": "00:48.80",
+          "start_seconds": 46.6,
+          "end_seconds": 48.8,
+          "content": "\"I was supposed to be your Duchess!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.00",
+          "end": "00:51.00",
+          "start_seconds": 49.0,
+          "end_seconds": 51.0,
+          "content": "Medium two-shot of Catherine and Alexander confronting each other."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Implacable)",
+          "start": "00:49.20",
+          "end": "00:51.00",
+          "start_seconds": 49.2,
+          "end_seconds": 51.0,
+          "content": "\"You were never my Duchess.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.00",
+          "end": "00:53.00",
+          "start_seconds": 51.0,
+          "end_seconds": 53.0,
+          "content": "Extreme close-up on Catherine's tearful face."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Sobbing, Pleading)",
+          "start": "00:51.10",
+          "end": "00:52.80",
+          "start_seconds": 51.1,
+          "end_seconds": 52.8,
+          "content": "\"But I loved you!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.00",
+          "end": "00:55.60",
+          "start_seconds": 53.0,
+          "end_seconds": 55.6,
+          "content": "Medium close-up on Alexander, his scarred jaw set firm."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Scornful, Biting)",
+          "start": "00:53.00",
+          "end": "00:55.50",
+          "start_seconds": 53.0,
+          "end_seconds": 55.5,
+          "content": "\"You loved the Duke you thought you would marry.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.60",
+          "end": "00:59.00",
+          "start_seconds": 55.6,
+          "end_seconds": 59.0,
+          "content": "Close-up on Catherine, gasping in protest."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Defiant, Pained)",
+          "start": "00:56.20",
+          "end": "00:58.20",
+          "start_seconds": 56.2,
+          "end_seconds": 58.2,
+          "content": "\"No!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.00",
+          "end": "01:02.40",
+          "start_seconds": 59.0,
+          "end_seconds": 62.4,
+          "content": "Medium shot as Catherine clutches her chest, pouring her heart out."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Passionate, Crying)",
+          "start": "00:59.80",
+          "end": "01:02.40",
+          "start_seconds": 59.8,
+          "end_seconds": 62.4,
+          "content": "\"I loved you before all this!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.40",
+          "end": "01:03.80",
+          "start_seconds": 62.4,
+          "end_seconds": 63.8,
+          "content": "Close-up on Alexander tilting his head slightly, his gaze piercing through her."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Skeptical, Cutting)",
+          "start": "01:02.50",
+          "end": "01:03.40",
+          "start_seconds": 62.5,
+          "end_seconds": 63.4,
+          "content": "\"Did you?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.80",
+          "end": "01:05.00",
+          "start_seconds": 63.8,
+          "end_seconds": 65.0,
+          "content": "Close-up on Catherine, rendered speechless by his doubt."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:05.00",
+          "end": "01:07.80",
+          "start_seconds": 65.0,
+          "end_seconds": 67.8,
+          "content": "Tilt-up shot starting from heavy iron chains resting on the wooden floor up to the shackled wrists of Juliana dressed in her rustic grey gown."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.80",
+          "end": "01:09.60",
+          "start_seconds": 67.8,
+          "end_seconds": 69.6,
+          "content": "Wide shot from behind Catherine as Alexander turns his back on her and walks resolutely down the rubble-strewn aisle toward Juliana standing in chains at the doorway."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:08.00",
+          "end": "01:09.60",
+          "start_seconds": 68.0,
+          "end_seconds": 69.6,
+          "content": "Alexander walks away from Catherine toward Juliana, who waits solemnly by the cathedral entrance."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.60",
+          "end": "01:10.10",
+          "start_seconds": 69.6,
+          "end_seconds": 70.1,
+          "content": "Medium close-up on Juliana looking down at her chained hands, lifting her gaze gently."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.10",
+          "end": "01:10.50",
+          "start_seconds": 70.1,
+          "end_seconds": 70.5,
+          "content": "Extreme close-up on Catherine's horrified, bewildered expression as she realizes who Alexander chose."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Gasping, Incredulous)",
+          "start": "01:10.10",
+          "end": "01:10.40",
+          "start_seconds": 70.1,
+          "end_seconds": 70.4,
+          "content": "\"Her?!\""
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-044-Episode 1686804.txt",
+  "source_sha256": "d6578a980e20d1c89412d7828db835a3076dbe6b8555a2d0cdb7b54ad747e256",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

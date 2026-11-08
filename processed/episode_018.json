@@ -1,0 +1,783 @@
+{
+  "episode_number": "Episode 18",
+  "logline": "When their cottage is deliberately set ablaze in the dead of night, Alexander risks his life to rescue Juliana and her mother's cherished ledger from the inferno, vowing relentless vengeance against those responsible.",
+  "continuity_notes": "Picks up directly from Episode 17's intimate hearthside moment; their peaceful sanctuary is shattered when arsonists trap Juliana and Alexander inside their burning home.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. COTTAGE - BEDROOM - NIGHT",
+      "start": "00:00.00",
+      "end": "00:28.90",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.10",
+          "start_seconds": 0.0,
+          "end_seconds": 2.1,
+          "content": "Low-angle shot on the wooden floor as bright orange flames crackle beneath the closed bedroom door, thick smoke billowing through the crevices."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:00.00",
+          "end": "00:02.10",
+          "start_seconds": 0.0,
+          "end_seconds": 2.1,
+          "content": "Muffled crackle and roar of an encroaching blaze."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.10",
+          "end": "00:05.80",
+          "start_seconds": 2.1,
+          "end_seconds": 5.8,
+          "content": "Close-up overhead shot of Juliana asleep on her pillow as her eyelids flutter open, gasping and coughing violently from the choking smoke."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:03.50",
+          "end": "00:06.00",
+          "start_seconds": 3.5,
+          "end_seconds": 6.0,
+          "content": "Juliana coughs, her eyes widening in immediate alarm as the smell of burning wood fills her lungs."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:06.00",
+          "end": "00:09.50",
+          "start_seconds": 6.0,
+          "end_seconds": 9.5,
+          "content": "Juliana bolts upright in bed, tossing off the woolen quilt as she sees the orange glow under the door."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Screaming, Terrified)",
+          "start": "00:06.50",
+          "end": "00:08.50",
+          "start_seconds": 6.5,
+          "end_seconds": 8.5,
+          "content": "\"Alexander!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.50",
+          "end": "00:12.80",
+          "start_seconds": 9.5,
+          "end_seconds": 12.8,
+          "content": "Medium shot as Juliana swings her bare legs out of bed onto the floor, trembling with panic."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Shouting)",
+          "start": "00:10.50",
+          "end": "00:12.30",
+          "start_seconds": 10.5,
+          "end_seconds": 12.3,
+          "content": "\"Alexander!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.80",
+          "end": "00:16.20",
+          "start_seconds": 12.8,
+          "end_seconds": 16.2,
+          "content": "Low-angle close shot of the bedroom door glowing intensely, fire licking the wooden floorboards as smoke pours inward."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:16.20",
+          "end": "00:20.10",
+          "start_seconds": 16.2,
+          "end_seconds": 20.1,
+          "content": "Juliana sits huddled at the edge of the bed, pressing her bandaged hands against her mouth, coughing and sobbing in fear."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Muffled, Weeping)",
+          "start": "00:17.80",
+          "end": "00:19.80",
+          "start_seconds": 17.8,
+          "end_seconds": 19.8,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:19.50",
+          "end": "00:21.00",
+          "start_seconds": 19.5,
+          "end_seconds": 21.0,
+          "content": "A violent crash as the bedroom door is kicked open."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.10",
+          "end": "00:22.80",
+          "start_seconds": 20.1,
+          "end_seconds": 22.8,
+          "content": "Framed in the doorway engulfed by blazing orange light, Alexander bursts in, his dark hair flying, looking like an imposing guardian amid the smoke."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Authoritative, Urgency)",
+          "start": "00:20.80",
+          "end": "00:22.50",
+          "start_seconds": 20.8,
+          "end_seconds": 22.5,
+          "content": "\"Juliana! Get up!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.80",
+          "end": "00:26.00",
+          "start_seconds": 22.8,
+          "end_seconds": 26.0,
+          "content": "Wide tracking shot as Alexander rushes across the burning, smoke-choked room toward her bed."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:24.50",
+          "end": "00:28.90",
+          "start_seconds": 24.5,
+          "end_seconds": 28.9,
+          "content": "Alexander reaches the bed, hoisting Juliana up by her arms into a standing embrace."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Breathless, Distressed)",
+          "start": "00:26.50",
+          "end": "00:28.00",
+          "start_seconds": 26.5,
+          "end_seconds": 28.0,
+          "content": "\"What happened?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grim, Urgent)",
+          "start": "00:28.10",
+          "end": "00:28.90",
+          "start_seconds": 28.1,
+          "end_seconds": 28.9,
+          "content": "\"Fire.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. COTTAGE - HALLWAY - CONTINUOUS",
+      "start": "00:28.90",
+      "end": "00:52.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.90",
+          "end": "00:30.80",
+          "start_seconds": 28.9,
+          "end_seconds": 30.8,
+          "content": "Over-the-shoulder shot past Alexander toward the blazing threshold of the main room, beams collapsing across the doorway."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.80",
+          "end": "00:33.00",
+          "start_seconds": 30.8,
+          "end_seconds": 33.0,
+          "content": "Medium close-up of Alexander wrapping a heavy coat tightly around Juliana's shoulders."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:32.50",
+          "end": "00:36.50",
+          "start_seconds": 32.5,
+          "end_seconds": 36.5,
+          "content": "Alexander clutches Juliana against his chest with one strong arm, shielding her face from the sparks."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Firm, Protective)",
+          "start": "00:33.20",
+          "end": "00:35.20",
+          "start_seconds": 33.2,
+          "end_seconds": 35.2,
+          "content": "\"Stay close to me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:39.00",
+          "start_seconds": 36.5,
+          "end_seconds": 39.0,
+          "content": "Reverse shot from behind them facing the burning door frame as wall-high flames roar, completely sealing their exit."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:38.00",
+          "end": "00:41.50",
+          "start_seconds": 38.0,
+          "end_seconds": 41.5,
+          "content": "Juliana recoils from the heat, clutching Alexander's coat tightly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Panic-Stricken, Choked)",
+          "start": "00:39.50",
+          "end": "00:41.80",
+          "start_seconds": 39.5,
+          "end_seconds": 41.8,
+          "content": "\"We cannot get through!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Resolute, Calm Under Pressure)",
+          "start": "00:42.00",
+          "end": "00:43.50",
+          "start_seconds": 42.0,
+          "end_seconds": 43.5,
+          "content": "\"Then we go another way.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.50",
+          "end": "00:48.80",
+          "start_seconds": 43.5,
+          "end_seconds": 48.8,
+          "content": "Tracking shot as Alexander turns, grabbing Juliana's hand, and pulls her quickly through the burning corridors."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:45.00",
+          "end": "00:48.50",
+          "start_seconds": 45.0,
+          "end_seconds": 48.5,
+          "content": "Loud wooden groaning and thunderous crash of burning rafters falling behind them."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.80",
+          "end": "00:52.50",
+          "start_seconds": 48.8,
+          "end_seconds": 52.5,
+          "content": "Medium tracking shot focusing on Juliana's wide, soot-streaked eyes as they navigate through falling embers."
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. COTTAGE - PARLOR / WORKROOM - CONTINUOUS",
+      "start": "00:52.50",
+      "end": "01:38.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.50",
+          "end": "00:56.20",
+          "start_seconds": 52.5,
+          "end_seconds": 56.2,
+          "content": "Close-up of the antique, leather-bound herbal ledger resting on a burning wooden table, the edges of its pages beginning to curl and singe in the heat."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:56.20",
+          "end": "00:58.50",
+          "start_seconds": 56.2,
+          "end_seconds": 58.5,
+          "content": "Juliana spots the book and halts abruptly, pointing back toward the burning desk."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Frantic, Desperate)",
+          "start": "00:56.50",
+          "end": "00:57.80",
+          "start_seconds": 56.5,
+          "end_seconds": 57.8,
+          "content": "\"The ledger!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:57.80",
+          "end": "01:00.00",
+          "start_seconds": 57.8,
+          "end_seconds": 60.0,
+          "content": "Alexander firmly grips her arm, pulling her back toward safety."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Stern, Shouting)",
+          "start": "00:58.00",
+          "end": "00:59.20",
+          "start_seconds": 58.0,
+          "end_seconds": 59.2,
+          "content": "\"Leave it!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Hysterical, Screaming)",
+          "start": "00:59.30",
+          "end": "01:02.50",
+          "start_seconds": 59.3,
+          "end_seconds": 62.5,
+          "content": "\"No! No!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.00",
+          "end": "01:05.50",
+          "start_seconds": 63.0,
+          "end_seconds": 65.5,
+          "content": "Low-angle shot pointing up at the ceiling beams overhead, engulfed in roaring fire and splitting down the center."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:05.50",
+          "end": "01:08.00",
+          "start_seconds": 65.5,
+          "end_seconds": 68.0,
+          "content": "Alexander points upward with urgency, pulling her under his arm."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Loud, Alarmed)",
+          "start": "01:05.80",
+          "end": "01:08.00",
+          "start_seconds": 65.8,
+          "end_seconds": 68.0,
+          "content": "\"Juliana, the ceiling is coming down!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:08.00",
+          "end": "01:10.50",
+          "start_seconds": 68.0,
+          "end_seconds": 70.5,
+          "content": "Juliana wrests her hand from his grasp and charges straight toward the burning desk."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:13.50",
+          "start_seconds": 70.5,
+          "end_seconds": 73.5,
+          "content": "Wide shot of the room as a massive burning crossbeam collapses into the floorboards with a fiery explosion."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Roaring in Terror)",
+          "start": "01:13.50",
+          "end": "01:15.50",
+          "start_seconds": 73.5,
+          "end_seconds": 75.5,
+          "content": "\"Juliana!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Weeping)",
+          "start": "01:15.00",
+          "end": "01:16.80",
+          "start_seconds": 75.0,
+          "end_seconds": 76.8,
+          "content": "\"It's my mother's!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:16.80",
+          "end": "01:21.50",
+          "start_seconds": 76.8,
+          "end_seconds": 81.5,
+          "content": "Juliana snatches the scorched leather ledger from the burning table, pulling it tightly against her chest with both bandaged hands."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.50",
+          "end": "01:23.50",
+          "start_seconds": 81.5,
+          "end_seconds": 83.5,
+          "content": "Close-up of the ceiling rafter splitting violently apart above her."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.50",
+          "end": "01:26.50",
+          "start_seconds": 83.5,
+          "end_seconds": 86.5,
+          "content": "Close-up of Juliana looking up in sheer terror, firelight dancing across her tearful face."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Screaming, Blood-Curdling)",
+          "start": "01:24.00",
+          "end": "01:26.20",
+          "start_seconds": 84.0,
+          "end_seconds": 86.2,
+          "content": "\"Alexander!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:26.50",
+          "end": "01:29.50",
+          "start_seconds": 86.5,
+          "end_seconds": 89.5,
+          "content": "Alexander lunges across the room, tackling her to the wooden floor and covering her body entirely with his own."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Screaming Command)",
+          "start": "01:26.50",
+          "end": "01:27.50",
+          "start_seconds": 86.5,
+          "end_seconds": 87.5,
+          "content": "\"Down!\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:27.80",
+          "end": "01:30.00",
+          "start_seconds": 87.8,
+          "end_seconds": 90.0,
+          "content": "Massive wooden beam crashes directly where Juliana had been standing, showering them in sparks."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.50",
+          "end": "01:34.00",
+          "start_seconds": 89.5,
+          "end_seconds": 94.0,
+          "content": "Ground-level shot of Alexander lying on top of Juliana, his chest shielding her, his face smeared with soot."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:31.50",
+          "end": "01:38.00",
+          "start_seconds": 91.5,
+          "end_seconds": 98.0,
+          "content": "Alexander lifts his head slightly, checking her face and cradling her cheek tenderly."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Panting, Reassuring)",
+          "start": "01:36.50",
+          "end": "01:38.20",
+          "start_seconds": 96.5,
+          "end_seconds": 98.2,
+          "content": "\"I've got you.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "INT. COTTAGE - PARLOR / EXT. COTTAGE - CONTINUOUS",
+      "start": "01:38.50",
+      "end": "02:04.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.50",
+          "end": "01:41.50",
+          "start_seconds": 98.5,
+          "end_seconds": 101.5,
+          "content": "Wide shot of the walls collapsing in curtains of flame, cutting off all interior hallways."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:41.50",
+          "end": "01:44.50",
+          "start_seconds": 101.5,
+          "end_seconds": 104.5,
+          "content": "Alexander scoops Juliana up in his arms, carrying her bridal-style as she clutches the ledger."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:43.50",
+          "end": "01:45.50",
+          "start_seconds": 103.5,
+          "end_seconds": 105.5,
+          "content": "Juliana looks toward the side wall and points frantically at the parlor window."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Urgent, Shouting)",
+          "start": "01:43.80",
+          "end": "01:45.00",
+          "start_seconds": 103.8,
+          "end_seconds": 105.0,
+          "content": "\"The window!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Steely, Determined)",
+          "start": "01:45.20",
+          "end": "01:46.80",
+          "start_seconds": 105.2,
+          "end_seconds": 106.8,
+          "content": "\"Hold on to me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:46.80",
+          "end": "01:49.50",
+          "start_seconds": 106.8,
+          "end_seconds": 109.5,
+          "content": "Medium close-up of Alexander gritting his teeth, holding Juliana securely as she buries her face into his neck."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:49.50",
+          "end": "01:54.00",
+          "start_seconds": 109.5,
+          "end_seconds": 114.0,
+          "content": "Slow-motion shot as Alexander sprints through the burning room toward the framed glass window."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:51.50",
+          "end": "01:55.50",
+          "start_seconds": 111.5,
+          "end_seconds": 115.5,
+          "content": "Alexander leaps forward, using his shoulder and back to shatter through the burning window frame, carrying Juliana safely in his arms out into the night."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:52.00",
+          "end": "01:55.50",
+          "start_seconds": 112.0,
+          "end_seconds": 115.5,
+          "content": "Loud explosion of shattering window glass and splintering wood."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:55.50",
+          "end": "01:59.80",
+          "start_seconds": 115.5,
+          "end_seconds": 119.8,
+          "content": "Wide interior shot as the entire parlor collapses into an uncontrollable inferno of roaring flames."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.80",
+          "end": "02:04.00",
+          "start_seconds": 119.8,
+          "end_seconds": 124.0,
+          "content": "Night exterior shot in the dark grass outside. Juliana sits over Alexander, brushing ashes from his face as he coughs and catches his breath."
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": "EXT. COTTAGE - FRONT YARD - CONTINUOUS",
+      "start": "02:04.00",
+      "end": "03:12.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:04.00",
+          "end": "02:08.50",
+          "start_seconds": 124.0,
+          "end_seconds": 128.5,
+          "content": "Wide shot of villagers running toward the cottage carrying wooden water buckets through the smoke-filled darkness."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:08.50",
+          "end": "02:14.50",
+          "start_seconds": 128.5,
+          "end_seconds": 134.5,
+          "content": "Close-up of Juliana kneeling in the mud, her face blackened with soot and tears streaming down her cheeks as she clutches the charred ledger."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:14.50",
+          "end": "02:20.00",
+          "start_seconds": 134.5,
+          "end_seconds": 140.0,
+          "content": "Wide shot of the cottage completely consumed by towering flames against the dark night sky."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Sobbing, Heartbroken)",
+          "start": "02:16.20",
+          "end": "02:18.00",
+          "start_seconds": 136.2,
+          "end_seconds": 138.0,
+          "content": "\"Our home...\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Crying, Shattered)",
+          "start": "02:19.80",
+          "end": "02:22.50",
+          "start_seconds": 139.8,
+          "end_seconds": 142.5,
+          "content": "\"Everything we had is gone.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:20.50",
+          "end": "02:24.00",
+          "start_seconds": 140.5,
+          "end_seconds": 144.0,
+          "content": "Alexander kneels beside her in the grass, resting a steady, protective hand on her back."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:24.00",
+          "end": "02:35.00",
+          "start_seconds": 144.0,
+          "end_seconds": 155.0,
+          "content": "Juliana turns toward Alexander, her hand trembling as she reaches out and touches his chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Voice Breaking, Anguished)",
+          "start": "02:25.80",
+          "end": "02:28.50",
+          "start_seconds": 145.8,
+          "end_seconds": 148.5,
+          "content": "\"Why would anyone do this?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Whispering, Tearful)",
+          "start": "02:33.20",
+          "end": "02:34.80",
+          "start_seconds": 153.2,
+          "end_seconds": 154.8,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:35.00",
+          "end": "02:41.00",
+          "start_seconds": 155.0,
+          "end_seconds": 161.0,
+          "content": "Alexander draws her firmly into his arms, wrapping both burly arms around her as she buries her face into his shoulder, weeping uncontrollably."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Ominous)",
+          "start": "02:38.00",
+          "end": "02:40.80",
+          "start_seconds": 158.0,
+          "end_seconds": 160.8,
+          "content": "\"Someone wanted us out.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Despairing, Weeping)",
+          "start": "02:43.00",
+          "end": "02:45.50",
+          "start_seconds": 163.0,
+          "end_seconds": 165.5,
+          "content": "\"We have nowhere to go.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:45.50",
+          "end": "02:51.00",
+          "start_seconds": 165.5,
+          "end_seconds": 171.0,
+          "content": "Slow push-in on Alexander's face over Juliana's shoulder. His expression hardens into a mask of pure, lethal fury."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:51.00",
+          "end": "02:59.50",
+          "start_seconds": 171.0,
+          "end_seconds": 179.5,
+          "content": "Extreme close-up of Alexander's piercing eyes and combat scar bathed in the flickering orange glow of the fire."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold Fury, Resolute)",
+          "start": "02:51.80",
+          "end": "02:57.20",
+          "start_seconds": 171.8,
+          "end_seconds": 177.2,
+          "content": "\"They took our home. I will not let them take anything else now.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:59.50",
+          "end": "03:04.00",
+          "start_seconds": 179.5,
+          "end_seconds": 184.0,
+          "content": "Juliana slowly pulls back slightly from his embrace, her tear-filled blue eyes looking up into his hardened features."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Trembling, Apprehensive)",
+          "start": "03:04.20",
+          "end": "03:06.50",
+          "start_seconds": 184.2,
+          "end_seconds": 186.5,
+          "content": "\"What are you going to do?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "03:06.50",
+          "end": "03:12.00",
+          "start_seconds": 186.5,
+          "end_seconds": 192.0,
+          "content": "Dramatic hold on Alexander's grim, unyielding profile as he stares into the inferno with unshakeable resolve, the swelling score echoing a vow of vengeance into the final cut to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-018-Episode 1671720.txt",
+  "source_sha256": "1e1ecab8f43c144862ef126eb707196478303c1af57186357ba1e25ea4c8e529",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

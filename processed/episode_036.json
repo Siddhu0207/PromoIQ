@@ -1,0 +1,1111 @@
+{
+  "episode_number": "Episode 36",
+  "logline": "Learning from his mother that Rupert and Catherine framed Juliana for witchcraft and sentenced her to death right after their upcoming wedding, Alexander vows to return from the dead and reclaim everything stolen from him.",
+  "continuity_notes": "Picking up immediately from the revelation in Episode 35 that the men ruling Ashwood orchestrated Alexander's ambush, Alexander learns of Juliana's imprisonment and looming execution.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. SECLUDED CABIN – NIGHT",
+      "start": "00:00.00",
+      "end": "03:20.75",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.20",
+          "start_seconds": 0.0,
+          "end_seconds": 4.2,
+          "content": "Medium two-shot across the weathered wooden table lit by the warm glow of an oil lantern, framing Alexander and his mother leaning inward in the dimly lit cabin."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.80",
+          "start_seconds": 0.0,
+          "end_seconds": 3.8,
+          "content": "Alexander's mother leans forward with both hands on the rustic table, searching her son's scarred face in disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Whispering, Distraught)",
+          "start": "00:00.80",
+          "end": "00:03.70",
+          "start_seconds": 0.8,
+          "end_seconds": 3.7,
+          "content": "\"Then why did they never find you?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.20",
+          "end": "00:08.50",
+          "start_seconds": 4.2,
+          "end_seconds": 8.5,
+          "content": "Close-up on Alexander, his dark combat scar prominent as his eyes burn with steady, cold intensity."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Bitter)",
+          "start": "00:04.80",
+          "end": "00:08.20",
+          "start_seconds": 4.8,
+          "end_seconds": 8.2,
+          "content": "\"Because they made certain no one would look.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.50",
+          "end": "00:12.80",
+          "start_seconds": 8.5,
+          "end_seconds": 12.8,
+          "content": "Medium close-up on Alexander's mother, her hood framing her pale, weathered face as shock deepens across her features."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Trembling)",
+          "start": "00:09.50",
+          "end": "00:11.20",
+          "start_seconds": 9.5,
+          "end_seconds": 11.2,
+          "content": "\"Who?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.80",
+          "end": "00:17.50",
+          "start_seconds": 12.8,
+          "end_seconds": 17.5,
+          "content": "Side profile shot of Alexander gazing toward the open doorway before slowly turning back to face his mother directly."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grave, Sinister)",
+          "start": "00:13.50",
+          "end": "00:17.00",
+          "start_seconds": 13.5,
+          "end_seconds": 17.0,
+          "content": "\"Sterling... and Rupert.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.50",
+          "end": "00:20.80",
+          "start_seconds": 17.5,
+          "end_seconds": 20.8,
+          "content": "Tight close-up on Alexander's mother as her breath hitches and her eyes widen in pure horror."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Gasping, Stricken)",
+          "start": "00:17.60",
+          "end": "00:19.80",
+          "start_seconds": 17.6,
+          "end_seconds": 19.8,
+          "content": "\"Rupert?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.80",
+          "end": "00:23.60",
+          "start_seconds": 20.8,
+          "end_seconds": 23.6,
+          "content": "Wide shot of the wooden cabin interior. Alexander stands upright opposite his mother across the lantern-lit map."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Stern, Resolute)",
+          "start": "00:21.00",
+          "end": "00:23.50",
+          "start_seconds": 21.0,
+          "end_seconds": 23.5,
+          "content": "\"They knew where I was.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.60",
+          "end": "00:29.00",
+          "start_seconds": 23.6,
+          "end_seconds": 29.0,
+          "content": "Close-up on Alexander leaning over the table, his eyes locked onto his mother as suppressed rage surfaces."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Fierce)",
+          "start": "00:23.70",
+          "end": "00:28.80",
+          "start_seconds": 23.7,
+          "end_seconds": 28.8,
+          "content": "\"My position was leaked to the French... before I could expose what I had discovered.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.00",
+          "end": "00:31.90",
+          "start_seconds": 29.0,
+          "end_seconds": 31.9,
+          "content": "Close-up of Alexander's mother clutching the collar of her dark cloak, her chest heaving with agony."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Horrified)",
+          "start": "00:29.20",
+          "end": "00:31.70",
+          "start_seconds": 29.2,
+          "end_seconds": 31.7,
+          "content": "\"They gave you to the enemy?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.90",
+          "end": "00:35.80",
+          "start_seconds": 31.9,
+          "end_seconds": 35.8,
+          "content": "Medium close-up of Alexander straightening his posture, his jaw set hard."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Deadpan, Resolute)",
+          "start": "00:32.00",
+          "end": "00:34.50",
+          "start_seconds": 32.0,
+          "end_seconds": 34.5,
+          "content": "\"They gave them my location.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.80",
+          "end": "00:38.90",
+          "start_seconds": 35.8,
+          "end_seconds": 38.9,
+          "content": "Extreme close-up on Alexander's eyes and scarred cheek, teeth bared in contempt."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Spitting with Contempt)",
+          "start": "00:36.20",
+          "end": "00:38.70",
+          "start_seconds": 36.2,
+          "end_seconds": 38.7,
+          "content": "\"They wanted the investigation buried.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.90",
+          "end": "00:41.50",
+          "start_seconds": 38.9,
+          "end_seconds": 41.5,
+          "content": "Medium close-up of Alexander's mother leaning over the map, her voice cracking."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Shattered)",
+          "start": "00:39.10",
+          "end": "00:41.40",
+          "start_seconds": 39.1,
+          "end_seconds": 41.4,
+          "content": "\"And when you disappeared...?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.50",
+          "end": "00:44.80",
+          "start_seconds": 41.5,
+          "end_seconds": 44.8,
+          "content": "Close-up on Alexander, his voice low and cutting."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold)",
+          "start": "00:41.60",
+          "end": "00:43.70",
+          "start_seconds": 41.6,
+          "end_seconds": 43.7,
+          "content": "\"They declared me dead.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.80",
+          "end": "00:48.80",
+          "start_seconds": 44.8,
+          "end_seconds": 48.8,
+          "content": "Medium shot from the side of the wooden table as his mother brings both hands up to cover her mouth in overwhelmed grief."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (O.S.) (Grave)",
+          "start": "00:45.30",
+          "end": "00:48.50",
+          "start_seconds": 45.3,
+          "end_seconds": 48.5,
+          "content": "\"They falsified what remained of the reports.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:45.30",
+          "end": "00:48.80",
+          "start_seconds": 45.3,
+          "end_seconds": 48.8,
+          "content": "Alexander's mother presses her trembling hands against her lips, tears brimming in her eyes."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.80",
+          "end": "00:52.00",
+          "start_seconds": 48.8,
+          "end_seconds": 52.0,
+          "content": "Tight close-up on his mother weeping openly, her ring catching the warm lamplight as she lowers her hand to her heart."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Tearful, Bitter)",
+          "start": "00:49.00",
+          "end": "00:51.80",
+          "start_seconds": 49.0,
+          "end_seconds": 51.8,
+          "content": "\"And Rupert took Ashbourne.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.00",
+          "end": "00:55.50",
+          "start_seconds": 52.0,
+          "end_seconds": 55.5,
+          "content": "Tight close-up on Alexander's piercing blue-grey eyes, unwavering and hardened by years of exile."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Darkly)",
+          "start": "00:52.50",
+          "end": "00:55.30",
+          "start_seconds": 52.5,
+          "end_seconds": 55.3,
+          "content": "\"While the world mourned a dead heir.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.50",
+          "end": "00:58.80",
+          "start_seconds": 55.5,
+          "end_seconds": 58.8,
+          "content": "Close-up on his mother's sorrowful gaze lifting toward him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Choked with Tears)",
+          "start": "00:56.00",
+          "end": "00:58.50",
+          "start_seconds": 56.0,
+          "end_seconds": 58.5,
+          "content": "\"And I mourned you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.80",
+          "end": "01:00.80",
+          "start_seconds": 58.8,
+          "end_seconds": 60.8,
+          "content": "Medium shot of Alexander looking down, his harsh features softening momentarily with sorrow."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Softly)",
+          "start": "00:59.20",
+          "end": "01:00.40",
+          "start_seconds": 59.2,
+          "end_seconds": 60.4,
+          "content": "\"I know.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.80",
+          "end": "01:04.20",
+          "start_seconds": 60.8,
+          "end_seconds": 64.2,
+          "content": "Medium close-up on his mother bowing her head toward the rustic tabletop, weeping in utter despair."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Sobbing)",
+          "start": "01:00.90",
+          "end": "01:03.80",
+          "start_seconds": 60.9,
+          "end_seconds": 63.8,
+          "content": "\"I trusted them.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.20",
+          "end": "01:07.50",
+          "start_seconds": 64.2,
+          "end_seconds": 67.5,
+          "content": "Wide shot as Alexander stands tall beside the weeping mother seated at the table."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Gentle yet Firm)",
+          "start": "01:05.10",
+          "end": "01:07.30",
+          "start_seconds": 65.1,
+          "end_seconds": 67.3,
+          "content": "\"You trusted family.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.50",
+          "end": "01:11.00",
+          "start_seconds": 67.5,
+          "end_seconds": 71.0,
+          "content": "Profile close-up of Alexander stepping closer to the door, staring out into the falling snow."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Resentful)",
+          "start": "01:07.80",
+          "end": "01:10.50",
+          "start_seconds": 67.8,
+          "end_seconds": 70.5,
+          "content": "\"They used that trust against you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.00",
+          "end": "01:14.80",
+          "start_seconds": 71.0,
+          "end_seconds": 74.8,
+          "content": "Alexander steps back toward the table, leaning in urgently toward his mother."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Urgent, Anxious)",
+          "start": "01:12.10",
+          "end": "01:14.70",
+          "start_seconds": 72.1,
+          "end_seconds": 74.7,
+          "content": "\"Mother... Juliana...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.80",
+          "end": "01:18.20",
+          "start_seconds": 74.8,
+          "end_seconds": 78.2,
+          "content": "Medium close-up on Alexander leaning both hands on the table, desperate for answers."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Intense)",
+          "start": "01:14.90",
+          "end": "01:18.10",
+          "start_seconds": 74.9,
+          "end_seconds": 78.1,
+          "content": "\"She went into Ashbourne Manor to save you. She never came back.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.20",
+          "end": "01:21.80",
+          "start_seconds": 78.2,
+          "end_seconds": 81.8,
+          "content": "Tight close-up on Alexander's strained, furrowed brow."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Tremulous)",
+          "start": "01:18.80",
+          "end": "01:21.70",
+          "start_seconds": 78.8,
+          "end_seconds": 81.7,
+          "content": "\"I thought perhaps she stayed with you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.80",
+          "end": "01:24.00",
+          "start_seconds": 81.8,
+          "end_seconds": 84.0,
+          "content": "Close-up of his mother looking up at him, agony and hesitation washing over her face."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Hesitant, Trembling)",
+          "start": "01:22.00",
+          "end": "01:23.80",
+          "start_seconds": 82.0,
+          "end_seconds": 83.8,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.00",
+          "end": "01:26.50",
+          "start_seconds": 84.0,
+          "end_seconds": 86.5,
+          "content": "Quick push-in close-up on Alexander, his eyes snapping open in sudden panic."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Alarmed)",
+          "start": "01:24.40",
+          "end": "01:25.50",
+          "start_seconds": 84.4,
+          "end_seconds": 85.5,
+          "content": "\"What?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:30.00",
+          "start_seconds": 86.5,
+          "end_seconds": 90.0,
+          "content": "Close-up on his mother, tears shining in the amber lamplight."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Choked)",
+          "start": "01:27.20",
+          "end": "01:29.80",
+          "start_seconds": 87.2,
+          "end_seconds": 89.8,
+          "content": "\"She did come to me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:30.00",
+          "end": "01:33.20",
+          "start_seconds": 90.0,
+          "end_seconds": 93.2,
+          "content": "Medium two-shot as Alexander bends over the table, crowding his mother with fierce desperation."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Demanding)",
+          "start": "01:31.00",
+          "end": "01:33.10",
+          "start_seconds": 91.0,
+          "end_seconds": 93.1,
+          "content": "\"Is she still at Ashbourne?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.20",
+          "end": "01:36.50",
+          "start_seconds": 93.2,
+          "end_seconds": 96.5,
+          "content": "Close-up on Alexander's mother shutting her eyes and weeping, shaking her head in deep anguish."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Sobbing)",
+          "start": "01:33.50",
+          "end": "01:35.80",
+          "start_seconds": 93.5,
+          "end_seconds": 95.8,
+          "content": "\"No...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.50",
+          "end": "01:39.00",
+          "start_seconds": 96.5,
+          "end_seconds": 99.0,
+          "content": "Medium shot as Alexander towers over her, his breathing turning ragged."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Desperate)",
+          "start": "01:36.80",
+          "end": "01:38.50",
+          "start_seconds": 96.8,
+          "end_seconds": 98.5,
+          "content": "\"Then where is she?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.00",
+          "end": "01:43.50",
+          "start_seconds": 99.0,
+          "end_seconds": 103.5,
+          "content": "Tight close-up on Alexander's mother crying out in wretched guilt and horror."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Wailing)",
+          "start": "01:39.50",
+          "end": "01:43.20",
+          "start_seconds": 99.5,
+          "end_seconds": 103.2,
+          "content": "\"They arrested her!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.50",
+          "end": "01:45.80",
+          "start_seconds": 103.5,
+          "end_seconds": 105.8,
+          "content": "Close-up on Alexander, his expression freezing in complete shock."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Stunned)",
+          "start": "01:44.00",
+          "end": "01:45.50",
+          "start_seconds": 104.0,
+          "end_seconds": 105.5,
+          "content": "\"Arrested?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:45.80",
+          "end": "01:50.00",
+          "start_seconds": 105.8,
+          "end_seconds": 110.0,
+          "content": "Medium close-up as his mother clutches Alexander's forearms with desperate, pleading hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Despairing)",
+          "start": "01:45.90",
+          "end": "01:49.80",
+          "start_seconds": 105.9,
+          "end_seconds": 109.8,
+          "content": "\"Rupert and Catherine accused her of poisoning me!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:50.00",
+          "end": "01:54.00",
+          "start_seconds": 110.0,
+          "end_seconds": 114.0,
+          "content": "Close-up on Alexander, absolute fury erupting across his scarred face."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Shouting, Incredulous)",
+          "start": "01:51.80",
+          "end": "01:53.80",
+          "start_seconds": 111.8,
+          "end_seconds": 113.8,
+          "content": "\"But she saved you!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:54.00",
+          "end": "01:57.00",
+          "start_seconds": 114.0,
+          "end_seconds": 117.0,
+          "content": "Close-up on his mother, clutching her chest in grief."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Weeping)",
+          "start": "01:54.20",
+          "end": "01:56.50",
+          "start_seconds": 114.2,
+          "end_seconds": 116.5,
+          "content": "\"I told them!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:57.00",
+          "end": "01:59.50",
+          "start_seconds": 117.0,
+          "end_seconds": 119.5,
+          "content": "Medium shot of Alexander clenching his fists at his sides, trembling with rage."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Furious)",
+          "start": "01:57.50",
+          "end": "01:59.30",
+          "start_seconds": 117.5,
+          "end_seconds": 119.3,
+          "content": "\"You told them the truth!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.50",
+          "end": "02:03.00",
+          "start_seconds": 119.5,
+          "end_seconds": 123.0,
+          "content": "Close-up on his mother as she cries out, devastated by the memory of the kangaroo court."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Agonized)",
+          "start": "01:59.80",
+          "end": "02:02.50",
+          "start_seconds": 119.8,
+          "end_seconds": 122.5,
+          "content": "\"They called her a witch!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:03.00",
+          "end": "02:07.50",
+          "start_seconds": 123.0,
+          "end_seconds": 127.5,
+          "content": "Frontal medium shot of Alexander standing frozen, the weight of the realization crashing down on him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Horrified)",
+          "start": "02:03.80",
+          "end": "02:06.80",
+          "start_seconds": 123.8,
+          "end_seconds": 126.8,
+          "content": "\"Juliana... is in a cell?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:07.50",
+          "end": "02:10.80",
+          "start_seconds": 127.5,
+          "end_seconds": 130.8,
+          "content": "Close-up of his mother clutching her temple, reeling in remembered trauma."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Weak, Trembling)",
+          "start": "02:07.80",
+          "end": "02:10.50",
+          "start_seconds": 127.8,
+          "end_seconds": 130.5,
+          "content": "\"She was taken before a magistrate.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:10.80",
+          "end": "02:12.00",
+          "start_seconds": 130.8,
+          "end_seconds": 132.0,
+          "content": "Tight shot of Alexander, his eyes wild with terror for his wife."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Barking)",
+          "start": "02:10.90",
+          "end": "02:11.80",
+          "start_seconds": 130.9,
+          "end_seconds": 131.8,
+          "content": "\"And?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:12.00",
+          "end": "02:15.00",
+          "start_seconds": 132.0,
+          "end_seconds": 135.0,
+          "content": "Close-up on his mother breaking down into inconsolable sobs."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Weeping)",
+          "start": "02:12.20",
+          "end": "02:14.40",
+          "start_seconds": 132.2,
+          "end_seconds": 134.4,
+          "content": "\"They condemned her.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (O.S.) (Gasping)",
+          "start": "02:14.50",
+          "end": "02:15.20",
+          "start_seconds": 134.5,
+          "end_seconds": 135.2,
+          "content": "\"No.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:15.00",
+          "end": "02:19.00",
+          "start_seconds": 135.0,
+          "end_seconds": 139.0,
+          "content": "Close-up on his mother looking up through her tears, delivering the horrifying reality."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Solemn, Shattered)",
+          "start": "02:16.00",
+          "end": "02:18.80",
+          "start_seconds": 136.0,
+          "end_seconds": 138.8,
+          "content": "\"She is to be executed.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:19.00",
+          "end": "02:22.00",
+          "start_seconds": 139.0,
+          "end_seconds": 142.0,
+          "content": "Wide shot of the cabin as Alexander stands stiff as iron, stunned by the looming death sentence."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Guttural, Demanding)",
+          "start": "02:20.20",
+          "end": "02:21.50",
+          "start_seconds": 140.2,
+          "end_seconds": 141.5,
+          "content": "\"When?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:22.00",
+          "end": "02:25.80",
+          "start_seconds": 142.0,
+          "end_seconds": 145.8,
+          "content": "Close-up on his mother, her hand clutched tightly against her throat."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Trembling)",
+          "start": "02:23.20",
+          "end": "02:25.50",
+          "start_seconds": 143.2,
+          "end_seconds": 145.5,
+          "content": "\"After the wedding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:25.80",
+          "end": "02:28.50",
+          "start_seconds": 145.8,
+          "end_seconds": 148.5,
+          "content": "Close-up on Alexander, narrowing his eyes in lethal suspicion."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Menacing)",
+          "start": "02:26.50",
+          "end": "02:28.00",
+          "start_seconds": 146.5,
+          "end_seconds": 148.0,
+          "content": "\"What wedding?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:28.50",
+          "end": "02:32.00",
+          "start_seconds": 148.5,
+          "end_seconds": 152.0,
+          "content": "Profile close-up of his mother looking at him across the lantern light."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Grim)",
+          "start": "02:28.80",
+          "end": "02:31.50",
+          "start_seconds": 148.8,
+          "end_seconds": 151.5,
+          "content": "\"Rupert... and Catherine's.\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:30.50",
+          "end": "02:33.00",
+          "start_seconds": 150.5,
+          "end_seconds": 153.0,
+          "content": "A sudden dramatic metallic swell underscores the impending deadline."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:32.00",
+          "end": "02:36.50",
+          "start_seconds": 152.0,
+          "end_seconds": 156.5,
+          "content": "Frontal close-up on his mother, solemn and resolute in her warning."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Deadly Serious)",
+          "start": "02:33.50",
+          "end": "02:36.00",
+          "start_seconds": 153.5,
+          "end_seconds": 156.0,
+          "content": "\"Two days from now.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:36.50",
+          "end": "02:40.00",
+          "start_seconds": 156.5,
+          "end_seconds": 160.0,
+          "content": "Profile shot of Alexander as dark realization settles over his face, turning to a grim, predatory glare."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Simmering with Fury)",
+          "start": "02:36.80",
+          "end": "02:39.80",
+          "start_seconds": 156.8,
+          "end_seconds": 159.8,
+          "content": "\"They are marrying in two days...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:40.00",
+          "end": "02:43.00",
+          "start_seconds": 160.0,
+          "end_seconds": 163.0,
+          "content": "Tight, terrifying close-up on Alexander's eyes flashing with murderous wrath."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Deadly, Throaty)",
+          "start": "02:40.50",
+          "end": "02:43.00",
+          "start_seconds": 160.5,
+          "end_seconds": 163.0,
+          "content": "\"...and killing my wife afterward.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:43.00",
+          "end": "02:47.00",
+          "start_seconds": 163.0,
+          "end_seconds": 167.0,
+          "content": "Medium shot as his mother urgently grabs Alexander's coat, pleading with him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER'S MOTHER (Pleading, Terrified)",
+          "start": "02:43.20",
+          "end": "02:46.80",
+          "start_seconds": 163.2,
+          "end_seconds": 166.8,
+          "content": "\"Alexander, you cannot go back there alone!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:47.00",
+          "end": "02:51.00",
+          "start_seconds": 167.0,
+          "end_seconds": 171.0,
+          "content": "Close-up on Alexander, towering over her, immovable and consumed by purpose."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grave, Seething)",
+          "start": "02:48.50",
+          "end": "02:50.80",
+          "start_seconds": 168.5,
+          "end_seconds": 170.8,
+          "content": "\"They already took my name.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:51.00",
+          "end": "02:54.00",
+          "start_seconds": 171.0,
+          "end_seconds": 174.0,
+          "content": "Close-up on Alexander stepping forward, his voice rising with lethal thunder."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Roaring with Conviction)",
+          "start": "02:51.60",
+          "end": "02:53.60",
+          "start_seconds": 171.6,
+          "end_seconds": 173.6,
+          "content": "\"They stole my home!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:54.00",
+          "end": "02:57.00",
+          "start_seconds": 174.0,
+          "end_seconds": 177.0,
+          "content": "Tight close-up on his furious, bared teeth and wild eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Venomous)",
+          "start": "02:54.20",
+          "end": "02:56.80",
+          "start_seconds": 174.2,
+          "end_seconds": 176.8,
+          "content": "\"And now they have taken Juliana!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:57.00",
+          "end": "02:59.50",
+          "start_seconds": 177.0,
+          "end_seconds": 179.5,
+          "content": "Close-up of Alexander's gloved hand clenching into a tight, leather-creaking fist."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:57.50",
+          "end": "02:59.20",
+          "start_seconds": 177.5,
+          "end_seconds": 179.2,
+          "content": "The sharp, taut creak of leather straining under monstrous grip strength."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:59.50",
+          "end": "03:04.00",
+          "start_seconds": 179.5,
+          "end_seconds": 184.0,
+          "content": "Tracking shot following Alexander as he turns his back on the warmth of the cabin and walks boldly toward the open double barn doors."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "03:00.00",
+          "end": "03:04.00",
+          "start_seconds": 180.0,
+          "end_seconds": 184.0,
+          "content": "Alexander stands framed in the doorway, staring out into the vast, snow-covered pine forest under the cold moonlight."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Calm, Chilling)",
+          "start": "03:02.00",
+          "end": "03:03.50",
+          "start_seconds": 182.0,
+          "end_seconds": 183.5,
+          "content": "\"Two days.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "03:04.00",
+          "end": "03:08.00",
+          "start_seconds": 184.0,
+          "end_seconds": 188.0,
+          "content": "Medium shot from inside the cabin, showing his mother clutching her chest, looking after Alexander's imposing silhouette standing at the threshold of the blizzard."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Vow of Vengeance)",
+          "start": "03:04.50",
+          "end": "03:07.80",
+          "start_seconds": 184.5,
+          "end_seconds": 187.8,
+          "content": "\"Then they have two days to celebrate.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "03:08.00",
+          "end": "03:12.50",
+          "start_seconds": 188.0,
+          "end_seconds": 192.5,
+          "content": "Side profile close-up on Alexander as his breath fogs into the icy winter night air, his jaw clenched tight."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Menacing Promise)",
+          "start": "03:09.50",
+          "end": "03:12.20",
+          "start_seconds": 189.5,
+          "end_seconds": 192.2,
+          "content": "\"Because before that wedding begins...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "03:12.50",
+          "end": "03:20.75",
+          "start_seconds": 192.5,
+          "end_seconds": 200.75,
+          "content": "Tight side profile close-up of Alexander's battle-scarred cheek and burning gaze as he makes his final declaration."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Thunderous Finale)",
+          "start": "03:13.00",
+          "end": "03:16.80",
+          "start_seconds": 193.0,
+          "end_seconds": 196.8,
+          "content": "\"...their dead Duke is coming home.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "03:17.00",
+          "end": "03:20.75",
+          "start_seconds": 197.0,
+          "end_seconds": 200.75,
+          "content": "Alexander stares resolutely ahead into the dark, snowy woods as the camera holds on his grim, determined expression before cutting to black."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "03:17.00",
+          "end": "03:20.75",
+          "start_seconds": 197.0,
+          "end_seconds": 200.75,
+          "content": "A heavy, ominous orchestral swell builds to a thunderous cliffhanger sting and reverberates into silence."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-036-Episode 1681369.txt",
+  "source_sha256": "20e03164760e2aef2f6425e045f839e61841ebc2c378c7938803790bd19fc224",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

@@ -1,0 +1,1075 @@
+{
+  "episode_number": "Episode 32",
+  "logline": "Cornered and chained in the damp dungeon, Juliana shatters Catherine's cruelty with unshakeable dignity and the truth about love and worth, driving Catherine into a murderous fury.",
+  "continuity_notes": "Picks up immediately from Episode 31's cliffhanger where Catherine used a glowing branding iron to scorch Juliana's mother's herbal book.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. DUNGEON CELLS – CONTINUOUS",
+      "start": "00:00.00",
+      "end": "02:34.38",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.00",
+          "start_seconds": 0.0,
+          "end_seconds": 3.0,
+          "content": "Close-up on the open botanical ledger lying on the wet stone floor as the glowing red branding tip sizzles against the delicate parchment."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:00.00",
+          "end": "00:02.80",
+          "start_seconds": 0.0,
+          "end_seconds": 2.8,
+          "content": "Sizzling, crackling sound of scorched parchment paper."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.00",
+          "end": "00:04.50",
+          "start_seconds": 3.0,
+          "end_seconds": 4.5,
+          "content": "Close-up of Juliana, chained against the brick wall, tears glistening on her cheeks as she trembles in grief."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Mocking, Savoring)",
+          "start": "00:03.80",
+          "end": "00:05.20",
+          "start_seconds": 3.8,
+          "end_seconds": 5.2,
+          "content": "\"There it is.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.50",
+          "end": "00:07.50",
+          "start_seconds": 4.5,
+          "end_seconds": 7.5,
+          "content": "Low-angle medium shot of Catherine in her opulent velvet gown, clutching the hot poker with a sadistic sneer."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Whispering, Venomous)",
+          "start": "00:07.50",
+          "end": "00:09.20",
+          "start_seconds": 7.5,
+          "end_seconds": 9.2,
+          "content": "\"Fear.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.50",
+          "end": "00:10.50",
+          "start_seconds": 7.5,
+          "end_seconds": 10.5,
+          "content": "Close-up of Catherine leaning slightly forward over the burning book, eyes glittering with malice."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Taunting)",
+          "start": "00:09.80",
+          "end": "00:13.20",
+          "start_seconds": 9.8,
+          "end_seconds": 13.2,
+          "content": "\"You have been so proud of that brave little face...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:10.50",
+          "end": "00:13.50",
+          "start_seconds": 10.5,
+          "end_seconds": 13.5,
+          "content": "Wide shot showing Juliana chained against the cold dungeon wall, small and restrained beneath Catherine's towering shadow."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Smug, Dominant)",
+          "start": "00:13.40",
+          "end": "00:15.80",
+          "start_seconds": 13.4,
+          "end_seconds": 15.8,
+          "content": "\"...but now you are afraid.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.50",
+          "end": "00:16.00",
+          "start_seconds": 13.5,
+          "end_seconds": 16.0,
+          "content": "Medium shot of Catherine straightening up haughtily."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.00",
+          "end": "00:17.00",
+          "start_seconds": 16.0,
+          "end_seconds": 17.0,
+          "content": "Extreme close-up of Juliana, her lips trembling in agonizing sorrow."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cruel, Final)",
+          "start": "00:16.20",
+          "end": "00:18.80",
+          "start_seconds": 16.2,
+          "end_seconds": 18.8,
+          "content": "\"Say goodbye to your mother.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.00",
+          "end": "00:19.00",
+          "start_seconds": 17.0,
+          "end_seconds": 19.0,
+          "content": "Low-angle shot of Catherine swinging the flaming orange iron upward from the book."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:18.80",
+          "end": "00:20.50",
+          "start_seconds": 18.8,
+          "end_seconds": 20.5,
+          "content": "Juliana's despair suddenly solidifies. Her jaw tightens, tears stopping as resolve takes over."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.00",
+          "end": "00:20.50",
+          "start_seconds": 19.0,
+          "end_seconds": 20.5,
+          "content": "Close-up of Juliana looking up directly at Catherine, fear replaced by cold conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Unbroken)",
+          "start": "00:20.20",
+          "end": "00:22.00",
+          "start_seconds": 20.2,
+          "end_seconds": 22.0,
+          "content": "\"Burn it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.50",
+          "end": "00:23.00",
+          "start_seconds": 20.5,
+          "end_seconds": 23.0,
+          "content": "Medium close-up of Juliana, sitting upright despite her heavy iron shackles."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.00",
+          "end": "00:25.50",
+          "start_seconds": 23.0,
+          "end_seconds": 25.5,
+          "content": "Close-up of Catherine, her smug expression abruptly flickering with startled confusion."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Disconcerted)",
+          "start": "00:23.80",
+          "end": "00:24.80",
+          "start_seconds": 23.8,
+          "end_seconds": 24.8,
+          "content": "\"What?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:25.50",
+          "end": "00:28.50",
+          "start_seconds": 25.5,
+          "end_seconds": 28.5,
+          "content": "Low-angle close-up of Juliana staring straight up into Catherine's eyes without flinching."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Firm, Resolute)",
+          "start": "00:25.80",
+          "end": "00:28.80",
+          "start_seconds": 25.8,
+          "end_seconds": 28.8,
+          "content": "\"Burn the ledger. Burn every page.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.50",
+          "end": "00:30.80",
+          "start_seconds": 28.5,
+          "end_seconds": 30.8,
+          "content": "Wide shot of the wet dungeon floor, guards stationed by the heavy iron doorway in the background as Catherine holds the hot brand."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Proud)",
+          "start": "00:29.80",
+          "end": "00:32.80",
+          "start_seconds": 29.8,
+          "end_seconds": 32.8,
+          "content": "\"You may destroy the book...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.80",
+          "end": "00:33.50",
+          "start_seconds": 30.8,
+          "end_seconds": 33.5,
+          "content": "Close-up of Catherine's face darkening with irritation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.50",
+          "end": "00:36.50",
+          "start_seconds": 33.5,
+          "end_seconds": 36.5,
+          "content": "Medium low-angle shot of Juliana sitting amidst chains beneath the barred ceiling grate."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Transcendent, Defiant)",
+          "start": "00:33.20",
+          "end": "00:36.20",
+          "start_seconds": 33.2,
+          "end_seconds": 36.2,
+          "content": "\"...you cannot destroy what my mother taught me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.40",
+          "end": "00:38.80",
+          "start_seconds": 36.4,
+          "end_seconds": 38.8,
+          "content": "Close-up of Catherine leaning down aggressively into Juliana's space, trembling with offended rage."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Spiteful, Hissing)",
+          "start": "00:36.40",
+          "end": "00:39.10",
+          "start_seconds": 36.4,
+          "end_seconds": 39.1,
+          "content": "\"You think a few herbs make you better than me?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.80",
+          "end": "00:41.00",
+          "start_seconds": 38.8,
+          "end_seconds": 41.0,
+          "content": "Close-up of Juliana looking steadily up into Catherine's furious glare."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Calm, Cutting)",
+          "start": "00:39.20",
+          "end": "00:42.80",
+          "start_seconds": 39.2,
+          "end_seconds": 42.8,
+          "content": "\"No. Your cruelty does that for me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.00",
+          "end": "00:43.50",
+          "start_seconds": 41.0,
+          "end_seconds": 43.5,
+          "content": "High-angle over-the-shoulder shot looking down at Juliana bound in heavy chains on the damp floor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.50",
+          "end": "00:45.50",
+          "start_seconds": 43.5,
+          "end_seconds": 45.5,
+          "content": "Extreme close-up of Catherine, baring her teeth in outrage."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Furious, Shouting)",
+          "start": "00:43.40",
+          "end": "00:45.40",
+          "start_seconds": 43.4,
+          "end_seconds": 45.4,
+          "content": "\"You still think you are better?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:45.50",
+          "end": "00:47.80",
+          "start_seconds": 45.5,
+          "end_seconds": 47.8,
+          "content": "Medium shot of Juliana, her chained hands clasped together in her lap."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Serene, Grounded)",
+          "start": "00:45.60",
+          "end": "00:47.40",
+          "start_seconds": 45.6,
+          "end_seconds": 47.4,
+          "content": "\"I know what I am.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:47.80",
+          "end": "00:49.00",
+          "start_seconds": 47.8,
+          "end_seconds": 49.0,
+          "content": "Medium shot of Catherine scoffing with forced, derisive laughter."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Sneering, Mocking)",
+          "start": "00:47.80",
+          "end": "00:49.00",
+          "start_seconds": 47.8,
+          "end_seconds": 49.0,
+          "content": "\"A disgraced woman?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.00",
+          "end": "00:52.50",
+          "start_seconds": 49.0,
+          "end_seconds": 52.5,
+          "content": "Close-up of Juliana speaking with undeniable strength."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unwavering)",
+          "start": "00:49.20",
+          "end": "00:52.40",
+          "start_seconds": 49.2,
+          "end_seconds": 52.4,
+          "content": "\"A woman who survived. You cannot destroy me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.50",
+          "end": "00:54.40",
+          "start_seconds": 52.5,
+          "end_seconds": 54.4,
+          "content": "Close-up of Catherine brandishing the glowing tong in Juliana's face, spittle flying from her lips."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Screaming, Enraged)",
+          "start": "00:52.80",
+          "end": "00:54.20",
+          "start_seconds": 52.8,
+          "end_seconds": 54.2,
+          "content": "\"You are lying!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.40",
+          "end": "00:58.00",
+          "start_seconds": 54.4,
+          "end_seconds": 58.0,
+          "content": "Close-up of Juliana looking straight up, voice steady and clear."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Measured, Emphatic)",
+          "start": "00:54.60",
+          "end": "00:58.00",
+          "start_seconds": 54.6,
+          "end_seconds": 58.0,
+          "content": "\"Gerald leaving me was the best thing he ever did for me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.00",
+          "end": "01:00.80",
+          "start_seconds": 58.0,
+          "end_seconds": 60.8,
+          "content": "Full shot of the dungeon cell. Catherine stands rigidly tall while Juliana sits shackled on the ground."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Contemplative, Scathing)",
+          "start": "00:58.20",
+          "end": "01:01.00",
+          "start_seconds": 58.2,
+          "end_seconds": 61.0,
+          "content": "\"He wanted a woman who looked beautiful beside his wealth.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.80",
+          "end": "01:04.50",
+          "start_seconds": 60.8,
+          "end_seconds": 64.5,
+          "content": "Extreme close-up of Juliana's expressive blue eyes and tear-stained cheek."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Passionate, Clear)",
+          "start": "01:01.10",
+          "end": "01:06.80",
+          "start_seconds": 61.1,
+          "end_seconds": 66.8,
+          "content": "\"He wanted a wife whose family could raise his name. He measured a woman's worth by what she could give him.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.50",
+          "end": "01:07.00",
+          "start_seconds": 64.5,
+          "end_seconds": 67.0,
+          "content": "Low-angle shot of Juliana leaning slightly forward against her chains."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.00",
+          "end": "01:09.00",
+          "start_seconds": 67.0,
+          "end_seconds": 69.0,
+          "content": "Close-up of Catherine staring down, her eyes widening as Juliana's words pierce her facade."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unapologetic, Victorious)",
+          "start": "01:07.20",
+          "end": "01:08.90",
+          "start_seconds": 67.2,
+          "end_seconds": 68.9,
+          "content": "\"Let him have Clarissa.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.00",
+          "end": "01:11.20",
+          "start_seconds": 69.0,
+          "end_seconds": 71.2,
+          "content": "Close-up of Juliana smiling with genuine liberation."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Proud)",
+          "start": "01:09.60",
+          "end": "01:11.20",
+          "start_seconds": 69.6,
+          "end_seconds": 71.2,
+          "content": "\"He lost me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.20",
+          "end": "01:13.30",
+          "start_seconds": 71.2,
+          "end_seconds": 73.3,
+          "content": "Extreme close-up of Catherine's face contorting in sheer fury."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Shrieking, Vicious)",
+          "start": "01:11.30",
+          "end": "01:13.20",
+          "start_seconds": 71.3,
+          "end_seconds": 73.2,
+          "content": "\"You were rejected!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:13.30",
+          "end": "01:15.50",
+          "start_seconds": 73.3,
+          "end_seconds": 75.5,
+          "content": "Close-up of Juliana's calm, resolute face."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Grounded, Powerful)",
+          "start": "01:13.40",
+          "end": "01:17.60",
+          "start_seconds": 73.4,
+          "end_seconds": 77.6,
+          "content": "\"I was freed. And I found a man who never asked me what I was worth.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.50",
+          "end": "01:17.50",
+          "start_seconds": 75.5,
+          "end_seconds": 77.5,
+          "content": "Wide shot of the cell, steam rising faintly in the cold subterranean air."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.50",
+          "end": "01:20.00",
+          "start_seconds": 77.5,
+          "end_seconds": 80.0,
+          "content": "Close-up of Catherine sneering with dripping condescension."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Disdainful)",
+          "start": "01:17.80",
+          "end": "01:19.40",
+          "start_seconds": 77.8,
+          "end_seconds": 79.4,
+          "content": "\"Your soldier?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:20.00",
+          "end": "01:22.50",
+          "start_seconds": 80.0,
+          "end_seconds": 82.5,
+          "content": "Close-up of Juliana, her eyes glowing with genuine devotion."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Tender, Certain)",
+          "start": "01:20.20",
+          "end": "01:22.00",
+          "start_seconds": 80.2,
+          "end_seconds": 82.0,
+          "content": "\"My husband.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:22.50",
+          "end": "01:24.10",
+          "start_seconds": 82.5,
+          "end_seconds": 84.1,
+          "content": "Close-up of Catherine scowling with deep disgust."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Bitter)",
+          "start": "01:22.50",
+          "end": "01:24.00",
+          "start_seconds": 82.5,
+          "end_seconds": 84.0,
+          "content": "\"He is a nobody.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.10",
+          "end": "01:26.50",
+          "start_seconds": 84.1,
+          "end_seconds": 86.5,
+          "content": "Close-up of Juliana smiling softly, totally untroubled."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Warm, Defiant)",
+          "start": "01:24.20",
+          "end": "01:26.20",
+          "start_seconds": 84.2,
+          "end_seconds": 86.2,
+          "content": "\"Then I love a nobody.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:29.80",
+          "start_seconds": 86.5,
+          "end_seconds": 89.8,
+          "content": "Low-angle shot focusing on Juliana's bare, chained feet locked in iron on the stone floor."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Resonant, Moving)",
+          "start": "01:26.50",
+          "end": "01:30.20",
+          "start_seconds": 86.5,
+          "end_seconds": 90.2,
+          "content": "\"Because that nobody showed me more love than your entire world ever did.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.80",
+          "end": "01:32.80",
+          "start_seconds": 89.8,
+          "end_seconds": 92.8,
+          "content": "Medium close-up of Catherine gripping the branding rod tighter, her upper lip curling in fury."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Indignant, Sharp)",
+          "start": "01:30.10",
+          "end": "01:32.60",
+          "start_seconds": 90.1,
+          "end_seconds": 92.6,
+          "content": "\"You know nothing about my world.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:32.80",
+          "end": "01:37.00",
+          "start_seconds": 92.8,
+          "end_seconds": 97.0,
+          "content": "Medium shot of Juliana sitting in her tattered apron and chains, looking composed."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Knowing, Sober)",
+          "start": "01:33.20",
+          "end": "01:36.60",
+          "start_seconds": 93.2,
+          "end_seconds": 96.6,
+          "content": "\"I know exactly what your world values.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:37.00",
+          "end": "01:39.80",
+          "start_seconds": 97.0,
+          "end_seconds": 99.8,
+          "content": "Extreme close-up of Juliana's lips and eyes as she lists them with chilling precision."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Listing, Deliberate)",
+          "start": "01:37.60",
+          "end": "01:39.60",
+          "start_seconds": 97.6,
+          "end_seconds": 99.6,
+          "content": "\"Beauty. Money.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.80",
+          "end": "01:41.00",
+          "start_seconds": 99.8,
+          "end_seconds": 101.0,
+          "content": "Extreme close-up of Catherine's wide, stunned eyes reacting to the naked truth."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:41.00",
+          "end": "01:43.70",
+          "start_seconds": 101.0,
+          "end_seconds": 103.7,
+          "content": "Close-up of Juliana looking up unflinchingly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Firm)",
+          "start": "01:41.20",
+          "end": "01:43.50",
+          "start_seconds": 101.2,
+          "end_seconds": 103.5,
+          "content": "\"Family. A perfect name.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.70",
+          "end": "01:47.00",
+          "start_seconds": 103.7,
+          "end_seconds": 107.0,
+          "content": "Low-angle shot of Catherine standing rigid in her gold and purple gown, the guard standing sentinel behind her."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Continuing)",
+          "start": "01:43.80",
+          "end": "01:47.20",
+          "start_seconds": 103.8,
+          "end_seconds": 107.2,
+          "content": "\"And a woman who never embarrasses the people standing behind her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.00",
+          "end": "01:48.80",
+          "start_seconds": 107.0,
+          "end_seconds": 108.8,
+          "content": "Close-up of Catherine throwing her hands up in explosive defensiveness."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Shouting, Outraged)",
+          "start": "01:47.20",
+          "end": "01:48.80",
+          "start_seconds": 107.2,
+          "end_seconds": 108.8,
+          "content": "\"And what is wrong with that?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:48.80",
+          "end": "01:49.40",
+          "start_seconds": 108.8,
+          "end_seconds": 109.4,
+          "content": "Close-up of Catherine's face twisting in absolute venom."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:49.40",
+          "end": "01:52.50",
+          "start_seconds": 109.4,
+          "end_seconds": 112.5,
+          "content": "Close-up of Juliana looking serene."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle, Penetrating)",
+          "start": "01:49.50",
+          "end": "01:52.80",
+          "start_seconds": 109.5,
+          "end_seconds": 112.8,
+          "content": "\"Nothing. Until you have nothing left beneath it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.50",
+          "end": "01:56.00",
+          "start_seconds": 112.5,
+          "end_seconds": 116.0,
+          "content": "Medium shot of Catherine standing motionless, holding the iron rod, struck to the core by the insult."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unrelenting)",
+          "start": "01:52.80",
+          "end": "01:56.00",
+          "start_seconds": 112.8,
+          "end_seconds": 116.0,
+          "content": "\"You have spent your whole life collecting things that make people bow...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:56.00",
+          "end": "01:56.80",
+          "start_seconds": 116.0,
+          "end_seconds": 116.8,
+          "content": "Low-angle shot of Juliana's chained hands folded peacefully in her lap."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:56.80",
+          "end": "01:59.50",
+          "start_seconds": 116.8,
+          "end_seconds": 119.5,
+          "content": "Medium close-up of Juliana looking up with quiet pity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Piercing)",
+          "start": "01:56.90",
+          "end": "01:59.50",
+          "start_seconds": 116.9,
+          "end_seconds": 119.5,
+          "content": "\"...but you have never learned how to make anyone love you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.50",
+          "end": "02:01.80",
+          "start_seconds": 119.5,
+          "end_seconds": 121.8,
+          "content": "Medium shot of Catherine snapping entirely, raising the branding poker like a weapon and screaming."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Hysterical, Screaming)",
+          "start": "01:59.60",
+          "end": "02:01.80",
+          "start_seconds": 119.6,
+          "end_seconds": 121.8,
+          "content": "\"Silence! Silence!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:01.80",
+          "end": "02:03.00",
+          "start_seconds": 121.8,
+          "end_seconds": 123.0,
+          "content": "Close-up of Catherine's crazed, gasping face."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Shrieking)",
+          "start": "02:01.80",
+          "end": "02:02.80",
+          "start_seconds": 121.8,
+          "end_seconds": 122.8,
+          "content": "\"Why?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:02.80",
+          "end": "02:05.00",
+          "start_seconds": 122.8,
+          "end_seconds": 125.0,
+          "content": "Close-up of Juliana crying out her defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Forceful)",
+          "start": "02:03.00",
+          "end": "02:05.20",
+          "start_seconds": 123.0,
+          "end_seconds": 125.2,
+          "content": "\"Because I am right!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:05.00",
+          "end": "02:08.50",
+          "start_seconds": 125.0,
+          "end_seconds": 128.5,
+          "content": "Low-angle tracking shot of the red-hot branding tip trailing across the wet dungeon floor, steaming."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Scathing, Direct)",
+          "start": "02:05.40",
+          "end": "02:08.80",
+          "start_seconds": 125.4,
+          "end_seconds": 128.8,
+          "content": "\"You want everyone to believe you are powerful.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:08.50",
+          "end": "02:11.80",
+          "start_seconds": 128.5,
+          "end_seconds": 131.8,
+          "content": "Medium shot of Juliana sitting under the cold skylight bars, her posture majestic despite her imprisonment."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Continuing)",
+          "start": "02:09.00",
+          "end": "02:11.60",
+          "start_seconds": 129.0,
+          "end_seconds": 131.6,
+          "content": "\"You want everyone to fear you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:11.80",
+          "end": "02:14.80",
+          "start_seconds": 131.8,
+          "end_seconds": 134.8,
+          "content": "Medium shot of Juliana looking directly at Catherine, gestures restrained by the heavy iron chains."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Mocking, Direct)",
+          "start": "02:12.00",
+          "end": "02:14.00",
+          "start_seconds": 132.0,
+          "end_seconds": 134.0,
+          "content": "\"But look at you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:14.80",
+          "end": "02:18.50",
+          "start_seconds": 134.8,
+          "end_seconds": 138.5,
+          "content": "Close-up of Juliana, her eyes burning with fiery contempt."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Stripping Her Bare)",
+          "start": "02:15.00",
+          "end": "02:18.60",
+          "start_seconds": 135.0,
+          "end_seconds": 138.6,
+          "content": "\"You have to threaten a chained woman to feel powerful!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:18.50",
+          "end": "02:20.40",
+          "start_seconds": 138.5,
+          "end_seconds": 140.4,
+          "content": "Close-up of Catherine trembling with uncontrollable rage, teeth bared."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Choking with Rage)",
+          "start": "02:18.60",
+          "end": "02:20.20",
+          "start_seconds": 138.6,
+          "end_seconds": 140.2,
+          "content": "\"You insolent—!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:20.40",
+          "end": "02:22.40",
+          "start_seconds": 140.4,
+          "end_seconds": 142.4,
+          "content": "Medium shot of Catherine gripping the glowing tongs as Juliana continues speaking over her."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Triumphant)",
+          "start": "02:20.40",
+          "end": "02:22.30",
+          "start_seconds": 140.4,
+          "end_seconds": 142.3,
+          "content": "\"You may have the title you have always wanted...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:22.40",
+          "end": "02:26.50",
+          "start_seconds": 142.4,
+          "end_seconds": 146.5,
+          "content": "Close-up of Juliana delivering the final emotional blow."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Final, Condemning)",
+          "start": "02:22.40",
+          "end": "02:26.50",
+          "start_seconds": 142.4,
+          "end_seconds": 146.5,
+          "content": "\"...but you will never have the courage to earn what you demand from everyone else.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:26.50",
+          "end": "02:28.00",
+          "start_seconds": 146.5,
+          "end_seconds": 148.0,
+          "content": "Close-up of Catherine's face twitching with sheer murderous madness."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Enraged, Shouting)",
+          "start": "02:26.60",
+          "end": "02:28.10",
+          "start_seconds": 146.6,
+          "end_seconds": 148.1,
+          "content": "\"You think you can lecture me?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:28.00",
+          "end": "02:30.80",
+          "start_seconds": 148.0,
+          "end_seconds": 150.8,
+          "content": "Medium shot of Catherine raising the branding iron high above her head with both hands."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:28.00",
+          "end": "02:30.80",
+          "start_seconds": 148.0,
+          "end_seconds": 150.8,
+          "content": "Catherine hoists the searing branding rod over Juliana with frantic fury."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Screaming, Maniacal)",
+          "start": "02:28.10",
+          "end": "02:31.20",
+          "start_seconds": 148.1,
+          "end_seconds": 151.2,
+          "content": "\"Then let's see how brave you are when it touches your skin!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:30.80",
+          "end": "02:32.00",
+          "start_seconds": 150.8,
+          "end_seconds": 152.0,
+          "content": "Medium shot of Catherine plunging the glowing orange poker straight toward Juliana's face."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:31.20",
+          "end": "02:34.38",
+          "start_seconds": 151.2,
+          "end_seconds": 154.38,
+          "content": "Juliana gasps, freezing as the glowing tip of the iron thrusts forward, stopping mere millimeters from her right eye."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:32.00",
+          "end": "02:34.38",
+          "start_seconds": 152.0,
+          "end_seconds": 154.38,
+          "content": "Extreme close-up of Juliana's wide, unblinking blue eye. The intense, fiery orange glow of the iron poker radiates inches from her cornea, holding on the heart-stopping cliffhanger as the frame cuts to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-032-Episode 1681365.txt",
+  "source_sha256": "e35aeb60acdaeebbbee43d680bf3c910d1b48a08c7c141a727cc0b8649b15b53",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

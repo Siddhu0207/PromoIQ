@@ -1,0 +1,1066 @@
+{
+  "episode_number": "Episode 34",
+  "logline": "Put on trial for witchcraft and poisoning, Lady Juliana stands proud and defiant in the prisoner's dock, refusing to renounce her mother's herbal medicine even after her coerced maid gives false testimony against her.",
+  "continuity_notes": "Following the aristocratic Lord's ruthless extortion of the young maid in his study, Episode 34 transitions directly into the crowded courtroom trial where the conspirators unleash their manufactured charges and false witnesses against Lady Juliana.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. COURTROOM – DAY",
+      "start": "00:00.00",
+      "end": "03:10.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.80",
+          "start_seconds": 0.0,
+          "end_seconds": 2.8,
+          "content": "High wide establishing shot from behind the presiding judge looking down into the grand, sunlit courtroom filled with stern spectators, armed bailiffs, and Lady Juliana standing confined in the wooden prisoner's dock on the left."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Booming, Authoritative)",
+          "start": "00:01.20",
+          "end": "00:07.80",
+          "start_seconds": 1.2,
+          "end_seconds": 7.8,
+          "content": "\"Lady Juliana Ashcroft, you are accused of witchcraft, unlawful healing, and poisoning.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.80",
+          "end": "00:07.80",
+          "start_seconds": 2.8,
+          "end_seconds": 7.8,
+          "content": "Medium close-up of the stern, elderly Judge seated at the high mahogany bench, resting both hands on the court documents."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.80",
+          "end": "00:13.10",
+          "start_seconds": 7.8,
+          "end_seconds": 13.1,
+          "content": "Close-up of the charred, ancient botanical grimoire resting on the bench, its scorched pages open to an illustration of a wild rose, as a finger firmly taps the text."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:09.00",
+          "end": "00:11.20",
+          "start_seconds": 9.0,
+          "end_seconds": 11.2,
+          "content": "[A firm, hollow tap of a finger striking the parchment]"
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (O.S.) (Inquisitive, Severe)",
+          "start": "00:09.10",
+          "end": "00:12.60",
+          "start_seconds": 9.1,
+          "end_seconds": 12.6,
+          "content": "\"Do you deny possessing this book?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.10",
+          "end": "00:15.50",
+          "start_seconds": 13.1,
+          "end_seconds": 15.5,
+          "content": "Low-angle medium close-up of Lady Juliana standing erect in the dock, her prisoner label pinned to her rustic buttoned gown, her expression resolute."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Calm, Unflinching)",
+          "start": "00:13.80",
+          "end": "00:14.80",
+          "start_seconds": 13.8,
+          "end_seconds": 14.8,
+          "content": "\"No.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.50",
+          "end": "00:19.40",
+          "start_seconds": 15.5,
+          "end_seconds": 19.4,
+          "content": "Low-angle medium shot of the Judge leaning over his elevated bench, staring down critically."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Stern, Accusatory)",
+          "start": "00:15.60",
+          "end": "00:19.20",
+          "start_seconds": 15.6,
+          "end_seconds": 19.2,
+          "content": "\"Do you deny using its remedies?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.40",
+          "end": "00:23.80",
+          "start_seconds": 19.4,
+          "end_seconds": 23.8,
+          "content": "Tight close-up of Lady Juliana's face, bruised cheekbone highlighting her calm defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Firm)",
+          "start": "00:20.80",
+          "end": "00:21.80",
+          "start_seconds": 20.8,
+          "end_seconds": 21.8,
+          "content": "\"No.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.80",
+          "end": "00:27.40",
+          "start_seconds": 23.8,
+          "end_seconds": 27.4,
+          "content": "Medium shot of the aristocratic Lord standing at the railing in his tailored dark coat, turning slowly with a smirk of malicious satisfaction."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.40",
+          "end": "00:31.70",
+          "start_seconds": 27.4,
+          "end_seconds": 31.7,
+          "content": "Close-up of the Judge leaning forward across his bench, eyes narrowing with grim conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Hard, Pressing)",
+          "start": "00:27.50",
+          "end": "00:31.20",
+          "start_seconds": 27.5,
+          "end_seconds": 31.2,
+          "content": "\"Then you admit to practicing forbidden arts.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.70",
+          "end": "00:35.30",
+          "start_seconds": 31.7,
+          "end_seconds": 35.3,
+          "content": "Close-up of Lady Juliana looking upward with quiet dignity, her eyes luminous."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Proud, Dignified)",
+          "start": "00:33.20",
+          "end": "00:35.10",
+          "start_seconds": 33.2,
+          "end_seconds": 35.1,
+          "content": "\"I admit to healing the sick.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:35.30",
+          "end": "00:37.40",
+          "start_seconds": 35.3,
+          "end_seconds": 37.4,
+          "content": "The Judge furiously raises his wooden gavel and strikes the sound block with sharp force."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Furious, Shouting)",
+          "start": "00:35.40",
+          "end": "00:36.60",
+          "start_seconds": 35.4,
+          "end_seconds": 36.6,
+          "content": "\"Silence!\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:35.80",
+          "end": "00:37.00",
+          "start_seconds": 35.8,
+          "end_seconds": 37.0,
+          "content": "[Sharp, echoing crack of the gavel slamming onto wood]"
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.80",
+          "end": "00:37.40",
+          "start_seconds": 35.8,
+          "end_seconds": 37.4,
+          "content": "Medium shot of the Judge slamming the gavel down on his bench."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.40",
+          "end": "00:42.50",
+          "start_seconds": 37.4,
+          "end_seconds": 42.5,
+          "content": "Tracking shot moving from the Judge on his bench as he points his outstretched arm across the courtroom floor toward the witness stand."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Commanding)",
+          "start": "00:37.50",
+          "end": "00:41.20",
+          "start_seconds": 37.5,
+          "end_seconds": 41.2,
+          "content": "\"Prudence. You served beside the accused?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:41.00",
+          "end": "00:43.00",
+          "start_seconds": 41.0,
+          "end_seconds": 43.0,
+          "content": "Prudence the young maid stands trembling in the center of the courtroom floor, her head bowed in deep shame, clutching the sides of her apron."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.50",
+          "end": "00:44.80",
+          "start_seconds": 42.5,
+          "end_seconds": 44.8,
+          "content": "Medium close-up of Prudence looking up with tears streaming down her pale face."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Trembling, Tearful)",
+          "start": "00:43.20",
+          "end": "00:44.60",
+          "start_seconds": 43.2,
+          "end_seconds": 44.6,
+          "content": "\"Yes, Your Honor.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.80",
+          "end": "00:49.00",
+          "start_seconds": 44.8,
+          "end_seconds": 49.0,
+          "content": "Medium close-up of the Judge leaning forward with folded hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Probing, Formal)",
+          "start": "00:45.30",
+          "end": "00:48.80",
+          "start_seconds": 45.3,
+          "end_seconds": 48.8,
+          "content": "\"Did you witness Lady Juliana perform these treatments?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.00",
+          "end": "00:51.50",
+          "start_seconds": 49.0,
+          "end_seconds": 51.5,
+          "content": "Profile over-the-shoulder shot from behind Prudence toward Lady Juliana standing bound in iron cuffs at the prisoner's dock."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Softly, Urgent)",
+          "start": "00:49.10",
+          "end": "00:50.50",
+          "start_seconds": 49.1,
+          "end_seconds": 50.5,
+          "content": "\"Tell the truth.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.50",
+          "end": "00:54.80",
+          "start_seconds": 51.5,
+          "end_seconds": 54.8,
+          "content": "Close-up of Prudence breaking down in tears, squeezing her eyes shut as guilt overwhelms her."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Sobbing, Heartbroken)",
+          "start": "00:53.00",
+          "end": "00:54.20",
+          "start_seconds": 53.0,
+          "end_seconds": 54.2,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.80",
+          "end": "00:57.60",
+          "start_seconds": 54.8,
+          "end_seconds": 57.6,
+          "content": "Close-up of Lady Juliana looking at her former maid, a momentary flicker of hurt passing through her eyes before settling into stoic composure."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:57.60",
+          "end": "01:00.80",
+          "start_seconds": 57.6,
+          "end_seconds": 60.8,
+          "content": "Medium profile shot of the Judge recording notes in the open court ledger with a feather quill."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Measured, Stern)",
+          "start": "00:58.20",
+          "end": "01:00.10",
+          "start_seconds": 58.2,
+          "end_seconds": 60.1,
+          "content": "\"What did you see?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.80",
+          "end": "01:04.60",
+          "start_seconds": 60.8,
+          "end_seconds": 64.6,
+          "content": "Medium close-up of Prudence clutching both hands to her chest in anguish."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Choked with Tears)",
+          "start": "01:01.30",
+          "end": "01:04.40",
+          "start_seconds": 61.3,
+          "end_seconds": 64.4,
+          "content": "\"She used herbs... and her mother's book.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.60",
+          "end": "01:06.80",
+          "start_seconds": 64.6,
+          "end_seconds": 66.8,
+          "content": "Medium shot of the Judge leaning back slightly, pointing his hand accusingly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Pressing, Sharp)",
+          "start": "01:04.80",
+          "end": "01:06.70",
+          "start_seconds": 64.8,
+          "end_seconds": 66.7,
+          "content": "\"Did she draw strange markings?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.80",
+          "end": "01:11.80",
+          "start_seconds": 66.8,
+          "end_seconds": 71.8,
+          "content": "Close-up of Prudence's tear-streaked face as she hesitates, her breath hitching."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Faltering, Desperate)",
+          "start": "01:08.20",
+          "end": "01:11.70",
+          "start_seconds": 68.2,
+          "end_seconds": 71.7,
+          "content": "\"She... placed herbs around my brother's bed.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.80",
+          "end": "01:15.80",
+          "start_seconds": 71.8,
+          "end_seconds": 75.8,
+          "content": "Medium shot of the Judge pointing an outstretched index finger with piercing intensity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Accusatory, Forceful)",
+          "start": "01:12.10",
+          "end": "01:15.50",
+          "start_seconds": 72.1,
+          "end_seconds": 75.5,
+          "content": "\"And did she speak words you could not understand?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.80",
+          "end": "01:21.00",
+          "start_seconds": 75.8,
+          "end_seconds": 81.0,
+          "content": "Extreme close-up of Prudence weeping uncontrollably, her face contorted in unbearable remorse."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Weeping, Shaken)",
+          "start": "01:18.80",
+          "end": "01:20.50",
+          "start_seconds": 78.8,
+          "end_seconds": 80.5,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:25.20",
+          "start_seconds": 81.0,
+          "end_seconds": 85.2,
+          "content": "Medium tracking shot of the Lord stepping into the open aisle of the courtroom with arms spread wide, turning triumphantly toward the Judge."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Triumphant, Smug)",
+          "start": "01:21.30",
+          "end": "01:24.90",
+          "start_seconds": 81.3,
+          "end_seconds": 84.9,
+          "content": "\"Your Honor... the witness has confirmed the ritual.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:25.00",
+          "end": "01:27.20",
+          "start_seconds": 85.0,
+          "end_seconds": 87.2,
+          "content": "Lady Juliana slams her cuffed hands against the wooden railing of the dock, her voice ringing out in indignant fury."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.20",
+          "end": "01:27.40",
+          "start_seconds": 85.2,
+          "end_seconds": 87.4,
+          "content": "Low-angle medium shot of Lady Juliana gripping the railing, leaning forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Passionate, Indignant)",
+          "start": "01:25.20",
+          "end": "01:27.20",
+          "start_seconds": 85.2,
+          "end_seconds": 87.2,
+          "content": "\"It was not a ritual!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:27.20",
+          "end": "01:30.20",
+          "start_seconds": 87.2,
+          "end_seconds": 90.2,
+          "content": "The Judge repeatedly hammers his gavel down onto the desk, roaring over her."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:27.40",
+          "end": "01:30.50",
+          "start_seconds": 87.4,
+          "end_seconds": 90.5,
+          "content": "Medium shot of the Judge striking the wooden block twice in rapid succession."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:27.80",
+          "end": "01:29.20",
+          "start_seconds": 87.8,
+          "end_seconds": 89.2,
+          "content": "[Violent, resonant double bang of the wooden gavel]"
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Bellowing)",
+          "start": "01:27.90",
+          "end": "01:30.00",
+          "start_seconds": 87.9,
+          "end_seconds": 90.0,
+          "content": "\"You will speak when addressed!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:30.50",
+          "end": "01:33.80",
+          "start_seconds": 90.5,
+          "end_seconds": 93.8,
+          "content": "Medium shot of the Lord extending his palm toward the gallery with theatrical composure."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Calm, Poisonous)",
+          "start": "01:31.00",
+          "end": "01:33.20",
+          "start_seconds": 91.0,
+          "end_seconds": 93.2,
+          "content": "\"We have further witnesses.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.80",
+          "end": "01:38.20",
+          "start_seconds": 93.8,
+          "end_seconds": 98.2,
+          "content": "Medium shot of an anxious townsman standing by the gallery pews, nervously wringing his woolen hat in his hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "TOWNSMAN (Nervous, Fearful)",
+          "start": "01:34.20",
+          "end": "01:38.00",
+          "start_seconds": 94.2,
+          "end_seconds": 98.0,
+          "content": "\"My wife took one of Lady Juliana's mixtures...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.20",
+          "end": "01:39.50",
+          "start_seconds": 98.2,
+          "end_seconds": 99.5,
+          "content": "Close-up of the Judge glaring down expectantly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Sharp)",
+          "start": "01:38.30",
+          "end": "01:39.10",
+          "start_seconds": 98.3,
+          "end_seconds": 99.1,
+          "content": "\"And?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.50",
+          "end": "01:42.10",
+          "start_seconds": 99.5,
+          "end_seconds": 102.1,
+          "content": "Close-up of the townsman's face tightening with coached distress."
+        },
+        {
+          "type": "dialogue",
+          "label": "TOWNSMAN (Agitated)",
+          "start": "01:39.80",
+          "end": "01:41.80",
+          "start_seconds": 99.8,
+          "end_seconds": 101.8,
+          "content": "\"She became violently ill.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:42.10",
+          "end": "01:47.30",
+          "start_seconds": 102.1,
+          "end_seconds": 107.3,
+          "content": "Medium shot among the spectators as an elderly peasant woman stands up from the wooden bench, pointing an accusatory finger across the courtroom."
+        },
+        {
+          "type": "dialogue",
+          "label": "OLD WOMAN (Shrill, Accusatory)",
+          "start": "01:42.30",
+          "end": "01:47.00",
+          "start_seconds": 102.3,
+          "end_seconds": 107.0,
+          "content": "\"My daughter drank one of her herbal preparations! She was sick for three days!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.30",
+          "end": "01:50.00",
+          "start_seconds": 107.3,
+          "end_seconds": 110.0,
+          "content": "Side two-shot of the Lord stepping up to the dock, looming beside Lady Juliana as she looks him in the eye."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Mocking, Smug)",
+          "start": "01:48.00",
+          "end": "01:49.80",
+          "start_seconds": 108.0,
+          "end_seconds": 109.8,
+          "content": "\"She calls it healing.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:50.00",
+          "end": "01:52.80",
+          "start_seconds": 110.0,
+          "end_seconds": 112.8,
+          "content": "The Lord turns dramatically to face the entire assembly, gesturing toward the spectators."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:50.00",
+          "end": "01:52.80",
+          "start_seconds": 110.0,
+          "end_seconds": 112.8,
+          "content": "Medium shot of the Lord addressing the courtroom."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Resonant, Vindicative)",
+          "start": "01:50.10",
+          "end": "01:52.60",
+          "start_seconds": 110.1,
+          "end_seconds": 112.6,
+          "content": "\"The people call it poisoning!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.80",
+          "end": "01:55.20",
+          "start_seconds": 112.8,
+          "end_seconds": 115.2,
+          "content": "Close-up of Lady Juliana looking past him directly toward the gallery with sharp clarity."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Incisive, Defiant)",
+          "start": "01:53.20",
+          "end": "01:55.00",
+          "start_seconds": 113.2,
+          "end_seconds": 115.0,
+          "content": "\"What were their illnesses?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:55.20",
+          "end": "01:57.20",
+          "start_seconds": 115.2,
+          "end_seconds": 117.2,
+          "content": "Low-angle close-up of the Lord looking down arrogantly over his shoulder."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Dismissive)",
+          "start": "01:55.30",
+          "end": "01:56.50",
+          "start_seconds": 115.3,
+          "end_seconds": 116.5,
+          "content": "\"Irrelevant.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:57.20",
+          "end": "01:59.80",
+          "start_seconds": 117.2,
+          "end_seconds": 119.8,
+          "content": "Close-up of Lady Juliana gritting her teeth in fierce defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Fierce)",
+          "start": "01:57.40",
+          "end": "01:59.60",
+          "start_seconds": 117.4,
+          "end_seconds": 119.6,
+          "content": "\"It is not irrelevant!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.80",
+          "end": "02:03.40",
+          "start_seconds": 119.8,
+          "end_seconds": 123.4,
+          "content": "Low-angle medium shot of Lady Juliana standing tall against the courtroom window light, her chained hands resting on the balustrade as she addresses the entire hall."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Clear, Unyielding)",
+          "start": "01:59.90",
+          "end": "02:03.20",
+          "start_seconds": 119.9,
+          "end_seconds": 123.2,
+          "content": "\"Herbs are not magic! They are medicine!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:03.40",
+          "end": "02:06.80",
+          "start_seconds": 123.4,
+          "end_seconds": 126.8,
+          "content": "Medium shot of the Judge sitting with steepled fingers upon his high bench."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Coldly Inquisitive)",
+          "start": "02:03.60",
+          "end": "02:06.40",
+          "start_seconds": 123.6,
+          "end_seconds": 126.4,
+          "content": "\"You admit you administered them?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:06.80",
+          "end": "02:09.10",
+          "start_seconds": 126.8,
+          "end_seconds": 129.1,
+          "content": "Close-up of Lady Juliana looking straight forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Direct)",
+          "start": "02:07.20",
+          "end": "02:08.20",
+          "start_seconds": 127.2,
+          "end_seconds": 128.2,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:09.10",
+          "end": "02:11.80",
+          "start_seconds": 129.1,
+          "end_seconds": 131.8,
+          "content": "Medium shot of the Judge gesturing with an open hand."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Challenging)",
+          "start": "02:09.30",
+          "end": "02:11.60",
+          "start_seconds": 129.3,
+          "end_seconds": 131.6,
+          "content": "\"Without the approval of a licensed physician?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:11.80",
+          "end": "02:14.60",
+          "start_seconds": 131.8,
+          "end_seconds": 134.6,
+          "content": "Medium close-up of Lady Juliana shaking her head slightly, truth ringing in her voice."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Steely, Earnest)",
+          "start": "02:12.10",
+          "end": "02:14.40",
+          "start_seconds": 132.1,
+          "end_seconds": 134.4,
+          "content": "\"There was no physician willing to help them.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:14.60",
+          "end": "02:19.20",
+          "start_seconds": 134.6,
+          "end_seconds": 139.2,
+          "content": "Close-up of Lady Juliana's steady gaze."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Calm, Resolute)",
+          "start": "02:16.20",
+          "end": "02:18.40",
+          "start_seconds": 136.2,
+          "end_seconds": 138.4,
+          "content": "\"So I helped them.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:19.20",
+          "end": "02:22.20",
+          "start_seconds": 139.2,
+          "end_seconds": 142.2,
+          "content": "Medium close-up of the Lord smiling cynically as he turns back toward the magistrate."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Derisive)",
+          "start": "02:19.60",
+          "end": "02:22.00",
+          "start_seconds": 139.6,
+          "end_seconds": 142.0,
+          "content": "\"Even now, she refuses to repent.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:22.20",
+          "end": "02:27.40",
+          "start_seconds": 142.2,
+          "end_seconds": 147.4,
+          "content": "Low-angle medium shot of the Judge holding his hand over the open law book."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Grave, Stern)",
+          "start": "02:22.40",
+          "end": "02:27.00",
+          "start_seconds": 142.4,
+          "end_seconds": 147.0,
+          "content": "\"Lady Juliana, if you wish to save yourself, renounce these practices.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:27.40",
+          "end": "02:28.90",
+          "start_seconds": 147.4,
+          "end_seconds": 148.9,
+          "content": "Close-up of the burned grimoire resting on the green leather surface of the court table."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:28.90",
+          "end": "02:31.20",
+          "start_seconds": 148.9,
+          "end_seconds": 151.2,
+          "content": "Close-up of Lady Juliana lifting her chin without an ounce of hesitation."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Unyielding)",
+          "start": "02:29.80",
+          "end": "02:30.80",
+          "start_seconds": 149.8,
+          "end_seconds": 150.8,
+          "content": "\"No.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:31.20",
+          "end": "02:34.80",
+          "start_seconds": 151.2,
+          "end_seconds": 154.8,
+          "content": "Medium shot of the Judge lowering his brow with dark finality."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Ominous, Warning)",
+          "start": "02:31.80",
+          "end": "02:33.80",
+          "start_seconds": 151.8,
+          "end_seconds": 153.8,
+          "content": "\"Think carefully.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:34.80",
+          "end": "02:36.80",
+          "start_seconds": 154.8,
+          "end_seconds": 156.8,
+          "content": "Low-angle close-up of Lady Juliana looking skyward through the arched court windows."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Firm, Resolute)",
+          "start": "02:35.20",
+          "end": "02:36.40",
+          "start_seconds": 155.2,
+          "end_seconds": 156.4,
+          "content": "\"I have.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:36.80",
+          "end": "02:42.00",
+          "start_seconds": 156.8,
+          "end_seconds": 162.0,
+          "content": "Medium shot of the Judge pointing an outstretched finger across the bench, his tone hardening into lethal severity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Severe, Imposing)",
+          "start": "02:37.00",
+          "end": "02:41.80",
+          "start_seconds": 157.0,
+          "end_seconds": 161.8,
+          "content": "\"You understand that refusal may be treated as proof that you knowingly practiced witchcraft?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:42.00",
+          "end": "02:43.60",
+          "start_seconds": 162.0,
+          "end_seconds": 163.6,
+          "content": "Close-up of Lady Juliana unflinchingly accepting her fate."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Proud, Fearless)",
+          "start": "02:42.10",
+          "end": "02:43.50",
+          "start_seconds": 162.1,
+          "end_seconds": 163.5,
+          "content": "\"Then let it be.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:43.60",
+          "end": "02:46.80",
+          "start_seconds": 163.6,
+          "end_seconds": 166.8,
+          "content": "Medium shot of Prudence breaking into shattered sobs, pressing her apron to her face to muffle her tears."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:44.00",
+          "end": "02:46.80",
+          "start_seconds": 164.0,
+          "end_seconds": 166.8,
+          "content": "Prudence buries her face in her stained white apron, shuddering with grief."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:46.80",
+          "end": "02:54.40",
+          "start_seconds": 166.8,
+          "end_seconds": 174.4,
+          "content": "Medium shot pushing into Lady Juliana's face as she speaks directly across the hall with compassionate, unwavering authority."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Passionate, Defiant)",
+          "start": "02:47.00",
+          "end": "02:53.60",
+          "start_seconds": 167.0,
+          "end_seconds": 173.6,
+          "content": "\"Do not be afraid. I will not call healing evil just because powerful people have decided to fear it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:54.40",
+          "end": "02:56.50",
+          "start_seconds": 174.4,
+          "end_seconds": 176.5,
+          "content": "Medium close-up profile of the Lord, his smirk instantly freezing into an irritated, malevolent scowl."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:56.50",
+          "end": "02:58.20",
+          "start_seconds": 176.5,
+          "end_seconds": 178.2,
+          "content": "The Judge furiously smashes his gavel down upon the sound block with a deafening crack."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:56.50",
+          "end": "02:58.20",
+          "start_seconds": 176.5,
+          "end_seconds": 178.2,
+          "content": "Close-up of the Judge slamming the wooden gavel down."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:56.60",
+          "end": "02:57.60",
+          "start_seconds": 176.6,
+          "end_seconds": 177.6,
+          "content": "[Violent, resonant smash of the wooden gavel]"
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Thunderous)",
+          "start": "02:57.80",
+          "end": "02:59.40",
+          "start_seconds": 177.8,
+          "end_seconds": 179.4,
+          "content": "\"Enough!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:59.50",
+          "end": "03:04.50",
+          "start_seconds": 179.5,
+          "end_seconds": 184.5,
+          "content": "The Judge rises to his full height behind the bench, towering over the silent court."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:59.50",
+          "end": "03:04.50",
+          "start_seconds": 179.5,
+          "end_seconds": 184.5,
+          "content": "Low-angle medium shot looking up at the imposing Judge as he stands formally to deliver the judgment."
+        },
+        {
+          "type": "dialogue",
+          "label": "JUDGE (Booming, Solemn)",
+          "start": "03:01.00",
+          "end": "03:04.20",
+          "start_seconds": 181.0,
+          "end_seconds": 184.2,
+          "content": "\"Lady Juliana Ashcroft...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "03:04.50",
+          "end": "03:10.00",
+          "start_seconds": 184.5,
+          "end_seconds": 190.0,
+          "content": "Over-the-shoulder shot from behind Lady Juliana in the prisoner's dock looking toward the Judge, who solemnly raises his right hand to pronounce the final sentence as the heavy silence hangs over the courtroom."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "03:05.00",
+          "end": "03:10.00",
+          "start_seconds": 185.0,
+          "end_seconds": 190.0,
+          "content": "The Judge extends his raised hand high in judgment over Lady Juliana as the scene holds on her standing still and unbroken before fading to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-034-Episode 1681367.txt",
+  "source_sha256": "76ed46ede7bbc0388279753e8d3e8da924141b43480b9f52243d1155003ca436",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

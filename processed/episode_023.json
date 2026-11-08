@@ -1,0 +1,625 @@
+{
+  "episode_number": "Episode 23",
+  "logline": "After examining the dying Dowager Duchess's blackened fingernails and consulting her late mother's remedy journal, Lady Juliana discovers the Duchess is being poisoned with arsenic—only for someone to arrive at the bedroom door just as she begins concocting the antidote.",
+  "continuity_notes": "Picks up immediately from the Episode 22 cliffhanger inside the forbidden West Wing of Ashbury Manor, where Lady Juliana crouches beside the bedridden Dowager Duchess, racing against time to determine the source of her fatal illness.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. ASHBURY MANOR - WEST WING BEDCHAMBER – NIGHT",
+      "start": "00:00.00",
+      "end": "02:11.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:01.80",
+          "start_seconds": 0.0,
+          "end_seconds": 1.8,
+          "content": "Wide shot through dark draped bed curtains into the shadowy bedchamber, showing Prudence keeping watch with a single candle while Lady Juliana sits beside the grand four-poster bed."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:01.80",
+          "end": "00:06.50",
+          "start_seconds": 1.8,
+          "end_seconds": 6.5,
+          "content": "Medium close-up of Prudence holding a brass candlestick with trembling hands, glancing nervously toward the doorway."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Anxious, Whispering)",
+          "start": "00:01.80",
+          "end": "00:06.00",
+          "start_seconds": 1.8,
+          "end_seconds": 6.0,
+          "content": "\"Juliana, we cannot stay for long. Someone will come.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:06.50",
+          "end": "00:11.80",
+          "start_seconds": 6.5,
+          "end_seconds": 11.8,
+          "content": "Medium shot of Lady Juliana gently lifting the frail, trembling hands of the Dowager Duchess resting atop the linen covers."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:07.50",
+          "end": "00:11.80",
+          "start_seconds": 7.5,
+          "end_seconds": 11.8,
+          "content": "Juliana cradles the Duchess's frail hands in hers, inspecting her fingers with furrowed brows."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.80",
+          "end": "00:16.80",
+          "start_seconds": 11.8,
+          "end_seconds": 16.8,
+          "content": "Close-up of the Duchess's fingertips, revealing pronounced dark, purplish-black discoloration beneath the nails."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Hushed, Grave)",
+          "start": "00:13.50",
+          "end": "00:16.00",
+          "start_seconds": 13.5,
+          "end_seconds": 16.0,
+          "content": "\"How long has she been like this?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.80",
+          "end": "00:20.00",
+          "start_seconds": 16.8,
+          "end_seconds": 20.0,
+          "content": "Medium shot of Prudence leaning against the bedpost, tears glistening in her eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Tearful, Trembling)",
+          "start": "00:16.80",
+          "end": "00:19.50",
+          "start_seconds": 16.8,
+          "end_seconds": 19.5,
+          "content": "\"Weeks.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.00",
+          "end": "00:24.00",
+          "start_seconds": 20.0,
+          "end_seconds": 24.0,
+          "content": "High-angle two-shot as Lady Juliana leans closer over the gasping Duchess, gently touching her parched lips."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.00",
+          "end": "00:27.50",
+          "start_seconds": 24.0,
+          "end_seconds": 27.5,
+          "content": "Close-up on Lady Juliana's concerned face as she withdraws her finger from the Duchess's mouth."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Solemn)",
+          "start": "00:24.00",
+          "end": "00:27.50",
+          "start_seconds": 24.0,
+          "end_seconds": 27.5,
+          "content": "\"Her mouth is terribly dry.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:27.50",
+          "end": "00:31.50",
+          "start_seconds": 27.5,
+          "end_seconds": 31.5,
+          "content": "Medium shot as Lady Juliana presses her fingertips gently against the Duchess's wrist, feeling for a pulse."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Quiet, Grim)",
+          "start": "00:29.00",
+          "end": "00:31.50",
+          "start_seconds": 29.0,
+          "end_seconds": 31.5,
+          "content": "\"Her pulse is weak.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.50",
+          "end": "00:36.00",
+          "start_seconds": 31.5,
+          "end_seconds": 36.0,
+          "content": "Close-up of Prudence holding the flickering candle, crying openly in distress."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Despairing, Weeping)",
+          "start": "00:32.00",
+          "end": "00:36.00",
+          "start_seconds": 32.0,
+          "end_seconds": 36.0,
+          "content": "\"The physician said her heart is failing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.00",
+          "end": "00:38.50",
+          "start_seconds": 36.0,
+          "end_seconds": 38.5,
+          "content": "Close-up of the Dowager Duchess gasping hoarsely for air, her throat straining as she weakly fights to breathe."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:36.00",
+          "end": "00:38.50",
+          "start_seconds": 36.0,
+          "end_seconds": 38.5,
+          "content": "Duchess's raspy, labored inhalation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.50",
+          "end": "00:43.00",
+          "start_seconds": 38.5,
+          "end_seconds": 43.0,
+          "content": "Medium shot of Lady Juliana standing upright, her expression hardening with fierce skepticism."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Firm, Resolute)",
+          "start": "00:40.80",
+          "end": "00:43.00",
+          "start_seconds": 40.8,
+          "end_seconds": 43.0,
+          "content": "\"No.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.00",
+          "end": "00:46.50",
+          "start_seconds": 43.0,
+          "end_seconds": 46.5,
+          "content": "Medium shot panning down as Juliana reaches into her deep apron pocket and pulls out a worn, leather-bound notebook."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Certain, Focused)",
+          "start": "00:43.80",
+          "end": "00:46.50",
+          "start_seconds": 43.8,
+          "end_seconds": 46.5,
+          "content": "\"This is not simply old age.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.50",
+          "end": "00:48.00",
+          "start_seconds": 46.5,
+          "end_seconds": 48.0,
+          "content": "Quick reaction shot of Prudence staring with wide, bewildered eyes."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.00",
+          "end": "00:53.50",
+          "start_seconds": 48.0,
+          "end_seconds": 53.5,
+          "content": "Medium shot of Juliana sitting at the foot of the bed, carefully opening the leather journal across her lap and flipping through hand-annotated botanical pages."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.50",
+          "end": "00:57.50",
+          "start_seconds": 53.5,
+          "end_seconds": 57.5,
+          "content": "Close-up overhead of the yellowed parchment, showing botanical sketches of toxic herbs and handwritten diagnostic notes as Juliana's finger traces along the script."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:57.50",
+          "end": "00:58.50",
+          "start_seconds": 57.5,
+          "end_seconds": 58.5,
+          "content": "Juliana draws in a sharp, startled breath, her eyes widening in horror."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.50",
+          "end": "01:00.80",
+          "start_seconds": 58.5,
+          "end_seconds": 60.8,
+          "content": "Close-up of Juliana looking up from the page, stunned by her mother's written words."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Breathless, Reverent)",
+          "start": "00:58.50",
+          "end": "01:00.00",
+          "start_seconds": 58.5,
+          "end_seconds": 60.0,
+          "content": "\"Mother.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.80",
+          "end": "01:02.00",
+          "start_seconds": 60.8,
+          "end_seconds": 62.0,
+          "content": "Medium shot of Prudence leaning in, candle trembling."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Urgent, Baffled)",
+          "start": "01:00.80",
+          "end": "01:02.00",
+          "start_seconds": 60.8,
+          "end_seconds": 62.0,
+          "content": "\"What is it?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.00",
+          "end": "01:09.50",
+          "start_seconds": 62.0,
+          "end_seconds": 69.5,
+          "content": "Two-shot of Juliana holding the open journal, reciting the matching symptoms to Prudence while the Duchess lies motionless in the background."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Shocked, Deliberate)",
+          "start": "01:02.00",
+          "end": "01:08.50",
+          "start_seconds": 62.0,
+          "end_seconds": 68.5,
+          "content": "\"Weakness. Dry mouth. The discoloration beneath the nails. The slow wasting.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.50",
+          "end": "01:10.50",
+          "start_seconds": 69.5,
+          "end_seconds": 70.5,
+          "content": "Close-up of Prudence staring back in stunned disbelief."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:13.80",
+          "start_seconds": 70.5,
+          "end_seconds": 73.8,
+          "content": "Medium close-up of Juliana speaking with absolute certainty."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Serious, Chilled)",
+          "start": "01:10.50",
+          "end": "01:13.50",
+          "start_seconds": 70.5,
+          "end_seconds": 73.5,
+          "content": "\"I have seen these symptoms before.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:13.80",
+          "end": "01:16.00",
+          "start_seconds": 73.8,
+          "end_seconds": 76.0,
+          "content": "Close-up of Prudence's terrified face."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Panicked, Shaken)",
+          "start": "01:13.80",
+          "end": "01:15.80",
+          "start_seconds": 73.8,
+          "end_seconds": 75.8,
+          "content": "\"What are you saying?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.00",
+          "end": "01:18.50",
+          "start_seconds": 76.0,
+          "end_seconds": 78.5,
+          "content": "Close-up of Juliana's hands snapping the leather journal shut on the bedside table beside an oil lamp."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.50",
+          "end": "01:21.50",
+          "start_seconds": 78.5,
+          "end_seconds": 81.5,
+          "content": "Medium close-up of Juliana resting her hands on the closed journal, looking squarely at Prudence."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Cold, Deadly Serious)",
+          "start": "01:19.00",
+          "end": "01:21.50",
+          "start_seconds": 79.0,
+          "end_seconds": 81.5,
+          "content": "\"Someone is poisoning her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.50",
+          "end": "01:24.50",
+          "start_seconds": 81.5,
+          "end_seconds": 84.5,
+          "content": "Medium shot of Prudence gasping sharply and clamping both hands over her mouth in sheer horror."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:21.50",
+          "end": "01:22.50",
+          "start_seconds": 81.5,
+          "end_seconds": 82.5,
+          "content": "Sharp intake of breath from Prudence."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Muffled, Horrified)",
+          "start": "01:22.00",
+          "end": "01:24.00",
+          "start_seconds": 82.0,
+          "end_seconds": 84.0,
+          "content": "\"Poison?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.50",
+          "end": "01:28.00",
+          "start_seconds": 84.5,
+          "end_seconds": 88.0,
+          "content": "Extreme close-up pushing in tight on Lady Juliana's eyes as her expression hardens into fury and righteous disgust."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Venomous, Resolute)",
+          "start": "01:26.00",
+          "end": "01:28.00",
+          "start_seconds": 86.0,
+          "end_seconds": 88.0,
+          "content": "\"Arsenic.\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:28.00",
+          "end": "01:30.50",
+          "start_seconds": 88.0,
+          "end_seconds": 90.5,
+          "content": "Sudden violent coughing and sputtering from the Duchess."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.00",
+          "end": "01:31.00",
+          "start_seconds": 88.0,
+          "end_seconds": 91.0,
+          "content": "Medium shot as the Duchess chokes and spasms on the bed; Juliana whips around immediately."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:31.00",
+          "end": "01:34.50",
+          "start_seconds": 91.0,
+          "end_seconds": 94.5,
+          "content": "Medium tracking shot of Juliana rushing to the side table by the window, opening her satchel and setting out glass vials, a bowl, and dried herbal bundles."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:34.50",
+          "end": "01:37.50",
+          "start_seconds": 94.5,
+          "end_seconds": 97.5,
+          "content": "Close-up of Prudence pleading desperately, tears flowing down her cheeks."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Desperate, Begging)",
+          "start": "01:34.50",
+          "end": "01:37.00",
+          "start_seconds": 94.5,
+          "end_seconds": 97.0,
+          "content": "\"Can you save her?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:37.50",
+          "end": "01:40.50",
+          "start_seconds": 97.5,
+          "end_seconds": 100.5,
+          "content": "Medium shot of Juliana uncorking a glass apothecary bottle as the Duchess rests behind her."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Focused, Resolute)",
+          "start": "01:37.50",
+          "end": "01:40.00",
+          "start_seconds": 97.5,
+          "end_seconds": 100.0,
+          "content": "\"I can try.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:40.50",
+          "end": "01:44.50",
+          "start_seconds": 100.5,
+          "end_seconds": 104.5,
+          "content": "Top-down close-up of Juliana's soot-smudged hands pouring powdered activated charcoal from a vial into a stone mortar, then tossing in a pinch of crushed dried leaves."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.50",
+          "end": "01:47.00",
+          "start_seconds": 104.5,
+          "end_seconds": 107.0,
+          "content": "Close-up of Juliana's hands vigorously grinding the pestle inside the stone mortar."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:44.50",
+          "end": "01:52.00",
+          "start_seconds": 104.5,
+          "end_seconds": 112.0,
+          "content": "Heavy, rhythmic scraping of stone pestle grinding charcoal and dried herbs."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.00",
+          "end": "01:52.50",
+          "start_seconds": 107.0,
+          "end_seconds": 112.5,
+          "content": "Medium close-up of Juliana grinding intensely, her brow furrowed as she speaks with urgent authority."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY JULIANA (Urgent, Focused)",
+          "start": "01:47.50",
+          "end": "01:52.00",
+          "start_seconds": 107.5,
+          "end_seconds": 112.0,
+          "content": "\"The charcoal may help remove what is still inside her. We must act quickly.\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:52.20",
+          "end": "01:54.00",
+          "start_seconds": 112.2,
+          "end_seconds": 114.0,
+          "content": "Sudden muffled thump and heavy footsteps echoing from the hallway outside the door!"
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.50",
+          "end": "01:55.00",
+          "start_seconds": 112.5,
+          "end_seconds": 115.0,
+          "content": "Wide shot of the bedroom door framed through the bed curtains as the Duchess gasps in the bed."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:55.00",
+          "end": "01:56.50",
+          "start_seconds": 115.0,
+          "end_seconds": 116.5,
+          "content": "Medium shot of Juliana freezing mid-motion, turning her head sharply toward the chamber door."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:56.50",
+          "end": "01:58.50",
+          "start_seconds": 116.5,
+          "end_seconds": 118.5,
+          "content": "Close-up of the ornate brass door handle on the dark carved wooden door."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:58.50",
+          "end": "02:04.50",
+          "start_seconds": 118.5,
+          "end_seconds": 124.5,
+          "content": "Close-up of Prudence staring at the door in utter terror, her face drained of all color."
+        },
+        {
+          "type": "dialogue",
+          "label": "PRUDENCE (Terrified, Hoarse Whisper)",
+          "start": "01:58.80",
+          "end": "02:04.00",
+          "start_seconds": 118.8,
+          "end_seconds": 124.0,
+          "content": "\"Juliana... someone is coming.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:04.50",
+          "end": "02:07.50",
+          "start_seconds": 124.5,
+          "end_seconds": 127.5,
+          "content": "Quick cut to Juliana looking back toward the bed and then toward the door, trapped with an unfinished cure."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:07.50",
+          "end": "02:09.50",
+          "start_seconds": 127.5,
+          "end_seconds": 129.5,
+          "content": "Tight close-up of Juliana's charcoal-blackened hand clutching the glass medicine vial firmly."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:09.20",
+          "end": "02:11.20",
+          "start_seconds": 129.2,
+          "end_seconds": 131.2,
+          "content": "Loud, metallic clack of the door latch turning, followed by the slow creak of wood hinges."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:09.50",
+          "end": "02:11.50",
+          "start_seconds": 129.5,
+          "end_seconds": 131.5,
+          "content": "Close-up on the brass door lever as it slowly rotates downward, and the heavy door cracks open inward into the room—cutting to an intense, heart-stopping cliffhanger."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-023-Episode 1678576.txt",
+  "source_sha256": "2590fe65b7a4a8b4978992a4a857b46ba3c35d80f65ebdf0906e7f558107f1ca",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

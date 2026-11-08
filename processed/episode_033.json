@@ -1,0 +1,913 @@
+{
+  "episode_number": "Episode 33",
+  "logline": "Under cruel coercion and threats to send her seven-year-old brother to the county gaol, a young maid is manipulated into giving false testimony framing Juliana for witchcraft.",
+  "continuity_notes": "Following Catherine's dungeon interrogation of Juliana, the conspiracy against Juliana deepens as an aristocratic lord forces a testimony of witchcraft out of the young maid whose brother Juliana saved.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. STUDY – NIGHT",
+      "start": "00:00.00",
+      "end": "02:54.04",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:05.20",
+          "start_seconds": 0.0,
+          "end_seconds": 5.2,
+          "content": "Wide shot of a dimly lit, wood-paneled library study. An aristocratic lord in formal dark attire stands facing a young maid standing nervously by the open door."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Cold, Authoritative)",
+          "start": "00:02.50",
+          "end": "00:04.80",
+          "start_seconds": 2.5,
+          "end_seconds": 4.8,
+          "content": "\"Your brother is breathing again.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:04.00",
+          "end": "00:06.50",
+          "start_seconds": 4.0,
+          "end_seconds": 6.5,
+          "content": "The young maid steps inside, bowing with a submissive curtsy, keeping her head low and hands clasped."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.20",
+          "end": "00:08.80",
+          "start_seconds": 5.2,
+          "end_seconds": 8.8,
+          "content": "Medium close-up of the maid trembling as she raises her eyes hesitantly."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Meek, Hesitant)",
+          "start": "00:06.50",
+          "end": "00:08.50",
+          "start_seconds": 6.5,
+          "end_seconds": 8.5,
+          "content": "\"Yes, my Lord.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.80",
+          "end": "00:12.00",
+          "start_seconds": 8.8,
+          "end_seconds": 12.0,
+          "content": "Medium shot of the Lord standing beside his mahogany desk, looking down with cold, calculating scrutiny."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Probing)",
+          "start": "00:09.50",
+          "end": "00:11.80",
+          "start_seconds": 9.5,
+          "end_seconds": 11.8,
+          "content": "\"And who saved him?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.00",
+          "end": "00:14.80",
+          "start_seconds": 12.0,
+          "end_seconds": 14.8,
+          "content": "Close-up of the maid's anxious, innocent face."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Quiet, Truthful)",
+          "start": "00:13.00",
+          "end": "00:14.50",
+          "start_seconds": 13.0,
+          "end_seconds": 14.5,
+          "content": "\"Lady Juliana.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:14.80",
+          "end": "00:17.80",
+          "start_seconds": 14.8,
+          "end_seconds": 17.8,
+          "content": "Close-up of the Lord's hand slowly rotating the heavy gold signet ring on his pinky finger."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Measured, Demanding)",
+          "start": "00:15.50",
+          "end": "00:17.50",
+          "start_seconds": 15.5,
+          "end_seconds": 17.5,
+          "content": "\"Tell me how.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.80",
+          "end": "00:21.00",
+          "start_seconds": 17.8,
+          "end_seconds": 21.0,
+          "content": "Medium close-up of the maid nervously wringing her apron fabric."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Faltering)",
+          "start": "00:19.50",
+          "end": "00:21.00",
+          "start_seconds": 19.5,
+          "end_seconds": 21.0,
+          "content": "\"She... she used herbs.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.00",
+          "end": "00:23.00",
+          "start_seconds": 21.0,
+          "end_seconds": 23.0,
+          "content": "Close-up on the Lord leaning forward abruptly, his piercing gaze bearing down."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Sharp, Intimidating)",
+          "start": "00:21.20",
+          "end": "00:22.80",
+          "start_seconds": 21.2,
+          "end_seconds": 22.8,
+          "content": "\"What herbs?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.00",
+          "end": "00:26.50",
+          "start_seconds": 23.0,
+          "end_seconds": 26.5,
+          "content": "Close-up of the frightened maid looking down, shrinking back."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Whispering, Nervous)",
+          "start": "00:24.50",
+          "end": "00:26.20",
+          "start_seconds": 24.5,
+          "end_seconds": 26.2,
+          "content": "\"I don't know.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.50",
+          "end": "00:29.20",
+          "start_seconds": 26.5,
+          "end_seconds": 29.2,
+          "content": "Low-angle shot looking up at the imposing Lord towering above her."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Stern)",
+          "start": "00:27.50",
+          "end": "00:29.00",
+          "start_seconds": 27.5,
+          "end_seconds": 29.0,
+          "content": "\"You watched her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.20",
+          "end": "00:32.80",
+          "start_seconds": 29.2,
+          "end_seconds": 32.8,
+          "content": "Close-up of the maid, tears beginning to glisten on her cheeks as she defends Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Tearful, Sincere)",
+          "start": "00:29.80",
+          "end": "00:32.00",
+          "start_seconds": 29.8,
+          "end_seconds": 32.0,
+          "content": "\"I watched her save him.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.80",
+          "end": "00:36.50",
+          "start_seconds": 32.8,
+          "end_seconds": 36.5,
+          "content": "Medium tracking shot of the Lord turning away slowly past the lamp-lit desk toward the rain-streaked window."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Coldly Dismissive)",
+          "start": "00:34.00",
+          "end": "00:36.20",
+          "start_seconds": 34.0,
+          "end_seconds": 36.2,
+          "content": "\"That is not what I asked.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:40.20",
+          "start_seconds": 36.5,
+          "end_seconds": 40.2,
+          "content": "Medium two-shot framing the maid from behind as the Lord steps back toward her with commanding stillness."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Accusatory)",
+          "start": "00:37.50",
+          "end": "00:40.00",
+          "start_seconds": 37.5,
+          "end_seconds": 40.0,
+          "content": "\"Did she use her mother's book?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.20",
+          "end": "00:44.20",
+          "start_seconds": 40.2,
+          "end_seconds": 44.2,
+          "content": "Close-up of the maid trembling, tears spilling down her face."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Quietly Weeping)",
+          "start": "00:42.20",
+          "end": "00:43.60",
+          "start_seconds": 42.2,
+          "end_seconds": 43.6,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.20",
+          "end": "00:49.20",
+          "start_seconds": 44.2,
+          "end_seconds": 49.2,
+          "content": "Close-up of the Lord's sinister, unyielding face."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Insistent, Cornering)",
+          "start": "00:44.80",
+          "end": "00:48.80",
+          "start_seconds": 44.8,
+          "end_seconds": 48.8,
+          "content": "\"Did she prepare things no physician had prescribed?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.20",
+          "end": "00:52.50",
+          "start_seconds": 49.2,
+          "end_seconds": 52.5,
+          "content": "Medium shot of the maid clutching her hands together tightly, overwhelmed with guilt."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Choked Sob)",
+          "start": "00:50.00",
+          "end": "00:51.60",
+          "start_seconds": 50.0,
+          "end_seconds": 51.6,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.50",
+          "end": "00:56.80",
+          "start_seconds": 52.5,
+          "end_seconds": 56.8,
+          "content": "Close-up of the Lord's mouth curling into a sinister, predatory smile."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Sly, Sinister)",
+          "start": "00:53.00",
+          "end": "00:56.50",
+          "start_seconds": 53.0,
+          "end_seconds": 56.5,
+          "content": "\"And did she perform anything unusual?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.80",
+          "end": "00:59.00",
+          "start_seconds": 56.8,
+          "end_seconds": 59.0,
+          "content": "Close-up of the maid gasping, shaking her head vigorously in panic."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Desperate, Denying)",
+          "start": "00:57.40",
+          "end": "00:58.80",
+          "start_seconds": 57.4,
+          "end_seconds": 58.8,
+          "content": "\"No!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.00",
+          "end": "01:04.20",
+          "start_seconds": 59.0,
+          "end_seconds": 64.2,
+          "content": "Profile medium two-shot as the Lord looms inches from the maid's face."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Low, Menacing)",
+          "start": "00:59.00",
+          "end": "01:01.00",
+          "start_seconds": 59.0,
+          "end_seconds": 61.0,
+          "content": "\"Think carefully.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Ruthless)",
+          "start": "01:01.20",
+          "end": "01:03.50",
+          "start_seconds": 61.2,
+          "end_seconds": 63.5,
+          "content": "\"Your brother is still a pauper.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.20",
+          "end": "01:08.80",
+          "start_seconds": 64.2,
+          "end_seconds": 68.8,
+          "content": "Extreme close-up of the Lord's cold eyes and hawkish profile speaking with chilling finality."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Threatening)",
+          "start": "01:04.40",
+          "end": "01:08.50",
+          "start_seconds": 64.4,
+          "end_seconds": 68.5,
+          "content": "\"One word from me, and the county gaol will take him before sunrise.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:08.50",
+          "end": "01:10.00",
+          "start_seconds": 68.5,
+          "end_seconds": 70.0,
+          "content": "The maid gasps in sheer terror, her chest heaving as tears stream."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.80",
+          "end": "01:13.20",
+          "start_seconds": 68.8,
+          "end_seconds": 73.2,
+          "content": "Close-up of the maid clutching her chest with trembling hands, crying desperately."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Begging, Heartbroken)",
+          "start": "01:09.50",
+          "end": "01:13.00",
+          "start_seconds": 69.5,
+          "end_seconds": 73.0,
+          "content": "\"Please, my Lord... he is only seven!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:13.20",
+          "end": "01:15.50",
+          "start_seconds": 73.2,
+          "end_seconds": 75.5,
+          "content": "Close-up of the Lord staring down without an ounce of pity."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Cold, Unwavering)",
+          "start": "01:13.20",
+          "end": "01:15.00",
+          "start_seconds": 73.2,
+          "end_seconds": 75.0,
+          "content": "\"Then help him.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.50",
+          "end": "01:19.50",
+          "start_seconds": 75.5,
+          "end_seconds": 79.5,
+          "content": "Close-up of the maid weeping profusely, cornered and helpless."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Crying, Shattered)",
+          "start": "01:16.80",
+          "end": "01:19.00",
+          "start_seconds": 76.8,
+          "end_seconds": 79.0,
+          "content": "\"What do you want me to say?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:19.50",
+          "end": "01:24.80",
+          "start_seconds": 79.5,
+          "end_seconds": 84.8,
+          "content": "Wide shot of the study as the Lord stands calmly before the trembling servant."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Deceptive)",
+          "start": "01:19.60",
+          "end": "01:20.50",
+          "start_seconds": 79.6,
+          "end_seconds": 80.5,
+          "content": "\"The truth.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Leading, Deliberate)",
+          "start": "01:21.00",
+          "end": "01:24.50",
+          "start_seconds": 81.0,
+          "end_seconds": 84.5,
+          "content": "\"She drew something around the bed, did she not?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.80",
+          "end": "01:29.00",
+          "start_seconds": 84.8,
+          "end_seconds": 89.0,
+          "content": "Close-up of the maid stammering through her tears."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Trembling, Reluctant)",
+          "start": "01:25.50",
+          "end": "01:28.80",
+          "start_seconds": 85.5,
+          "end_seconds": 88.8,
+          "content": "\"She... placed dried herbs around him.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.00",
+          "end": "01:34.80",
+          "start_seconds": 89.0,
+          "end_seconds": 94.8,
+          "content": "Medium close-up of the Lord standing right beside her shoulder, whispering in her ear like an insidious specter."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Hypnotic, Coercive)",
+          "start": "01:29.00",
+          "end": "01:30.50",
+          "start_seconds": 89.0,
+          "end_seconds": 90.5,
+          "content": "\"Around him.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Coercive)",
+          "start": "01:31.00",
+          "end": "01:32.50",
+          "start_seconds": 91.0,
+          "end_seconds": 92.5,
+          "content": "\"Like a circle?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Faint, Defeated)",
+          "start": "01:33.00",
+          "end": "01:34.50",
+          "start_seconds": 93.0,
+          "end_seconds": 94.5,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:34.80",
+          "end": "01:38.50",
+          "start_seconds": 94.8,
+          "end_seconds": 98.5,
+          "content": "Close-up from behind the maid as the Lord leans close to her ear."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Whispering, Trap Snapping)",
+          "start": "01:35.00",
+          "end": "01:38.00",
+          "start_seconds": 95.0,
+          "end_seconds": 98.0,
+          "content": "\"And she opened her mother's book...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.50",
+          "end": "01:40.80",
+          "start_seconds": 98.5,
+          "end_seconds": 100.8,
+          "content": "Extreme close-up of the maid's tear-drenched eyes and quivering lips."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Sobbing)",
+          "start": "01:38.50",
+          "end": "01:40.00",
+          "start_seconds": 98.5,
+          "end_seconds": 100.0,
+          "content": "\"Yes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:40.80",
+          "end": "01:44.20",
+          "start_seconds": 100.8,
+          "end_seconds": 104.2,
+          "content": "Close-up of the Lord delivering the final trap."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Sinister)",
+          "start": "01:41.00",
+          "end": "01:44.00",
+          "start_seconds": 101.0,
+          "end_seconds": 104.0,
+          "content": "\"...and spoke words you could not understand.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.20",
+          "end": "01:47.50",
+          "start_seconds": 104.2,
+          "end_seconds": 107.5,
+          "content": "Close-up of the maid gasping out in desperate agony."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Desperately Defending)",
+          "start": "01:44.50",
+          "end": "01:46.50",
+          "start_seconds": 104.5,
+          "end_seconds": 106.5,
+          "content": "\"She was praying!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.50",
+          "end": "01:51.80",
+          "start_seconds": 107.5,
+          "end_seconds": 111.8,
+          "content": "Close-up of the Lord grinning with sinister triumph."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Taunting)",
+          "start": "01:48.00",
+          "end": "01:51.50",
+          "start_seconds": 108.0,
+          "end_seconds": 111.5,
+          "content": "\"Praying... or chanting?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:51.80",
+          "end": "01:53.80",
+          "start_seconds": 111.8,
+          "end_seconds": 113.8,
+          "content": "Close-up of the maid breaking down completely."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Hysterically Sobbing)",
+          "start": "01:52.00",
+          "end": "01:53.50",
+          "start_seconds": 112.0,
+          "end_seconds": 113.5,
+          "content": "\"I don't know!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.80",
+          "end": "01:59.50",
+          "start_seconds": 113.8,
+          "end_seconds": 119.5,
+          "content": "Medium shot as the Lord paces slowly, pointing his finger with clinical, legal precision."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Calculating, Relentless)",
+          "start": "01:54.00",
+          "end": "01:56.50",
+          "start_seconds": 114.0,
+          "end_seconds": 116.5,
+          "content": "\"You saw a woman draw a circle of herbs.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Relentless)",
+          "start": "01:56.80",
+          "end": "01:59.50",
+          "start_seconds": 116.8,
+          "end_seconds": 119.5,
+          "content": "\"You saw her use a forbidden book.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:59.50",
+          "end": "02:03.50",
+          "start_seconds": 119.5,
+          "end_seconds": 123.5,
+          "content": "Close-up profile of the Lord leaning in right in front of the sobbing maid."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Condemning)",
+          "start": "01:59.80",
+          "end": "02:02.80",
+          "start_seconds": 119.8,
+          "end_seconds": 122.8,
+          "content": "\"You heard words you could not understand.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:03.50",
+          "end": "02:06.80",
+          "start_seconds": 123.5,
+          "end_seconds": 126.8,
+          "content": "Extreme close-up of the Lord's mouth and calculating eyes as he pronounces the lethal word."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Deadly, Resolute)",
+          "start": "02:04.50",
+          "end": "02:06.50",
+          "start_seconds": 124.5,
+          "end_seconds": 126.5,
+          "content": "\"That is witchcraft.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:06.80",
+          "end": "02:11.80",
+          "start_seconds": 126.8,
+          "end_seconds": 131.8,
+          "content": "Medium two-shot as the maid steps forward, pleading passionately against his chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Crying Out, Desperate)",
+          "start": "02:06.80",
+          "end": "02:11.50",
+          "start_seconds": 126.8,
+          "end_seconds": 131.5,
+          "content": "\"No! She saved Toby! She made him breathe again!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:11.80",
+          "end": "02:14.50",
+          "start_seconds": 131.8,
+          "end_seconds": 134.5,
+          "content": "Close-up of the Lord calmly watching her futile resistance."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Cold, Final)",
+          "start": "02:12.00",
+          "end": "02:14.00",
+          "start_seconds": 132.0,
+          "end_seconds": 134.0,
+          "content": "\"That will be your testimony.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:14.50",
+          "end": "02:17.80",
+          "start_seconds": 134.5,
+          "end_seconds": 137.8,
+          "content": "Close-up of the maid's face frozen in horrified realization."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Gasping, Shocked)",
+          "start": "02:14.50",
+          "end": "02:17.00",
+          "start_seconds": 134.5,
+          "end_seconds": 137.0,
+          "content": "\"My testimony?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:17.80",
+          "end": "02:20.50",
+          "start_seconds": 137.8,
+          "end_seconds": 140.5,
+          "content": "Close-up of the Lord delivering the ultimatum without blinking."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Unyielding)",
+          "start": "02:18.00",
+          "end": "02:20.00",
+          "start_seconds": 138.0,
+          "end_seconds": 140.0,
+          "content": "\"Before the magistrate.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:20.50",
+          "end": "02:24.80",
+          "start_seconds": 140.5,
+          "end_seconds": 144.8,
+          "content": "Close-up of the maid grabbing both sides of her head, screaming out in utter grief and guilt."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Wailing, Tormented)",
+          "start": "02:20.50",
+          "end": "02:24.00",
+          "start_seconds": 140.5,
+          "end_seconds": 144.0,
+          "content": "\"I never said she was a witch!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:24.80",
+          "end": "02:29.20",
+          "start_seconds": 144.8,
+          "end_seconds": 149.2,
+          "content": "Medium tracking shot of the Lord turning his back and walking back behind his desk."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Chillingly Detached)",
+          "start": "02:25.00",
+          "end": "02:26.50",
+          "start_seconds": 145.0,
+          "end_seconds": 146.5,
+          "content": "\"You do not need to.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Chillingly Detached)",
+          "start": "02:26.80",
+          "end": "02:29.00",
+          "start_seconds": 146.8,
+          "end_seconds": 149.0,
+          "content": "\"I have already written the story for you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:29.20",
+          "end": "02:32.20",
+          "start_seconds": 149.2,
+          "end_seconds": 152.2,
+          "content": "Close-up of the maid clutching her cheeks, crying in heartbreak."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Sobbing)",
+          "start": "02:29.50",
+          "end": "02:32.00",
+          "start_seconds": 149.5,
+          "end_seconds": 152.0,
+          "content": "\"She saved my brother...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:32.20",
+          "end": "02:36.20",
+          "start_seconds": 152.2,
+          "end_seconds": 156.2,
+          "content": "Close-up of the Lord turning back, resting one hand upon the desk with cold finality."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Inexorable)",
+          "start": "02:32.50",
+          "end": "02:36.00",
+          "start_seconds": 152.5,
+          "end_seconds": 156.0,
+          "content": "\"And now... you will save your brother.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:36.20",
+          "end": "02:39.50",
+          "start_seconds": 156.2,
+          "end_seconds": 159.5,
+          "content": "The maid's knees buckle completely. She collapses forward onto the polished dark wood floor, groveling in total despair."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:36.20",
+          "end": "02:39.50",
+          "start_seconds": 156.2,
+          "end_seconds": 159.5,
+          "content": "High angle looking down as the maid falls prostrate on the floor."
+        },
+        {
+          "type": "dialogue",
+          "label": "MAID (Weeping, Broken)",
+          "start": "02:39.00",
+          "end": "02:41.50",
+          "start_seconds": 159.0,
+          "end_seconds": 161.5,
+          "content": "\"I am sorry, Lady Juliana...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:39.50",
+          "end": "02:43.80",
+          "start_seconds": 159.5,
+          "end_seconds": 163.8,
+          "content": "Low-angle shot of the Lord looking down dismissively at the prostrate maid."
+        },
+        {
+          "type": "dialogue",
+          "label": "LORD (Cold, Merciless)",
+          "start": "02:41.80",
+          "end": "02:44.50",
+          "start_seconds": 161.8,
+          "end_seconds": 164.5,
+          "content": "\"Save your tears for the trial.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:43.80",
+          "end": "02:54.04",
+          "start_seconds": 163.8,
+          "end_seconds": 174.04,
+          "content": "Side medium shot of the maid kneeling crumpled on the floor in the dimly lit study, her face buried in both hands, weeping uncontrollably as the scene slowly fades into the dark silence."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:44.50",
+          "end": "02:54.04",
+          "start_seconds": 164.5,
+          "end_seconds": 174.04,
+          "content": "The heartbroken maid weeps silently in the shadow of the desk, consumed by guilt and powerlessness."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-033-Episode 1681366.txt",
+  "source_sha256": "0012ba24a8fa997a1df93165c06c90dacf5bab6c76ceef791533e8747aec4ad6",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

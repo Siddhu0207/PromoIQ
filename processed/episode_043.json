@@ -1,0 +1,805 @@
+{
+  "episode_number": "Episode 43",
+  "logline": "When Rupert frantically orders Alexander's arrest, the royal guards refuse and salute the true Duke, before damning Crown intelligence documents expose Rupert and Lord Sterling's treasonous plot.",
+  "continuity_notes": "Follows directly from Episode 42; inside the ruined cathedral, Alexander confronts Rupert before the congregation, armed with evidence from the Crown to reclaim his rightful title.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. RUINED CATHEDRAL – CONTINUOUS",
+      "start": "00:00.00",
+      "end": "01:54.96",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.80",
+          "start_seconds": 0.0,
+          "end_seconds": 3.8,
+          "content": "Medium close-up on Rupert Ashburn standing before the altar, trembling with mounting panic and rage."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Hysterical, Panicked)",
+          "start": "00:00.60",
+          "end": "00:02.40",
+          "start_seconds": 0.6,
+          "end_seconds": 2.4,
+          "content": "\"You're lying!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:02.40",
+          "end": "00:03.90",
+          "start_seconds": 2.4,
+          "end_seconds": 3.9,
+          "content": "Rupert lunges forward, his facial features contorting in venomous desperation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.80",
+          "end": "00:08.00",
+          "start_seconds": 3.8,
+          "end_seconds": 8.0,
+          "content": "Tracking shot swinging around Rupert as he turns toward the royal guards stationed along the aisle, pointing furiously down the center of the hall."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Shrieking, Frantic)",
+          "start": "00:03.90",
+          "end": "00:07.40",
+          "start_seconds": 3.9,
+          "end_seconds": 7.4,
+          "content": "\"This man is an imposter! Arrest him!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.00",
+          "end": "00:10.50",
+          "start_seconds": 8.0,
+          "end_seconds": 10.5,
+          "content": "Wide symmetrical shot framing Alexander Ashburn standing immovable in the center of the cathedral, flanking lines of red-coated guards on both sides."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:08.20",
+          "end": "00:10.50",
+          "start_seconds": 8.2,
+          "end_seconds": 10.5,
+          "content": "Alexander stands completely composed in his dark embroidered aristocratic coat, staring Rupert down with unyielding authority."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:10.50",
+          "end": "00:13.50",
+          "start_seconds": 10.5,
+          "end_seconds": 13.5,
+          "content": "Extreme close-up on Rupert's furious face, veins bulging at his temples."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Enraged, Screaming)",
+          "start": "00:10.50",
+          "end": "00:13.20",
+          "start_seconds": 10.5,
+          "end_seconds": 13.2,
+          "content": "\"I said arrest him!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.50",
+          "end": "00:16.20",
+          "start_seconds": 13.5,
+          "end_seconds": 16.2,
+          "content": "Medium shot on the Royal Guard Captain in ceremonial bearskin uniform standing steadfast."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:13.80",
+          "end": "00:16.00",
+          "start_seconds": 13.8,
+          "end_seconds": 16.0,
+          "content": "The Guard Captain brings his ceremonial sword upright to attention, his expression stern and resolute."
+        },
+        {
+          "type": "dialogue",
+          "label": "ROYAL GUARD (Firm, Defiant)",
+          "start": "00:14.20",
+          "end": "00:15.80",
+          "start_seconds": 14.2,
+          "end_seconds": 15.8,
+          "content": "\"We will not.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.20",
+          "end": "00:17.80",
+          "start_seconds": 16.2,
+          "end_seconds": 17.8,
+          "content": "Low-angle shot looking down along the polished stone floor as the guard's sword tip grounds firmly between Rupert and the guards."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Outraged, Stunned)",
+          "start": "00:16.20",
+          "end": "00:18.00",
+          "start_seconds": 16.2,
+          "end_seconds": 18.0,
+          "content": "\"I am Lord Rupert Ashburn!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.80",
+          "end": "00:19.20",
+          "start_seconds": 17.8,
+          "end_seconds": 19.2,
+          "content": "Medium close-up on Rupert thumping his chest in indignant disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Desperate)",
+          "start": "00:18.10",
+          "end": "00:19.00",
+          "start_seconds": 18.1,
+          "end_seconds": 19.0,
+          "content": "\"Your Duke!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.20",
+          "end": "00:21.80",
+          "start_seconds": 19.2,
+          "end_seconds": 21.8,
+          "content": "Medium shot framing the Guard Captain and Alexander in profile."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:19.20",
+          "end": "00:21.60",
+          "start_seconds": 19.2,
+          "end_seconds": 21.6,
+          "content": "The Guard Captain snaps a crisp salute toward Alexander."
+        },
+        {
+          "type": "dialogue",
+          "label": "ROYAL GUARD (Calm, Resolute)",
+          "start": "00:19.20",
+          "end": "00:21.50",
+          "start_seconds": 19.2,
+          "end_seconds": 21.5,
+          "content": "\"No. He is your Duke.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.80",
+          "end": "00:24.00",
+          "start_seconds": 21.8,
+          "end_seconds": 24.0,
+          "content": "Medium shot on Catherine in her bridal gown and Lord Henry Sterling seated in the front pew, both frozen in stunned shock."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:22.00",
+          "end": "00:24.00",
+          "start_seconds": 22.0,
+          "end_seconds": 24.0,
+          "content": "Lord Sterling clutches his gold-headed walking cane tightly, his jaw clenching as tension spreads through the church."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.00",
+          "end": "00:26.00",
+          "start_seconds": 24.0,
+          "end_seconds": 26.0,
+          "content": "Medium shot on Rupert spinning toward the gathered congregation, his hands flailing."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Desperate, Flustered)",
+          "start": "00:24.10",
+          "end": "00:25.80",
+          "start_seconds": 24.1,
+          "end_seconds": 25.8,
+          "content": "\"You have all been deceived!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.00",
+          "end": "00:28.00",
+          "start_seconds": 26.0,
+          "end_seconds": 28.0,
+          "content": "Medium close-up on Alexander, commanding and icy."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Authoritative)",
+          "start": "00:26.10",
+          "end": "00:28.00",
+          "start_seconds": 26.1,
+          "end_seconds": 28.0,
+          "content": "\"Then let the Crown decide.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.00",
+          "end": "00:30.00",
+          "start_seconds": 28.0,
+          "end_seconds": 30.0,
+          "content": "Close-up on Alexander's hands holding an official War Office document bundle sealed with red wax and ribbon."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:28.20",
+          "end": "00:30.00",
+          "start_seconds": 28.2,
+          "end_seconds": 30.0,
+          "content": "Alexander brings forth the dossier stamped \"WAR OFFICE - TOP SECRET\" with the royal crest."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.00",
+          "end": "00:33.80",
+          "start_seconds": 30.0,
+          "end_seconds": 33.8,
+          "content": "Medium shot of Alexander holding up the sealed parcel before the room."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grave, Powerful)",
+          "start": "00:30.00",
+          "end": "00:33.40",
+          "start_seconds": 30.0,
+          "end_seconds": 33.4,
+          "content": "\"These were delivered to me under the seal of the Crown.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Commanding)",
+          "start": "00:33.50",
+          "end": "00:34.50",
+          "start_seconds": 33.5,
+          "end_seconds": 34.5,
+          "content": "\"Read the first.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.80",
+          "end": "00:35.00",
+          "start_seconds": 33.8,
+          "end_seconds": 35.0,
+          "content": "Close-up on Lord Sterling looking sideways, his face pale with rising dread."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.00",
+          "end": "00:37.00",
+          "start_seconds": 35.0,
+          "end_seconds": 37.0,
+          "content": "Two-shot of Alexander handing the dossier to a Crown Military Magistrate wearing white gloves and a high-collared black uniform."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:35.20",
+          "end": "00:37.00",
+          "start_seconds": 35.2,
+          "end_seconds": 37.0,
+          "content": "The Crown Official receives the dossier solemnly with both hands."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.00",
+          "end": "00:42.80",
+          "start_seconds": 37.0,
+          "end_seconds": 42.8,
+          "content": "Medium close-up on the Crown Official opening the binder and reading aloud."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:37.20",
+          "end": "00:38.60",
+          "start_seconds": 37.2,
+          "end_seconds": 38.6,
+          "content": "Crisp sound of parchment turning."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Clear, Formal)",
+          "start": "00:37.80",
+          "end": "00:42.50",
+          "start_seconds": 37.8,
+          "end_seconds": 42.5,
+          "content": "\"Military Intelligence Report, Iberian front, three years ago.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.80",
+          "end": "00:43.90",
+          "start_seconds": 42.8,
+          "end_seconds": 43.9,
+          "content": "Close-up on Rupert staring wide-eyed, completely petrified."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.90",
+          "end": "00:47.80",
+          "start_seconds": 43.9,
+          "end_seconds": 47.8,
+          "content": "Medium close-up on the Crown Official continuing the official reading."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Solemn, Objective)",
+          "start": "00:44.00",
+          "end": "00:47.40",
+          "start_seconds": 44.0,
+          "end_seconds": 47.4,
+          "content": "\"Duke Alexander Ashburn's unit was ambushed after his location was compromised.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:47.80",
+          "end": "00:50.80",
+          "start_seconds": 47.8,
+          "end_seconds": 50.8,
+          "content": "Frontal medium shot of the Crown Official turning a page as the congregation listens in breathless silence."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Accusing, Measured)",
+          "start": "00:47.80",
+          "end": "00:50.80",
+          "start_seconds": 47.8,
+          "end_seconds": 50.8,
+          "content": "\"The report identifies the leak as deliberate.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.80",
+          "end": "00:54.80",
+          "start_seconds": 50.8,
+          "end_seconds": 54.8,
+          "content": "Wide shot across the rubble of the cathedral floor showing Rupert crumbling in fear against the choir railing."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Voice Continuing)",
+          "start": "00:51.00",
+          "end": "00:54.40",
+          "start_seconds": 51.0,
+          "end_seconds": 54.4,
+          "content": "\"Information regarding the Duke's position was transmitted through British channels.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:51.80",
+          "end": "00:54.80",
+          "start_seconds": 51.8,
+          "end_seconds": 54.8,
+          "content": "Rupert staggers backward, his knees buckling as he leans his weight heavily on the stone balustrade."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.80",
+          "end": "00:57.00",
+          "start_seconds": 54.8,
+          "end_seconds": 57.0,
+          "content": "Close-up on Rupert clinging to the stone pillar, his breath shallow and terrified."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Whispering, Terrified)",
+          "start": "00:55.00",
+          "end": "00:56.50",
+          "start_seconds": 55.0,
+          "end_seconds": 56.5,
+          "content": "\"No...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:57.00",
+          "end": "01:00.00",
+          "start_seconds": 57.0,
+          "end_seconds": 60.0,
+          "content": "Medium shot on Alexander stepping forward, thrusting the secondary dossier forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Implacable)",
+          "start": "00:58.50",
+          "end": "01:00.00",
+          "start_seconds": 58.5,
+          "end_seconds": 60.0,
+          "content": "\"Read the names.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.00",
+          "end": "01:03.00",
+          "start_seconds": 60.0,
+          "end_seconds": 63.0,
+          "content": "Medium close-up on the Crown Official reading the concluding section."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Deliberate, Damning)",
+          "start": "01:00.60",
+          "end": "01:02.50",
+          "start_seconds": 60.6,
+          "end_seconds": 62.5,
+          "content": "\"Lord Henry Sterling.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.00",
+          "end": "01:04.50",
+          "start_seconds": 63.0,
+          "end_seconds": 64.5,
+          "content": "Quick pan to Lord Sterling stiffening in his pew, then the Crown Official."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Continuing)",
+          "start": "01:03.10",
+          "end": "01:04.20",
+          "start_seconds": 63.1,
+          "end_seconds": 64.2,
+          "content": "\"Rupert Ashburn.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.50",
+          "end": "01:06.00",
+          "start_seconds": 64.5,
+          "end_seconds": 66.0,
+          "content": "Extreme close-up on Rupert's horrified eyes darting in sheer terror."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.00",
+          "end": "01:08.80",
+          "start_seconds": 66.0,
+          "end_seconds": 68.8,
+          "content": "Close-up on the Dowager Duchess covering her mouth in agonizing disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Shaken, Devastated)",
+          "start": "01:06.50",
+          "end": "01:08.00",
+          "start_seconds": 66.5,
+          "end_seconds": 68.0,
+          "content": "\"My God...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.80",
+          "end": "01:11.20",
+          "start_seconds": 68.8,
+          "end_seconds": 71.2,
+          "content": "Low-angle shot on Alexander towering over the fallen Rupert."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Furious, Thunderous)",
+          "start": "01:09.00",
+          "end": "01:11.30",
+          "start_seconds": 69.0,
+          "end_seconds": 71.3,
+          "content": "\"You sold my men to the enemy.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.20",
+          "end": "01:12.70",
+          "start_seconds": 71.2,
+          "end_seconds": 72.7,
+          "content": "Close-up on Rupert waving his hands defensively, hyperventilating."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Desperate, Denying)",
+          "start": "01:11.40",
+          "end": "01:12.70",
+          "start_seconds": 71.4,
+          "end_seconds": 72.7,
+          "content": "\"I didn't!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.70",
+          "end": "01:14.80",
+          "start_seconds": 72.7,
+          "end_seconds": 74.8,
+          "content": "Low-angle tracking push-in on Alexander raising the red-ribboned war document toward the cathedral arches."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Resonant, Accusatory)",
+          "start": "01:12.80",
+          "end": "01:15.20",
+          "start_seconds": 72.8,
+          "end_seconds": 75.2,
+          "content": "\"And when you believed I was dead...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.80",
+          "end": "01:16.00",
+          "start_seconds": 74.8,
+          "end_seconds": 76.0,
+          "content": "Quick reaction shot on Rupert gasping on the steps."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.00",
+          "end": "01:17.80",
+          "start_seconds": 76.0,
+          "end_seconds": 77.8,
+          "content": "Tight close-up on Alexander's scarred, furious face."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Venomous)",
+          "start": "01:16.10",
+          "end": "01:17.60",
+          "start_seconds": 76.1,
+          "end_seconds": 77.6,
+          "content": "\"You took my title.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.80",
+          "end": "01:21.00",
+          "start_seconds": 77.8,
+          "end_seconds": 81.0,
+          "content": "Extreme close-up on the Crown Official's gloved thumb cracking the red wax seal open."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:18.00",
+          "end": "01:19.40",
+          "start_seconds": 78.0,
+          "end_seconds": 79.4,
+          "content": "Brittle snap of breaking sealing wax."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:25.00",
+          "start_seconds": 81.0,
+          "end_seconds": 85.0,
+          "content": "Full shot of the Crown Official standing amidst church debris reading the death register."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Grave, Official)",
+          "start": "01:21.50",
+          "end": "01:25.80",
+          "start_seconds": 81.5,
+          "end_seconds": 85.8,
+          "content": "\"Official death confirmation was filed three months after the ambush.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.00",
+          "end": "01:28.00",
+          "start_seconds": 85.0,
+          "end_seconds": 88.0,
+          "content": "Two-shot of the Crown Official in the background and Alexander's dark silhouette in the foreground."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Continuing)",
+          "start": "01:26.00",
+          "end": "01:28.50",
+          "start_seconds": 86.0,
+          "end_seconds": 88.5,
+          "content": "\"Duke Alexander Ashburn was declared dead.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.00",
+          "end": "01:33.20",
+          "start_seconds": 88.0,
+          "end_seconds": 93.2,
+          "content": "Wide majestic shot capturing the entire nave, the rows of horrified guests, and the ruined cathedral windows."
+        },
+        {
+          "type": "dialogue",
+          "label": "CROWN OFFICIAL (Loud, Authoritative)",
+          "start": "01:28.60",
+          "end": "01:33.00",
+          "start_seconds": 88.6,
+          "end_seconds": 93.0,
+          "content": "\"His estate and title were subsequently transferred under false authority.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.20",
+          "end": "01:36.50",
+          "start_seconds": 93.2,
+          "end_seconds": 96.5,
+          "content": "Medium close-up on Rupert clutching his chest as if choking on his own lies."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Screaming, Desperate)",
+          "start": "01:33.40",
+          "end": "01:36.40",
+          "start_seconds": 93.4,
+          "end_seconds": 96.4,
+          "content": "\"I was told he was dead!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.50",
+          "end": "01:39.80",
+          "start_seconds": 96.5,
+          "end_seconds": 99.8,
+          "content": "Low shot following Alexander's heavy boots stepping steadily up the stone steps toward the altar."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Cold, Penetrating)",
+          "start": "01:36.80",
+          "end": "01:39.80",
+          "start_seconds": 96.8,
+          "end_seconds": 99.8,
+          "content": "\"You were told exactly what you needed to hear.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.80",
+          "end": "01:42.20",
+          "start_seconds": 99.8,
+          "end_seconds": 102.2,
+          "content": "Medium shot on Rupert whirling around in a frenzy, pointing his finger toward Lord Sterling."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Frantic, Betraying)",
+          "start": "01:40.00",
+          "end": "01:42.20",
+          "start_seconds": 100.0,
+          "end_seconds": 102.2,
+          "content": "\"Sterling handled the report!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:42.20",
+          "end": "01:43.40",
+          "start_seconds": 102.2,
+          "end_seconds": 103.4,
+          "content": "Alexander turns his head sharply toward the side pews."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.40",
+          "end": "01:44.80",
+          "start_seconds": 103.4,
+          "end_seconds": 104.8,
+          "content": "Medium shot of Lord Henry Sterling silently slipping out of his seat and making a break toward the side exit."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.80",
+          "end": "01:46.50",
+          "start_seconds": 104.8,
+          "end_seconds": 106.5,
+          "content": "Close-up on Catherine peering out from under her bridal veil in shock."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Shocked, Murmuring)",
+          "start": "01:44.80",
+          "end": "01:46.20",
+          "start_seconds": 104.8,
+          "end_seconds": 106.2,
+          "content": "\"My Lord?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:46.50",
+          "end": "01:49.80",
+          "start_seconds": 106.5,
+          "end_seconds": 109.8,
+          "content": "Medium shot of Lord Sterling frantically unlatching the heavy oak church door and pulling it open."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:47.00",
+          "end": "01:49.00",
+          "start_seconds": 107.0,
+          "end_seconds": 109.0,
+          "content": "Heavy iron latch clicking open and wooden door creaking."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:49.80",
+          "end": "01:52.80",
+          "start_seconds": 109.8,
+          "end_seconds": 112.8,
+          "content": "Reverse angle from inside the doorway showing a stern British Police Constable standing directly outside, blocking the passage."
+        },
+        {
+          "type": "dialogue",
+          "label": "POLICE CONSTABLE (Firm, Sardonic)",
+          "start": "01:50.40",
+          "end": "01:52.50",
+          "start_seconds": 110.4,
+          "end_seconds": 112.5,
+          "content": "\"Going somewhere, Lord Sterling?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.80",
+          "end": "01:54.96",
+          "start_seconds": 112.8,
+          "end_seconds": 114.96,
+          "content": "Extreme close-up on Lord Sterling's face frozen in pure terror, his jaw agape as his escape is completely cut off, holding until fade to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-043-Episode 1686803.txt",
+  "source_sha256": "38bc44fd0e20af8d7d020f5616476647014c1fb0e0dff1bd0a59f77cf36d9bb9",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "episode_number": "Episode 8",
+  "logline": "As Juliana inspects her late mother's weathered herbal grimoire, Alexander bonds with her over rustic medicinal knowledge and war-worn memories, gently altering her perception of what true wealth means.",
+  "continuity_notes": "Picks up after Episode 7, where Alexander chased off Gerald and the mocking aristocratic visitors; quiet and intimacy now return inside the woodland cottage as evening approaches.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. WOODLAND COTTAGE – DAY",
+      "start": "00:00.00",
+      "end": "01:18.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:03.20",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2,
+          "content": "Medium close-up of Juliana seated at a rustic wooden table beside a daylight-lit window, gently touching an aged leather-bound book."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.20",
+          "start_seconds": 0.0,
+          "end_seconds": 3.2,
+          "content": "Juliana delicately runs her fingertips across the embossed leather cover of the worn botanical volume, noticing its weathered state."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle, Somber)",
+          "start": "00:00.20",
+          "end": "00:03.20",
+          "start_seconds": 0.2,
+          "end_seconds": 3.2,
+          "content": "\"Some of the pages are ruined. Careful.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:03.20",
+          "end": "00:05.10",
+          "start_seconds": 3.2,
+          "end_seconds": 5.1,
+          "content": "Close-up on Juliana's hands carefully unlatching the metal clasp on the leather book."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:03.40",
+          "end": "00:04.50",
+          "start_seconds": 3.4,
+          "end_seconds": 4.5,
+          "content": "Soft metallic click of the book clasp loosening."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.10",
+          "end": "00:07.80",
+          "start_seconds": 5.1,
+          "end_seconds": 7.8,
+          "content": "Medium close-up of Juliana tenderly opening the cover and turning the brittle parchment pages."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Reflective, Reverent)",
+          "start": "00:05.10",
+          "end": "00:07.80",
+          "start_seconds": 5.1,
+          "end_seconds": 7.8,
+          "content": "\"Mother spent years writing this.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.80",
+          "end": "00:10.50",
+          "start_seconds": 7.8,
+          "end_seconds": 10.5,
+          "content": "Medium shot as Alexander enters the dim room behind Juliana, quietly stepping up to the rustic table."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:08.50",
+          "end": "00:10.50",
+          "start_seconds": 8.5,
+          "end_seconds": 10.5,
+          "content": "Alexander gently sets down a fresh bundle of small white herbal flowers tied with twine beside the open book."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:10.50",
+          "end": "00:11.90",
+          "start_seconds": 10.5,
+          "end_seconds": 11.9,
+          "content": "Low-angle medium close-up of Juliana looking up toward Alexander in pleasant surprise."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Curious, Recognizing)",
+          "start": "00:10.50",
+          "end": "00:11.80",
+          "start_seconds": 10.5,
+          "end_seconds": 11.8,
+          "content": "\"Yarrow.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.90",
+          "end": "00:15.00",
+          "start_seconds": 11.9,
+          "end_seconds": 15.0,
+          "content": "Close-up of Alexander looking down at her, the firelight catching the rugged scar across his face."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Calm, Knowledgeable)",
+          "start": "00:12.00",
+          "end": "00:14.60",
+          "start_seconds": 12.0,
+          "end_seconds": 14.6,
+          "content": "\"Good for wounds. Fever, too.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.00",
+          "end": "00:16.30",
+          "start_seconds": 15.0,
+          "end_seconds": 16.3,
+          "content": "Medium close-up of Juliana looking up at him with genuine curiosity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Inquiring, Soft)",
+          "start": "00:15.10",
+          "end": "00:16.10",
+          "start_seconds": 15.1,
+          "end_seconds": 16.1,
+          "content": "\"How do you know that?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.30",
+          "end": "00:19.30",
+          "start_seconds": 16.3,
+          "end_seconds": 19.3,
+          "content": "Close-up of Alexander speaking in a steady, measured tone."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Somber, Matter-of-Fact)",
+          "start": "00:16.30",
+          "end": "00:18.90",
+          "start_seconds": 16.3,
+          "end_seconds": 18.9,
+          "content": "\"Soldiers learn quickly which plants keep a man alive.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:19.30",
+          "end": "00:21.50",
+          "start_seconds": 19.3,
+          "end_seconds": 21.5,
+          "content": "Insert shot of Juliana's hands gently arranging several tied bundles of dried yarrow sprigs on the tabletop."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Observant, Lightly Teasing)",
+          "start": "00:19.40",
+          "end": "00:21.80",
+          "start_seconds": 19.4,
+          "end_seconds": 21.8,
+          "content": "\"You know more about healing than you let on.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.50",
+          "end": "00:24.30",
+          "start_seconds": 21.5,
+          "end_seconds": 24.3,
+          "content": "Close-up of Alexander, bathed in warm hearth embers, offering a subtle, knowing half-smile."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Quiet, Gritty)",
+          "start": "00:22.80",
+          "end": "00:24.20",
+          "start_seconds": 22.8,
+          "end_seconds": 24.2,
+          "content": "\"Enough to survive.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.30",
+          "end": "00:26.50",
+          "start_seconds": 24.3,
+          "end_seconds": 26.5,
+          "content": "Medium close-up of Juliana setting down a bunch of flowers and looking intently at his rugged visage."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Hesitant, Soft)",
+          "start": "00:25.00",
+          "end": "00:26.80",
+          "start_seconds": 25.0,
+          "end_seconds": 26.8,
+          "content": "\"Your hair and beard...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.50",
+          "end": "00:28.10",
+          "start_seconds": 26.5,
+          "end_seconds": 28.1,
+          "content": "Medium shot of Alexander standing tall over her, looking down patiently."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.10",
+          "end": "00:31.90",
+          "start_seconds": 28.1,
+          "end_seconds": 31.9,
+          "content": "Medium two-shot as Juliana rises from her stool to stand close in front of him, reaching an affectionate hand toward his temple."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle, Tender)",
+          "start": "00:30.10",
+          "end": "00:31.90",
+          "start_seconds": 30.1,
+          "end_seconds": 31.9,
+          "content": "\"I could trim them for you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.90",
+          "end": "00:33.20",
+          "start_seconds": 31.9,
+          "end_seconds": 33.2,
+          "content": "Close-up of Alexander's large, rough hand firmly but gently catching Juliana's wrist in midair."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.20",
+          "end": "00:35.50",
+          "start_seconds": 33.2,
+          "end_seconds": 35.5,
+          "content": "Medium two-shot profile of Alexander holding her wrist, his piercing gaze locked onto hers."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Firm, Low)",
+          "start": "00:33.20",
+          "end": "00:34.50",
+          "start_seconds": 33.2,
+          "end_seconds": 34.5,
+          "content": "\"Not yet.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.50",
+          "end": "00:37.30",
+          "start_seconds": 35.5,
+          "end_seconds": 37.3,
+          "content": "Close-up of Juliana looking into his eyes, her brow lightly furrowed in bemused question."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Puzzled, Curious)",
+          "start": "00:35.80",
+          "end": "00:36.90",
+          "start_seconds": 35.8,
+          "end_seconds": 36.9,
+          "content": "\"Not yet?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.30",
+          "end": "00:39.60",
+          "start_seconds": 37.3,
+          "end_seconds": 39.6,
+          "content": "Close-up of Alexander, still maintaining his gentle hold on her arm."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Grounded, Steady)",
+          "start": "00:37.70",
+          "end": "00:38.90",
+          "start_seconds": 37.7,
+          "end_seconds": 38.9,
+          "content": "\"Let them grow.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.60",
+          "end": "00:42.30",
+          "start_seconds": 39.6,
+          "end_seconds": 42.3,
+          "content": "Close-up of Juliana smiling with playful warmth."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Playful, Amused)",
+          "start": "00:39.90",
+          "end": "00:42.00",
+          "start_seconds": 39.9,
+          "end_seconds": 42.0,
+          "content": "\"You prefer looking like a forest hermit?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.30",
+          "end": "00:44.90",
+          "start_seconds": 42.3,
+          "end_seconds": 44.9,
+          "content": "Intimate two-shot as Alexander slowly lowers her hand, his expression softening."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Dry, Droll)",
+          "start": "00:43.70",
+          "end": "00:44.90",
+          "start_seconds": 43.7,
+          "end_seconds": 44.9,
+          "content": "\"It has advantages.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.90",
+          "end": "00:46.90",
+          "start_seconds": 44.9,
+          "end_seconds": 46.9,
+          "content": "Medium shot of Juliana chuckling quietly as she steps back toward the table."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fond, Resigned)",
+          "start": "00:45.50",
+          "end": "00:46.80",
+          "start_seconds": 45.5,
+          "end_seconds": 46.8,
+          "content": "\"Very well.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.90",
+          "end": "00:48.00",
+          "start_seconds": 46.9,
+          "end_seconds": 48.0,
+          "content": "Close-up of Alexander watching her with deep, affectionate attention."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.00",
+          "end": "00:50.00",
+          "start_seconds": 48.0,
+          "end_seconds": 50.0,
+          "content": "Close-up of Juliana grinning with sparkling eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Teasing, Determined)",
+          "start": "00:48.10",
+          "end": "00:49.60",
+          "start_seconds": 48.1,
+          "end_seconds": 49.6,
+          "content": "\"But one day, I am trimming that beard.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.00",
+          "end": "00:51.30",
+          "start_seconds": 50.0,
+          "end_seconds": 51.3,
+          "content": "Close-up of Alexander lowering his head slightly with a faint smirk."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Amused)",
+          "start": "00:50.10",
+          "end": "00:51.20",
+          "start_seconds": 50.1,
+          "end_seconds": 51.2,
+          "content": "\"We'll see.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.30",
+          "end": "00:53.30",
+          "start_seconds": 51.3,
+          "end_seconds": 53.3,
+          "content": "Medium two-shot of both sitting back down at the table together, Alexander turning a brittle page of the herb book."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.30",
+          "end": "00:57.10",
+          "start_seconds": 53.3,
+          "end_seconds": 57.1,
+          "content": "Close-up insert of Alexander's weathered finger pointing directly at a delicate botanical illustration of a flowering stem."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Instructional, Calm)",
+          "start": "00:53.30",
+          "end": "00:57.00",
+          "start_seconds": 53.3,
+          "end_seconds": 57.0,
+          "content": "\"That one grows near the northern stream. Crushed leaves ease swelling.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:57.10",
+          "end": "00:59.80",
+          "start_seconds": 57.1,
+          "end_seconds": 59.8,
+          "content": "Wide side-profile two-shot of Juliana and Alexander seated across from each other at the rustic table, the stone fireplace roaring warmly behind them."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Soft, Nostalgic)",
+          "start": "00:58.70",
+          "end": "01:00.20",
+          "start_seconds": 58.7,
+          "end_seconds": 60.2,
+          "content": "\"My mother wrote the same thing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.80",
+          "end": "01:03.00",
+          "start_seconds": 59.8,
+          "end_seconds": 63.0,
+          "content": "Close-up of Juliana looking across at his battle-marked features with empathy."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Hesitant, Compassionate)",
+          "start": "01:00.50",
+          "end": "01:02.80",
+          "start_seconds": 60.5,
+          "end_seconds": 62.8,
+          "content": "\"And the scars... were they from the war?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.00",
+          "end": "01:04.30",
+          "start_seconds": 63.0,
+          "end_seconds": 64.3,
+          "content": "Close-up of Alexander looking downward, memories clouding his eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Quiet, Subdued)",
+          "start": "01:03.20",
+          "end": "01:04.20",
+          "start_seconds": 63.2,
+          "end_seconds": 64.2,
+          "content": "\"Some were.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.30",
+          "end": "01:06.50",
+          "start_seconds": 64.3,
+          "end_seconds": 66.5,
+          "content": "Close-up of Juliana, her eyes filled with gentle understanding."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Tender, Aching)",
+          "start": "01:04.90",
+          "end": "01:06.30",
+          "start_seconds": 64.9,
+          "end_seconds": 66.3,
+          "content": "\"It must have been terrible.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.50",
+          "end": "01:08.50",
+          "start_seconds": 66.5,
+          "end_seconds": 68.5,
+          "content": "Close-up of Alexander lifting his gaze, heavy with past battles."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Heavy, Somber)",
+          "start": "01:06.70",
+          "end": "01:07.60",
+          "start_seconds": 66.7,
+          "end_seconds": 67.6,
+          "content": "\"It was.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.50",
+          "end": "01:10.90",
+          "start_seconds": 68.5,
+          "end_seconds": 70.9,
+          "content": "Medium two-shot of Juliana smiling tenderly at him across the open book."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Reflective, Vulnerable)",
+          "start": "01:09.00",
+          "end": "01:12.10",
+          "start_seconds": 69.0,
+          "end_seconds": 72.1,
+          "content": "\"I thought losing wealth meant losing everything.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.90",
+          "end": "01:13.20",
+          "start_seconds": 70.9,
+          "end_seconds": 73.2,
+          "content": "Wide shot framing the warm silhouette of the two companions sitting peacefully beside the blazing stone hearth."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:13.20",
+          "end": "01:18.00",
+          "start_seconds": 73.2,
+          "end_seconds": 78.0,
+          "content": "Extreme close-up of Juliana's radiant face illuminated by firelight, a peaceful, contented smile spreading across her lips as she looks at him until the shot gently fades out."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Quiet, Transformed)",
+          "start": "01:13.20",
+          "end": "01:15.30",
+          "start_seconds": 73.2,
+          "end_seconds": 75.3,
+          "content": "\"Perhaps I was wrong.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:15.30",
+          "end": "01:18.00",
+          "start_seconds": 75.3,
+          "end_seconds": 78.0,
+          "content": "Juliana maintains her warm, peaceful gaze across the table as soft firelight flickers over her face into fade out."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-008-Episode 1671710(1).txt",
+  "source_sha256": "e2482244be533ae60b42cae3032208cf0bede3b2427639797a6323995dafeccb",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "episode_number": "Episode 7",
+  "logline": "When Gerald and his spiteful companion arrive at the woodland cottage to mock Juliana's fallen status, her stoic new husband returns from the forest to silently send them fleeing.",
+  "continuity_notes": "Follows Episode 6, where Juliana found refuge and warmth beside the hearth with her mysterious husband; morning brings unwelcome visitors from her former life to their humble doorstep.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. WOODLAND COTTAGE - DAY",
+      "start": "00:00.00",
+      "end": "01:09.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.80",
+          "start_seconds": 0.0,
+          "end_seconds": 4.8,
+          "content": "Medium shot of Juliana kneeling on the cold, damp ground outside the stone cottage, pulling weeds from the dirt with her bare hands."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:04.80",
+          "start_seconds": 0.0,
+          "end_seconds": 4.8,
+          "content": "Juliana, dressed in her simple grey long-sleeved gown, works tirelessly with soil caked beneath her fingernails."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.80",
+          "end": "00:11.80",
+          "start_seconds": 4.8,
+          "end_seconds": 11.8,
+          "content": "Low-angle tracking shot as an ornate black-and-gold carriage with crest emblazoned on the door rolls to a stop on the muddy path outside the gate."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:05.00",
+          "end": "00:11.50",
+          "start_seconds": 5.0,
+          "end_seconds": 11.5,
+          "content": "Heavy carriage wheels grinding in mud, horse snorts, and rhythmic hoofbeats halting."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.80",
+          "end": "00:15.00",
+          "start_seconds": 11.8,
+          "end_seconds": 15.0,
+          "content": "Medium shot as Aristocratic Woman steps out of the carriage into the misty air, shielding herself under an intricate lace parasol in an elegant lavender gown."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.00",
+          "end": "00:19.50",
+          "start_seconds": 15.0,
+          "end_seconds": 19.5,
+          "content": "Gerald steps down from the carriage behind her, looking immaculate in a high-collared navy frock coat, white waistcoat, and dark cravat."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:19.50",
+          "end": "00:21.00",
+          "start_seconds": 19.5,
+          "end_seconds": 21.0,
+          "content": "Aristocratic Woman smirks cruelly as she surveys the humble stone cottage."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:21.00",
+          "end": "00:24.00",
+          "start_seconds": 21.0,
+          "end_seconds": 24.0,
+          "content": "Juliana rinses the heavy mud from her hands in a cold rainwater puddle and rises to her feet, holding her head high."
+        },
+        {
+          "type": "dialogue",
+          "label": "ARISTOCRATIC WOMAN (Mocking, Condescending)",
+          "start": "00:22.00",
+          "end": "00:24.50",
+          "start_seconds": 22.0,
+          "end_seconds": 24.5,
+          "content": "\"This is where you live now?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.50",
+          "end": "00:29.80",
+          "start_seconds": 24.5,
+          "end_seconds": 29.8,
+          "content": "Medium shot of Gerald standing beside Aristocratic Woman, sneering disdainfully."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Arrogant, Scornful)",
+          "start": "00:25.00",
+          "end": "00:29.80",
+          "start_seconds": 25.0,
+          "end_seconds": 29.8,
+          "content": "\"A fitting home for a woman who threw away everything for a penniless soldier.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.80",
+          "end": "00:32.80",
+          "start_seconds": 29.8,
+          "end_seconds": 32.8,
+          "content": "Medium close-up of Juliana, defiant and unflinching despite her soiled dress and damp hair."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Sharp, Unintimidated)",
+          "start": "00:30.00",
+          "end": "00:32.60",
+          "start_seconds": 30.0,
+          "end_seconds": 32.6,
+          "content": "\"You came all this way just to insult my home?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.80",
+          "end": "00:37.50",
+          "start_seconds": 32.8,
+          "end_seconds": 37.5,
+          "content": "Close-up of Aristocratic Woman erupting into high-pitched, malicious laughter beneath her parasol."
+        },
+        {
+          "type": "dialogue",
+          "label": "ARISTOCRATIC WOMAN (Gloating, Mocking)",
+          "start": "00:33.20",
+          "end": "00:37.80",
+          "start_seconds": 33.2,
+          "end_seconds": 37.8,
+          "content": "\"Home? Look at your hands, Juliana.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.80",
+          "end": "00:39.80",
+          "start_seconds": 37.8,
+          "end_seconds": 39.8,
+          "content": "Close-up of Juliana's mud-stained palms held open against her apron."
+        },
+        {
+          "type": "dialogue",
+          "label": "ARISTOCRATIC WOMAN (O.S.) (Cruel)",
+          "start": "00:38.20",
+          "end": "00:39.80",
+          "start_seconds": 38.2,
+          "end_seconds": 39.8,
+          "content": "\"You look like a servant.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.80",
+          "end": "00:41.00",
+          "start_seconds": 39.8,
+          "end_seconds": 41.0,
+          "content": "Close-up of Gerald's smug expression watching Juliana."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.00",
+          "end": "00:45.00",
+          "start_seconds": 41.0,
+          "end_seconds": 45.0,
+          "content": "Medium close-up of Juliana lifting her chin with unwavering dignity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Proud, Resolute)",
+          "start": "00:41.20",
+          "end": "00:44.80",
+          "start_seconds": 41.2,
+          "end_seconds": 44.8,
+          "content": "\"I work with my hands. There is no shame in that.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:45.00",
+          "end": "00:47.00",
+          "start_seconds": 45.0,
+          "end_seconds": 47.0,
+          "content": "Close-up on Gerald's tightening jaw."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Biting, Condescending)",
+          "start": "00:45.20",
+          "end": "00:46.80",
+          "start_seconds": 45.2,
+          "end_seconds": 46.8,
+          "content": "\"You were born a lady.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:47.00",
+          "end": "00:50.80",
+          "start_seconds": 47.0,
+          "end_seconds": 50.8,
+          "content": "Close-up on Juliana's clear blue eyes, shining with unbroken pride."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Firm, Unapologetic)",
+          "start": "00:48.80",
+          "end": "00:50.40",
+          "start_seconds": 48.8,
+          "end_seconds": 50.4,
+          "content": "\"And I remain one.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.80",
+          "end": "00:54.80",
+          "start_seconds": 50.8,
+          "end_seconds": 54.8,
+          "content": "Wide shot framing Juliana facing off against Gerald and Aristocratic Woman in the bleak courtyard."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Bitter, Sneering)",
+          "start": "00:51.50",
+          "end": "00:54.60",
+          "start_seconds": 51.5,
+          "end_seconds": 54.6,
+          "content": "\"You chose that scarred beggar over a life of comfort.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.80",
+          "end": "01:01.50",
+          "start_seconds": 54.8,
+          "end_seconds": 61.5,
+          "content": "Two-shot profile of Juliana looking straight into Gerald's eyes without flinching."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Passionate, Defiant)",
+          "start": "00:57.80",
+          "end": "01:01.00",
+          "start_seconds": 57.8,
+          "end_seconds": 61.0,
+          "content": "\"I chose a man who stood beside me when you walked away.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:01.50",
+          "end": "01:05.20",
+          "start_seconds": 61.5,
+          "end_seconds": 65.2,
+          "content": "Intense close-up of Juliana dismissing him with utter contempt."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Cold, Commanding)",
+          "start": "01:01.80",
+          "end": "01:04.80",
+          "start_seconds": 61.8,
+          "end_seconds": 64.8,
+          "content": "\"You have no authority here. Leave.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:05.20",
+          "end": "01:09.50",
+          "start_seconds": 65.2,
+          "end_seconds": 69.5,
+          "content": "Close-up of Gerald lunging forward, aggressively pointing his finger into Juliana's face."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Furious, Threatening)",
+          "start": "01:05.60",
+          "end": "01:08.50",
+          "start_seconds": 65.6,
+          "end_seconds": 68.5,
+          "content": "\"I have enough influence to make a beggar disappear.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Spiteful, Boastful)",
+          "start": "01:08.60",
+          "end": "01:09.50",
+          "start_seconds": 68.6,
+          "end_seconds": 69.5,
+          "content": "\"And your husband?\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "EXT. FOREST PATH - CONTINUOUS",
+      "start": "01:09.50",
+      "end": "01:15.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.50",
+          "end": "01:14.00",
+          "start_seconds": 69.5,
+          "end_seconds": 74.0,
+          "content": "Wide shot down a dark, fog-drenched forest path. A towering, shadowed figure walks steadily forward through the mist."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (V.O.) (Snarl)",
+          "start": "01:09.50",
+          "end": "01:11.20",
+          "start_seconds": 69.5,
+          "end_seconds": 71.2,
+          "content": "\"Where is that beggar husband?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:10.00",
+          "end": "01:15.50",
+          "start_seconds": 70.0,
+          "end_seconds": 75.5,
+          "content": "The Scarred Bearded Man marches purposefully toward the cottage, carrying a heavy bundle of chopped firewood bound tightly with hemp cord."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.00",
+          "end": "01:15.50",
+          "start_seconds": 74.0,
+          "end_seconds": 75.5,
+          "content": "Medium tracking shot pushing in on the Scarred Bearded Man's stern, rugged face as he approaches the gate."
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "EXT. WOODLAND COTTAGE - CONTINUOUS",
+      "start": "01:15.50",
+      "end": "01:56.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.50",
+          "end": "01:18.50",
+          "start_seconds": 75.5,
+          "end_seconds": 78.5,
+          "content": "Low shot of the Scarred Bearded Man bending down and dropping the bundle of logs by the stone wall."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:16.20",
+          "end": "01:17.50",
+          "start_seconds": 76.2,
+          "end_seconds": 77.5,
+          "content": "A dull, heavy thud of timber striking the mud."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.50",
+          "end": "01:21.00",
+          "start_seconds": 78.5,
+          "end_seconds": 81.0,
+          "content": "Medium full shot as the Scarred Bearded Man straightens to his full imposing height and steps directly toward Gerald."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.00",
+          "end": "01:23.50",
+          "start_seconds": 81.0,
+          "end_seconds": 83.5,
+          "content": "Two-shot framing the Scarred Bearded Man towering menacingly over Gerald, staring down at him with unyielding intensity."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:21.50",
+          "end": "01:24.00",
+          "start_seconds": 81.5,
+          "end_seconds": 84.0,
+          "content": "Gerald freezes, his arrogant bravado instantly vanishing as cold dread overtakes his face."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.50",
+          "end": "01:28.00",
+          "start_seconds": 83.5,
+          "end_seconds": 88.0,
+          "content": "Low-angle close-up of Gerald looking up in sheer terror, his adam's apple bobbing nervously."
+        },
+        {
+          "type": "dialogue",
+          "label": "ARISTOCRATIC WOMAN (O.S.) (Urgent, Annoyed)",
+          "start": "01:26.50",
+          "end": "01:28.50",
+          "start_seconds": 86.5,
+          "end_seconds": 88.5,
+          "content": "\"Gerald, don't let him frighten you.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Trembling, Trying to Save Face)",
+          "start": "01:28.60",
+          "end": "01:30.00",
+          "start_seconds": 88.6,
+          "end_seconds": 90.0,
+          "content": "\"What are you staring at?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:30.00",
+          "end": "01:31.50",
+          "start_seconds": 90.0,
+          "end_seconds": 91.5,
+          "content": "Gerald rapidly turns on his heel toward the carriage, unwilling to face another second of the silent glare."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Nervous, Hurried)",
+          "start": "01:30.10",
+          "end": "01:31.40",
+          "start_seconds": 90.1,
+          "end_seconds": 91.4,
+          "content": "\"We are leaving.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:31.50",
+          "end": "01:33.80",
+          "start_seconds": 91.5,
+          "end_seconds": 93.8,
+          "content": "Medium shot of Aristocratic Woman, shocked and indignant as Gerald flees past her."
+        },
+        {
+          "type": "dialogue",
+          "label": "ARISTOCRATIC WOMAN (Outraged, Flustered)",
+          "start": "01:32.00",
+          "end": "01:33.80",
+          "start_seconds": 92.0,
+          "end_seconds": 93.8,
+          "content": "\"Leaving? Gerald!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:33.80",
+          "end": "01:36.50",
+          "start_seconds": 93.8,
+          "end_seconds": 96.5,
+          "content": "Aristocratic Woman scrambles back into the carriage, hiking up her gown in a fluster before slamming the door shut."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:35.00",
+          "end": "01:36.00",
+          "start_seconds": 95.0,
+          "end_seconds": 96.0,
+          "content": "Carriage door slamming shut."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.00",
+          "end": "01:39.00",
+          "start_seconds": 96.0,
+          "end_seconds": 99.0,
+          "content": "Wide shot of the carriage rapidly jolting forward and disappearing down the misty road away from the cottage."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.00",
+          "end": "01:43.50",
+          "start_seconds": 99.0,
+          "end_seconds": 103.5,
+          "content": "Medium profile two-shot of Juliana turning toward the Scarred Bearded Man, her eyes gleaming with genuine admiration."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Impressed, Softly Amused)",
+          "start": "01:40.80",
+          "end": "01:43.20",
+          "start_seconds": 100.8,
+          "end_seconds": 103.2,
+          "content": "\"You didn't say a word.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.50",
+          "end": "01:47.50",
+          "start_seconds": 103.5,
+          "end_seconds": 107.5,
+          "content": "Close-up on the Scarred Bearded Man looking down at her, his rugged features softening with quiet affection."
+        },
+        {
+          "type": "dialogue",
+          "label": "SCARRED BEARDED MAN (Low, Gentle, Confident)",
+          "start": "01:46.00",
+          "end": "01:47.80",
+          "start_seconds": 106.0,
+          "end_seconds": 107.8,
+          "content": "\"I didn't need to.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.50",
+          "end": "01:51.50",
+          "start_seconds": 107.5,
+          "end_seconds": 111.5,
+          "content": "Medium shot as the Scarred Bearded Man stoops down, scoops up the heavy bundle of firewood in one arm, and walks calmly past Juliana toward their door."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:51.50",
+          "end": "01:56.00",
+          "start_seconds": 111.5,
+          "end_seconds": 116.0,
+          "content": "Close-up of Juliana looking after him, a radiant and grateful smile blooming across her face as the scene fades out."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-007-Episode 1671709.txt",
+  "source_sha256": "d6125d1e308e9ea7993e1e22a4452e1f940bc384a13b621acdb5b3709bf96494",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

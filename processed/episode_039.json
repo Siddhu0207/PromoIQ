@@ -1,0 +1,585 @@
+{
+  "episode_number": "Episode 39",
+  "logline": "While Alexander's loyal men infiltrate and neutralize the royal guards stationed outside the cathedral, Alexander sheds his rugged disguise, dons his ducal regalia, and marches forth to reclaim his house and rescue Juliana.",
+  "continuity_notes": "Picks up as the wedding bells toll for Rupert and Catherine's ceremony. While Juliana prepares for execution in the dungeon below, Alexander's coordinated strike to liberate the cathedral and reclaim his birthright begins.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. COBBLESTONE STREET - DAY",
+      "start": "00:00.00",
+      "end": "00:13.80",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.60",
+          "start_seconds": 0.0,
+          "end_seconds": 4.6,
+          "content": "Low-angle tracking shot from behind wagon wheels framing laborers unloading wooden crates from a horse-drawn cart in the bustling town square."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:04.60",
+          "start_seconds": 0.0,
+          "end_seconds": 4.6,
+          "content": "Men in work clothes stack wooden crates onto the back of a large carriage as horses snort restlessly in the morning mist."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.60",
+          "end": "00:07.10",
+          "start_seconds": 4.6,
+          "end_seconds": 7.1,
+          "content": "Medium close-up profile shot of a vigilant scout in a dark brimmed hat holding reins and surveying the street."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:04.60",
+          "end": "00:07.10",
+          "start_seconds": 4.6,
+          "end_seconds": 7.1,
+          "content": "The scout stands quietly by a wooden rail, keeping a sharp eye on passing civilians."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.10",
+          "end": "00:09.60",
+          "start_seconds": 7.1,
+          "end_seconds": 9.6,
+          "content": "Artistic framing through the spokes of a large wooden wagon wheel looking out across the cobblestones toward church spires in the distance."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.60",
+          "end": "00:13.80",
+          "start_seconds": 9.6,
+          "end_seconds": 13.8,
+          "content": "Close-up of a disguised loyalist adjusting his flat cap, followed by a low-angle tracking shot of two men walking briskly over the wet cobblestones."
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "EXT. CATHEDRAL ENTRANCE & ALLEY - CONTINUOUS",
+      "start": "00:13.80",
+      "end": "00:24.20",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.80",
+          "end": "00:15.80",
+          "start_seconds": 13.8,
+          "end_seconds": 15.8,
+          "content": "Wide symmetrical establishing shot of the grand Gothic cathedral entrance flanked by armed royal guards in red uniforms and bearskin hats standing on stone steps."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:13.80",
+          "end": "00:15.80",
+          "start_seconds": 13.8,
+          "end_seconds": 15.8,
+          "content": "Four royal guards in red ceremonial tunics and tall black bearskin hats stand rigidly at attention with rifles on the grand cathedral staircase."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.80",
+          "end": "00:18.00",
+          "start_seconds": 15.8,
+          "end_seconds": 18.0,
+          "content": "Medium shot in a nearby alleyway where two loyalist conspirators huddle beside bundles of hay, discreetly passing a folded message."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.00",
+          "end": "00:22.40",
+          "start_seconds": 18.0,
+          "end_seconds": 22.4,
+          "content": "Close profile two-shot of the two loyalist soldiers watching the cathedral spires in the distance."
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST SCOUT (Low, Urgent)",
+          "start": "00:18.30",
+          "end": "00:19.90",
+          "start_seconds": 18.3,
+          "end_seconds": 19.9,
+          "content": "\"Six at the front.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST FIGHTER (Grave)",
+          "start": "00:20.20",
+          "end": "00:21.80",
+          "start_seconds": 20.2,
+          "end_seconds": 21.8,
+          "content": "\"Four more inside.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.40",
+          "end": "00:24.20",
+          "start_seconds": 22.4,
+          "end_seconds": 24.2,
+          "content": "Medium over-the-shoulder shot of the two men conferring as townsfolk pass in the foreground."
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST SCOUT (Focused)",
+          "start": "00:22.50",
+          "end": "00:23.20",
+          "start_seconds": 22.5,
+          "end_seconds": 23.2,
+          "content": "\"And the east gate?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST FIGHTER (Determined)",
+          "start": "00:23.30",
+          "end": "00:24.20",
+          "start_seconds": 23.3,
+          "end_seconds": 24.2,
+          "content": "\"Ours.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "EXT. CATHEDRAL ENTRANCE - CONTINUOUS",
+      "start": "00:24.20",
+      "end": "00:50.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.20",
+          "end": "00:29.60",
+          "start_seconds": 24.2,
+          "end_seconds": 29.6,
+          "content": "Wide crane shot panning down as a horse-drawn cart loaded with cut firewood pulls up along the wet stone pavement in front of the cathedral steps."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:24.20",
+          "end": "00:29.60",
+          "start_seconds": 24.2,
+          "end_seconds": 29.6,
+          "content": "A lone driver in rugged attire guides the horse cart slowly toward the sentries guarding the arched entryway."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:29.60",
+          "end": "00:32.40",
+          "start_seconds": 29.6,
+          "end_seconds": 32.4,
+          "content": "Medium two-shot of the royal sentry stepping forward and extending a white-gloved hand to halt the cart."
+        },
+        {
+          "type": "dialogue",
+          "label": "ROYAL SENTRY (Commanding)",
+          "start": "00:29.80",
+          "end": "00:30.60",
+          "start_seconds": 29.8,
+          "end_seconds": 30.6,
+          "content": "\"Stop!\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CART DRIVER (Meek, Deferential)",
+          "start": "00:30.80",
+          "end": "00:32.40",
+          "start_seconds": 30.8,
+          "end_seconds": 32.4,
+          "content": "\"Firewood for the kitchens, sir.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.40",
+          "end": "00:36.50",
+          "start_seconds": 32.4,
+          "end_seconds": 36.5,
+          "content": "Fast dynamic medium shot as the cart driver suddenly lunges off the wooden bench."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:32.80",
+          "end": "00:36.50",
+          "start_seconds": 32.8,
+          "end_seconds": 36.5,
+          "content": "The driver leaps off the cart, striking the sentry across the chest, seizing his neck, and tackling him violently against the wooden carriage wheel."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:33.10",
+          "end": "00:36.00",
+          "start_seconds": 33.1,
+          "end_seconds": 36.0,
+          "content": "Dull physical thuds and scuffling boots on wet stone as the guard groans in surprise."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:42.80",
+          "start_seconds": 36.5,
+          "end_seconds": 42.8,
+          "content": "Medium close-up as a second loyalist emerges from behind the doorway, wrapping his arms around the remaining royal guard's throat from behind."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:37.00",
+          "end": "00:42.50",
+          "start_seconds": 37.0,
+          "end_seconds": 42.5,
+          "content": "The loyalist locks the sentry into a tight sleeper hold, clamping a hand firmly over his mouth until his eyes roll back and he goes limp."
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST FIGHTER (Whispering, Cold)",
+          "start": "00:41.00",
+          "end": "00:42.20",
+          "start_seconds": 41.0,
+          "end_seconds": 42.2,
+          "content": "\"Sleep.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.80",
+          "end": "00:46.80",
+          "start_seconds": 42.8,
+          "end_seconds": 46.8,
+          "content": "Wide high-angle shot overlooking the stone cathedral steps where both royal guards lie unconscious on the fallen autumn leaves while more men slip inside the opened doors."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.80",
+          "end": "00:50.00",
+          "start_seconds": 46.8,
+          "end_seconds": 50.0,
+          "content": "Medium low-angle shot of the two loyalist fighters looking up into the overcast sky outside the stone sanctuary."
+        },
+        {
+          "type": "dialogue",
+          "label": "CART DRIVER (Relieved, Firm)",
+          "start": "00:47.00",
+          "end": "00:48.10",
+          "start_seconds": 47.0,
+          "end_seconds": 48.1,
+          "content": "\"The road is clear.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST FIGHTER (Resolute)",
+          "start": "00:48.20",
+          "end": "00:49.20",
+          "start_seconds": 48.2,
+          "end_seconds": 49.2,
+          "content": "\"Tell the Duke.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "INT. WOODEN CABIN - DAY",
+      "start": "00:50.00",
+      "end": "01:08.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.00",
+          "end": "00:52.80",
+          "start_seconds": 50.0,
+          "end_seconds": 52.8,
+          "content": "Close-up framed into a cracked wooden wall mirror reflecting Alexander with long unkempt hair, a thick beard, and combat scars across his cheek."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:50.00",
+          "end": "00:52.80",
+          "start_seconds": 50.0,
+          "end_seconds": 52.8,
+          "content": "Alexander stares solemnly at his rugged reflection, his expression dark and resolute."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:52.80",
+          "end": "00:55.80",
+          "start_seconds": 52.8,
+          "end_seconds": 55.8,
+          "content": "Tilt-down medium close-up over a wooden table displaying a pristine navy-and-gold embroidered ducal uniform, ornate lion crest brooch, white cravat, razor, and scissors."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.80",
+          "end": "00:59.80",
+          "start_seconds": 55.8,
+          "end_seconds": 59.8,
+          "content": "Medium profile shot of Alexander lifting the metal shears beside the window light, raising them toward his hair."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:56.50",
+          "end": "00:59.80",
+          "start_seconds": 56.5,
+          "end_seconds": 59.8,
+          "content": "Alexander snips through his overgrown locks, shedding the years of exile and camouflage."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:57.20",
+          "end": "01:00.80",
+          "start_seconds": 57.2,
+          "end_seconds": 60.8,
+          "content": "Rhythmic, metallic snips of heavy shears cutting through thick hair."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.80",
+          "end": "01:01.20",
+          "start_seconds": 59.8,
+          "end_seconds": 61.2,
+          "content": "Medium shot as Alexander trims his beard at the jawline."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:01.20",
+          "end": "01:06.60",
+          "start_seconds": 61.2,
+          "end_seconds": 66.6,
+          "content": "Medium shot framed in the mirror of Alexander now handsomely groomed, his trimmed beard framing his fierce, scarred features."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:02.00",
+          "end": "01:06.60",
+          "start_seconds": 62.0,
+          "end_seconds": 66.6,
+          "content": "Alexander lightly traces the jagged combat scar across his cheek, eyes burning with reclaimed power."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Deep, Steely Resolve)",
+          "start": "01:02.00",
+          "end": "01:02.80",
+          "start_seconds": 62.0,
+          "end_seconds": 62.8,
+          "content": "\"Enough hiding.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Dark, Unforgiving)",
+          "start": "01:03.00",
+          "end": "01:05.50",
+          "start_seconds": 63.0,
+          "end_seconds": 65.5,
+          "content": "\"They buried Alexander Ashwin three years ago.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Fierce, Commanding)",
+          "start": "01:05.60",
+          "end": "01:06.90",
+          "start_seconds": 65.6,
+          "end_seconds": 66.9,
+          "content": "\"Today, he comes home.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.60",
+          "end": "01:08.50",
+          "start_seconds": 66.6,
+          "end_seconds": 68.5,
+          "content": "Medium shot of Alexander lifting his royal navy-blue embroidered ducal coat from the wooden bench."
+        }
+      ]
+    },
+    {
+      "scene_id": 5,
+      "heading": "EXT. WOODEN OUTPOST / SNOWY PATH - DAY",
+      "start": "01:08.50",
+      "end": "01:38.41",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.50",
+          "end": "01:11.80",
+          "start_seconds": 68.5,
+          "end_seconds": 71.8,
+          "content": "Wide tracking shot through double wooden barn doors opening outward onto a vast, snow-covered landscape as Alexander steps forward into the light."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:08.50",
+          "end": "01:11.80",
+          "start_seconds": 68.5,
+          "end_seconds": 71.8,
+          "content": "Alexander emerges in full ducal splendor—dressed in an immaculate navy tailcoat lined with gold embroidery, double-breasted brass buttons, and a crisp white cravat."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.80",
+          "end": "01:14.80",
+          "start_seconds": 71.8,
+          "end_seconds": 74.8,
+          "content": "Extreme close-up of Alexander's hand adjusting the ornate golden lion crest pinned at his cravat."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.80",
+          "end": "01:17.80",
+          "start_seconds": 74.8,
+          "end_seconds": 77.8,
+          "content": "Medium low-angle shot as a loyalist soldier drops down onto one knee before him in the snow."
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST (Reverent, Submissive)",
+          "start": "01:15.80",
+          "end": "01:17.20",
+          "start_seconds": 75.8,
+          "end_seconds": 77.2,
+          "content": "\"Your Grace.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.80",
+          "end": "01:22.50",
+          "start_seconds": 77.8,
+          "end_seconds": 82.5,
+          "content": "Close-up profile of Alexander, his breath pluming in the winter cold, his eyes hardened like steel."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Authoritative, Command)",
+          "start": "01:20.50",
+          "end": "01:22.20",
+          "start_seconds": 80.5,
+          "end_seconds": 82.2,
+          "content": "\"Secure the chapel.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:22.50",
+          "end": "01:25.20",
+          "start_seconds": 82.5,
+          "end_seconds": 85.2,
+          "content": "Medium close-up of the soldier rising and snapping a crisp military salute."
+        },
+        {
+          "type": "dialogue",
+          "label": "LOYALIST (Resolute)",
+          "start": "01:23.80",
+          "end": "01:25.20",
+          "start_seconds": 83.8,
+          "end_seconds": 85.2,
+          "content": "\"Yes, Your Grace.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.20",
+          "end": "01:35.00",
+          "start_seconds": 85.2,
+          "end_seconds": 95.0,
+          "content": "Slow dramatic tracking shot moving backward in front of Alexander as he strides purposefully through the deep snow, the wooden chapel looming in the distance behind him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Powerful, Roaring Defiance)",
+          "start": "01:25.50",
+          "end": "01:27.20",
+          "start_seconds": 85.5,
+          "end_seconds": 87.2,
+          "content": "\"No more hiding.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Fierce, Unyielding)",
+          "start": "01:27.50",
+          "end": "01:30.20",
+          "start_seconds": 87.5,
+          "end_seconds": 90.2,
+          "content": "\"I am taking back my house.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:30.20",
+          "end": "01:35.00",
+          "start_seconds": 90.2,
+          "end_seconds": 95.0,
+          "content": "Alexander marches forward unstoppably, his long coat fluttering in the winter wind as his icy gaze locks forward."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:35.00",
+          "end": "01:38.41",
+          "start_seconds": 95.0,
+          "end_seconds": 98.41,
+          "content": "Dramatic push-in close-up directly onto Alexander's scarred, fierce face as he speaks with absolute conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Passionate, Unstoppable Vow)",
+          "start": "01:35.00",
+          "end": "01:38.00",
+          "start_seconds": 95.0,
+          "end_seconds": 98.0,
+          "content": "\"And I am bringing my wife home.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:37.80",
+          "end": "01:38.41",
+          "start_seconds": 97.8,
+          "end_seconds": 98.41,
+          "content": "Alexander's eyes burn with furious determination as the screen cuts sharply to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-039-Episode 1686799.txt",
+  "source_sha256": "9880b70ecdcada1fcb110b33761a1bdfdf96ccad454ef181cd47d641bb68e500",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

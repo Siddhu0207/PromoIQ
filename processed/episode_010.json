@@ -1,0 +1,562 @@
+{
+  "episode_number": "Episode 10",
+  "logline": "When Alexander returns to the cottage gravely wounded and soaked in blood, Juliana tends to his injuries, leading to an intimate confrontation where their unspoken feelings and scarred pasts finally collide.",
+  "continuity_notes": "Follows the ominous revelation from Episode 9 of rumors circulating about a scarred war veteran, cutting directly to the secluded cottage where Alexander arrives bearing fresh wounds.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. WOODLAND COTTAGE – NIGHT",
+      "start": "00:00.00",
+      "end": "01:34.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.50",
+          "start_seconds": 0.0,
+          "end_seconds": 2.5,
+          "content": "Medium profile shot of Juliana sitting at a wooden table beside the glowing fireplace, reading an old herbal medicine book."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:02.20",
+          "start_seconds": 0.0,
+          "end_seconds": 2.2,
+          "content": "Juliana quietly studies the botanical illustrations by firelight, a bundle of fresh dried herbs resting on the table."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:02.10",
+          "end": "00:03.30",
+          "start_seconds": 2.1,
+          "end_seconds": 3.3,
+          "content": "A heavy wooden door suddenly creaks and bangs open in the quiet cottage."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:02.20",
+          "end": "00:03.50",
+          "start_seconds": 2.2,
+          "end_seconds": 3.5,
+          "content": "Juliana jerks her head up from the book, startled by the sudden intrusion."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.60",
+          "end": "00:04.20",
+          "start_seconds": 2.6,
+          "end_seconds": 4.2,
+          "content": "Medium wide shot framing the doorway as Alexander stands framed in the dark threshold, panting heavily, his hand pressed against his blood-soaked chest."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.20",
+          "end": "00:06.80",
+          "start_seconds": 4.2,
+          "end_seconds": 6.8,
+          "content": "Medium close-up of Juliana rising swiftly from her chair, shock and terror flashing across her face."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Alarmed, Breathless)",
+          "start": "00:05.10",
+          "end": "00:06.60",
+          "start_seconds": 5.1,
+          "end_seconds": 6.6,
+          "content": "\"Alexander!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:06.80",
+          "end": "00:09.10",
+          "start_seconds": 6.8,
+          "end_seconds": 9.1,
+          "content": "Close-up of Alexander struggling to breathe, clutching his bloodied coat over his chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Gruff, Strained)",
+          "start": "00:07.50",
+          "end": "00:09.00",
+          "start_seconds": 7.5,
+          "end_seconds": 9.0,
+          "content": "\"It is nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.10",
+          "end": "00:11.50",
+          "start_seconds": 9.1,
+          "end_seconds": 11.5,
+          "content": "Medium shot of Juliana hurriedly stepping toward him across the stone floor."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Urgent, Worried)",
+          "start": "00:09.15",
+          "end": "00:11.45",
+          "start_seconds": 9.15,
+          "end_seconds": 11.45,
+          "content": "\"There is blood running down your arm.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.50",
+          "end": "00:14.20",
+          "start_seconds": 11.5,
+          "end_seconds": 14.2,
+          "content": "Medium profile two-shot as Alexander stands rigid while Juliana confronts him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Stiff, Dismissive)",
+          "start": "00:11.90",
+          "end": "00:14.30",
+          "start_seconds": 11.9,
+          "end_seconds": 14.3,
+          "content": "\"A cut from the tenant fields.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:14.20",
+          "end": "00:16.00",
+          "start_seconds": 14.2,
+          "end_seconds": 16.0,
+          "content": "Wide shot of the hearth room as Juliana firmly points toward a wooden armchair beside the fire."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Commanding, Resolute)",
+          "start": "00:14.50",
+          "end": "00:16.00",
+          "start_seconds": 14.5,
+          "end_seconds": 16.0,
+          "content": "\"Sit down.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.00",
+          "end": "00:17.80",
+          "start_seconds": 16.0,
+          "end_seconds": 17.8,
+          "content": "Close-up of Juliana's determined, unyielding expression."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Stern)",
+          "start": "00:16.20",
+          "end": "00:17.30",
+          "start_seconds": 16.2,
+          "end_seconds": 17.3,
+          "content": "\"Now.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.80",
+          "end": "00:20.00",
+          "start_seconds": 17.8,
+          "end_seconds": 20.0,
+          "content": "Medium shot of Alexander reluctantly lowering his heavy frame onto the chair in front of the fire."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.00",
+          "end": "00:23.00",
+          "start_seconds": 20.0,
+          "end_seconds": 23.0,
+          "content": "Medium tracking shot following Juliana as she brings a wooden washbowl, fresh cloth, and an earthen jar of ointment to the foot of his chair."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle, Insistent)",
+          "start": "00:20.90",
+          "end": "00:22.90",
+          "start_seconds": 20.9,
+          "end_seconds": 22.9,
+          "content": "\"I need to see the wound.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.00",
+          "end": "00:25.20",
+          "start_seconds": 23.0,
+          "end_seconds": 25.2,
+          "content": "Low-angle close-up of Alexander looking up at her stubbornly."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Defiant)",
+          "start": "00:23.20",
+          "end": "00:24.90",
+          "start_seconds": 23.2,
+          "end_seconds": 24.9,
+          "content": "\"It is only a scratch.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:25.20",
+          "end": "00:28.00",
+          "start_seconds": 25.2,
+          "end_seconds": 28.0,
+          "content": "Medium shot of Juliana crossing her arms over her chest, eyeing him with quiet defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Sarcastic, Challenging)",
+          "start": "00:25.50",
+          "end": "00:28.00",
+          "start_seconds": 25.5,
+          "end_seconds": 28.0,
+          "content": "\"Then removing your shirt should not trouble you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.00",
+          "end": "00:31.80",
+          "start_seconds": 28.0,
+          "end_seconds": 31.8,
+          "content": "Medium shot as Alexander stares at her for a beat before pushing himself up from the chair and shedding his heavy leather coat."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.80",
+          "end": "00:33.20",
+          "start_seconds": 31.8,
+          "end_seconds": 33.2,
+          "content": "Close-up of Juliana observing him with guarded anticipation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:33.20",
+          "end": "00:36.50",
+          "start_seconds": 33.2,
+          "end_seconds": 36.5,
+          "content": "Close-up shot of Alexander pulling his dark shirt over his head, revealing his muscular torso crisscrossed with jagged battle scars and fresh bleeding lacerations."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:36.50",
+          "end": "00:38.00",
+          "start_seconds": 36.5,
+          "end_seconds": 38.0,
+          "content": "Tight pan over the scarred, wounded flesh along his chest and ribs."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:38.00",
+          "end": "00:39.20",
+          "start_seconds": 38.0,
+          "end_seconds": 39.2,
+          "content": "Close-up of Juliana's eyes widening in horror and deep pity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Whispering, Distressed)",
+          "start": "00:38.10",
+          "end": "00:38.90",
+          "start_seconds": 38.1,
+          "end_seconds": 38.9,
+          "content": "\"Dear God.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.20",
+          "end": "00:43.00",
+          "start_seconds": 39.2,
+          "end_seconds": 43.0,
+          "content": "Medium wide shot as Alexander sinks back into the chair, exhausted, while Juliana slowly kneels before him on the stone floor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.00",
+          "end": "00:45.00",
+          "start_seconds": 43.0,
+          "end_seconds": 45.0,
+          "content": "Extreme close-up macro shot of Juliana's trembling fingers hovering tenderly over the raised, jagged scar across Alexander's chest."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:45.00",
+          "end": "00:47.30",
+          "start_seconds": 45.0,
+          "end_seconds": 47.3,
+          "content": "Close-up of Juliana looking up at him, her eyes softened with profound empathy."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Soft, Sorrowful)",
+          "start": "00:45.30",
+          "end": "00:47.10",
+          "start_seconds": 45.3,
+          "end_seconds": 47.1,
+          "content": "\"You have suffered terribly.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:47.30",
+          "end": "00:49.50",
+          "start_seconds": 47.3,
+          "end_seconds": 49.5,
+          "content": "Close-up of Alexander's weathered, scarred face gazing down at her with quiet stoicism."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Quiet, Somber)",
+          "start": "00:47.80",
+          "end": "00:49.00",
+          "start_seconds": 47.8,
+          "end_seconds": 49.0,
+          "content": "\"It is over.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.50",
+          "end": "00:51.50",
+          "start_seconds": 49.5,
+          "end_seconds": 51.5,
+          "content": "Medium close-up of Juliana dipping a linen cloth into the water bowl."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Gentle)",
+          "start": "00:49.70",
+          "end": "00:51.30",
+          "start_seconds": 49.7,
+          "end_seconds": 51.3,
+          "content": "\"Your scars disagree.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.50",
+          "end": "00:54.00",
+          "start_seconds": 51.5,
+          "end_seconds": 54.0,
+          "content": "Close-up shot of Juliana carefully dabbing the damp cloth against the bloody cut on Alexander's shoulder."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Tender)",
+          "start": "00:52.00",
+          "end": "00:53.30",
+          "start_seconds": 52.0,
+          "end_seconds": 53.3,
+          "content": "\"Does it hurt?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.00",
+          "end": "00:55.50",
+          "start_seconds": 54.0,
+          "end_seconds": 55.5,
+          "content": "Close-up of Alexander trying not to wince under her touch."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Gruff)",
+          "start": "00:54.00",
+          "end": "00:55.20",
+          "start_seconds": 54.0,
+          "end_seconds": 55.2,
+          "content": "\"Not much.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.50",
+          "end": "00:58.00",
+          "start_seconds": 55.5,
+          "end_seconds": 58.0,
+          "content": "Close-up of Juliana smiling softly, amused by his stubborn pride."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Playful, Whispering)",
+          "start": "00:55.60",
+          "end": "00:57.60",
+          "start_seconds": 55.6,
+          "end_seconds": 57.6,
+          "content": "\"You are a terrible liar.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.00",
+          "end": "01:00.00",
+          "start_seconds": 58.0,
+          "end_seconds": 60.0,
+          "content": "Extreme close-up of Juliana's fingers taking a dollop of green herbal salve and smoothing it gently over his shoulder wound."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.00",
+          "end": "01:03.00",
+          "start_seconds": 60.0,
+          "end_seconds": 63.0,
+          "content": "Close-up over Juliana's shoulder looking at Alexander, who stares intently into her face, oblivious to the wound."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.00",
+          "end": "01:06.20",
+          "start_seconds": 63.0,
+          "end_seconds": 66.2,
+          "content": "Close-up of Juliana looking up from his shoulder into his eyes, sensing the intensity of his gaze."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Soft, Breathless)",
+          "start": "01:03.90",
+          "end": "01:06.10",
+          "start_seconds": 63.9,
+          "end_seconds": 66.1,
+          "content": "\"Why do you look at me like that?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.20",
+          "end": "01:08.80",
+          "start_seconds": 66.2,
+          "end_seconds": 68.8,
+          "content": "Close-up of Alexander, his voice deep and laden with restrained emotion."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Intense, Sincere)",
+          "start": "01:06.50",
+          "end": "01:08.40",
+          "start_seconds": 66.5,
+          "end_seconds": 68.4,
+          "content": "\"Because you are looking at me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:08.80",
+          "end": "01:11.50",
+          "start_seconds": 68.8,
+          "end_seconds": 71.5,
+          "content": "Medium close-up of Juliana looking back down at his shoulder to hide her growing fluster, applying the salve carefully."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Flustered, Whispering)",
+          "start": "01:09.60",
+          "end": "01:10.90",
+          "start_seconds": 69.6,
+          "end_seconds": 70.9,
+          "content": "\"Hold still.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.50",
+          "end": "01:14.50",
+          "start_seconds": 71.5,
+          "end_seconds": 74.5,
+          "content": "Medium shot of Alexander leaning closer to her, his breathing heavy."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Husky)",
+          "start": "01:12.10",
+          "end": "01:14.20",
+          "start_seconds": 72.1,
+          "end_seconds": 74.2,
+          "content": "\"I am holding still.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.50",
+          "end": "01:17.00",
+          "start_seconds": 74.5,
+          "end_seconds": 77.0,
+          "content": "Close-up two-shot of their faces drawing mere inches apart in the warm firelight."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Whispering, Vulnerable)",
+          "start": "01:16.80",
+          "end": "01:19.00",
+          "start_seconds": 76.8,
+          "end_seconds": 79.0,
+          "content": "\"Perhaps it is your hand.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:19.00",
+          "end": "01:22.50",
+          "start_seconds": 79.0,
+          "end_seconds": 82.5,
+          "content": "Close-up of Alexander's large, rough hands reaching up and gently enveloping Juliana's slender hands, bringing them against his bare chest over his racing heart."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:22.50",
+          "end": "01:26.50",
+          "start_seconds": 82.5,
+          "end_seconds": 86.5,
+          "content": "Close-up shot of Alexander gazing into Juliana's eyes with raw, unmasked devotion."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Deep, Emotional)",
+          "start": "01:22.60",
+          "end": "01:25.90",
+          "start_seconds": 82.6,
+          "end_seconds": 85.9,
+          "content": "\"Your touch is the only medicine that has ever eased my pain.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:34.00",
+          "start_seconds": 86.5,
+          "end_seconds": 94.0,
+          "content": "Close-up shot holding on Juliana's wide, luminous blue eyes, completely captivated and overwhelmed by his confession, the firelight dancing across their intertwined hands as the scene lingers and fades."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-010-Episode 1671712.txt",
+  "source_sha256": "474a02d035632a75787ddf6796abafcb7a5dac806f9739e25b3de09e0de5841f",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

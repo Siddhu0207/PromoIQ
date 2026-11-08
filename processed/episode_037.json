@@ -1,0 +1,757 @@
+{
+  "episode_number": "Episode 37",
+  "logline": "As Rupert and Catherine issue wedding invitations paired with Juliana's public execution decree to terrorize the county, Juliana endures starvation in the dungeon, refusing to break her spirit.",
+  "continuity_notes": "Following Alexander's vow to return in two days to disrupt the wedding, Rupert and Catherine prepare to cement their coup by inviting high society to celebrate their nuptials and witness Juliana's execution.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. ASHBRIDGE MANOR - GRAND CORRIDOR – DAY",
+      "start": "00:00.00",
+      "end": "00:34.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:05.50",
+          "start_seconds": 0.0,
+          "end_seconds": 5.5,
+          "content": "Low-angle shot tilting down to a polished mahogany table as a white-gloved servant places a tall stack of wax-sealed wedding invitations onto a silver tray."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:01.50",
+          "end": "00:03.20",
+          "start_seconds": 1.5,
+          "end_seconds": 3.2,
+          "content": "The crisp tap of heavy cardstock envelopes being set down onto silver."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.50",
+          "end": "00:09.50",
+          "start_seconds": 5.5,
+          "end_seconds": 9.5,
+          "content": "Medium two-shot framed symmetrically down the vaulted, sunlit hallway. Blond Nobleman Rupert stands tall in a black embroidered frock coat, facing Catherine in an ornate pink gown."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Rupert) (Cold, Calculating)",
+          "start": "00:06.00",
+          "end": "00:09.30",
+          "start_seconds": 6.0,
+          "end_seconds": 9.3,
+          "content": "\"Every important family in the county should witness it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.50",
+          "end": "00:12.50",
+          "start_seconds": 9.5,
+          "end_seconds": 12.5,
+          "content": "Close-up of Catherine looking down at the invitations, her braided blonde hair immaculately pinned, before she raises her eyes with a slight smirk."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Inquiring, Smug)",
+          "start": "00:10.80",
+          "end": "00:12.40",
+          "start_seconds": 10.8,
+          "end_seconds": 12.4,
+          "content": "\"The wedding?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.50",
+          "end": "00:15.00",
+          "start_seconds": 12.5,
+          "end_seconds": 15.0,
+          "content": "Close-up on Rupert, his sharp aristocratic features set in cold conviction."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Rupert) (Authoritative)",
+          "start": "00:12.80",
+          "end": "00:14.80",
+          "start_seconds": 12.8,
+          "end_seconds": 14.8,
+          "content": "\"The transfer of Ashbridge.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.00",
+          "end": "00:18.80",
+          "start_seconds": 15.0,
+          "end_seconds": 18.8,
+          "content": "Medium close-up of Catherine picking up one of the invitations, turning it over in her gloved hands with predatory delight."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Gloating)",
+          "start": "00:15.60",
+          "end": "00:18.80",
+          "start_seconds": 15.6,
+          "end_seconds": 18.8,
+          "content": "\"After the ceremony, no one will question who owns this house.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.80",
+          "end": "00:23.20",
+          "start_seconds": 18.8,
+          "end_seconds": 23.2,
+          "content": "Intense close-up of Rupert leaning in slightly, his eyes narrowing with venomous malice."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Rupert) (Sinister, Ruthless)",
+          "start": "00:19.00",
+          "end": "00:23.00",
+          "start_seconds": 19.0,
+          "end_seconds": 23.0,
+          "content": "\"And no one will question what happened to the woman who tried to stop us.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.20",
+          "end": "00:26.50",
+          "start_seconds": 23.2,
+          "end_seconds": 26.5,
+          "content": "Tight close-up of Catherine as a cruel sneer twists her lips."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Venomous Satisfaction)",
+          "start": "00:23.80",
+          "end": "00:26.40",
+          "start_seconds": 23.8,
+          "end_seconds": 26.4,
+          "content": "\"Juliana's execution comes after the wedding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.50",
+          "end": "00:30.00",
+          "start_seconds": 26.5,
+          "end_seconds": 30.0,
+          "content": "Wide shot framing the two conspirators beneath the towering archways of the estate."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Gleeful)",
+          "start": "00:26.60",
+          "end": "00:29.80",
+          "start_seconds": 26.6,
+          "end_seconds": 29.8,
+          "content": "\"Perfect timing. It will be a feast for our guests.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.00",
+          "end": "00:32.50",
+          "start_seconds": 30.0,
+          "end_seconds": 32.5,
+          "content": "Medium close-up of Rupert turning his gaze toward the grand entrance."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Rupert) (Decisive)",
+          "start": "00:30.20",
+          "end": "00:32.20",
+          "start_seconds": 30.2,
+          "end_seconds": 32.2,
+          "content": "\"Send the invitations.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.50",
+          "end": "00:34.50",
+          "start_seconds": 32.5,
+          "end_seconds": 34.5,
+          "content": "Close-up of Catherine looking sideways with narrowed eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Spiteful)",
+          "start": "00:32.80",
+          "end": "00:34.50",
+          "start_seconds": 32.8,
+          "end_seconds": 34.5,
+          "content": "\"Especially to the Ashcrofts.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. NOBLE MANOR - PARLOR – DAY",
+      "start": "00:34.50",
+      "end": "01:28.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.50",
+          "end": "00:37.00",
+          "start_seconds": 34.5,
+          "end_seconds": 37.0,
+          "content": "Wide tracking shot down a palatial marble hall as a butler carries a silver tray toward double doors."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.00",
+          "end": "00:39.80",
+          "start_seconds": 37.0,
+          "end_seconds": 39.8,
+          "content": "Medium shot inside an opulent drawing room with a roaring fireplace. Lady Clarissa sits gracefully in an emerald satin gown as the butler presents the tray."
+        },
+        {
+          "type": "dialogue",
+          "label": "BUTLER (Formal)",
+          "start": "00:37.00",
+          "end": "00:39.80",
+          "start_seconds": 37.0,
+          "end_seconds": 39.8,
+          "content": "\"Lady Clarissa, an invitation from Ashbridge Manor.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:39.50",
+          "end": "00:44.00",
+          "start_seconds": 39.5,
+          "end_seconds": 44.0,
+          "content": "Clarissa takes the cream envelope, breaks the red wax seal with her gloved thumbs, and slides out the heavy card."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.00",
+          "end": "00:46.80",
+          "start_seconds": 44.0,
+          "end_seconds": 46.8,
+          "content": "Close-up of Clarissa's face lighting up with malicious excitement, the warm hearth flickering in the background."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Amused, Thrilled)",
+          "start": "00:44.50",
+          "end": "00:46.50",
+          "start_seconds": 44.5,
+          "end_seconds": 46.5,
+          "content": "\"Catherine's wedding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.80",
+          "end": "00:49.50",
+          "start_seconds": 46.8,
+          "end_seconds": 49.5,
+          "content": "Medium two-shot as her dark-haired husband steps up behind her chair, crossing his arms."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Observant)",
+          "start": "00:47.00",
+          "end": "00:49.20",
+          "start_seconds": 47.0,
+          "end_seconds": 49.2,
+          "content": "\"So it is finally official.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.50",
+          "end": "00:53.00",
+          "start_seconds": 49.5,
+          "end_seconds": 53.0,
+          "content": "Close-up of Clarissa smiling down at the calligraphy."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Mockingly Reverent)",
+          "start": "00:50.00",
+          "end": "00:52.80",
+          "start_seconds": 50.0,
+          "end_seconds": 52.8,
+          "content": "\"Lady Catherine Ashbridge.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.00",
+          "end": "00:56.00",
+          "start_seconds": 53.0,
+          "end_seconds": 56.0,
+          "content": "Medium shot as Clarissa unfolds the second page attached to the invitation, her expression shifting to intrigue."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Intrigued)",
+          "start": "00:54.00",
+          "end": "00:56.20",
+          "start_seconds": 54.0,
+          "end_seconds": 56.2,
+          "content": "\"And after the ceremony...\""
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Curious)",
+          "start": "00:56.20",
+          "end": "00:57.20",
+          "start_seconds": 56.2,
+          "end_seconds": 57.2,
+          "content": "\"What?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:56.80",
+          "end": "00:58.50",
+          "start_seconds": 56.8,
+          "end_seconds": 58.5,
+          "content": "Clarissa hands the letter upward to him. He takes it and looks down at the bold heading."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.50",
+          "end": "01:02.00",
+          "start_seconds": 58.5,
+          "end_seconds": 62.0,
+          "content": "Close-up of the nobleman reading, his eyes widening in shock before breaking into a grin."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Reading in Awe)",
+          "start": "00:58.80",
+          "end": "01:01.80",
+          "start_seconds": 58.8,
+          "end_seconds": 61.8,
+          "content": "\"The sentencing of the condemned.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.00",
+          "end": "01:05.50",
+          "start_seconds": 62.0,
+          "end_seconds": 65.5,
+          "content": "Close-up of Clarissa turning back to the fire, laughing softly with dark delight."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Gloating, Mocking)",
+          "start": "01:02.80",
+          "end": "01:05.50",
+          "start_seconds": 62.8,
+          "end_seconds": 65.5,
+          "content": "\"They want the families to witness it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:05.50",
+          "end": "01:09.00",
+          "start_seconds": 65.5,
+          "end_seconds": 69.0,
+          "content": "Medium shot of the nobleman holding the invitation, chuckling at the audacity."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Fascinated)",
+          "start": "01:06.50",
+          "end": "01:08.80",
+          "start_seconds": 66.5,
+          "end_seconds": 68.8,
+          "content": "\"A public execution after a wedding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.00",
+          "end": "01:12.50",
+          "start_seconds": 69.0,
+          "end_seconds": 72.5,
+          "content": "Medium profile shot of Clarissa gazing back at him over her shoulder."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Chilling, Sharp)",
+          "start": "01:09.50",
+          "end": "01:12.20",
+          "start_seconds": 69.5,
+          "end_seconds": 72.2,
+          "content": "\"Not just an execution. A warning.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.50",
+          "end": "01:15.50",
+          "start_seconds": 72.5,
+          "end_seconds": 75.5,
+          "content": "Close-up of the nobleman's stern face, leaning down."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Curious)",
+          "start": "01:13.00",
+          "end": "01:14.20",
+          "start_seconds": 73.0,
+          "end_seconds": 74.2,
+          "content": "\"To whom?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:15.50",
+          "end": "01:22.50",
+          "start_seconds": 75.5,
+          "end_seconds": 82.5,
+          "content": "Close-up on Clarissa taking the letter back into her gloved fingers, her eyes gleaming with aristocratic cruelty."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Contemptuous, Scornful)",
+          "start": "01:17.00",
+          "end": "01:21.80",
+          "start_seconds": 77.0,
+          "end_seconds": 81.8,
+          "content": "\"To every woman who thinks she can rise above the place she was given.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:22.50",
+          "end": "01:28.00",
+          "start_seconds": 82.5,
+          "end_seconds": 88.0,
+          "content": "Wide shot of the parlor as Clarissa tosses the invitation dismissively onto the side table and looks directly toward the viewer."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Smug Triumph)",
+          "start": "01:23.00",
+          "end": "01:27.50",
+          "start_seconds": 83.0,
+          "end_seconds": 87.5,
+          "content": "\"Juliana's ruin will be a lesson. And we will be there to watch.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. ASHBRIDGE DUNGEON – CONTINUOUS",
+      "start": "01:28.00",
+      "end": "01:56.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.00",
+          "end": "01:32.00",
+          "start_seconds": 88.0,
+          "end_seconds": 92.0,
+          "content": "Wide, dim shot of the subterranean stone dungeon. Juliana sits slumped against a weeping stone wall on the wet floor, dressed in a tattered prison smock, illuminated only by faint overhead moonlight piercing a ceiling grate."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:28.50",
+          "end": "01:32.00",
+          "start_seconds": 88.5,
+          "end_seconds": 92.0,
+          "content": "Rhythmic water drips splashing onto stagnant dungeon puddles and a low, mournful ambient drone."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:32.00",
+          "end": "01:35.50",
+          "start_seconds": 92.0,
+          "end_seconds": 95.5,
+          "content": "Close-up on Juliana's bruised hand, locked in a heavy iron shackle chained to the wall, trembling as she hesitates inches away from a dirty earthen bowl filled with murky liquid."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:33.50",
+          "end": "01:35.50",
+          "start_seconds": 93.5,
+          "end_seconds": 95.5,
+          "content": "Juliana curls her fingers back, pulling away from the foul sustenance in defiance."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:35.50",
+          "end": "01:40.50",
+          "start_seconds": 95.5,
+          "end_seconds": 100.5,
+          "content": "Tight close-up of Juliana's dirty, tear-stained face. Her eyes squeeze shut as tears stream down her cheeks from overwhelming physical agony and hunger."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Weak, Whispering through Tears)",
+          "start": "01:36.00",
+          "end": "01:39.50",
+          "start_seconds": 96.0,
+          "end_seconds": 99.5,
+          "content": "\"They think hunger will make me surrender.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:40.50",
+          "end": "01:43.50",
+          "start_seconds": 100.5,
+          "end_seconds": 103.5,
+          "content": "Extreme close-up of Juliana's blue eyes snapping open, blazing with unyielding defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fierce Resolve)",
+          "start": "01:40.80",
+          "end": "01:43.20",
+          "start_seconds": 100.8,
+          "end_seconds": 103.2,
+          "content": "\"They think fear will make me beg.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.50",
+          "end": "01:48.50",
+          "start_seconds": 103.5,
+          "end_seconds": 108.5,
+          "content": "Full shot of Juliana using her bare hands against the slimy stone floor to drag herself upright to her knees, chains rattling loudly."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:44.00",
+          "end": "01:47.00",
+          "start_seconds": 104.0,
+          "end_seconds": 107.0,
+          "content": "The harsh scrape and clatter of heavy iron chains dragging across wet stone."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Straining, Defiant Gasps)",
+          "start": "01:45.50",
+          "end": "01:47.80",
+          "start_seconds": 105.5,
+          "end_seconds": 107.8,
+          "content": "\"I will not!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:48.50",
+          "end": "01:53.50",
+          "start_seconds": 108.5,
+          "end_seconds": 113.5,
+          "content": "Low-angle shot looking up at Juliana as she thrusts her chin high toward the iron ceiling grate, bathed in cold shafts of light."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Passionate Defiance)",
+          "start": "01:49.00",
+          "end": "01:52.50",
+          "start_seconds": 109.0,
+          "end_seconds": 112.5,
+          "content": "\"They can take my name. They can take my home.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.50",
+          "end": "01:56.50",
+          "start_seconds": 113.5,
+          "end_seconds": 116.5,
+          "content": "Tight close-up of Juliana's iron-shackled hand reaching out and gripping the massive iron ring anchored into the dungeon pillar with crushing determination."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Indomitable Spirit)",
+          "start": "01:53.60",
+          "end": "01:56.20",
+          "start_seconds": 113.6,
+          "end_seconds": 116.2,
+          "content": "\"They cannot take who I am!\""
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "INT. NOBLE MANOR - PARLOR – NIGHT",
+      "start": "01:56.50",
+      "end": "02:36.47",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:56.50",
+          "end": "02:00.00",
+          "start_seconds": 116.5,
+          "end_seconds": 120.0,
+          "content": "Medium two-shot in the dimly lit parlor, illuminated by the warm glow of the fireplace. Clarissa now wears a deep blue velvet gown, reclining in an armchair beside the nobleman."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Quietly Skeptical)",
+          "start": "01:57.20",
+          "end": "01:59.80",
+          "start_seconds": 117.2,
+          "end_seconds": 119.8,
+          "content": "\"Do you think she'll actually be executed?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:00.00",
+          "end": "02:04.50",
+          "start_seconds": 120.0,
+          "end_seconds": 124.5,
+          "content": "Close-up of Clarissa giving a slight, dismissive scoff before turning to him with cold certainty."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Dismissive, Certain)",
+          "start": "02:00.50",
+          "end": "02:04.20",
+          "start_seconds": 120.5,
+          "end_seconds": 124.2,
+          "content": "\"After what she has been accused of? Of course.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:04.50",
+          "end": "02:07.00",
+          "start_seconds": 124.5,
+          "end_seconds": 127.0,
+          "content": "Medium close-up of the nobleman looking down pensively at the open execution clause on the table."
+        },
+        {
+          "type": "dialogue",
+          "label": "NOBLEMAN (Musing)",
+          "start": "02:04.80",
+          "end": "02:06.50",
+          "start_seconds": 124.8,
+          "end_seconds": 126.5,
+          "content": "\"She was always stubborn.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:07.00",
+          "end": "02:12.50",
+          "start_seconds": 127.0,
+          "end_seconds": 132.5,
+          "content": "Close-up on Clarissa's face hardening with bitter resentment."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Bitter, Cold)",
+          "start": "02:07.50",
+          "end": "02:12.00",
+          "start_seconds": 127.5,
+          "end_seconds": 132.0,
+          "content": "\"That was her greatest mistake. She could have accepted what happened. She could have disappeared quietly.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:12.50",
+          "end": "02:16.00",
+          "start_seconds": 132.5,
+          "end_seconds": 136.0,
+          "content": "Clarissa rises from her armchair holding a cut crystal glass filled with dark red wine, pacing toward the fireplace."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:12.50",
+          "end": "02:21.50",
+          "start_seconds": 132.5,
+          "end_seconds": 141.5,
+          "content": "Medium tracking shot showing Clarissa standing tall beside her husband, her posture regal and vindictive."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Venomous Monologue)",
+          "start": "02:14.00",
+          "end": "02:21.00",
+          "start_seconds": 134.0,
+          "end_seconds": 141.0,
+          "content": "\"Instead she married a nobody, played healer to peasants, challenged people above her. And now the whole county will watch her pay for it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:21.50",
+          "end": "02:27.50",
+          "start_seconds": 141.5,
+          "end_seconds": 147.5,
+          "content": "Tight close-up on Clarissa's face glowing in the firelight. Her lips curl into a merciless smile as she lifts the crystal glass to her mouth and drinks."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CLARISSA (Chilling Proclamation)",
+          "start": "02:22.50",
+          "end": "02:26.50",
+          "start_seconds": 142.5,
+          "end_seconds": 146.5,
+          "content": "\"Let them see what happens when a woman forgets her place.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:25.50",
+          "end": "02:28.00",
+          "start_seconds": 145.5,
+          "end_seconds": 148.0,
+          "content": "Clarissa takes a slow sip of the red wine, her eyes gleaming with dark relish."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:27.50",
+          "end": "02:36.47",
+          "start_seconds": 147.5,
+          "end_seconds": 156.47,
+          "content": "Slow push-in on the dark polished tabletop where the open invitation lies beside the wax seal. The bold Gothic lettering \"EXECUTION CLAUSE\" sits beneath the gold crest, while the fire dances reflected on the mahogany."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "02:28.00",
+          "end": "02:36.47",
+          "start_seconds": 148.0,
+          "end_seconds": 156.47,
+          "content": "A deep, ominous cello rumble builds alongside the crackle of the fireplace into an unresolved, tension-filled cliffhanger sting before fading out."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-037-Episode 1681370.txt",
+  "source_sha256": "a76d8261a5e8423038f50c4f78f9dfd15fe90fbbc900e06f579de5e943163e2e",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

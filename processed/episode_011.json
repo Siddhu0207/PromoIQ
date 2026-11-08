@@ -1,0 +1,795 @@
+{
+  "episode_number": "Episode 11",
+  "logline": "Gerald and Clarissa arrive at the cottage with an armed constable accusing Alexander of grand theft, culminating in a devastating planted discovery that threatens to tear the newlyweds apart.",
+  "continuity_notes": "Picks up immediately after the intimate moment between Juliana and Alexander in Episode 10, interrupted by the ominous arrival of an aristocratic carriage carrying Gerald.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "EXT. COTTAGE GROUNDS – DAY",
+      "start": "00:00.00",
+      "end": "00:54.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.00",
+          "start_seconds": 0.0,
+          "end_seconds": 2.0,
+          "content": "Low-angle tracking shot of heavy carriage wheels churning violently through the muddy, waterlogged track."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:00.00",
+          "end": "00:02.00",
+          "start_seconds": 0.0,
+          "end_seconds": 2.0,
+          "content": "Squelch of mud and the grinding rattle of carriage wheels under heavy rain."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.00",
+          "end": "00:04.00",
+          "start_seconds": 2.0,
+          "end_seconds": 4.0,
+          "content": "Medium two-shot of Juliana and Alexander standing outside the rustic stone cottage, watching the incoming carriage with tense apprehension."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:02.00",
+          "end": "00:04.00",
+          "start_seconds": 2.0,
+          "end_seconds": 4.0,
+          "content": "Juliana wrings a damp rag in her hands, her face etched with rising dread, while Alexander stands guard beside her."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.00",
+          "end": "00:06.50",
+          "start_seconds": 4.0,
+          "end_seconds": 6.5,
+          "content": "Tight shot tilting up as polished black boots step down directly into the muck, revealing Gerald clad in an opulent burgundy double-breasted coat."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:05.50",
+          "end": "00:07.00",
+          "start_seconds": 5.5,
+          "end_seconds": 7.0,
+          "content": "Gerald buttons his coat, smug self-satisfaction radiating from his expression."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.00",
+          "end": "00:08.20",
+          "start_seconds": 7.0,
+          "end_seconds": 8.2,
+          "content": "Medium shot of a uniformed Constable descending from the carriage, firmly gripping a wooden truncheon."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.20",
+          "end": "00:10.80",
+          "start_seconds": 8.2,
+          "end_seconds": 10.8,
+          "content": "Medium tracking shot as Juliana steps defensively toward Gerald, her face full of shock and anger."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Startled, Indignant)",
+          "start": "00:08.30",
+          "end": "00:10.70",
+          "start_seconds": 8.3,
+          "end_seconds": 10.7,
+          "content": "\"Gerald? What are you doing here?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:10.80",
+          "end": "00:13.00",
+          "start_seconds": 10.8,
+          "end_seconds": 13.0,
+          "content": "Wide two-shot across the puddle-strewn ground between Gerald and Juliana against the misty landscape."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Arrogant, Smooth)",
+          "start": "00:11.10",
+          "end": "00:13.20",
+          "start_seconds": 11.1,
+          "end_seconds": 13.2,
+          "content": "\"I came for something that belongs to me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.00",
+          "end": "00:14.30",
+          "start_seconds": 13.0,
+          "end_seconds": 14.3,
+          "content": "Close-up of Clarissa peering from the carriage window in her violet silk gown, a venomous, triumphant smile curling her lips."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:14.30",
+          "end": "00:16.80",
+          "start_seconds": 14.3,
+          "end_seconds": 16.8,
+          "content": "Close-up of Juliana, her anger flaring as she gestures sharply."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Furious, Defiant)",
+          "start": "00:14.40",
+          "end": "00:16.70",
+          "start_seconds": 14.4,
+          "end_seconds": 16.7,
+          "content": "\"You have already taken enough from me. Leave!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.80",
+          "end": "00:18.50",
+          "start_seconds": 16.8,
+          "end_seconds": 18.5,
+          "content": "Medium close-up of Gerald pointing an accusatory finger, his composure snapping into hostile anger."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Aggressive, Snarl)",
+          "start": "00:16.80",
+          "end": "00:18.70",
+          "start_seconds": 16.8,
+          "end_seconds": 18.7,
+          "content": "\"Your husband stole my gold pocket watch!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.50",
+          "end": "00:20.00",
+          "start_seconds": 18.5,
+          "end_seconds": 20.0,
+          "content": "Close-up of Juliana recoiling in utter disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Incredulous, Gasping)",
+          "start": "00:19.00",
+          "end": "00:20.00",
+          "start_seconds": 19.0,
+          "end_seconds": 20.0,
+          "content": "\"What? When?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.00",
+          "end": "00:22.00",
+          "start_seconds": 20.0,
+          "end_seconds": 22.0,
+          "content": "Close-up of Gerald narrowing his eyes vindictively."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Cold, Certain)",
+          "start": "00:20.90",
+          "end": "00:22.30",
+          "start_seconds": 20.9,
+          "end_seconds": 22.3,
+          "content": "\"The last time I came here.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:22.00",
+          "end": "00:24.60",
+          "start_seconds": 22.0,
+          "end_seconds": 24.6,
+          "content": "Medium shot of Juliana scoffing, stepping forward as Alexander stands motionless behind her."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Contemptuous, Outraged)",
+          "start": "00:23.00",
+          "end": "00:24.80",
+          "start_seconds": 23.0,
+          "end_seconds": 24.8,
+          "content": "\"You never even entered the cottage!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:24.60",
+          "end": "00:26.90",
+          "start_seconds": 24.6,
+          "end_seconds": 26.9,
+          "content": "Close-up of Gerald smirking with condescending amusement."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Smug, Threatening)",
+          "start": "00:25.20",
+          "end": "00:27.00",
+          "start_seconds": 25.2,
+          "end_seconds": 27.0,
+          "content": "\"Then you should have nothing to fear from a search.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.90",
+          "end": "00:28.90",
+          "start_seconds": 26.9,
+          "end_seconds": 28.9,
+          "content": "Three-shot of Alexander, Juliana, and Gerald in the bleak drizzle."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Adamant, Protective)",
+          "start": "00:27.30",
+          "end": "00:29.00",
+          "start_seconds": 27.3,
+          "end_seconds": 29.0,
+          "content": "\"Alexander would never steal from you.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.90",
+          "end": "00:32.40",
+          "start_seconds": 28.9,
+          "end_seconds": 32.4,
+          "content": "Low-angle shot of Gerald throwing his head back in arrogant, mocking laughter."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Mocking, Spiteful)",
+          "start": "00:29.30",
+          "end": "00:32.80",
+          "start_seconds": 29.3,
+          "end_seconds": 32.8,
+          "content": "\"Of course you would defend him. You married a beggar!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.40",
+          "end": "00:34.90",
+          "start_seconds": 32.4,
+          "end_seconds": 34.9,
+          "content": "Medium close-up of Alexander stepping past Juliana, his gaze murderous and jaw rigid."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Low, Menacing)",
+          "start": "00:33.00",
+          "end": "00:34.90",
+          "start_seconds": 33.0,
+          "end_seconds": 34.9,
+          "content": "\"Choose your next words carefully.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.90",
+          "end": "00:37.00",
+          "start_seconds": 34.9,
+          "end_seconds": 37.0,
+          "content": "Medium shot of Gerald pointing back toward the approaching Constable, feigning alarm."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Shouting, Dramatic)",
+          "start": "00:35.10",
+          "end": "00:37.10",
+          "start_seconds": 35.1,
+          "end_seconds": 37.1,
+          "content": "\"You hear that? He threatens me again!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.00",
+          "end": "00:39.10",
+          "start_seconds": 37.0,
+          "end_seconds": 39.1,
+          "content": "Medium shot of the Constable marching into frame between them, holding his truncheon horizontally."
+        },
+        {
+          "type": "dialogue",
+          "label": "CONSTABLE (Authoritative, Stern)",
+          "start": "00:37.40",
+          "end": "00:39.20",
+          "start_seconds": 37.4,
+          "end_seconds": 39.2,
+          "content": "\"I have received a complaint of theft.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.10",
+          "end": "00:41.00",
+          "start_seconds": 39.1,
+          "end_seconds": 41.0,
+          "content": "Extreme close-up of Juliana, defiant and resolute."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fierce)",
+          "start": "00:39.70",
+          "end": "00:41.10",
+          "start_seconds": 39.7,
+          "end_seconds": 41.1,
+          "content": "\"A complaint is not proof.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.00",
+          "end": "00:43.30",
+          "start_seconds": 41.0,
+          "end_seconds": 43.3,
+          "content": "Close-up of the Constable gesturing with his truncheon toward the cottage door."
+        },
+        {
+          "type": "dialogue",
+          "label": "CONSTABLE (Cold, Procedural)",
+          "start": "00:41.40",
+          "end": "00:43.30",
+          "start_seconds": 41.4,
+          "end_seconds": 43.3,
+          "content": "\"Then a search will settle the matter.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.30",
+          "end": "00:46.00",
+          "start_seconds": 43.3,
+          "end_seconds": 46.0,
+          "content": "Medium shot of Juliana backing up to the doorway, spreading her arms wide to block the entrance."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Shouting)",
+          "start": "00:43.50",
+          "end": "00:46.30",
+          "start_seconds": 43.5,
+          "end_seconds": 46.3,
+          "content": "\"You cannot simply invade our home because this man makes an accusation!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.00",
+          "end": "00:47.80",
+          "start_seconds": 46.0,
+          "end_seconds": 47.8,
+          "content": "Medium close-up of Gerald crossing his arms smugly."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Taunting)",
+          "start": "00:46.80",
+          "end": "00:48.30",
+          "start_seconds": 46.8,
+          "end_seconds": 48.3,
+          "content": "\"If he has nothing to hide...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:47.80",
+          "end": "00:50.80",
+          "start_seconds": 47.8,
+          "end_seconds": 50.8,
+          "content": "Extreme close-up push-in on Alexander's scarred face, his eyes smoldering with lethal restraint."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (O.S.) (Smug)",
+          "start": "00:48.40",
+          "end": "00:50.00",
+          "start_seconds": 48.4,
+          "end_seconds": 50.0,
+          "content": "\"...let the constable search.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Dark, Grated)",
+          "start": "00:50.10",
+          "end": "00:51.00",
+          "start_seconds": 50.1,
+          "end_seconds": 51.0,
+          "content": "\"Search it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:50.80",
+          "end": "00:53.60",
+          "start_seconds": 50.8,
+          "end_seconds": 53.6,
+          "content": "Medium two-shot of Juliana looking up at Alexander in panicked confusion."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Resigned, Calm)",
+          "start": "00:52.80",
+          "end": "00:53.60",
+          "start_seconds": 52.8,
+          "end_seconds": 53.6,
+          "content": "\"Let them.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. COTTAGE – CONTINUOUS",
+      "start": "00:54.00",
+      "end": "01:52.75",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:54.00",
+          "end": "00:56.00",
+          "start_seconds": 54.0,
+          "end_seconds": 56.0,
+          "content": "Medium shot looking out the doorway as Juliana steps aside and the Constable barges past into the dimly lit cottage."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:54.50",
+          "end": "00:56.50",
+          "start_seconds": 54.5,
+          "end_seconds": 56.5,
+          "content": "Heavy thud of boots entering wooden floorboards, followed by forceful banging of furniture."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:56.00",
+          "end": "00:58.00",
+          "start_seconds": 56.0,
+          "end_seconds": 58.0,
+          "content": "The Constable begins violently overturning crates and dumping contents across the floor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.00",
+          "end": "01:00.00",
+          "start_seconds": 58.0,
+          "end_seconds": 60.0,
+          "content": "Medium low-angle shot of Juliana dropping to her knees, frantically trying to salvage bundles of dried herbs scattering across the boards."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Distressed, Pleading)",
+          "start": "00:58.00",
+          "end": "01:00.10",
+          "start_seconds": 58.0,
+          "end_seconds": 60.1,
+          "content": "\"Stop! Those are my mother's medicines!\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:00.00",
+          "end": "01:01.80",
+          "start_seconds": 60.0,
+          "end_seconds": 61.8,
+          "content": "The Constable aggressively pulls folded bed linens from a shelf and hurls them onto the damp floor."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:01.80",
+          "end": "01:03.50",
+          "start_seconds": 61.8,
+          "end_seconds": 63.5,
+          "content": "Low-angle close-up of Juliana crawling on the floor, looking up with tears streaming down her cheeks."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Crying, Desperate)",
+          "start": "01:01.80",
+          "end": "01:03.80",
+          "start_seconds": 61.8,
+          "end_seconds": 63.8,
+          "content": "\"Please! There is nothing here!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.50",
+          "end": "01:05.50",
+          "start_seconds": 63.5,
+          "end_seconds": 65.5,
+          "content": "Close-up of the Constable's hands flipping open a small wooden keepsake box on a work table."
+        },
+        {
+          "type": "dialogue",
+          "label": "CONSTABLE (Cold, Indifferent)",
+          "start": "01:03.90",
+          "end": "01:05.70",
+          "start_seconds": 63.9,
+          "end_seconds": 65.7,
+          "content": "\"Then you have nothing to fear.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:05.50",
+          "end": "01:07.40",
+          "start_seconds": 65.5,
+          "end_seconds": 67.4,
+          "content": "Low-angle close-up of Juliana clutching the fallen linens to her chest, her voice breaking."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Heartbroken, Sobbing)",
+          "start": "01:06.00",
+          "end": "01:07.50",
+          "start_seconds": 66.0,
+          "end_seconds": 67.5,
+          "content": "\"Those are all I have left!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.40",
+          "end": "01:11.50",
+          "start_seconds": 67.4,
+          "end_seconds": 71.5,
+          "content": "Medium shot of Gerald leaning casually against the cottage doorframe, looking around with contemptuous disgust."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Cruel, Condescending)",
+          "start": "01:07.50",
+          "end": "01:11.60",
+          "start_seconds": 67.5,
+          "end_seconds": 71.6,
+          "content": "\"Stand aside. Look at this place. A perfect hiding hole for a thief.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.50",
+          "end": "01:14.80",
+          "start_seconds": 71.5,
+          "end_seconds": 74.8,
+          "content": "Medium shot of Juliana rising to her feet, clutching the folded cloth, her face contorting with rage."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Furious, Accusatory)",
+          "start": "01:12.10",
+          "end": "01:15.00",
+          "start_seconds": 72.1,
+          "end_seconds": 75.0,
+          "content": "\"You planted this accusation because you cannot bear that I am happy without you!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.80",
+          "end": "01:16.80",
+          "start_seconds": 74.8,
+          "end_seconds": 76.8,
+          "content": "Tight close-up of Gerald's face chilling into a cold sneer."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Scoffing, Sinister)",
+          "start": "01:15.50",
+          "end": "01:16.80",
+          "start_seconds": 75.5,
+          "end_seconds": 76.8,
+          "content": "\"Happy?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.80",
+          "end": "01:19.50",
+          "start_seconds": 76.8,
+          "end_seconds": 79.5,
+          "content": "Medium shot of Alexander standing in the cottage shadows, eyes locked onto Gerald."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:19.50",
+          "end": "01:21.30",
+          "start_seconds": 79.5,
+          "end_seconds": 81.3,
+          "content": "Extreme close-up of Alexander's right hand slowly tightening into a white-knuckled fist."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.30",
+          "end": "01:24.00",
+          "start_seconds": 81.3,
+          "end_seconds": 84.0,
+          "content": "Low-angle close-up of Gerald tilting his chin up, daringly baiting Alexander."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Provoking, Smirking)",
+          "start": "01:21.30",
+          "end": "01:24.00",
+          "start_seconds": 81.3,
+          "end_seconds": 84.0,
+          "content": "\"What is it, soldier? Going to strike a gentleman in front of his wife?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Whispering, Terrified)",
+          "start": "01:24.20",
+          "end": "01:25.00",
+          "start_seconds": 84.2,
+          "end_seconds": 85.0,
+          "content": "\"Don't!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:25.00",
+          "end": "01:26.50",
+          "start_seconds": 85.0,
+          "end_seconds": 86.5,
+          "content": "Close-up of Juliana clutching her dress collar in acute panic."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (V.O.) (Haunted, Resolute)",
+          "start": "01:26.00",
+          "end": "01:27.50",
+          "start_seconds": 86.0,
+          "end_seconds": 87.5,
+          "content": "\"One blow would end this.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:29.80",
+          "start_seconds": 86.5,
+          "end_seconds": 89.8,
+          "content": "Medium shot of the Constable stepping up behind Alexander, holding his truncheon firmly across Alexander's chest to restrain him, cutting to a tight close-up of Alexander's smoldering eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (V.O.) (Pained, Selfless)",
+          "start": "01:28.00",
+          "end": "01:30.00",
+          "start_seconds": 88.0,
+          "end_seconds": 90.0,
+          "content": "\"But one blow would destroy her life.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:29.80",
+          "end": "01:32.00",
+          "start_seconds": 89.8,
+          "end_seconds": 92.0,
+          "content": "Medium shot of the Constable turning to Alexander's heavy trench coat hanging on an iron wall hook by the fireplace."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:31.00",
+          "end": "01:32.20",
+          "start_seconds": 91.0,
+          "end_seconds": 92.2,
+          "content": "The Constable grabs the coat by the collar and begins rummaging through its deep pockets."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Startled, Shouting)",
+          "start": "01:32.10",
+          "end": "01:33.20",
+          "start_seconds": 92.1,
+          "end_seconds": 93.2,
+          "content": "\"That is his coat!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.20",
+          "end": "01:36.80",
+          "start_seconds": 93.2,
+          "end_seconds": 96.8,
+          "content": "Close-up of the Constable's hand sliding deep inside the inner coat lining and withdrawing a gleaming gold pocket watch with an attached chain."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:35.80",
+          "end": "01:37.00",
+          "start_seconds": 95.8,
+          "end_seconds": 97.0,
+          "content": "Metallic clinking of the gold chain sliding against fabric."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.80",
+          "end": "01:39.20",
+          "start_seconds": 96.8,
+          "end_seconds": 99.2,
+          "content": "Extreme close-up of Juliana gasping in sheer horror, her eyes welling with shock and shattered disbelief."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:37.20",
+          "end": "01:39.00",
+          "start_seconds": 97.2,
+          "end_seconds": 99.0,
+          "content": "Juliana draws a sharp, terrified breath as her face pales completely."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.20",
+          "end": "01:42.00",
+          "start_seconds": 99.2,
+          "end_seconds": 102.0,
+          "content": "Extreme close-up of Alexander's face hardening into lethal, icy comprehension, realizing the depth of the frame-up."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:42.00",
+          "end": "01:46.80",
+          "start_seconds": 102.0,
+          "end_seconds": 106.8,
+          "content": "Medium close-up push-in on Gerald's face erupting into an ecstatic, wicked grin, bursting into triumphant laughter."
+        },
+        {
+          "type": "dialogue",
+          "label": "GERALD (Gloating, Victorious)",
+          "start": "01:44.20",
+          "end": "01:46.60",
+          "start_seconds": 104.2,
+          "end_seconds": 106.6,
+          "content": "\"There it is. Ha!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:46.80",
+          "end": "01:52.75",
+          "start_seconds": 106.8,
+          "end_seconds": 112.75,
+          "content": "Tight macro shot of the gold pocket watch dangling and swaying gently from the Constable's fingers on its long chain, with Gerald blurred in the background grinning with sinister triumph as the scene hangs in a devastating freeze-frame."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-011-Episode 1671713.txt",
+  "source_sha256": "839ae70b822b9ae862ea9b0625a372d2a03660757d6556cd2dc1251d876654de",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

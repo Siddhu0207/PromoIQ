@@ -1,0 +1,535 @@
+{
+  "episode_number": "Episode 38",
+  "logline": "A compassionate guard secretly feeds Juliana bread in the dungeon, strengthening her resolve to protect Alexander's secrets just as distant wedding bells signal the start of Rupert's nuptials and her impending execution.",
+  "continuity_notes": "Following Rupert and Catherine's cruel announcement pairing their wedding with Juliana's public execution, Juliana remains starved in the subterranean dungeon awaiting her fate.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. DUNGEON CELL – DAY",
+      "start": "00:00.00",
+      "end": "01:27.91",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.00",
+          "start_seconds": 0.0,
+          "end_seconds": 4.0,
+          "content": "Medium profile shot of Juliana slumped on the damp stone floor of her dark dungeon cell, her wrists bound in heavy iron shackles and chains draped over her lap."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.50",
+          "start_seconds": 0.0,
+          "end_seconds": 3.5,
+          "content": "Juliana sits motionless against the cold masonry, weak and visibly drained from starvation, her eyes cast downward."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:03.20",
+          "end": "00:06.00",
+          "start_seconds": 3.2,
+          "end_seconds": 6.0,
+          "content": "Echoing, heavy bootsteps approach down the corridor outside the cell."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.00",
+          "end": "00:07.50",
+          "start_seconds": 4.0,
+          "end_seconds": 7.5,
+          "content": "Tight close-up on Juliana's profile as her head turns toward the corridor, her blue eyes widening with cautious alarm."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:05.00",
+          "end": "00:07.50",
+          "start_seconds": 5.0,
+          "end_seconds": 7.5,
+          "content": "Juliana blinks, lifting her gaze toward the heavy iron bars."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.50",
+          "end": "00:11.00",
+          "start_seconds": 7.5,
+          "end_seconds": 11.0,
+          "content": "Medium shot through the cell bars as a Guard in a black collared uniform with silver buttons halts outside."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:08.50",
+          "end": "00:11.00",
+          "start_seconds": 8.5,
+          "end_seconds": 11.0,
+          "content": "The Guard pauses, glancing over his shoulder into the gloomy corridor to ensure he is unobserved."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.00",
+          "end": "00:15.50",
+          "start_seconds": 11.0,
+          "end_seconds": 15.5,
+          "content": "Low-angle shot focusing on the wet flagstones at the base of the cell door."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:11.00",
+          "end": "00:15.50",
+          "start_seconds": 11.0,
+          "end_seconds": 15.5,
+          "content": "The Guard kneels down and slips a small loaf of rustic bread through the bottom gap between the iron bars, nudging it inside before withdrawing his gloved hand."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:15.50",
+          "end": "00:17.50",
+          "start_seconds": 15.5,
+          "end_seconds": 17.5,
+          "content": "Low-angle close-up of Juliana crawling forward across the stone floor toward the bread, her gaze fixed on the offering in disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Breathless, Bewildered)",
+          "start": "00:16.00",
+          "end": "00:17.30",
+          "start_seconds": 16.0,
+          "end_seconds": 17.3,
+          "content": "\"Why?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.50",
+          "end": "00:21.50",
+          "start_seconds": 17.5,
+          "end_seconds": 21.5,
+          "content": "Medium close-up of the Guard looking through the vertical bars with quiet compassion."
+        },
+        {
+          "type": "dialogue",
+          "label": "GUARD (Subdued, Sincere)",
+          "start": "00:17.50",
+          "end": "00:20.30",
+          "start_seconds": 17.5,
+          "end_seconds": 20.3,
+          "content": "\"Because no one should die hungry.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "GUARD (Urgent, Whispered)",
+          "start": "00:20.50",
+          "end": "00:22.00",
+          "start_seconds": 20.5,
+          "end_seconds": 22.0,
+          "content": "\"Eat it before they see.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.50",
+          "end": "00:23.20",
+          "start_seconds": 21.5,
+          "end_seconds": 23.2,
+          "content": "Over-the-shoulder shot through the cell bars as the Guard turns and walks swiftly away into the dark corridor."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:21.80",
+          "end": "00:23.20",
+          "start_seconds": 21.8,
+          "end_seconds": 23.2,
+          "content": "The Guard's silhouette retreats into the shadows."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.20",
+          "end": "00:30.50",
+          "start_seconds": 23.2,
+          "end_seconds": 30.5,
+          "content": "Tight shot following Juliana's trembling, shackle-bound hands as she reaches out and drags the loaf toward her chest."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:23.50",
+          "end": "00:27.50",
+          "start_seconds": 23.5,
+          "end_seconds": 27.5,
+          "content": "Juliana clutches the bread tightly with both hands, tears welling in her eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Choked Up, Tearful)",
+          "start": "00:26.00",
+          "end": "00:27.50",
+          "start_seconds": 26.0,
+          "end_seconds": 27.5,
+          "content": "\"Thank you.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:27.80",
+          "end": "00:31.00",
+          "start_seconds": 27.8,
+          "end_seconds": 31.0,
+          "content": "Starving and overcome with emotion, Juliana presses the bread to her lips and tears off a desperate, ravenous bite."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:30.50",
+          "end": "00:35.00",
+          "start_seconds": 30.5,
+          "end_seconds": 35.0,
+          "content": "Close-up profile of Juliana chewing the bread, tears rolling down her soot-streaked cheek."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:31.00",
+          "end": "00:34.50",
+          "start_seconds": 31.0,
+          "end_seconds": 34.5,
+          "content": "Juliana chews hungrily, closing her eyes as the agonizing reality of her plight hits her anew."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Sorrowful, Whispering)",
+          "start": "00:34.50",
+          "end": "00:36.50",
+          "start_seconds": 34.5,
+          "end_seconds": 36.5,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.00",
+          "end": "00:39.50",
+          "start_seconds": 35.0,
+          "end_seconds": 39.5,
+          "content": "Low-angle wide shot of Juliana seated against the damp stone wall beneath high overhead iron ceiling grates, clutching the half-eaten bread in her lap."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Yearning)",
+          "start": "00:36.80",
+          "end": "00:39.00",
+          "start_seconds": 36.8,
+          "end_seconds": 39.0,
+          "content": "\"...are you safe?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:39.50",
+          "end": "00:45.50",
+          "start_seconds": 39.5,
+          "end_seconds": 45.5,
+          "content": "Intimate close-up of Juliana looking upward, her tear-stained face filled with raw anguish."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Trembling)",
+          "start": "00:40.00",
+          "end": "00:43.00",
+          "start_seconds": 40.0,
+          "end_seconds": 43.0,
+          "content": "\"Do you even know what happened to me?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Grief-Stricken)",
+          "start": "00:43.20",
+          "end": "00:45.20",
+          "start_seconds": 43.2,
+          "end_seconds": 45.2,
+          "content": "\"Do you know they condemned me?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:45.50",
+          "end": "00:51.00",
+          "start_seconds": 45.5,
+          "end_seconds": 51.0,
+          "content": "Tight macro shot on Juliana's chin and throat as she presses a trembling hand against her chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fearful, Pleading)",
+          "start": "00:45.50",
+          "end": "00:47.50",
+          "start_seconds": 45.5,
+          "end_seconds": 47.5,
+          "content": "\"What if I die here?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Heartbroken)",
+          "start": "00:47.80",
+          "end": "00:50.50",
+          "start_seconds": 47.8,
+          "end_seconds": 50.5,
+          "content": "\"What if I never see you again?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:48.50",
+          "end": "00:51.00",
+          "start_seconds": 48.5,
+          "end_seconds": 51.0,
+          "content": "A heavy tear drips down from her jaw, falling into the dark dampness below."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.00",
+          "end": "00:55.50",
+          "start_seconds": 51.0,
+          "end_seconds": 55.5,
+          "content": "Medium close-up profile of Juliana closing her eyes, drawing a deep breath to steady herself."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fervent Prayer)",
+          "start": "00:51.50",
+          "end": "00:53.50",
+          "start_seconds": 51.5,
+          "end_seconds": 53.5,
+          "content": "\"Keep him safe.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Resigned)",
+          "start": "00:53.80",
+          "end": "00:55.30",
+          "start_seconds": 53.8,
+          "end_seconds": 55.3,
+          "content": "\"Wherever he is.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.50",
+          "end": "01:00.50",
+          "start_seconds": 55.5,
+          "end_seconds": 60.5,
+          "content": "Frontal medium shot of Juliana kneeling upright, her right hand pressed firmly over her heart, her posture transforming into quiet dignity."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Determined)",
+          "start": "00:55.50",
+          "end": "00:57.00",
+          "start_seconds": 55.5,
+          "end_seconds": 57.0,
+          "content": "\"Let him live.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely)",
+          "start": "00:57.50",
+          "end": "01:00.50",
+          "start_seconds": 57.5,
+          "end_seconds": 60.5,
+          "content": "\"And if I have only one thing left to give...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.50",
+          "end": "01:04.00",
+          "start_seconds": 60.5,
+          "end_seconds": 64.0,
+          "content": "Tight close-up of Juliana turning toward the cell wall, her blue eyes flashing with fierce loyalty."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Unshakable)",
+          "start": "01:00.80",
+          "end": "01:02.50",
+          "start_seconds": 60.8,
+          "end_seconds": 62.5,
+          "content": "\"I will not give them my husband.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Resolute)",
+          "start": "01:02.80",
+          "end": "01:04.20",
+          "start_seconds": 62.8,
+          "end_seconds": 64.2,
+          "content": "\"I will not betray him.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.00",
+          "end": "01:07.00",
+          "start_seconds": 64.0,
+          "end_seconds": 67.0,
+          "content": "Extreme close-up of Juliana's closed eyelids as she takes a sharp, startled breath."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:04.50",
+          "end": "01:06.50",
+          "start_seconds": 64.5,
+          "end_seconds": 66.5,
+          "content": "Juliana's eyes snap wide open in sudden realization as a deep resonant toll reverberates from above."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:04.80",
+          "end": "01:27.00",
+          "start_seconds": 64.8,
+          "end_seconds": 87.0,
+          "content": "Solemn, resonant church bells begin tolling rhythmically from the cathedral above, echoing deep into the stone dungeon."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.00",
+          "end": "01:10.50",
+          "start_seconds": 67.0,
+          "end_seconds": 70.5,
+          "content": "Low-angle shot looking up past Juliana kneeling on the wet floor toward the barred iron skylight above her cell."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Startled Whisper)",
+          "start": "01:09.00",
+          "end": "01:10.30",
+          "start_seconds": 69.0,
+          "end_seconds": 70.3,
+          "content": "\"Bells.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:12.50",
+          "start_seconds": 70.5,
+          "end_seconds": 72.5,
+          "content": "Wide tracking shot as Juliana scrambles to her feet, chains clinking loudly against her skirts."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:11.00",
+          "end": "01:13.50",
+          "start_seconds": 71.0,
+          "end_seconds": 73.5,
+          "content": "Juliana rushes toward the front of the cell, clutching the iron bars with both hands."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:12.50",
+          "end": "01:18.50",
+          "start_seconds": 72.5,
+          "end_seconds": 78.5,
+          "content": "Medium profile shot of Juliana gripping the heavy iron bars, gazing down the corridor toward the source of the sound."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Realizing)",
+          "start": "01:12.80",
+          "end": "01:14.20",
+          "start_seconds": 72.8,
+          "end_seconds": 74.2,
+          "content": "\"The wedding.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Grim)",
+          "start": "01:14.50",
+          "end": "01:15.80",
+          "start_seconds": 74.5,
+          "end_seconds": 75.8,
+          "content": "\"It's beginning.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Somber, Steely)",
+          "start": "01:16.00",
+          "end": "01:18.50",
+          "start_seconds": 76.0,
+          "end_seconds": 78.5,
+          "content": "\"Then I suppose I'm next.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.50",
+          "end": "01:24.50",
+          "start_seconds": 78.5,
+          "end_seconds": 84.5,
+          "content": "Close-up between the vertical iron bars framed directly on Juliana's face. The terror in her eyes softens into an unexpected, brave smile of enduring faith."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:21.00",
+          "end": "01:24.00",
+          "start_seconds": 81.0,
+          "end_seconds": 84.0,
+          "content": "Juliana grips the bars tightly, her lips curving into a warm, defiant smile as she whispers her husband's name."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Hopeful, Tender)",
+          "start": "01:22.50",
+          "end": "01:24.00",
+          "start_seconds": 82.5,
+          "end_seconds": 84.0,
+          "content": "\"Alexander...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:24.50",
+          "end": "01:27.91",
+          "start_seconds": 84.5,
+          "end_seconds": 87.91,
+          "content": "Dramatic cut to black."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:24.50",
+          "end": "01:27.91",
+          "start_seconds": 84.5,
+          "end_seconds": 87.91,
+          "content": "A sharp, high-tension dramatic swell strikes and echoes out into silence alongside the fading toll of the distant church bells."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-038-Episode 1681371.txt",
+  "source_sha256": "03e0ee85f8752256ba57786e7857c8c7e9f49b24b40d8ae900c4a6f5a00b5926",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

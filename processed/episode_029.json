@@ -1,0 +1,704 @@
+{
+  "episode_number": "Episode 29",
+  "logline": "Thrown into the castle's subterranean wet cells as Catherine threatens to burn her mother's herbarium and frame her for witchcraft, Juliana breaks down in isolation before swearing that they will never take Alexander from her.",
+  "continuity_notes": "Follows directly from Episode 28 where Rupert ordered the guards to drag Juliana down to the wet cells while Catherine seized her mother's herbarium.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. CASTLE DUNGEON STAIRWELL – NIGHT",
+      "start": "00:00.00",
+      "end": "00:20.10",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.80",
+          "start_seconds": 0.0,
+          "end_seconds": 2.8,
+          "content": "High angle tracking shot descending a spiral stone staircase illuminated by flickering wall torches and damp, glistening masonry."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:00.00",
+          "end": "00:03.50",
+          "start_seconds": 0.0,
+          "end_seconds": 3.5,
+          "content": "Dripping water echoes hollowly against stone steps alongside the shuffling scuffle of boots."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.80",
+          "end": "00:05.10",
+          "start_seconds": 2.8,
+          "end_seconds": 5.1,
+          "content": "Tracking shot facing two stern uniform guards hauling a struggling Juliana down the dark corridor by her arms."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:02.90",
+          "end": "00:05.10",
+          "start_seconds": 2.9,
+          "end_seconds": 5.1,
+          "content": "Juliana resists furiously, her feet stumbling on the wet flagstones as the guards forcibly propel her forward."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.10",
+          "end": "00:07.40",
+          "start_seconds": 5.1,
+          "end_seconds": 7.4,
+          "content": "Medium low-angle shot of Catherine standing regally under an arched stone doorway, clutching the leather-bound herbarium."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:07.40",
+          "end": "00:11.70",
+          "start_seconds": 7.4,
+          "end_seconds": 11.7,
+          "content": "Tight close-up of Juliana's tearful face as she reaches an arm out toward Catherine in anguish."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Weeping)",
+          "start": "00:07.40",
+          "end": "00:11.70",
+          "start_seconds": 7.4,
+          "end_seconds": 11.7,
+          "content": "\"Catherine! Please! That book is my mother's only legacy!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:11.70",
+          "end": "00:13.20",
+          "start_seconds": 11.7,
+          "end_seconds": 13.2,
+          "content": "Medium shot from behind Catherine as she stands motionless, watching Juliana being dragged away."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.20",
+          "end": "00:17.30",
+          "start_seconds": 13.2,
+          "end_seconds": 17.3,
+          "content": "Close-up of Juliana turning her head back toward Catherine, screaming through tears."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Pleading, Agonized)",
+          "start": "00:13.20",
+          "end": "00:17.30",
+          "start_seconds": 13.2,
+          "end_seconds": 17.3,
+          "content": "\"It contains years of her work! Her knowledge! Everything she left me!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:17.30",
+          "end": "00:20.10",
+          "start_seconds": 17.3,
+          "end_seconds": 20.1,
+          "content": "Full shot of Catherine turning gracefully on the dungeon steps, holding the book loosely at her side."
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. DUNGEON CORRIDOR – CONTINUOUS",
+      "start": "00:20.10",
+      "end": "01:23.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.10",
+          "end": "00:26.80",
+          "start_seconds": 20.1,
+          "end_seconds": 26.8,
+          "content": "Medium close-up pushing in on Catherine as she presents the worn botanical book with both gloved hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Mocking, Condescending)",
+          "start": "00:21.00",
+          "end": "00:24.00",
+          "start_seconds": 21.0,
+          "end_seconds": 24.0,
+          "content": "\"Your mother's little book of weeds?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cruel, Smug)",
+          "start": "00:24.80",
+          "end": "00:26.70",
+          "start_seconds": 24.8,
+          "end_seconds": 26.7,
+          "content": "\"You still call this a legacy?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.80",
+          "end": "00:28.90",
+          "start_seconds": 26.8,
+          "end_seconds": 28.9,
+          "content": "Close-up of Juliana held firmly between the guards, glaring back with fierce defiance."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Defiant, Furious)",
+          "start": "00:27.10",
+          "end": "00:28.70",
+          "start_seconds": 27.1,
+          "end_seconds": 28.7,
+          "content": "\"It is medicine!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:28.90",
+          "end": "00:31.90",
+          "start_seconds": 28.9,
+          "end_seconds": 31.9,
+          "content": "Medium close-up of Catherine smiling condescendingly."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Smooth, Patronizing)",
+          "start": "00:30.40",
+          "end": "00:31.80",
+          "start_seconds": 30.4,
+          "end_seconds": 31.8,
+          "content": "\"Of course.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.90",
+          "end": "00:37.40",
+          "start_seconds": 31.9,
+          "end_seconds": 37.4,
+          "content": "Overhead close-up of Catherine's gloved fingers flipping through the herbarium's delicate, hand-drawn floral remedies and annotations."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (O.S.) (Disdainful, Calculating)",
+          "start": "00:31.90",
+          "end": "00:37.30",
+          "start_seconds": 31.9,
+          "end_seconds": 37.3,
+          "content": "\"Roots. Leaves. Powders. Strange mixtures written in a dead woman's hand.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.40",
+          "end": "00:40.00",
+          "start_seconds": 37.4,
+          "end_seconds": 40.0,
+          "content": "Medium shot of Catherine tucking the book under her arm, her eyes glinting with malicious intent."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Icy, Threatening)",
+          "start": "00:37.70",
+          "end": "00:40.00",
+          "start_seconds": 37.7,
+          "end_seconds": 40.0,
+          "content": "\"The magistrate will call it witchcraft.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:40.00",
+          "end": "00:41.90",
+          "start_seconds": 40.0,
+          "end_seconds": 41.9,
+          "content": "Close-up of Juliana lunging against the guard's grip, her teeth bared in indignation."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Furious, Shouted)",
+          "start": "00:40.10",
+          "end": "00:41.80",
+          "start_seconds": 40.1,
+          "end_seconds": 41.8,
+          "content": "\"You know that is a lie!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:41.90",
+          "end": "00:44.30",
+          "start_seconds": 41.9,
+          "end_seconds": 44.3,
+          "content": "Medium shot of Catherine lifting her chin arrogantly against the stone backdrop."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Calm, Sinister)",
+          "start": "00:42.00",
+          "end": "00:44.20",
+          "start_seconds": 42.0,
+          "end_seconds": 44.2,
+          "content": "\"I know exactly what I need him to believe.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.30",
+          "end": "00:46.90",
+          "start_seconds": 44.3,
+          "end_seconds": 46.9,
+          "content": "Medium shot of Juliana thrashing frantically against the two guards."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Screaming, Desperate)",
+          "start": "00:44.40",
+          "end": "00:46.50",
+          "start_seconds": 44.4,
+          "end_seconds": 46.5,
+          "content": "\"You cannot just destroy it!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.90",
+          "end": "00:49.80",
+          "start_seconds": 46.9,
+          "end_seconds": 49.8,
+          "content": "Tight close-up of Catherine's eyes narrowing into an icy, venomous gaze."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Whispered, Malicious)",
+          "start": "00:47.30",
+          "end": "00:49.10",
+          "start_seconds": 47.3,
+          "end_seconds": 49.1,
+          "content": "\"I can burn it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:49.80",
+          "end": "00:53.60",
+          "start_seconds": 49.8,
+          "end_seconds": 53.6,
+          "content": "Close-up of Juliana's stricken expression, her eyes widening in horror."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (O.S.) (Chilling, Relentless)",
+          "start": "00:50.10",
+          "end": "00:53.60",
+          "start_seconds": 50.1,
+          "end_seconds": 53.6,
+          "content": "\"And when they find your corpse at the end of the rope...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:53.60",
+          "end": "00:56.60",
+          "start_seconds": 53.6,
+          "end_seconds": 56.6,
+          "content": "Side close-up of Catherine leaning slightly forward, her voice low and merciless."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cruel, Resolute)",
+          "start": "00:53.80",
+          "end": "00:56.50",
+          "start_seconds": 53.8,
+          "end_seconds": 56.5,
+          "content": "\"...no one will remember what was written inside.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.60",
+          "end": "00:59.20",
+          "start_seconds": 56.6,
+          "end_seconds": 59.2,
+          "content": "Close-up of Juliana screaming back in raw outrage."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Enraged, Defiant)",
+          "start": "00:56.70",
+          "end": "00:59.00",
+          "start_seconds": 56.7,
+          "end_seconds": 59.0,
+          "content": "\"You are doing this because I saved the Duchess!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:59.20",
+          "end": "01:03.80",
+          "start_seconds": 59.2,
+          "end_seconds": 63.8,
+          "content": "Medium low-angle shot of Catherine standing rigid in her silk gown, contempt etched across her features."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Scornful, Arrogant)",
+          "start": "00:59.30",
+          "end": "01:03.40",
+          "start_seconds": 59.3,
+          "end_seconds": 63.4,
+          "content": "\"I am doing this because women like you forget their place.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.80",
+          "end": "01:07.00",
+          "start_seconds": 63.8,
+          "end_seconds": 67.0,
+          "content": "Quick pan from Juliana's apron up to Catherine's face."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Cold, Venomous)",
+          "start": "01:04.50",
+          "end": "01:06.50",
+          "start_seconds": 64.5,
+          "end_seconds": 66.5,
+          "content": "\"You were cast out once.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.00",
+          "end": "01:09.50",
+          "start_seconds": 67.0,
+          "end_seconds": 69.5,
+          "content": "Extreme close-up on Catherine's smiling lips and cold blue eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Menacing)",
+          "start": "01:07.20",
+          "end": "01:09.10",
+          "start_seconds": 67.2,
+          "end_seconds": 69.1,
+          "content": "\"You should have stayed forgotten.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:09.50",
+          "end": "01:11.80",
+          "start_seconds": 69.5,
+          "end_seconds": 71.8,
+          "content": "Close-up of Juliana raising her chin, unwavering pride breaking through her tears."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Resolute)",
+          "start": "01:09.80",
+          "end": "01:11.40",
+          "start_seconds": 69.8,
+          "end_seconds": 71.4,
+          "content": "\"My husband will find me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.80",
+          "end": "01:14.30",
+          "start_seconds": 71.8,
+          "end_seconds": 74.3,
+          "content": "Medium shot of Catherine letting out a scornful laugh, tilting her head."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Scoffing, Amused)",
+          "start": "01:12.10",
+          "end": "01:14.30",
+          "start_seconds": 72.1,
+          "end_seconds": 74.3,
+          "content": "\"Your scarred soldier?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.30",
+          "end": "01:18.50",
+          "start_seconds": 74.3,
+          "end_seconds": 78.5,
+          "content": "Close-up of Catherine's face hardening into sharp mockery."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Derisive, Biting)",
+          "start": "01:14.70",
+          "end": "01:18.10",
+          "start_seconds": 74.7,
+          "end_seconds": 78.1,
+          "content": "\"What exactly do you think a penniless veteran can do against Ashbrook?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.50",
+          "end": "01:20.90",
+          "start_seconds": 78.5,
+          "end_seconds": 80.9,
+          "content": "Medium shot as the guard clamps a heavy hand on Juliana's shoulder, shoving her forward."
+        },
+        {
+          "type": "dialogue",
+          "label": "GUARD (Gruff, Dismissive)",
+          "start": "01:18.70",
+          "end": "01:20.60",
+          "start_seconds": 78.7,
+          "end_seconds": 80.6,
+          "content": "\"Move along, girl.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:20.90",
+          "end": "01:23.00",
+          "start_seconds": 80.9,
+          "end_seconds": 83.0,
+          "content": "Wide shot tracking behind the guards as they march Juliana down the vaulted, puddle-strewn corridor toward the heavy iron cell door."
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "INT. CASTLE DUNGEON CELL – CONTINUOUS",
+      "start": "01:23.00",
+      "end": "01:56.69",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.00",
+          "end": "01:26.50",
+          "start_seconds": 83.0,
+          "end_seconds": 86.5,
+          "content": "Wide shot inside the pitch-dark cell as the heavy iron door swings open."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:24.00",
+          "end": "01:26.50",
+          "start_seconds": 84.0,
+          "end_seconds": 86.5,
+          "content": "The guards shove Juliana violently into the cell; she falls hard onto all fours across the cold, wet stone floor."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Crying Out, Broken)",
+          "start": "01:25.70",
+          "end": "01:26.50",
+          "start_seconds": 85.7,
+          "end_seconds": 86.5,
+          "content": "\"Please!\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:26.50",
+          "end": "01:28.00",
+          "start_seconds": 86.5,
+          "end_seconds": 88.0,
+          "content": "The heavy iron door slams shut with a deafening metallic thud, and the massive exterior bolt grates locked."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:28.80",
+          "start_seconds": 86.5,
+          "end_seconds": 88.8,
+          "content": "Static shot of the locked iron door, deadlocked in total isolation."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.80",
+          "end": "01:33.70",
+          "start_seconds": 88.8,
+          "end_seconds": 93.7,
+          "content": "Medium close-up of Juliana kneeling on the floor, clutching her chest as hyperventilation overtakes her."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:29.50",
+          "end": "01:33.70",
+          "start_seconds": 89.5,
+          "end_seconds": 93.7,
+          "content": "Juliana trembles uncontrollably, her fingers digging into the collar of her rustic dress as terror washes over her."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:33.70",
+          "end": "01:36.10",
+          "start_seconds": 93.7,
+          "end_seconds": 96.1,
+          "content": "Extreme close-up of Juliana's tear-drenched face crumpling in overwhelming grief."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Sobbing, Heartbroken)",
+          "start": "01:34.20",
+          "end": "01:35.50",
+          "start_seconds": 94.2,
+          "end_seconds": 95.5,
+          "content": "\"Mother...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:36.10",
+          "end": "01:39.60",
+          "start_seconds": 96.1,
+          "end_seconds": 99.6,
+          "content": "Medium shot as Juliana pushes herself off the wet stone floor and dashes toward the barred wicket of the heavy door."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Shouting)",
+          "start": "01:37.30",
+          "end": "01:39.50",
+          "start_seconds": 97.3,
+          "end_seconds": 99.5,
+          "content": "\"I have done nothing!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:39.60",
+          "end": "01:42.50",
+          "start_seconds": 99.6,
+          "end_seconds": 102.5,
+          "content": "Tight profile close-up of Juliana gripping the rusted iron bars, screaming out into the empty stone corridor."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Screaming, Hysterical)",
+          "start": "01:39.70",
+          "end": "01:42.30",
+          "start_seconds": 99.7,
+          "end_seconds": 102.3,
+          "content": "\"I saved her! I healed her!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:42.50",
+          "end": "01:45.90",
+          "start_seconds": 102.5,
+          "end_seconds": 105.9,
+          "content": "Medium shot from inside the cell as Juliana pounds her fists rhythmically against the reinforced iron door."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:42.50",
+          "end": "01:45.20",
+          "start_seconds": 102.5,
+          "end_seconds": 105.2,
+          "content": "Muffled, dull metallic clanging reverberates as Juliana hammers against the iron door."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Shouting in Anguish)",
+          "start": "01:42.60",
+          "end": "01:45.30",
+          "start_seconds": 102.6,
+          "end_seconds": 105.3,
+          "content": "\"I saved the Duchess!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:45.90",
+          "end": "01:49.00",
+          "start_seconds": 105.9,
+          "end_seconds": 109.0,
+          "content": "Medium shot of Juliana slumping down against the rough stone wall, pulling her knees to her chest while weeping softly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Sorrowful, Wounded)",
+          "start": "01:46.50",
+          "end": "01:48.80",
+          "start_seconds": 106.5,
+          "end_seconds": 108.8,
+          "content": "\"They took my mother's ledger...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:49.00",
+          "end": "01:52.80",
+          "start_seconds": 109.0,
+          "end_seconds": 112.8,
+          "content": "Front medium shot of Juliana slowly rising to her feet, crossing her arms firmly across her chest as her tears stop and her expression hardens into steely resolve."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (V.O.) (Quiet Resolve, Unbreakable)",
+          "start": "01:49.00",
+          "end": "01:52.60",
+          "start_seconds": 109.0,
+          "end_seconds": 112.6,
+          "content": "\"They took her locket. But they will not take Alexander from me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.80",
+          "end": "01:55.50",
+          "start_seconds": 112.8,
+          "end_seconds": 115.5,
+          "content": "Close-up of the dungeon's massive iron portcullis bars dropping down with finality."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:52.80",
+          "end": "01:54.80",
+          "start_seconds": 112.8,
+          "end_seconds": 114.8,
+          "content": "A heavy iron portcullis crashes down with a massive echoing bang."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:55.50",
+          "end": "01:56.69",
+          "start_seconds": 115.5,
+          "end_seconds": 116.69,
+          "content": "Low-angle shot looking up at Juliana standing dignified in the center of the damp dungeon cell, gazing upward toward the overhead grate where faint beams of moonlight filter down, cutting sharply to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-029-Episode 1678582.txt",
+  "source_sha256": "bf00c3e50abaa8f00aebcb55c6a4520f26e9a987f22ab4975348ab092bdf6265",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

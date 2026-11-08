@@ -1,0 +1,417 @@
+{
+  "episode_number": "Episode 48",
+  "logline": "While feigning submission after her public humiliation, Catherine schemes in secret, plotting to use the council's ten-day reprieve to strike back at Alexander and Juliana with the aid of Father Thomas.",
+  "continuity_notes": "Directly follows Episode 47's public disgrace where Catherine bowed to Juliana and accepted the position of a maid; in private, Catherine sheds her feigned defeat and initiates her counter-plot.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. CATHERINE'S CHAMBERS – NIGHT",
+      "start": "00:00.00",
+      "end": "00:26.70",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:04.50",
+          "start_seconds": 0.0,
+          "end_seconds": 4.5,
+          "content": "Medium shot tracking slightly as Catherine stands beside a tall mullioned stone window, silhouetted against the moonlight over the distant castle spires."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:00.00",
+          "end": "00:03.00",
+          "start_seconds": 0.0,
+          "end_seconds": 3.0,
+          "content": "Catherine, adorned in an ornate dark burgundy gown with braided golden hair, gazes out the dark window before turning slowly with a cold, venomous smirk."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Vindictive, Cold)",
+          "start": "00:02.40",
+          "end": "00:07.50",
+          "start_seconds": 2.4,
+          "end_seconds": 7.5,
+          "content": "\"Two words, and that healer's crown rolls right back into the gutter where it belongs.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:04.50",
+          "end": "00:08.50",
+          "start_seconds": 4.5,
+          "end_seconds": 8.5,
+          "content": "Close-up on Catherine's profile and jewelry as she speaks with calculating contempt."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:07.80",
+          "end": "00:12.30",
+          "start_seconds": 7.8,
+          "end_seconds": 12.3,
+          "content": "Catherine glides across the chamber past a roaring stone hearth, picking up an orange from a silver platter on the table."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Scheming)",
+          "start": "00:08.00",
+          "end": "00:12.30",
+          "start_seconds": 8.0,
+          "end_seconds": 12.3,
+          "content": "\"Ten days. He gave himself ten days to fix it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:12.30",
+          "end": "00:20.00",
+          "start_seconds": 12.3,
+          "end_seconds": 20.0,
+          "content": "Medium close-up frontal shot of Catherine turning directly toward the viewer, her expression tightening into ruthless determination."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Intense, Measured)",
+          "start": "00:12.60",
+          "end": "00:14.90",
+          "start_seconds": 12.6,
+          "end_seconds": 14.9,
+          "content": "\"Ten days for the council to sit.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:15.00",
+          "end": "00:18.50",
+          "start_seconds": 15.0,
+          "end_seconds": 18.5,
+          "content": "Catherine raises a gloved index finger, emphasizing each point with sinister precision."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Calculating)",
+          "start": "00:15.10",
+          "end": "00:17.20",
+          "start_seconds": 15.1,
+          "end_seconds": 17.2,
+          "content": "\"Ten days for witnesses to be gathered.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Dark, Threatening)",
+          "start": "00:17.40",
+          "end": "00:19.70",
+          "start_seconds": 17.4,
+          "end_seconds": 19.7,
+          "content": "\"Ten days for a decree to be undone.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:20.00",
+          "end": "00:26.70",
+          "start_seconds": 20.0,
+          "end_seconds": 26.7,
+          "content": "Slight push-in on Catherine as she clenches her fist against her chest, her eyes blazing with malice."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Menacing, Resolute)",
+          "start": "00:20.10",
+          "end": "00:23.70",
+          "start_seconds": 20.1,
+          "end_seconds": 23.7,
+          "content": "\"Ten days is not a wall, Alexander. It's a door.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Chillingly Calm)",
+          "start": "00:23.90",
+          "end": "00:26.50",
+          "start_seconds": 23.9,
+          "end_seconds": 26.5,
+          "content": "\"And doors can be closed from the other side.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. CATHERINE'S CHAMBERS – CONTINUOUS",
+      "start": "00:26.70",
+      "end": "01:20.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.70",
+          "end": "00:30.80",
+          "start_seconds": 26.7,
+          "end_seconds": 30.8,
+          "content": "Medium shot over Catherine's shoulder seated before her vanity mirror as the chamber door eases open and Agnes enters quietly."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:26.80",
+          "end": "00:29.50",
+          "start_seconds": 26.8,
+          "end_seconds": 29.5,
+          "content": "Agnes, dressed in a grey maid's dress and white apron, steps inside with cautious hesitation and clasps her hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "AGNES (Hushed, Submissive)",
+          "start": "00:29.20",
+          "end": "00:30.80",
+          "start_seconds": 29.2,
+          "end_seconds": 30.8,
+          "content": "\"You sent for me, my lady?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Commanding, Sharp)",
+          "start": "00:30.90",
+          "end": "00:32.00",
+          "start_seconds": 30.9,
+          "end_seconds": 32.0,
+          "content": "\"Lock it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:32.00",
+          "end": "00:33.90",
+          "start_seconds": 32.0,
+          "end_seconds": 33.9,
+          "content": "Close-up on Agnes's hands turning the ornate iron key in the wooden door's brass lock."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:32.30",
+          "end": "00:33.80",
+          "start_seconds": 32.3,
+          "end_seconds": 33.8,
+          "content": "Heavy metallic click of an iron key latching into a deadbolt."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:34.00",
+          "end": "00:36.50",
+          "start_seconds": 34.0,
+          "end_seconds": 36.5,
+          "content": "Catherine strides forward and firmly grasps Agnes by both hands, stepping uncomfortably close."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.00",
+          "end": "00:43.00",
+          "start_seconds": 34.0,
+          "end_seconds": 43.0,
+          "content": "Two-shot profile of Catherine towering over Agnes in the candlelight."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Fierce, Hissing)",
+          "start": "00:34.20",
+          "end": "00:37.10",
+          "start_seconds": 34.2,
+          "end_seconds": 37.1,
+          "content": "\"Everyone in that chapel saw me humiliated today.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Spiteful, calculating)",
+          "start": "00:37.30",
+          "end": "00:39.00",
+          "start_seconds": 37.3,
+          "end_seconds": 39.0,
+          "content": "\"Good. Let them remember it.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Sinister, Predatory)",
+          "start": "00:39.20",
+          "end": "00:43.00",
+          "start_seconds": 39.2,
+          "end_seconds": 43.0,
+          "content": "\"Grief makes people careless, and carelessness is exactly what I need from that household right now.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:43.00",
+          "end": "00:46.80",
+          "start_seconds": 43.0,
+          "end_seconds": 46.8,
+          "content": "Over-the-shoulder close-up on Agnes, her brow furrowed in anxious alarm."
+        },
+        {
+          "type": "dialogue",
+          "label": "AGNES (Anxious, Whispering)",
+          "start": "00:43.30",
+          "end": "00:46.80",
+          "start_seconds": 43.3,
+          "end_seconds": 46.8,
+          "content": "\"My lady... the Duke has bailiffs watching every road out of the county.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.80",
+          "end": "00:51.50",
+          "start_seconds": 46.8,
+          "end_seconds": 51.5,
+          "content": "Close-up on Catherine, a smug, venomous smile spreading across her painted lips."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Confident, Devious)",
+          "start": "00:47.00",
+          "end": "00:51.30",
+          "start_seconds": 47.0,
+          "end_seconds": 51.3,
+          "content": "\"I'm not leaving the county, Agnes. I'm going back into that house.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.50",
+          "end": "00:58.20",
+          "start_seconds": 51.5,
+          "end_seconds": 58.2,
+          "content": "Medium tracking shot following Catherine as she releases Agnes and stalks across the room toward the window sill."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Pleased, Scheming)",
+          "start": "00:52.00",
+          "end": "00:55.00",
+          "start_seconds": 52.0,
+          "end_seconds": 55.0,
+          "content": "\"Father Thomas did his part beautifully today.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Calculated, Demanding)",
+          "start": "00:55.20",
+          "end": "00:58.20",
+          "start_seconds": 55.2,
+          "end_seconds": 58.2,
+          "content": "\"Now I need him to do a little more before that hearing convenes.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.20",
+          "end": "01:01.00",
+          "start_seconds": 58.2,
+          "end_seconds": 61.0,
+          "content": "Medium close-up of Agnes glancing nervously over her shoulder."
+        },
+        {
+          "type": "dialogue",
+          "label": "AGNES (Apprehensive)",
+          "start": "00:58.50",
+          "end": "01:00.60",
+          "start_seconds": 58.5,
+          "end_seconds": 60.6,
+          "content": "\"If someone sees him come to you...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:01.00",
+          "end": "01:06.90",
+          "start_seconds": 61.0,
+          "end_seconds": 66.9,
+          "content": "Close-up on Catherine spinning around from the window, her jaw set in terrifying firmness."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Stern, Threatening)",
+          "start": "01:01.80",
+          "end": "01:04.00",
+          "start_seconds": 61.8,
+          "end_seconds": 64.0,
+          "content": "\"Then no one sees him.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Authoritative)",
+          "start": "01:04.30",
+          "end": "01:06.90",
+          "start_seconds": 64.3,
+          "end_seconds": 66.9,
+          "content": "\"That is precisely your job tonight.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.90",
+          "end": "01:13.50",
+          "start_seconds": 66.9,
+          "end_seconds": 73.5,
+          "content": "Medium shot as Catherine picks up a heavy velvet coin purse and places it firmly into Agnes's awaiting open palms."
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "01:07.50",
+          "end": "01:09.00",
+          "start_seconds": 67.5,
+          "end_seconds": 69.0,
+          "content": "Dull clinking of heavy gold coins inside a leather pouch."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Hushed, Commanding)",
+          "start": "01:07.80",
+          "end": "01:10.50",
+          "start_seconds": 67.8,
+          "end_seconds": 70.5,
+          "content": "\"Send for the priest. Tonight.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Firm, Final)",
+          "start": "01:10.80",
+          "end": "01:13.40",
+          "start_seconds": 70.8,
+          "end_seconds": 73.4,
+          "content": "\"And make sure no one sees him arrive.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:13.50",
+          "end": "01:16.80",
+          "start_seconds": 73.5,
+          "end_seconds": 76.8,
+          "content": "Wide shot of Agnes curtsying swiftly, stashing the pouch into her apron, and hurrying out through the heavy wooden door into the darkness."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:16.80",
+          "end": "01:20.00",
+          "start_seconds": 76.8,
+          "end_seconds": 80.0,
+          "content": "Exterior shot looking through the dark diamond-paned window frame at Catherine standing motionless in the warm candlelight, staring outward into the night with cold, unyielding ambition as the scene fades to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-048-Episode 1688397.txt",
+  "source_sha256": "877b9ef4386e0bdc3b9103964979388eca1eb9c5341f835d6b203412fc6db624",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

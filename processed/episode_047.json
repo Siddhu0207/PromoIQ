@@ -1,0 +1,676 @@
+{
+  "episode_number": "Episode 47",
+  "logline": "While Alexander reassures Juliana of their unbreakable bond amid the council's opposition, a destitute Catherine begs for sanctuary at Ashbourne—only for Juliana to offer her survival under the strict humiliation of a scullery maid.",
+  "continuity_notes": "Follows Episode 46's ecclesiastical challenge by the High Priest. While Catherine plots in secret to remain on the estate, the morning brings her disgrace to light as Juliana decides her fate.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. ESTATE CHAMBERS – NIGHT",
+      "start": "00:00.00",
+      "end": "00:21.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:01.80",
+          "start_seconds": 0.0,
+          "end_seconds": 1.8,
+          "content": "Low-angle focus on a dripping candle burning on a wooden table beside a dark window looking out into the misty night."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:01.80",
+          "end": "00:08.50",
+          "start_seconds": 1.8,
+          "end_seconds": 8.5,
+          "content": "Medium close-up of Catherine in a lace nightgown and lilac robe, holding a goblet of red wine with cold determination."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Calculated, Defiant)",
+          "start": "00:01.80",
+          "end": "00:08.20",
+          "start_seconds": 1.8,
+          "end_seconds": 8.2,
+          "content": "\"Rupert is rotting in the undercroft cells. Not me. I intend to stay on this estate.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:08.50",
+          "end": "00:14.80",
+          "start_seconds": 8.5,
+          "end_seconds": 14.8,
+          "content": "Two-shot framing Catherine in the background with a muscular, bare-chested conspirator standing in shadow beside her."
+        },
+        {
+          "type": "dialogue",
+          "label": "CONSPIRATOR (Low, Warning)",
+          "start": "00:08.80",
+          "end": "00:14.50",
+          "start_seconds": 8.8,
+          "end_seconds": 14.5,
+          "content": "\"Alexander will scour the grounds at first light. The High Council has already blocked the marriage registry.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:14.80",
+          "end": "00:18.30",
+          "start_seconds": 14.8,
+          "end_seconds": 18.3,
+          "content": "Close-up profile of Catherine leaning close to the man's shoulder, her eyes burning with ambition."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Commanding, Scheming)",
+          "start": "00:15.00",
+          "end": "00:18.20",
+          "start_seconds": 15.0,
+          "end_seconds": 18.2,
+          "content": "\"Then you will make sure I remain inside these walls.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:18.30",
+          "end": "00:21.50",
+          "start_seconds": 18.3,
+          "end_seconds": 21.5,
+          "content": "Silhouette shot against the tall arched window as Catherine turns her back to him."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Ruthless, Focused)",
+          "start": "00:18.50",
+          "end": "00:21.20",
+          "start_seconds": 18.5,
+          "end_seconds": 21.2,
+          "content": "\"Keep the council paralyzed. I will do the rest.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 2,
+      "heading": "INT. DUKE'S BEDCHAMBER – MORNING",
+      "start": "00:21.50",
+      "end": "00:55.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.50",
+          "end": "00:23.20",
+          "start_seconds": 21.5,
+          "end_seconds": 23.2,
+          "content": "Atmospheric wide pan across the spacious master bedroom, daylight spilling softly through tall Gothic windows onto the hearth fire."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:23.20",
+          "end": "00:26.50",
+          "start_seconds": 23.2,
+          "end_seconds": 26.5,
+          "content": "Medium shot of Alexander and Juliana sitting together on the edge of the velvet bed, dressed in morning robes."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Anxious, Trembling)",
+          "start": "00:23.40",
+          "end": "00:26.80",
+          "start_seconds": 23.4,
+          "end_seconds": 26.8,
+          "content": "\"What if Father Thomas sways the High Council?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.50",
+          "end": "00:30.50",
+          "start_seconds": 26.5,
+          "end_seconds": 30.5,
+          "content": "Close-up of Juliana's distressed face, tears shimmering in her eyes as she looks up at Alexander."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Vulnerable, Fearful)",
+          "start": "00:27.00",
+          "end": "00:30.30",
+          "start_seconds": 27.0,
+          "end_seconds": 30.3,
+          "content": "\"What if they strip your title? Because of me?\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:30.50",
+          "end": "00:35.00",
+          "start_seconds": 30.5,
+          "end_seconds": 35.0,
+          "content": "Juliana looks down at her hands, turning over her scarred palms shaped by years of herbal work."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Despairing)",
+          "start": "00:31.00",
+          "end": "00:35.20",
+          "start_seconds": 31.0,
+          "end_seconds": 35.2,
+          "content": "\"I am only a healer. The lords will never accept me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:35.50",
+          "end": "00:37.50",
+          "start_seconds": 35.5,
+          "end_seconds": 37.5,
+          "content": "Profile shot as Alexander reaches out and firmly clasps Juliana's trembling hands in his own."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Gentle, Resolute)",
+          "start": "00:35.80",
+          "end": "00:37.80",
+          "start_seconds": 35.8,
+          "end_seconds": 37.8,
+          "content": "\"Look at me, Juliana.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.50",
+          "end": "00:42.50",
+          "start_seconds": 37.5,
+          "end_seconds": 42.5,
+          "content": "Close-up of Alexander raising his scarred hand to tenderly cradle Juliana's cheek."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Fierce, Loving)",
+          "start": "00:38.20",
+          "end": "00:42.50",
+          "start_seconds": 38.2,
+          "end_seconds": 42.5,
+          "content": "\"You saved my mother's life. You stood by me when I had nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:42.50",
+          "end": "00:45.80",
+          "start_seconds": 42.5,
+          "end_seconds": 45.8,
+          "content": "Tight close-up on Alexander's gaze locking onto Juliana's tearful eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Deep, Unwavering)",
+          "start": "00:43.00",
+          "end": "00:45.50",
+          "start_seconds": 43.0,
+          "end_seconds": 45.5,
+          "content": "\"You are my wife.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:45.50",
+          "end": "00:48.00",
+          "start_seconds": 45.5,
+          "end_seconds": 48.0,
+          "content": "Alexander gently pulls Juliana closer, his hands resting securely on her shoulders."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Authoritative, Steadfast)",
+          "start": "00:45.80",
+          "end": "00:54.80",
+          "start_seconds": 45.8,
+          "end_seconds": 54.8,
+          "content": "\"You were my wife before that priest ever opened his mouth. And we will stand before the King and God again within ten days. Nothing breaks that.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 3,
+      "heading": "EXT. ASHBOURNE COURTYARD – DAY",
+      "start": "00:55.50",
+      "end": "01:23.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.50",
+          "end": "00:56.80",
+          "start_seconds": 55.5,
+          "end_seconds": 56.8,
+          "content": "Wide establishing shot of the rain-drenched cobblestone courtyard surrounded by imposing Gothic arches."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:56.80",
+          "end": "01:00.00",
+          "start_seconds": 56.8,
+          "end_seconds": 60.0,
+          "content": "Medium shot of Lady Ashbourne leaning heavily on her walking cane, glaring down at Catherine who kneels in the mud."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY ASHBOURNE (Sharp, Contemptuous)",
+          "start": "00:56.80",
+          "end": "00:59.80",
+          "start_seconds": 56.8,
+          "end_seconds": 59.8,
+          "content": "\"You dare show your face in Ashbourne courtyard?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:00.00",
+          "end": "01:03.50",
+          "start_seconds": 60.0,
+          "end_seconds": 63.5,
+          "content": "High-angle shot looking down at Catherine in her disheveled burgundy gown, clutching her skirts and weeping profusely."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Desperate, Weeping)",
+          "start": "01:00.50",
+          "end": "01:03.40",
+          "start_seconds": 60.5,
+          "end_seconds": 63.4,
+          "content": "\"I have nowhere to go, Your Grace.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:03.50",
+          "end": "01:07.00",
+          "start_seconds": 63.5,
+          "end_seconds": 67.0,
+          "content": "Low-angle shot tracking Catherine clutching her chest in agony."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Sobbing, Pleading)",
+          "start": "01:03.50",
+          "end": "01:06.80",
+          "start_seconds": 63.5,
+          "end_seconds": 66.8,
+          "content": "\"London closed its doors! My family disowned me!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:07.00",
+          "end": "01:11.50",
+          "start_seconds": 67.0,
+          "end_seconds": 71.5,
+          "content": "Medium close-up of Lady Ashbourne, her gloved hand resting on her cane as she delivers her cold judgment."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY ASHBOURNE (Cold, Unforgiving)",
+          "start": "01:07.20",
+          "end": "01:11.20",
+          "start_seconds": 67.2,
+          "end_seconds": 71.2,
+          "content": "\"She aided the poison in my veins. Cast her into the road.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:11.50",
+          "end": "01:14.80",
+          "start_seconds": 71.5,
+          "end_seconds": 74.8,
+          "content": "Medium shot of Vaughn drawing his baton, ready to seize Catherine from behind."
+        },
+        {
+          "type": "dialogue",
+          "label": "VAUGHN (Gruff, Ready)",
+          "start": "01:11.80",
+          "end": "01:14.80",
+          "start_seconds": 71.8,
+          "end_seconds": 74.8,
+          "content": "\"One command, Your Grace, and I drag her past the gates.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.80",
+          "end": "01:18.80",
+          "start_seconds": 74.8,
+          "end_seconds": 78.8,
+          "content": "Wide shot as Alexander strides purposefully into the courtyard alongside Juliana, his coat billowing behind him."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Furious, Decisive)",
+          "start": "01:15.20",
+          "end": "01:18.50",
+          "start_seconds": 75.2,
+          "end_seconds": 78.5,
+          "content": "\"Do it, Vaughn! Throw her past the estate perimeter!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:18.80",
+          "end": "01:21.80",
+          "start_seconds": 78.8,
+          "end_seconds": 81.8,
+          "content": "Close-up of Catherine collapsed on the wet stones, looking up with tear-streaked panic."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Hysterical, Screaming)",
+          "start": "01:18.80",
+          "end": "01:21.80",
+          "start_seconds": 78.8,
+          "end_seconds": 81.8,
+          "content": "\"Please, Alexander! Have mercy!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:21.80",
+          "end": "01:23.50",
+          "start_seconds": 81.8,
+          "end_seconds": 83.5,
+          "content": "Medium shot of Juliana raising her right hand firmly to halt the guard."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Clear, Authoritative)",
+          "start": "01:22.20",
+          "end": "01:23.40",
+          "start_seconds": 82.2,
+          "end_seconds": 83.4,
+          "content": "\"Stop.\""
+        }
+      ]
+    },
+    {
+      "scene_id": 4,
+      "heading": "INT. ASHBOURNE GREAT HALL / VESTIBULE – CONTINUOUS",
+      "start": "01:23.50",
+      "end": "02:14.00",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.50",
+          "end": "01:26.50",
+          "start_seconds": 83.5,
+          "end_seconds": 86.5,
+          "content": "Medium shot of Alexander turning toward Juliana in sheer disbelief."
+        },
+        {
+          "type": "dialogue",
+          "label": "ALEXANDER (Indignant, Protective)",
+          "start": "01:24.00",
+          "end": "01:26.50",
+          "start_seconds": 84.0,
+          "end_seconds": 86.5,
+          "content": "\"Juliana, she tried to destroy you!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:28.00",
+          "start_seconds": 86.5,
+          "end_seconds": 88.0,
+          "content": "Close-up of Juliana maintaining serene poise."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Calm, Composed)",
+          "start": "01:26.70",
+          "end": "01:27.80",
+          "start_seconds": 86.7,
+          "end_seconds": 87.8,
+          "content": "\"She did.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.00",
+          "end": "01:31.00",
+          "start_seconds": 88.0,
+          "end_seconds": 91.0,
+          "content": "Medium tracking shot as Juliana steps gracefully past Alexander toward Catherine."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Dignified, Principled)",
+          "start": "01:28.20",
+          "end": "01:31.00",
+          "start_seconds": 88.2,
+          "end_seconds": 91.0,
+          "content": "\"But Ashbourne does not throw beggars into the mud.\""
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "01:31.00",
+          "end": "01:35.00",
+          "start_seconds": 91.0,
+          "end_seconds": 95.0,
+          "content": "Juliana walks to a side bench, picks up a rough servant's apron and a heavy iron ring of keys, and turns back to face Catherine."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steely, Direct)",
+          "start": "01:31.50",
+          "end": "01:35.00",
+          "start_seconds": 91.5,
+          "end_seconds": 95.0,
+          "content": "\"If you seek shelter in this house, Catherine, you earn it.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:35.50",
+          "end": "01:38.80",
+          "start_seconds": 95.5,
+          "end_seconds": 98.8,
+          "content": "Close-up of Catherine's face turning from despair to offended shock."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Incredulous, Stunned)",
+          "start": "01:36.00",
+          "end": "01:38.80",
+          "start_seconds": 96.0,
+          "end_seconds": 98.8,
+          "content": "\"You want me? As a guest?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:38.80",
+          "end": "01:41.20",
+          "start_seconds": 98.8,
+          "end_seconds": 101.2,
+          "content": "Close-up of Juliana staring straight into Catherine's eyes without blinking."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unflinching, Firm)",
+          "start": "01:39.20",
+          "end": "01:41.00",
+          "start_seconds": 99.2,
+          "end_seconds": 101.0,
+          "content": "\"As a scullery maid.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:41.20",
+          "end": "01:44.80",
+          "start_seconds": 101.2,
+          "end_seconds": 104.8,
+          "content": "Medium shot of Catherine recoiling in disgust, looking around at the gathered estate retainers."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Outraged, Venomous)",
+          "start": "01:41.50",
+          "end": "01:44.50",
+          "start_seconds": 101.5,
+          "end_seconds": 104.5,
+          "content": "\"You expect me to scrub floors before these commoners?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:44.80",
+          "end": "01:48.50",
+          "start_seconds": 104.8,
+          "end_seconds": 108.5,
+          "content": "Dramatic profile two-shot of Juliana standing inches away from Catherine, dominating the confrontation."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Measured, Commanding)",
+          "start": "01:45.20",
+          "end": "01:48.50",
+          "start_seconds": 105.2,
+          "end_seconds": 108.5,
+          "content": "\"You will scrub the floors you walked on as an impostor.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:48.50",
+          "end": "01:51.50",
+          "start_seconds": 108.5,
+          "end_seconds": 111.5,
+          "content": "Juliana extends the ring of iron keys outward in her fist."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Stern, Demanding)",
+          "start": "01:48.80",
+          "end": "01:51.50",
+          "start_seconds": 108.8,
+          "end_seconds": 111.5,
+          "content": "\"You will scrub the manor hearths at dawn.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:51.50",
+          "end": "01:54.50",
+          "start_seconds": 111.5,
+          "end_seconds": 114.5,
+          "content": "Close profile two-shot of the two women locked in an intense psychological battle."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unforgiving)",
+          "start": "01:51.80",
+          "end": "01:54.50",
+          "start_seconds": 111.8,
+          "end_seconds": 114.5,
+          "content": "\"You will scour the kitchen grease until midnight.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:54.50",
+          "end": "01:58.50",
+          "start_seconds": 114.5,
+          "end_seconds": 118.5,
+          "content": "Juliana presents the rough hemp apron and heavy keys right to Catherine's face."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Stern, Final)",
+          "start": "01:54.80",
+          "end": "01:58.50",
+          "start_seconds": 114.8,
+          "end_seconds": 118.5,
+          "content": "\"One complaint from the housekeeper, and you are cast out with nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:58.50",
+          "end": "02:01.80",
+          "start_seconds": 118.5,
+          "end_seconds": 121.8,
+          "content": "Close-up of Catherine's trembling lips, humiliated tears spilling down her heavily made-up cheeks."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Choked, Humiliated)",
+          "start": "01:59.20",
+          "end": "02:01.60",
+          "start_seconds": 119.2,
+          "end_seconds": 121.6,
+          "content": "\"You humiliate me.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:01.80",
+          "end": "02:07.50",
+          "start_seconds": 121.8,
+          "end_seconds": 127.5,
+          "content": "Medium shot of both women standing beneath the cathedral vaulting of the hall."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Calm, Sovereign)",
+          "start": "02:02.20",
+          "end": "02:07.20",
+          "start_seconds": 122.2,
+          "end_seconds": 127.2,
+          "content": "\"I offer you bread and honest labor. Take the apron, or leave the county.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:07.50",
+          "end": "02:11.50",
+          "start_seconds": 127.5,
+          "end_seconds": 131.5,
+          "content": "Extreme close-up on Catherine's trembling hands as she reaches out, taking the coarse apron and clattering iron keys, pressing them desperately against her chest."
+        },
+        {
+          "type": "dialogue",
+          "label": "CATHERINE (Broken, Defeated)",
+          "start": "02:08.50",
+          "end": "02:11.20",
+          "start_seconds": 128.5,
+          "end_seconds": 131.2,
+          "content": "\"I accept, Your Grace.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:11.50",
+          "end": "02:14.00",
+          "start_seconds": 131.5,
+          "end_seconds": 134.0,
+          "content": "Wide shot down the vaulted stone hall as Catherine prostrates herself entirely upon the floor before Alexander, Juliana, and Lady Ashbourne, humbled to the stone as the scene cuts to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-047-Episode 1688396.txt",
+  "source_sha256": "fff9175ab2120638b955660a5b8cdf11c5f6cdfaf8e0d40d313c7f1a8a54b63a",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}

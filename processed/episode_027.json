@@ -1,0 +1,877 @@
+{
+  "episode_number": "Episode 27",
+  "logline": "The Dowager Duchess realizes Juliana's wedding ring bears the Ashbourne crest belonging to her lost son, but before Juliana can reveal Alexander's name, Rupert and Catherine storm the bedchamber and frame her for poisoning the Duchess.",
+  "continuity_notes": "Picks up immediately from Episode 26's cliffhanger where the Dowager Duchess gripped Juliana's hand upon recognizing the family signet ring, frantically questioning her origin.",
+  "scenes": [
+    {
+      "scene_id": 1,
+      "heading": "INT. ASHBURG MANOR - DOWAGER DUCHESS'S BEDCHAMBER - NIGHT",
+      "start": "00:00.00",
+      "end": "02:30.50",
+      "events": [
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:00.00",
+          "end": "00:02.10",
+          "start_seconds": 0.0,
+          "end_seconds": 2.1,
+          "content": "Tight close-up of the Dowager Duchess's aged, trembling hands clutching Juliana's hand, examining the worn metal band on her finger."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Shaken, Breathless)",
+          "start": "00:01.30",
+          "end": "00:03.20",
+          "start_seconds": 1.3,
+          "end_seconds": 3.2,
+          "content": "\"This ring...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:02.10",
+          "end": "00:05.80",
+          "start_seconds": 2.1,
+          "end_seconds": 5.8,
+          "content": "Low-angle medium close-up of the Dowager Duchess lying propped against her pillows, gripping Juliana's wrist firmly as she gazes up in desperate demand."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Urgent, Demanding)",
+          "start": "00:03.40",
+          "end": "00:05.80",
+          "start_seconds": 3.4,
+          "end_seconds": 5.8,
+          "content": "\"Look at me, girl. Who gave this to you?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:05.80",
+          "end": "00:09.40",
+          "start_seconds": 5.8,
+          "end_seconds": 9.4,
+          "content": "Medium shot of Juliana in her maid's apron, startled and anxious as she answers."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Hesitant, Sincere)",
+          "start": "00:06.40",
+          "end": "00:09.30",
+          "start_seconds": 6.4,
+          "end_seconds": 9.3,
+          "content": "\"My husband. He gave it to me when we wed.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:09.40",
+          "end": "00:13.20",
+          "start_seconds": 9.4,
+          "end_seconds": 13.2,
+          "content": "Low angle on the Dowager Duchess, her eyes burning with intensity."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Incredulous, Intense)",
+          "start": "00:09.70",
+          "end": "00:12.80",
+          "start_seconds": 9.7,
+          "end_seconds": 12.8,
+          "content": "\"He is no commoner. What does he do?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:13.20",
+          "end": "00:16.80",
+          "start_seconds": 13.2,
+          "end_seconds": 16.8,
+          "content": "Close-up of Juliana, trying to keep her composure."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Earnest, Defending)",
+          "start": "00:13.40",
+          "end": "00:16.40",
+          "start_seconds": 13.4,
+          "end_seconds": 16.4,
+          "content": "\"He is a soldier. A veteran from the Peninsula.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:16.80",
+          "end": "00:21.60",
+          "start_seconds": 16.8,
+          "end_seconds": 21.6,
+          "content": "Medium two-shot as the Duchess leans forward slightly, staring at the ring between their joined hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Trembling, Revelatory)",
+          "start": "00:17.20",
+          "end": "00:21.20",
+          "start_seconds": 17.2,
+          "end_seconds": 21.2,
+          "content": "\"That is no ordinary band. It bears the Ashbourne crest.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:21.60",
+          "end": "00:26.10",
+          "start_seconds": 21.6,
+          "end_seconds": 26.1,
+          "content": "Close-up on Juliana, shaking her head in disbelief and growing confusion."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Confused, Gentle)",
+          "start": "00:21.80",
+          "end": "00:25.80",
+          "start_seconds": 21.8,
+          "end_seconds": 25.8,
+          "content": "\"No. He lives in a barn. He has nothing but his word.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:26.10",
+          "end": "00:31.80",
+          "start_seconds": 26.1,
+          "end_seconds": 31.8,
+          "content": "Low-angle shot on the Duchess, tears welling in her eyes as grief and shock overtake her."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Emotionally Strained, Weeping)",
+          "start": "00:26.60",
+          "end": "00:31.40",
+          "start_seconds": 26.6,
+          "end_seconds": 31.4,
+          "content": "\"My lost son wore that exact ring. He went to war...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:31.80",
+          "end": "00:34.90",
+          "start_seconds": 31.8,
+          "end_seconds": 34.9,
+          "content": "Close-up of Juliana's eyes widening in stunned revelation."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Shocked, Breathless)",
+          "start": "00:32.10",
+          "end": "00:34.80",
+          "start_seconds": 32.1,
+          "end_seconds": 34.8,
+          "content": "\"Your son? He told me he was only a sergeant.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:34.90",
+          "end": "00:37.40",
+          "start_seconds": 34.9,
+          "end_seconds": 37.4,
+          "content": "Side-angle medium shot of the bed, the Duchess holding onto Juliana's forearm with fierce insistence."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Desperate, Clinging)",
+          "start": "00:35.20",
+          "end": "00:37.60",
+          "start_seconds": 35.2,
+          "end_seconds": 37.6,
+          "content": "\"My lost son wore that ring!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:37.40",
+          "end": "00:40.40",
+          "start_seconds": 37.4,
+          "end_seconds": 40.4,
+          "content": "Close-up of Juliana looking down with compassionate concern."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (O.S.) (Pleading)",
+          "start": "00:37.80",
+          "end": "00:40.20",
+          "start_seconds": 37.8,
+          "end_seconds": 40.2,
+          "content": "\"Did your husband serve beside him?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Soft, Reverent)",
+          "start": "00:41.00",
+          "end": "00:44.20",
+          "start_seconds": 41.0,
+          "end_seconds": 44.2,
+          "content": "\"He never spoke of his officers. He only spoke of survival.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:44.20",
+          "end": "00:46.40",
+          "start_seconds": 44.2,
+          "end_seconds": 46.4,
+          "content": "Close-up of the Duchess gazing up at Juliana, her voice barely a whisper."
+        },
+        {
+          "type": "dialogue",
+          "label": "DOWAGER DUCHESS (Hushed, Desperate)",
+          "start": "00:44.50",
+          "end": "00:46.40",
+          "start_seconds": 44.5,
+          "end_seconds": 46.4,
+          "content": "\"What is your husband's name?\""
+        },
+        {
+          "type": "sound",
+          "label": "SOUND FX",
+          "start": "00:46.40",
+          "end": "00:48.30",
+          "start_seconds": 46.4,
+          "end_seconds": 48.3,
+          "content": "Loud, violent pounding echoes on the wooden double doors."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:46.50",
+          "end": "00:48.80",
+          "start_seconds": 46.5,
+          "end_seconds": 48.8,
+          "content": "Juliana gasps, snapping her head toward the entrance in alarm."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "00:48.80",
+          "end": "00:51.50",
+          "start_seconds": 48.8,
+          "end_seconds": 51.5,
+          "content": "The heavy mahogany double doors burst open, revealing the Blond Nobleman flanked by Lady Catherine and a royal guard in uniform."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:48.80",
+          "end": "00:51.50",
+          "start_seconds": 48.8,
+          "end_seconds": 51.5,
+          "content": "Wide shot framing the open doorway as the aristocrats step into the dimly lit hallway."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:51.50",
+          "end": "00:55.60",
+          "start_seconds": 51.5,
+          "end_seconds": 55.6,
+          "content": "Medium shot of Lady Catherine in her lavish cream gown and tiara, scowling with arrogant disdain."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Sharp, Accusatory)",
+          "start": "00:52.20",
+          "end": "00:55.60",
+          "start_seconds": 52.2,
+          "end_seconds": 55.6,
+          "content": "\"What is that maid doing in Her Grace's private chamber?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:55.60",
+          "end": "00:58.60",
+          "start_seconds": 55.6,
+          "end_seconds": 58.6,
+          "content": "Medium shot of Juliana standing stiffly beside the bed, concealing her hands."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Calm, Defiant)",
+          "start": "00:56.80",
+          "end": "00:58.40",
+          "start_seconds": 56.8,
+          "end_seconds": 58.4,
+          "content": "\"She needed help.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "00:58.60",
+          "end": "01:02.00",
+          "start_seconds": 58.6,
+          "end_seconds": 62.0,
+          "content": "Close-up of Lady Catherine narrowing her eyes with venomous suspicion."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Piercing, Suspicious)",
+          "start": "01:00.00",
+          "end": "01:01.80",
+          "start_seconds": 60.0,
+          "end_seconds": 61.8,
+          "content": "\"What are you hiding?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:02.00",
+          "end": "01:04.00",
+          "start_seconds": 62.0,
+          "end_seconds": 64.0,
+          "content": "Close-up of Juliana, her chin raised."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Firm)",
+          "start": "01:02.20",
+          "end": "01:03.50",
+          "start_seconds": 62.2,
+          "end_seconds": 63.5,
+          "content": "\"Nothing.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:04.00",
+          "end": "01:06.50",
+          "start_seconds": 64.0,
+          "end_seconds": 66.5,
+          "content": "Medium close-up of Lady Catherine pointing a white-gloved finger directly at Juliana."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Demanding, Harsh)",
+          "start": "01:04.80",
+          "end": "01:06.40",
+          "start_seconds": 64.8,
+          "end_seconds": 66.4,
+          "content": "\"Show me your hand.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:06.50",
+          "end": "01:10.50",
+          "start_seconds": 66.5,
+          "end_seconds": 70.5,
+          "content": "Medium shot of the Blond Nobleman stepping forward beside Lady Catherine, clad in a dark tailored coat with black leather gloves."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Cold, Authoritative)",
+          "start": "01:06.60",
+          "end": "01:10.10",
+          "start_seconds": 66.6,
+          "end_seconds": 70.1,
+          "content": "\"Girl. Show me what you are holding.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:10.50",
+          "end": "01:13.80",
+          "start_seconds": 70.5,
+          "end_seconds": 73.8,
+          "content": "Two-shot of Juliana facing the Blond Nobleman as she slowly extends her palm, revealing the small amber glass dropper bottle."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Skeptical)",
+          "start": "01:12.60",
+          "end": "01:13.70",
+          "start_seconds": 72.6,
+          "end_seconds": 73.7,
+          "content": "\"What is this?\""
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Steady)",
+          "start": "01:13.80",
+          "end": "01:14.80",
+          "start_seconds": 73.8,
+          "end_seconds": 74.8,
+          "content": "\"Medicine.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:14.80",
+          "end": "01:17.80",
+          "start_seconds": 74.8,
+          "end_seconds": 77.8,
+          "content": "Close-up of Lady Catherine tapping her gloved finger to her lip, letting out a mocking scoff."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Mocking, Condescending)",
+          "start": "01:15.20",
+          "end": "01:17.80",
+          "start_seconds": 75.2,
+          "end_seconds": 77.8,
+          "content": "\"Medicine? You are a new maid.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:17.80",
+          "end": "01:20.80",
+          "start_seconds": 77.8,
+          "end_seconds": 80.8,
+          "content": "Medium shot of the Blond Nobleman staring down at the vial, as Catherine sneers from his side."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Incredulous, Accusing)",
+          "start": "01:18.10",
+          "end": "01:20.50",
+          "start_seconds": 78.1,
+          "end_seconds": 80.5,
+          "content": "\"Who permitted you to give medicine to the Duchess?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:20.80",
+          "end": "01:23.00",
+          "start_seconds": 80.8,
+          "end_seconds": 83.0,
+          "content": "Close-up of Juliana holding her ground."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Quiet, Resolute)",
+          "start": "01:21.00",
+          "end": "01:22.00",
+          "start_seconds": 81.0,
+          "end_seconds": 82.0,
+          "content": "\"No one.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:23.00",
+          "end": "01:26.50",
+          "start_seconds": 83.0,
+          "end_seconds": 86.5,
+          "content": "Close-up of Lady Catherine turning fiercely triumphant."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Spiteful, Indignant)",
+          "start": "01:23.60",
+          "end": "01:26.40",
+          "start_seconds": 83.6,
+          "end_seconds": 86.4,
+          "content": "\"Then you administered it without permission.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:26.50",
+          "end": "01:28.00",
+          "start_seconds": 86.5,
+          "end_seconds": 88.0,
+          "content": "Close-up of Juliana, her voice rising passionately."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Passionate, Urgent)",
+          "start": "01:26.50",
+          "end": "01:27.80",
+          "start_seconds": 86.5,
+          "end_seconds": 87.8,
+          "content": "\"Because she was dying!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:28.00",
+          "end": "01:32.80",
+          "start_seconds": 88.0,
+          "end_seconds": 92.8,
+          "content": "Medium shot of the Blond Nobleman pacing forward with calculating malice."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Cold, Interrogating)",
+          "start": "01:28.20",
+          "end": "01:32.40",
+          "start_seconds": 88.2,
+          "end_seconds": 92.4,
+          "content": "\"And you decided you knew better than every physician in this house?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:32.80",
+          "end": "01:35.00",
+          "start_seconds": 92.8,
+          "end_seconds": 95.0,
+          "content": "Close-up of Juliana retorting without hesitation."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Fierce)",
+          "start": "01:33.30",
+          "end": "01:34.90",
+          "start_seconds": 93.3,
+          "end_seconds": 94.9,
+          "content": "\"The physicians were not saving her!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:35.00",
+          "end": "01:37.80",
+          "start_seconds": 95.0,
+          "end_seconds": 97.8,
+          "content": "Over-the-shoulder shot past the Blond Nobleman looking toward the frail Duchess watching helplessly from the bed."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (O.S.) (Measured, Menacing)",
+          "start": "01:35.30",
+          "end": "01:37.70",
+          "start_seconds": 95.3,
+          "end_seconds": 97.7,
+          "content": "\"My aunt has been wasting away for months.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:37.80",
+          "end": "01:43.60",
+          "start_seconds": 97.8,
+          "end_seconds": 103.6,
+          "content": "Medium shot of the Blond Nobleman turning slowly back toward Juliana, building his trap."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Smooth, Threatening)",
+          "start": "01:38.80",
+          "end": "01:43.40",
+          "start_seconds": 98.8,
+          "end_seconds": 103.4,
+          "content": "\"And now we find an unknown maid alone beside her bed...\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:43.60",
+          "end": "01:47.80",
+          "start_seconds": 103.6,
+          "end_seconds": 107.8,
+          "content": "Close-up shot of his gloved black leather finger reaching down to tap against the glass dropper bottle in Juliana's open palm."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (O.S.) (Contemptuous)",
+          "start": "01:44.20",
+          "end": "01:47.50",
+          "start_seconds": 104.2,
+          "end_seconds": 107.5,
+          "content": "\"...holding a substance no one authorized her to give.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:47.80",
+          "end": "01:50.20",
+          "start_seconds": 107.8,
+          "end_seconds": 110.2,
+          "content": "Medium close-up of Juliana raising the small bottle high for them to see."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unyielding)",
+          "start": "01:48.30",
+          "end": "01:49.80",
+          "start_seconds": 108.3,
+          "end_seconds": 109.8,
+          "content": "\"It is an antidote.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:50.20",
+          "end": "01:52.50",
+          "start_seconds": 110.2,
+          "end_seconds": 112.5,
+          "content": "Close-up of Lady Catherine sneering sharply."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Sharp, Provocative)",
+          "start": "01:50.30",
+          "end": "01:51.80",
+          "start_seconds": 110.3,
+          "end_seconds": 111.8,
+          "content": "\"An antidote to what?\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:52.50",
+          "end": "01:53.60",
+          "start_seconds": 112.5,
+          "end_seconds": 113.6,
+          "content": "Extreme close-up of Juliana's focused eyes."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (O.S.) (Stern, Barked)",
+          "start": "01:53.20",
+          "end": "01:54.30",
+          "start_seconds": 113.2,
+          "end_seconds": 114.3,
+          "content": "\"Answer her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:53.60",
+          "end": "01:55.00",
+          "start_seconds": 113.6,
+          "end_seconds": 115.0,
+          "content": "Close-up on the Blond Nobleman's impatient scowl."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:55.00",
+          "end": "01:57.20",
+          "start_seconds": 115.0,
+          "end_seconds": 117.2,
+          "content": "Close-up of Juliana speaking the truth clearly."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Unyielding, Resolute)",
+          "start": "01:55.10",
+          "end": "01:56.50",
+          "start_seconds": 115.1,
+          "end_seconds": 116.5,
+          "content": "\"Poison.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "01:57.20",
+          "end": "02:00.00",
+          "start_seconds": 117.2,
+          "end_seconds": 120.0,
+          "content": "Close-up on the Blond Nobleman, his expression freezing into a dark scowl."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Whispering, Dangerous)",
+          "start": "01:58.70",
+          "end": "01:59.80",
+          "start_seconds": 118.7,
+          "end_seconds": 119.8,
+          "content": "\"Poison.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:00.00",
+          "end": "02:02.80",
+          "start_seconds": 120.0,
+          "end_seconds": 122.8,
+          "content": "Close-up of Juliana stating the grim reality."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Urgent)",
+          "start": "02:00.40",
+          "end": "02:02.60",
+          "start_seconds": 120.4,
+          "end_seconds": 122.6,
+          "content": "\"Someone has been poisoning Her Grace.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:02.80",
+          "end": "02:04.60",
+          "start_seconds": 122.8,
+          "end_seconds": 124.6,
+          "content": "Medium shot of Lady Catherine turning abruptly to the guard stationed by the open door, pointing with feigned outrage."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Shrieking, Feigning Horror)",
+          "start": "02:03.10",
+          "end": "02:04.50",
+          "start_seconds": 123.1,
+          "end_seconds": 124.5,
+          "content": "\"You hear that?!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:04.60",
+          "end": "02:08.50",
+          "start_seconds": 124.6,
+          "end_seconds": 128.5,
+          "content": "Close-up of Lady Catherine twisting Juliana's words with malicious glee."
+        },
+        {
+          "type": "dialogue",
+          "label": "LADY CATHERINE (Venomous, Accusing)",
+          "start": "02:04.80",
+          "end": "02:08.40",
+          "start_seconds": 124.8,
+          "end_seconds": 128.4,
+          "content": "\"She admits she has been giving the Duchess poison in secret!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:08.50",
+          "end": "02:11.00",
+          "start_seconds": 128.5,
+          "end_seconds": 131.0,
+          "content": "Close-up of Juliana recoiling in shock at the blatant lie."
+        },
+        {
+          "type": "dialogue",
+          "label": "JULIANA (Desperate, Outraged)",
+          "start": "02:08.70",
+          "end": "02:10.80",
+          "start_seconds": 128.7,
+          "end_seconds": 130.8,
+          "content": "\"That is not what I said!\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:11.00",
+          "end": "02:14.00",
+          "start_seconds": 131.0,
+          "end_seconds": 134.0,
+          "content": "Medium close-up of the Blond Nobleman raising his black-gloved hand, silencing the room."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Authoritative, Icy)",
+          "start": "02:11.20",
+          "end": "02:12.60",
+          "start_seconds": 131.2,
+          "end_seconds": 132.6,
+          "content": "\"Enough.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:14.00",
+          "end": "02:19.40",
+          "start_seconds": 134.0,
+          "end_seconds": 139.4,
+          "content": "Medium two-shot as the Blond Nobleman steps into Juliana's personal space and plucks the glass dropper vial from her hand."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:14.80",
+          "end": "02:18.50",
+          "start_seconds": 134.8,
+          "end_seconds": 138.5,
+          "content": "The Blond Nobleman takes the medicine vial from Juliana's grasp, inspecting it under the candlelight."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Cold, Calculating)",
+          "start": "02:16.20",
+          "end": "02:19.30",
+          "start_seconds": 136.2,
+          "end_seconds": 139.3,
+          "content": "\"An unknown servant enters a restricted chamber.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:19.40",
+          "end": "02:24.20",
+          "start_seconds": 139.4,
+          "end_seconds": 144.2,
+          "content": "Tight close-up of the Blond Nobleman holding the vial beside his temple, his blue eyes cold and triumphant."
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (Condemning, Vindictive)",
+          "start": "02:19.60",
+          "end": "02:23.80",
+          "start_seconds": 139.6,
+          "end_seconds": 143.8,
+          "content": "\"She secretly administers an unidentified substance to a helpless woman.\""
+        },
+        {
+          "type": "dialogue",
+          "label": "BLOND NOBLEMAN (To Guard, Stern)",
+          "start": "02:24.00",
+          "end": "02:24.90",
+          "start_seconds": 144.0,
+          "end_seconds": 144.9,
+          "content": "\"Take her.\""
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:24.20",
+          "end": "02:27.50",
+          "start_seconds": 144.2,
+          "end_seconds": 147.5,
+          "content": "Wide shot as the armed guard storms forward, seizing Juliana roughly by both arms."
+        },
+        {
+          "type": "action",
+          "label": "ACTION",
+          "start": "02:25.00",
+          "end": "02:28.00",
+          "start_seconds": 145.0,
+          "end_seconds": 148.0,
+          "content": "The guard twists Juliana around and drags her forcibly toward the doorway as she struggles against his grip."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:27.50",
+          "end": "02:29.20",
+          "start_seconds": 147.5,
+          "end_seconds": 149.2,
+          "content": "Medium shot of Juliana being pulled backward, casting a frantic glance back toward the bedridden Duchess."
+        },
+        {
+          "type": "camera",
+          "label": "CAMERA",
+          "start": "02:29.20",
+          "end": "02:30.50",
+          "start_seconds": 149.2,
+          "end_seconds": 150.5,
+          "content": "Extreme close-up of Juliana's wide, terrified eyes as she realizes the deadly trap closing around her, cutting abruptly to black."
+        }
+      ]
+    }
+  ],
+  "source_file": "episode-027-Episode 1678580.txt",
+  "source_sha256": "1d7ceb00a1cf58e1e97f31213bd40db884f5073f0abfc6b11bb2f6650882b63a",
+  "source_format": "user-supplied timecoded screenplay text",
+  "analysis_metadata": {
+    "stage_2_llm_scene_analysis": "not_provided",
+    "note": "No invented LLM scene metadata; event-level evidence drives promo selection."
+  }
+}
